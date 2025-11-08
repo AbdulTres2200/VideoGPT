@@ -12,3 +12,18 @@ ENV/
 dist/
 build/
 
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# OS files
+.DS_Store
+*.icloud
+
+# IDE
+.idea/
+.vscode/
+
+# Data files (optional - uncomment if you don't want to commit data)
+# data/vector_db/
+# data/results/
