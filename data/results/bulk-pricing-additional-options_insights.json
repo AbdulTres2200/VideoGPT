@@ -1,0 +1,21 @@
+{
+  "id": "txt_224620",
+  "name": "bulk-pricing-additional-options",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProducts\n\nPricing Setup\nBulk Pricing - Additional Options\n\n4 min\noverview & purpose the additional option price bulk update section allows the admin to update/manage the price of additional options at a time in bulk add additional option pricing in bulk the additional options price works in a very much similar manner as the product price bulk update only here the price of additional options is listed for all products step \u2013 1 select the available options this step will help you create a filter to update the product price price category for all users select the price category to list the products choose from fix quantity range based quantity custom size apply price on quantity depending on the product category filter select the price or the pricing range of products for which you want to update the prices enter the price for bulk price update here enter the price that you want to increase, decrease or enter a percentage increase or decrease in the price of the products adding percentage or price is mandatory fixed ($) increase fixed ($) decrease percentage (%) increase percentage (%) decrease select product next, choose the products that will be listed according to the price category and price quantity the changes in price effect will be on the selected products\u2019 additional options only step \u2013 2 list of prices you will get a list of current and new prices based on the filter created in step \u2013 1 according to the filter created the system lists down all the products\u2019 additional options with their old prices and new prices the new prices are defined based on the \u2018bulk price update\u2019 value entered if you do not want to update the new price of a specific product then simply delete it by clicking on the trash icon while on this screen, you can still change the filter from the \u2018filter\u2019 section step \u2013 3 click to apply after finalizing the price and check thoroughly the changed prices click on the \u2018apply new price\u2019 button this will update all the prices displayed on the list note after applying the updated price there is no provision to revert the action\nDid this page help you?\n\n\nPREVIOUS\nBulk Pricing - Product\nNEXT\nImport Pricing\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

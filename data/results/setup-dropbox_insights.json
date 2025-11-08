@@ -1,0 +1,21 @@
+{
+  "id": "txt_671915",
+  "name": "setup-dropbox",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCloud Storage\nSetup Dropbox\n\n12 min\noverview & purpose powerful dropbox features with powerful network effects yield business and it benefits dropbox for businesses reduces infrastructure cost and management, therefore giving better control over your company data it is highly recommended for businesses to integrate the best storage solution note the dropbox feature works only for the ssl verified websites if your website does not hold an ssl certificate then, it is recommended to get the ssl certification how to integrate read the below systematic guide to integrate dropbox in your ops store 1 sign in or create a new dropbox account from admin panel 1 sign in or create a new dropbox account from admin panel login into your dropbox account with your existing credentials or sign up with google/create a new dropbox account 2 create dropbox platform app 2 create dropbox platform app now, go to the developer's console for creating a new application choose an api choose the type of api for apps that you need access to choose the type of access you need choose app folder name your app enter a name for your new app and click on the create app button this will create a dropbox api with access to the app folder 3 get app key and secret id 3 get app key and secret id generate app key and secret id after you created an app, the next screen will generate an app key as well as app secret key to generate the access token click on the generate access token button in the redirect uris field, add the url in the below given format https //yourdomain com/admin/configuration external service action php note this access token can be used to access your account (default store onprintshop\\@gmail com ) via the api do not share your access token with anyone set permissions after the app key and secret id, it is time to set permissions set the permissions as displayed in the below image 4 configuration in admin panel 4 configuration in admin panel to configure the dropbox in the onprintshop admin panel, follow the below steps navigate to admin >> store configuration >> external service settings >> cloud storage tab click on the edit icon against the dropbox storage enter the app key , app secret code, and access token which you copied in the above steps after adding the secret token, click on the generate link, if you registering for the first time give a name to the directory where the user\u2019s file will be uploaded once done with filling in all the details, save the changes 5 enable cloud file upload 5 enable cloud file upload to allow your customers to upload files directly into your dropbox cloud storage, you will have to enable the \" allow cloud file upload \" option for a product from the product section you can enable this from admin >> products >> product >> \u2018action\u2019 dropdown of a particular product >> settings >> \u2018upload\u2019 tab >> allow cloud file upload >> select \u2018both\u2019 option after enabling this option, your customers will see an option to upload large files on the storefront 6 manage files 6 manage files on the dropbox home page, the admin will be able to view all the files uploaded by their customers click on the apps folder and then, select the app created by you in this example, we have our app name as onprintshoptest click on your app folder from the orders folder, you can click and download the artwork files uploaded by the customers for every order as you can see a folder is already created as the same name as order id note advise your customer to not upload files larger than 150 mb in dropbox\nDid this page help you?\n\n\nPREVIOUS\nCloud Storage\nNEXT\nSetup Amazon S3\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

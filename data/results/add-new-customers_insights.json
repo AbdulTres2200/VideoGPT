@@ -1,0 +1,21 @@
+{
+  "id": "txt_538433",
+  "name": "add-new-customers",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders, Quotes & Customers\n\n\nWebsite Customers\nAdd New Customers\n\n7 min\noverview & purpose admin can add customers manually if you have a brick and mortar store then the system has a provision to add customers or if your store receives offline orders then, you can add customers to your online store before creating their order add a new customer click on the add button available at the top right corner of the customer dashboard the screen following the ' add ' button will have certain fields to fill customer details user type select the type of customer; default store, store, or store department select sales agent if any sales agent has refered the customer then, you can assign the sales agent to this customer note to enable the sales agent module connect with onprintshop technical team personal details enter the customer's first name, last name, email id, password, phone number, and company name secondary email all the email ids entered in the field will be used as secondary recipients (i e added in cc) for the email notifications sent to the customer this field is also available on data export and customer data import pages two different stores can have customers with the same username i e a store customer with user name john doe can exist in store 1 and store 2 however, two store customers with username john doe cannot exist in store 1 itself note to enable username field connect with onprintshop technical team user group select the user groups docid\\ daxd3zam9y40ct0meost for the user you want to add the customer to address details initially, customer address was made mandatory but, now we have made address details non mandatory to use the system as per different business need due to which when any customer registers through \u2018quick signup\u2019 admin had to face hardship while importing address as in quick signup address details are eliminated customer settings status active status will make the customer's account active, thus allowing them to place an order, request a quote, or do any whatsoever activity notify keeping the notification toggle on will notify the customer about any activity happening on their account allow tax exemption keeping the toggle on for allow tax exemption will exempt the customer from any applicable taxes on orders placed in the future this works in conjunction with tax calculation pay on account enabling the toggle of 'pay on account' will help you give the customer some amount of store credit see pay on account https //help onprintshop com/manage pay on balance of customers subscribe newsletter the subscribe newsletter toggle will enroll the customer's email into the newsletter subscribers docid\\ b0t1zgp3ox15qygcvlwq1 list partial payment enabling the toggle of 'partial payment' will allow you to further select a payment term and help your customers to make payments through the partial payment method disable reward module admin can now choose to disable the reward module at the customer level with this feature in place, only the default store customer for whom this setting is enabled will get the advantage of rewards points admin can enable/disable this module using the toggle button for any customer payment due days payment due days or date is the date when the payment should be received by the company against the invoice generated this payment due date calculated will be added to the invoice note if admin has configured both the days' fields then the system gives first priority to customer specific days but if customer specific days are not added then the payment method specific due days are taken into consideration\nDid this page help you?\n\n\nPREVIOUS\nDashboard\nNEXT\nImport Customers\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

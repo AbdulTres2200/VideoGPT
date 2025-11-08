@@ -1,0 +1,21 @@
+{
+  "id": "txt_293496",
+  "name": "setup-pixabay",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThird-Party Images\nSetup Pixabay\n\n15 min\noverview pixabay is a vibrant community of creatives and photographers that shares copyright free images and videos your customers can use the free images available on pixabay in their designer studios purpose by integrating pixabay with your onprintshop web store, you can give your customers access to over 1 6 million photos, illustrations, vector graphics, and videos free how to integrate to integrate pixabay on your website simply follow these steps 1 sign up or login to your pixabay account 1 sign up or login to your pixabay account visit the pixabay site and register with pixabay or else login into pixabay with your current account after login, move to the settings tab fill in your basic profile details such as profile data, online profile links, e mail address, and other basic details save the details added 2 get the api key 2 get the api key to integrate pixabay into your website\u2019s design studio, you need an api key follow the steps to get the key click on explore , then go to about >> faq on the faq page, scroll down and locate does pixabay offer an api? question click on the question to check the answer follow the link of the api documentation the above link will take you to the pixabay developers api page click on the get started button to view the api documentation in the pixabay api documentation page, scroll down to find the api key copy the api key to integrate into the admin panel 3 configuration into admin panel 3 configuration into admin panel on the admin panel, go to the store configuration >> external service settings >> select social sharing tab >> enable pixabay under the action dropdown of pixabay, click on edit paste the api key copied from the pixabay api documentation page select the 'image search' type as normal for 'high resolution' images, follow the steps given in the request for high resolution images section 4 designer studio view 4 designer studio view when your customer chooses to create their design, they are redirected to the designer studio there, they can find the pixabay images at \u2013 images tab >> upload your image >> pixabay request for high resolution images request for high resolution images the above steps described a way to integrate pixabay for retrieving normal resolution images to retrieve high resolution images you'll have to raise a request for full api access to get full api access for retrieving high resolution images follow the below steps go to api docs page scroll down the page and locate the link to request full api access click on the \" approved for full api access \" link a pop up will appear in the pop, add a description of how you'll use the high resolution images you can use the sample content onprintshop is a printing solution provider that provides several custom printing to their customers it includes some of the major printing products such as business cards, posters, banners, etc from pixabay our customers can search from a wide range of high resolution photos using the search bar provided in the designer studio using pixabay api as per their design needs customer can then select their desired image from pixabay and then complete their product design the design created will be used for printing as per the orders received note it is strictly advisable to modify the content as per your business model next, agree to all the three terms stated by pixabay pixabay will be properly credited when search results are displayed api responses will be cached to avoid identical requests within 24 hours the api will be used to let people search images and not for automated requests click on the \" confirm \" button now, pixabay's support team will review your request and respond to your request within 24 hours meanwhile, you have any queries or concerns, please contact our support team or write us at support\\@onprintshop com\nDid this page help you?\n\n\nPREVIOUS\nSetup Flickr\nNEXT\nSetup Instagram\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

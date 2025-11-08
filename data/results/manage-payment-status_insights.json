@@ -1,0 +1,21 @@
+{
+  "id": "txt_191128",
+  "name": "manage-payment-status",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\n\nPayment Method\nManage Payment Status\n\n1 min\nyou can manage various payment statuses from this section add, edit, and delete payment status according to your business model to add a payment status, enter the status titles, select the type i e whether to keep it paid or unpaid, and save the details some of the possible payment statuses are \u2013 pending \u2013 the payment is still pending from the customer\u2019s end success \u2013 the payment was processed and accepted successfully canceled \u2013 admin stopped the payment or it was canceled by the customer rejected \u2013 the payment was rejected by admin or not accepted by the bank you can even create a payment status for each payment method, on successful payment through that specific payment method, the mapped payment status will be set two payment statuses already exist in the system namely \u2013 paid and unpaid these payment statuses cannot be deleted or deactivated, you can only edit their title once configured, you will be able to set the payment status from the order listing page from the order update pop up\nDid this page help you?\n\n\nPREVIOUS\nPayment Method\nNEXT\nProcessing Fees\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

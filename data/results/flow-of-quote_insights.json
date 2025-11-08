@@ -1,0 +1,21 @@
+{
+  "id": "txt_7056",
+  "name": "flow-of-quote",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders, Quotes & Customers\n\n\nPrinter Quotes\nFlow of Quote\n\n5 min\na typical quote assigned to the printer, goes in the following manner \u2013 printer side as soon as the admin assigns a quote to the printer, the printer receives a notification about the assigned quotes and the status of quote changes to \u2018assigned to printer\u2019 after login to the printer account, the printer can see the pending quotation on the dashboard to view the qoutes, printer can click on the quote number above the quote status or by navigating to the admin >> quote management >> printer quotes the printer can provide a quotation for the product or decline the quotation using the action buttons provided quotation if the printer wishes to provide the requested quotation, then click on the quotation button they can easily fill up a form by entering the price of the quoted product, production days, etc and click on the save as soon as the printer sends the quote, the status of quote changes to \u2013 \u2018quotation\u2019 quotation declined printer can anytime decline the quote i e refuse to give quotation for a particular product for that, they just need to enter the comments and click on the save admin side as soon as the printer provides the quotation, it will appear in the quotation tab of the printer quotes (admin account) using the update icon, admin can change the status of the quote provided by the customer they can either accept the quote, decline it, or disapprove the quote when the admin has approved the quotation, they can take further actions from the admin >> quote management >> view quotes >> select the quote >> action dropdown >> \u2018edit\u2019 under the \u2018quote action\u2019 , the admin can enter the quote price, shipping price and other details and and click on the save once the admin saves the details, the quotation will be sent to the customer at the front end customer side when the admin sends the quotation with details to the customers, they can view and take action from the my account >> my quotes the customers can approve or reject the quote once they have approved the quote, they can even place the order for the same\nDid this page help you?\n\n\nPREVIOUS\nPrinter Quotes\nNEXT\nPrinter Quotes Dashboard\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

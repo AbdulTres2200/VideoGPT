@@ -1,0 +1,21 @@
+{
+  "id": "txt_23603",
+  "name": "newsletter-subscribers",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders, Quotes & Customers\n\n\nManaging Customers\nNewsletter Subscribers\n\n7 min\noverview & purpose a newsletter is a periodically issued bulletin if you offer a newsletter to your customers then, they can subscribe for the same while signing up for the web store they can simply check the box and the system adds their email id to the newsletter subscriber's list the newsletter subscribers section enables the admin to manage the newsletter subscribers of their store configuration to allow your customers to opt for a newsletter, you need to first enable the newsletter option to be displayed at the front store using which they can opt in enable/disable the newsletter option go to the admin >> store configuration >> site settings and search 'newsletter' in the ' enable newsletter subscriber option? ', select yes or no as per the need accordingly, a \"send newsletters\" checkbox is displayed at the web store on the sign up page newsletter subscribers dashboard at a glance, you can check the list of newsletter subscribers of your website admin can also remove subscribers from this section all the unsubscribed email ids are listed under the unsubscribers tab how to add newsletters block in webstore? for the customers who have missed to subscribe to your newsletter while signing, we have given a newsletter subscriber block you can anytime add a subscribers block into your website from the admin >> store personalization >> sidebar management >> sidebar widget you can choose, when to display the subscribers block i e before login, after login, always, or on user account pages with all the options available you can easily customize the block positioning as your your needs import subscribers using an excel sheet you can add bulk subscribers into your web store using the 'download file' button download the sample excel file fill in the details of your new subscribers after filling data into the file, upload it into the system using the 'upload file' button in the 'subscribe' column of csv file, fill 0 for unsubscribe and 1 for subscribe then click on the 'import' the system will import all the valid data and ignore others by showing the error message delete subscribers if you want to remove any subscriber from the list, you can do so using the delete icon under action column this will only remove the selected subscriber from the newsletter subscribers' list this will not affect the other details of the customer such as orders, templates, quotes, etc using the same option, you can delete a customer from the unsubscriber's list\nDid this page help you?\n\n\nPREVIOUS\nCustomer Settings\nNEXT\nUser Groups\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

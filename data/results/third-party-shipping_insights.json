@@ -1,0 +1,21 @@
+{
+  "id": "txt_242090",
+  "name": "third-party-shipping",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\n\nShipping Methods\nThird-Party Shipping\n\n7 min\noverview & purpose the experience of third party shipping providers can help supply chains run more efficiently while also saving time and money in addition, it can significantly improve the way your store runs and free you up to concentrate on raising your overall customer value with onprintshop, you can avail ups and fedex third party shipping methods after integration configuration configure shipping types and shipping setting go to admin >> store configuration >> shipping method >> fedex or ups >> action menu >> \u2018edit\u2019 option using the help links you can create ups accounts and set up the manual calculator later provide the shipping name, customers and user groups it is to be made available for select the shipping types which will be reflected at the front end under the shipping details with the third party billing shipping option, admin can bill the receiver\u2019s account when processing a shipment this feature is controlled by a site variable settings (contact the technical team for the same) it is beneficial for receivers who have contractual billing enabled on their shipping accounts (fedex, usp or usps) if enabled 'yes' you will find third party billing shipping in the configuration setting of stores or customers or both depending upon the site variable setting in the next section set up the shipping method settings such as account details, package details, and configuration details (for ups and fedex) admin can also allocate sort order to the shipping types and manage their structure at the front end follow the steps shown in below picture for account details refer ups account details and fedex account details add markup and delivery days go to the admin >> store configuration >> shipping method >> fedex or ups >> action menu >> markup/delivery days add a markup rule on different shipping amounts here, admin can define different percentages, which will help them efficiently manage the shipping cost of varying order rates admin can set maximum markup for each shipping type of the shipping method this will help the system effectively calculate the shipping prices at the front end also, you can define the approx delivery days for each shipping type, this will facilitate the calculation of estimated delivery days shipping package configuration configure product wise shipping packages, you can enter details such as weight class, max weight, length class, package length, weight, height, etc go to the admin >> store configuration >> shipping method >> third party shipping >> action menu >> shipping package configuration you can also add box weight, this can be used in the calculation of package shipment weight with this option, you can create master packages that can be used in creating packages for all products you can use these master packages in shipping package configuration schedule pickup you can schedule a pickup of an order or multiple orders for third party shipping service providers using this interface go to the admin panel >> store configurations >> shipping methods >> select ups or fedex >> action >> schedule pickup search any order using the order id, enter the number of packages, total weight and shipping type, pickup date, close time, ready time, residential indicator, etc in the interface you can enter the pickup location in the pickup address section on the screen, also you can manage different pickup locations from manage pickup address section transfer this will transfer all the data filled in this section to the third party shipping service provider i e they will be informed about the pickup scheduled view pickup log view the pickup log, you can also cancel the scheduled pickup later using this section, in case there are more changes to be made in the order\nDid this page help you?\n\n\nPREVIOUS\nShipping Cost By Order Subtotal\nNEXT\nManage Forms\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

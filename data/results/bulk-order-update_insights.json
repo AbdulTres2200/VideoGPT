@@ -1,0 +1,21 @@
+{
+  "id": "txt_449835",
+  "name": "bulk-order-update",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders, Quotes & Customers\n\n\nManaging Orders\nBulk Order Update\n\n5 min\noverview & purpose bulk order update helps you update the status of multiple orders with a single shot! it saves your valuable time that is required to change status and add comments to every single order at a time using this feature, you can work simultaneously on many orders you will no longer have to individually process orders instead you can bulk update orders using the 'bulk order update' option using this interface, you can change the status of the order(s), add shipping method, add a shipping type, provide a tracking number to order(s), and notify customers update orders in bulk we have given an option to bulk update the orders both order wise and product wise bulk order update is a 3 step procedure while involves downloading the file, filling the data, and finally uploading it download the file select upload type this dropdown lets you select that whether you want to update orders, order wise or product wise if you have selected order wise, then you can fill the following information into the excel sheet order status, shipping method, shipping type, tracking number and add a comment if you select the order product wise, then you can only update the order product status and choose whether to notify the customer or not fill up the data in the admin panel, you will find all the help required in filling the data in excel sheet refer to it and fill up the file upload file select the 'upload type' and upload your file using the ' upload file' button as you upload the file you will get an imported data summary wherein you can evaluate the invalid data fields check your data and click on ' import '\nDid this page help you?\n\n\nPREVIOUS\nMessages & Notes\nNEXT\nQuote Management\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

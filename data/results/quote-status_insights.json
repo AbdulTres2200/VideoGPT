@@ -1,0 +1,21 @@
+{
+  "id": "txt_933991",
+  "name": "quote-status",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders, Quotes & Customers\n\nQuote Management\nQuote Status\n\n1 min\nthroughout the quote\u2019s lifecycle, it has to undergo a lot of updates and changes when you receive a quote and till the time it is approved by the customer, the quote undergoes several status updates these quote statuses will keep the customers and the admin informed about the quote\u2019s condition this section enlists all the possible quote\u2019s statuses based on different scenarios that can occur throughout the whole quote cycle we have given you (admin) the flexibility to edit, title, description, email template, and other details required all the statuses from the customer or printer quote status tab will have a pre defined email template associated with it you can go to content management > email/sms notifications >> email notifications > quote status email tab, check the email template, and edit the email subject line and email template description note for customer quote status or printer quote status, you can only view the status and edit their email template description you cannot add any new status as per your requirements, as the system automatically updates the quote status on every action\nDid this page help you?\n\n\nPREVIOUS\nPrinter Quotes Dashboard\nNEXT\nCustomer Quote Status\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

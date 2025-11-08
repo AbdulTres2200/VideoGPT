@@ -1,0 +1,21 @@
+{
+  "id": "txt_853126",
+  "name": "orders-section",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 11.1 Release Notes\nOrders Section\n\n8 min\nreminder email for pending proof approval finalizing an artwork and making it print ready can sometimes become quite a lengthy process when you follow the proofing cycle the customers may forget to verify and approve the proof shared with them to speed up the proofing process, a reminder email is being introduced in v11 1 with this email, you can configure the email content using variables and set the reminder settings (when and how) to be sent to your customers export/api orders enhancements in the v11 1 release, some enhancements have been made to the export/api orders section instant order transfers to hot folders in version 11 1, the admin will have the provision to instantly transfer the orders to hot folders as soon as the order is placed to enable this feature in your store, you can connect with our technical experts team capture the customer's address you can now capture customer addresses by transferring the orders to hot folders for this, you can find a new section of \u201ccustomer address\u201d has been added to the capture order information you can expand the section, and select the information that you want to capture simply by ticking the checkbox copy additional options to hot folder an option \u201ccopy option files to hot folder\u201d has been introduced in the hot folder transfer section to allow the admin to copy the additional options for the ordered product and transfer them to the hot folder as per the settings graphql api integration experience seamless synchronization of orders, customers, products, and stock details with our cutting edge graphql api retrieve specific parameters swiftly, minimize request calls, and elevate your website's performance by 10x connect with our support team to unlock its potential predefined products printready file transfer to hot folder from version 11 1 onwards, you can also transfer the print ready files of predefined products to the hot folders minor enhancements partial payment for offline orders while placing an offline order from the admin panel, the admin will now have the facility to select partial payment in the payment selection once the order is placed, the requests will be raised as per the assigned payment term to the selected customer and customers will be able to see the payment requests raised in the order details download the print ready file in the upload center flow orders now, when the customers place an order via upload center flow, they will have the option to download the print ready file from their order info or details page when the admin has allowed the same from the update order product screen generate packing slip from the order shipment screen the admin can now generate and download the packing slip from the order shipment page file upload option in order notes the admin will now have the option to upload order wise images in the order notes section this can be helpful for admin and customer when they need to share any file for the order or even admin can use this feature for internal purposes download original file link option for the ordered photo print products, the admin will now have the option to download the original file uploaded by the customer while placing the order from the modify order screen when you will access the design preview, you can find \"download original file\" link in the preview screen\nDid this page help you?\n\n\nPREVIOUS\nFront Store\nNEXT\nProduct Section\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

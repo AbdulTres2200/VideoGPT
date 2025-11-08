@@ -1,0 +1,21 @@
+{
+  "id": "txt_995245",
+  "name": "setup-picsart",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOthers\nSetup Picsart\n\n6 min\noverview & purpose give your users the feature to remove the background in your photos and upscale their image files by 2x, 4x, 6x, and 8x times increasing their image resolutions with simple easy steps, integrate picsart images into your onprintshop web store note the remove background option will be available for images whose extensions are png, jpg, and jpeg whereas the upscale option will be available for images with jpg and jpeg extensions and not for png files how to integrate follow the below systematic guideline to setup picsart into your onprintshop web store 1 log in to your picsart account 1 log in to your picsart account login to your picsart developer's account 2 create a new app 2 create a new app create a new app in the user dashboard https //console picsart io/dashboard/apps/ 3 get the api key 3 get the api key you can get the api key for the created apps by clicking on the app and the next screen, you will find the app overview, api keys, and settings copy and save the key in a secure place for the apis, configure the settings as displayed in the above screen, if not done 4 configuration in admin panel 4 configuration in admin panel on your admin panel, go to the store configurations >> external service settings >> others >> picsart >> 'edit\u2019 option api key enter the api key copied in the step picsart event assign the event you want to offer your customers allow admin images this option allows the admin to select whether he wants to use the picsart api for admin images select yes if you want to use the picsart api for admin images and vice versa\nDid this page help you?\n\n\nPREVIOUS\nSetup PressWise\nNEXT\nSetup Printer's Plan\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

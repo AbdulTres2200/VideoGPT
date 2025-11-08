@@ -1,0 +1,21 @@
+{
+  "id": "txt_395545",
+  "name": "shipping-cost-by-order-subtotal",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\n\nShipping Methods\nShipping Cost By Order Subtotal\n\n4 min\noverview when you want to offer a shipping method based on the cart subtotal, this shipping method allows the admin to configure the shipping cost based on the order subtotal if the cart subtotal reaches some particular value then you can offer your customers a different shipping rates e g if the customer is buying $500 worth of products then you want to charge $10 as shipping cost and when the 1000$ worth of product then, you want to offer them shipping for free configuration for configuring the shipping method, go to the admin >> store configuration >> shipping method >> shipping cose by order subtotal >> actions >> edit system settings on the editing screen, you can choose to modify the shipping method name, select the availability, select the shipping type as \u201c shipping cost by subtotal \u201d and do some other changes for the configuration, you can refer the common settings docid\\ xkteh61kdaempkpxftbp7 shipping settings after system settings, you need to configure the price for the shipping method first, you need to select the user type for whom you will be setting the shipping price next, enter the price ranges (for subtotal) and specify the shipping amount for that range when the customer will add products to its cart and selects the \u201cshipping cost by subtotal\u201d shipping, then the shipping cost will be displayed based on the subtotal price of the order for example, if the cart subtotal is \u201c$10 30\u201d and the customer opts for \u201cshipping cost by subtotal\u201d then, the shipping cost will be displayed as $10 based on the settings\nDid this page help you?\n\n\nPREVIOUS\nLocal Pickup\nNEXT\nThird-Party Shipping\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

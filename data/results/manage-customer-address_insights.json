@@ -1,0 +1,21 @@
+{
+  "id": "txt_981085",
+  "name": "manage-customer-address",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders, Quotes & Customers\n\n\nManaging Customers\nManage Customer Address\n\n7 min\noverview & purpose the onprintshop system allows you to manage the address book of your customers customers can add multiple addresses from the my account >> shipping address in addition, admin can manage the addresses of customers from admin panel you can add one address at a time or import bulk address using an excel file manage addresses add or edit customer address to add or edit customer\u2019s address from the onprintshop admin, go to the customers >> website customers click on the action menu of the customer you want to manage address for select the manage address option note if an address is set as default or is entered by the customer while filling the sign up form then the system will not allow the admin to delete such addresses search for any address or import and print the address list add new address from add address section fill in the fields and click on the save button import addresses import bulk customer addresses using an excel sheet to bulk import addresses, go to the customer >> website >> import address (top right corner) complete the 3 step procedure to import bulk addresses at the first step, download the sample excel file the excel file has a row of sample data already filled in the fill up data & help section, follow the guidelines to fill data in each column complete the excel file note make sure the email column matches with the email entered for your website customers if the system finds a new customer's entry, then it will skip the record in the third step, upload the excel file the system maps the data and shows imported data history the summary will display the skipped records and highlight the column entry click on the ' import ' and transfer all the new added addresses into the system\nDid this page help you?\n\n\nPREVIOUS\nUser Groups\nNEXT\nExtra Fields\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

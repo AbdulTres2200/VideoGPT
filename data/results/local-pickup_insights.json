@@ -1,0 +1,21 @@
+{
+  "id": "txt_703864",
+  "name": "local-pickup",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\n\nShipping Methods\nLocal Pickup\n\n5 min\noverview local pickup is a shipping method that allows your customers to choose to pick up the order from your store this shipping method involves adding pickup addresses depending on the address settings this shipping method is helpful if you have several offices in town and your customers can pick up the order from those offices/locations this will reduce the shipping cost and time of your customers for the local orders and comes in handy with other benefits such as saving you from the trouble of shipping it customers will walk into your store to pick up the order, thus increasing the opportunity for more business additionally, you can create order statuses related to the local pickup method for easy management and transparency optionally, you can create and send custom email notifications to the customers configuration to configure the local pickup shipping method, navigate to the admin >> store configuration >> shipping method >> local pickup from store >> edit system settings for the configuration, you can refer to the common settings docid\\ xkteh61kdaempkpxftbp7 shipping settings depending on your business model, select the scenario where the local pickup option will be available i e in certain states or in certain pin codes manage addresses to add the pickup addresses, you can either click on the manage address button from the edit shipping method screen or by clicking on the manage local pickup address icon from the shipping method dashboard add the pickup address using the add button, depending upon the scenario of local pickup i e pin code of states, you will get a textbox to enter the zip codes or a list of states to select the ones where the local pickup option is available note depending upon the store branches available in business partners you can add the local pickup address\nDid this page help you?\n\n\nPREVIOUS\nFlat Shipping\nNEXT\nShipping Cost By Order Subtotal\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

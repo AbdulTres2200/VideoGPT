@@ -1,0 +1,21 @@
+{
+  "id": "txt_83389",
+  "name": "setup-mailgun-automated-emails",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmail Marketing\nSetup Mailgun Automated Emails\n\n3 min\nonce you enable mailgun, the automated email reminder email will be activated there are several emails listed below no account activity reminder products in shopping cart reminders stock reminder to admin order feedback reminder to admin reward points reminder to the customer to find these emails, go to the admin >> content management >> email/sms notifications >> automatic email reminder >> additional reminder tab here, enable the emails to send as automatic reminders to your customers editing an email content editing an email content for editing the content of the email, follow the below steps click on the \u270f pencil like icon https //help onprintshop com/file\\ setup mailgun automated emails3 png to edit the email template contents change the email subject and email content use the variables given to insert dynamic data on the right side of the screen to include data as desired in the email message reminder setting reminder setting for reminder settings, click on the \u2699 settings icon https //help onprintshop com/file\\ setup mailgun automated emails1 png to edit the email schedule settings there are several settings offered for the email templates for each email template, you can have a different schedule email interval \u2013 set the duration after which the email should be sent repeat notification \u2013 set the duration after which the email reminder should be sent again select product \u2013 select the products for which the reminder should be sent user type \u2013 the email reminder will be sent only to the selected user type\nDid this page help you?\n\n\nPREVIOUS\nSetup Mailgun\nNEXT\nSetup Zendesk\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

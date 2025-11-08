@@ -1,0 +1,21 @@
+{
+  "id": "txt_783125",
+  "name": "pay-on-balance",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders, Quotes & Customers\n\n\nManaging Customers\nPay On Balance\n\n7 min\noverview & purpose offering customers a pay on balance account is a great way to improve customer retention admin can issue pay on balance right from the admin panel by enabling the pay on account toggle there are certain advantages of giving pay on balance it will encourage more sales it will serve as a reward for the most loyal customers it can also serve as compensation for poor services configuration enable pay on balance enable or disable the add pay on balance facility from the admin panel (this will allow customers to add/recharge their pay on account) for this, go to the admin panel >> store configurations >> settings >> search \"enable pay on balance for default store customer at front side?\" >> select \"yes\" option from dropdown >> click on 'save' note only store admin has the rights to enable pay on account for the customers store admin can credit/debit pay on balance anytime from the customer's account to assign pay on balance to a customer go to the customers >> website customers >> action dropdown >> 'edit' under customer settings enable the 'pay on account' toggle and specify the pay on limit as desired payment with pay on balance when a customer logs in into its account, they can see their pay on balance under my account >> pay on account history section account example in addition, the customer can add top up into their pay on account using the 'add pay on balance' button payment page example when a customer will check out with their account, they will get a 'pay on account' option to use their pay on account balance to pay for their order or pay with an alternative payment method and save their pay on account balance for future use pay on balance history to check pay on balance history of your customers, go to admin >> customers >> website customers >> action >> manage pay on account >> \u2018pay on balance history' button (top right corner) this will show all the completed transactions (of recharge or top up) done by customers in their pay on account pay on offer this option allows you to add a certain percentage as an award the balance offer allows you to award an additional pay balance after a recharge of a certain amount the cashback offer helps you set a percentage of cashback on various order amounts note the cashback offer works only after the order status is marked complete\nDid this page help you?\n\n\nPREVIOUS\nExtra Fields\nNEXT\nCustomer Templates\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

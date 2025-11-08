@@ -1,0 +1,21 @@
+{
+  "id": "txt_426292",
+  "name": "setup-twilio",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSMS Notification\nSetup Twilio\n\n9 min\noverview twilio is a cloud based powerful service to enable powerful communication between mobile devices, applications, services, and systems throughout the business to bridge the gap between conventional communications purpose integrate twilio with your onprintshop store to make and receive phone calls, send and receive text (sms integration), convert text to speech, conference calls, and video calls how to integrate read the below systematic guide to integrate twilio with your onprintshop website 1 register to the twilio website 1 register to the twilio website visit the twilio website and register your account complete your verification process to successfully create your account 2 login to twilio 2 login to twilio after successfully creating the account, log in to your account and complete your profile clicking on the profile icon from the top right corner and selecting user settings this will take you to the verification page, complete the verification you will be redirected to user settings page here, you can update your contact info, change the time zone, change your password, and more 3 get account sid and auth token 3 get account sid and auth token to integrate twilio and use its services, you need to integrate the onprintshop store using account sid and auth token to get the credentials navigate to the dashboard >> account >> keys & credentials >> api keys & tokens as displayed below this will take you to the \" auth tokens & api keys \" page scroll down to the auth tokens section here, you will get your account sid and auth token along with the test credentials copy and keep the account sid and auth token somewhere safe and secure 4 configuration into admin panel 4 configuration into admin panel add the saved account sid and auth token into your admin panel go to the admin >> store configuration >> external service settings >> sms notification tab >> twilio \u2018action\u2019 drop down >> \u2018edit\u2019 option account sid and auth token enter the account sid and auth token you saved in the step 3 sender id add the purchased twilio number max message chunk length enter the maximum number of characters for the message select the countries and mode email enter the contact email in case of any query in api integration, contact our technical support team\nDid this page help you?\n\n\nPREVIOUS\nSetup Clickatell\nNEXT\nSetup TOPLU SMS\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

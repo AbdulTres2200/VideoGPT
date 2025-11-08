@@ -1,0 +1,21 @@
+{
+  "id": "txt_786903",
+  "name": "flat-shipping",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\n\nShipping Methods\nFlat Shipping\n\n5 min\noverview flat rate delivery is the most common choice among online retailers this indicates that a carrier provides set delivery costs for boxes of various sizes as long as it fits inside the box, you can ship anything, regardless of weight it's the greatest shipping choice for small businesses or when your product line consists of uniform items that are similar in size and weight by using a combination of the flatship shipping method and user groups, you can easily offer free shipping to your customers this method is useful in situations where you deliver manually to your local customers or they come to your brick and mortar location to pick up their order and therefore don\u2019t need to pay for shipping using the flatship option you can easily bind customers and their delivery locations (state wise or zip code wise) to offer \u2018free shipping\u2019 as well as \u2018flat shipping rates\u2019 configuration to create a custom shipping method, that offers flat shipping as well as free shipping use \u2013 flat shipping method go to admin >> store configuration >> shipping method >> flat shipping system settings refer the common settings docid\\ xkteh61kdaempkpxftbp7 shipping settings the flat shipping can be applied based on state (select the states from the dropdown) and zip codes (enter comma separated zip code values to offer flat shipping) in the shipping type section you can determine different types of flat shipping you wish to offer dependent upon the user type and user group admin can easily duplicate the flat shipping method multiple times and create a combination to offer different flat shipping rates\nDid this page help you?\n\n\nPREVIOUS\nQuantity Based Shipping\nNEXT\nLocal Pickup\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

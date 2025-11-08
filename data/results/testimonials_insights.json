@@ -1,0 +1,21 @@
+{
+  "id": "txt_991345",
+  "name": "testimonials",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\nContent Management\nTestimonials\n\n7 min\noverview a business\u2019s success largely depends on word of mouth, and testimonials are a powerful form of expression that supports this they help build trust, enhance brand credibility, and influence potential customers testimonials can be collected through various channels and showcased on your website to reinforce positive experiences purpose use this section to manage, organize, and publish client testimonials on your website, helping you highlight customer satisfaction and build social proof configuration the testimonials interface allows you to add a new testimonial, manage existing testimonials, set up a display sequence, and status you can toggle the status of different testimonials as active or inactive the admin can manage the testimonials store wise add a testimonial to add a new testimonial, go to the admin panel > content management > testimonials and click the add button field description use case/example client name name of the person providing the testimonial helps identify and credit the testimonial to a real individual testimonial image upload the client\u2019s image (jpg, jpeg, gif, png, bmp, svg) adds authenticity and visual trust to the testimonial description enter the main testimonial content written by the client showcases customer experience or satisfaction with your products/services testimonial rating select a satisfaction rating out of 5 stars gives potential customers a quick visual cue of how well rated your service or product is click the save button to confirm and publish the testimonial on the storefront managing testimonial edit quickly update existing testimonials, such as additional content or update the latest profile photo delete remove the selected testimonial after a two step confirmation display testimonials at the front store after adding multiple testimonials from the admin panel, ensure they are visible on the storefront to make a lasting impression to configure their placement, go to the admin panel > store personalization > sidebar management > sidebar widget from here, you can see that testimonials are typically placed on the right sidebar of your website to change their position or modify display settings, click action > edit and make the desired updates front store view this section allows you to preview how testimonials appear to visitors on your storefront order feedback the order feedback section helps you gather and manage customer reviews specifically related to their completed orders these reviews offer valuable insights into the customer experience and help build trust for future buyers you can display selected feedback on the storefront to encourage more responses to access all order feedback, navigate to the admin panel > content management > testimonials > order feedback button (top right corner) on this page, all customer reviews related to orders will be listed the admin can enable or disable the status of each review to control whether it appears on the storefront additionally, a dedicated email template has been added to request feedback from customers after an order is completed once a customer submits their feedback, a thank you email is automatically sent as an acknowledgment\nDid this page help you?\n\n\nPREVIOUS\nFAQs\nNEXT\nBanners\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

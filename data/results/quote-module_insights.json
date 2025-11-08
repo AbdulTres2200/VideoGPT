@@ -1,0 +1,21 @@
+{
+  "id": "txt_718058",
+  "name": "quote-module",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 11.0 Release Notes\nQuote Module\n\n3 min\npdf preview for quote and offline order product pdf preview for quote and offline order product with the \u201cenable pdf preview for quote/offline order product\u201d setting added in the site settings, the users will be able to preview the quote or offline ordered products in pdf format download quote in html format download quote in html format you can allow your customers to download the quote in html format based on the site variable settings display quantity with unit price in quote display quantity with unit price in quote in the quotation, you can now display the unit price along with the total quantity amount for this, a new \u201c{quote quantity with unit price}\u201d variable is added to the quote print template email content production days and product weight autofill production days and product weight autofill in the offline quotes, the system will now fetch and display the production days and product weight (when configured) whenever the admin first time visits the quote\u2019s edit screen after placing the offline quote\nDid this page help you?\n\n\nPREVIOUS\nProduct Module\nNEXT\nThird-Party Integrations\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

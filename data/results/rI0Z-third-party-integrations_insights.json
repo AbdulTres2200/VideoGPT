@@ -1,0 +1,21 @@
+{
+  "id": "txt_919095",
+  "name": "rI0Z-third-party-integrations",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 11.0 Release Notes\nThird-Party Integrations\n\n8 min\nnew external service for all sso integrations new external service for all sso integrations in the v11 0 release, you will be able to manage all the sso integrations in your system through one common external service enhancements in 4over integration enhancements in 4over integration in the v11 0 release, we have further enhanced the 4over integration to help the admin with the integration, a help tab is added to the integration screen for the mapped 4over products, the admin can see the additional options applied prices against the individual attributes from the view product details page similar to ops products, the admin can now check and verify the pricing bifurcation at the front store you can now enable and display the visual price calculator for mapped 4over products with the ops platform this can be done from the product settings tab of the mapped product by enabling the \u201cdisplay visual price calculator\u201d setting also, you can choose to offer an enlarged preview option to your customers which will allow your customers to view the large preview of the options in a pop up for 4over products, customers can now send emails for cost estimation it will be based on the setting \"enable 'send mail' functionality in price calculator? front\" zoho crm integration enhancements zoho crm integration enhancements in zoho crm integration, the following enhancements have been made for the default or retailer store, you can create an account from the configuration screen by entering the name in the \u201czoho account name\u201d field all the activities of the default store will be synced with this zoho account to check the error log, the \u201cdebug mode\u201d setting is added on the integrations page the admin operating multiple stores can now create respective accounts in zoho and sync all the activities between the platforms with the sync order status field, you can select the order statuses that you want to sync in the zoho accounts the orders with the selected statuses will be synced restrict store wise order sync in shipstation restrict store wise order sync in shipstation with the \u2018restrict store order\u2019 setting added in the shipstation configuration, it is now possible for you to restrict the default store orders synchronization within that store in the shipstation for the store specific orders, it will work as previously\nDid this page help you?\n\n\nPREVIOUS\nQuote Module\nNEXT\nSolution Core\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

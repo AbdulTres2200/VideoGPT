@@ -1,0 +1,3396 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "a9696e33-fd7a-4070-83f6-fc8d2e06633a",
+  "id": "d21mmr237b",
+  "name": "Uploads from OnPrintShop Web-to-Print Storefront - 345 - OnPrintShop Wins 2 Pinn",
+  "userName": "Abdul Moiz",
+  "created": "2025-11-01T07:40:23.16+00:00",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 50,
+  "duration": "0:00:50.341",
+  "summarizedInsights": {
+    "name": "Uploads from OnPrintShop Web-to-Print Storefront - 345 - OnPrintShop Wins 2 Pinn",
+    "id": "d21mmr237b",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:00:50.341",
+      "seconds": 50.3
+    },
+    "thumbnailVideoId": "d21mmr237b",
+    "thumbnailId": "919e0673-eaea-4232-b43b-18b8831e145a",
+    "faces": [],
+    "keywords": [
+      {
+        "isTranscript": false,
+        "id": 1,
+        "name": "print",
+        "appearances": [
+          {
+            "startTime": "0:00:08.008",
+            "endTime": "0:00:10.0433667",
+            "startSeconds": 8,
+            "endSeconds": 10
+          },
+          {
+            "startTime": "0:00:35.035",
+            "endTime": "0:00:39.0723667",
+            "startSeconds": 35,
+            "endSeconds": 39.1
+          },
+          {
+            "startTime": "0:00:45.045",
+            "endTime": "0:00:50.0833667",
+            "startSeconds": 45,
+            "endSeconds": 50.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 2,
+        "name": "technology",
+        "appearances": [
+          {
+            "startTime": "0:00:03.003",
+            "endTime": "0:00:07.0403667",
+            "startSeconds": 3,
+            "endSeconds": 7
+          },
+          {
+            "startTime": "0:00:15.015",
+            "endTime": "0:00:16.0493667",
+            "startSeconds": 15,
+            "endSeconds": 16
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 3,
+        "name": "award",
+        "appearances": [
+          {
+            "startTime": "0:00:03.003",
+            "endTime": "0:00:06.0393667",
+            "startSeconds": 3,
+            "endSeconds": 6
+          },
+          {
+            "startTime": "0:00:40.04",
+            "endTime": "0:00:43.0763667",
+            "startSeconds": 40,
+            "endSeconds": 43.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 4,
+        "name": "shop",
+        "appearances": [
+          {
+            "startTime": "0:00:08.008",
+            "endTime": "0:00:10.0433667",
+            "startSeconds": 8,
+            "endSeconds": 10
+          },
+          {
+            "startTime": "0:00:45.045",
+            "endTime": "0:00:50.0833667",
+            "startSeconds": 45,
+            "endSeconds": 50.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 5,
+        "name": "jury",
+        "appearances": [
+          {
+            "startTime": "0:00:20.02",
+            "endTime": "0:00:28.0613667",
+            "startSeconds": 20,
+            "endSeconds": 28.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 6,
+        "name": "comments",
+        "appearances": [
+          {
+            "startTime": "0:00:20.02",
+            "endTime": "0:00:28.0613667",
+            "startSeconds": 20,
+            "endSeconds": 28.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 7,
+        "name": "product",
+        "appearances": [
+          {
+            "startTime": "0:00:03.003",
+            "endTime": "0:00:05.0383667",
+            "startSeconds": 3,
+            "endSeconds": 5
+          },
+          {
+            "startTime": "0:00:09.009",
+            "endTime": "0:00:10.0433667",
+            "startSeconds": 9,
+            "endSeconds": 10
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 8,
+        "name": "onprintshop",
+        "appearances": [
+          {
+            "startTime": "0:00:45.045",
+            "endTime": "0:00:50.0833667",
+            "startSeconds": 45,
+            "endSeconds": 50.1
+          }
+        ]
+      }
+    ],
+    "sentiments": [
+      {
+        "sentimentKey": "Neutral",
+        "seenDurationRatio": 0.9992,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:50.341",
+            "startSeconds": 0,
+            "endSeconds": 50.3
+          }
+        ]
+      }
+    ],
+    "emotions": [],
+    "audioEffects": [],
+    "labels": [
+      {
+        "id": 1,
+        "name": "text",
+        "appearances": [
+          {
+            "confidence": 0.9991,
+            "startTime": "0:00:01.001",
+            "endTime": "0:00:50.0833667",
+            "startSeconds": 1,
+            "endSeconds": 50.1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "graphics",
+        "appearances": [
+          {
+            "confidence": 0.9567,
+            "startTime": "0:00:02.002",
+            "endTime": "0:00:02.0353667",
+            "startSeconds": 2,
+            "endSeconds": 2
+          },
+          {
+            "confidence": 0.9512,
+            "startTime": "0:00:13.013",
+            "endTime": "0:00:14.0473667",
+            "startSeconds": 13,
+            "endSeconds": 14
+          },
+          {
+            "confidence": 0.9609,
+            "startTime": "0:00:38.038",
+            "endTime": "0:00:38.0713667",
+            "startSeconds": 38,
+            "endSeconds": 38.1
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "font",
+        "appearances": [
+          {
+            "confidence": 0.9528,
+            "startTime": "0:00:19.019",
+            "endTime": "0:00:19.0523667",
+            "startSeconds": 19,
+            "endSeconds": 19.1
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "graphic design",
+        "appearances": [
+          {
+            "confidence": 0.9561,
+            "startTime": "0:00:38.038",
+            "endTime": "0:00:38.0713667",
+            "startSeconds": 38,
+            "endSeconds": 38.1
+          }
+        ]
+      }
+    ],
+    "framePatterns": [
+      {
+        "displayName": null,
+        "id": 1,
+        "name": "Black",
+        "appearances": [
+          {
+            "confidence": 0,
+            "startTime": "0:00:00",
+            "endTime": "0:00:00.0667333",
+            "startSeconds": 0,
+            "endSeconds": 0.1
+          },
+          {
+            "confidence": 0,
+            "startTime": "0:00:17.1171",
+            "endTime": "0:00:17.1504667",
+            "startSeconds": 17.1,
+            "endSeconds": 17.2
+          }
+        ]
+      }
+    ],
+    "brands": [],
+    "namedLocations": [],
+    "namedPeople": [],
+    "statistics": {
+      "correspondenceCount": 0,
+      "speakerTalkToListenRatio": {
+        "1": 1
+      },
+      "speakerLongestMonolog": {
+        "1": 0
+      },
+      "speakerNumberOfFragments": {
+        "1": 1
+      },
+      "speakerWordCount": {
+        "1": 1
+      }
+    },
+    "topics": [
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music",
+        "iabName": "Music and Audio",
+        "confidence": 0.997,
+        "id": 1,
+        "name": "Music",
+        "appearances": [
+          {
+            "startTime": "0:00:28.29",
+            "endTime": "0:00:28.53",
+            "startSeconds": 28.3,
+            "endSeconds": 28.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/media/music industry",
+        "iabName": "Movies",
+        "confidence": 0.9109,
+        "id": 2,
+        "name": "Movies, Tv and Entertainment/Entertainment/Music Industry",
+        "appearances": [
+          {
+            "startTime": "0:00:28.29",
+            "endTime": "0:00:28.53",
+            "startSeconds": 28.3,
+            "endSeconds": 28.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/movies",
+        "iabName": "Movies",
+        "confidence": 0.8424,
+        "id": 3,
+        "name": "Movies, Tv and Entertainment/Entertainment",
+        "appearances": [
+          {
+            "startTime": "0:00:28.29",
+            "endTime": "0:00:28.53",
+            "startSeconds": 28.3,
+            "endSeconds": 28.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/electronic dance music",
+        "iabName": "Music and Audio",
+        "confidence": 0.7392,
+        "id": 4,
+        "name": "Music/Electronic Music",
+        "appearances": [
+          {
+            "startTime": "0:00:28.29",
+            "endTime": "0:00:28.53",
+            "startSeconds": 28.3,
+            "endSeconds": 28.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/electronic dance music",
+        "iabName": "Music and Audio",
+        "confidence": 0.719,
+        "id": 5,
+        "name": "Music/Techno Music",
+        "appearances": [
+          {
+            "startTime": "0:00:28.29",
+            "endTime": "0:00:28.53",
+            "startSeconds": 28.3,
+            "endSeconds": 28.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "environment",
+        "iabName": "Movies",
+        "confidence": 0.6994,
+        "id": 6,
+        "name": "Movies, Tv and Entertainment/Entertainment/Entertainment Industry",
+        "appearances": [
+          {
+            "startTime": "0:00:28.29",
+            "endTime": "0:00:28.53",
+            "startSeconds": 28.3,
+            "endSeconds": 28.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music",
+        "iabName": "Music and Audio",
+        "confidence": 0.6945,
+        "id": 7,
+        "name": "Music/Music Videos",
+        "appearances": [
+          {
+            "startTime": "0:00:28.29",
+            "endTime": "0:00:28.53",
+            "startSeconds": 28.3,
+            "endSeconds": 28.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance",
+        "iabName": "Business and Finance",
+        "confidence": 0.6726,
+        "id": 8,
+        "name": "Business/Companies/Spotify Company",
+        "appearances": [
+          {
+            "startTime": "0:00:28.29",
+            "endTime": "0:00:28.53",
+            "startSeconds": 28.3,
+            "endSeconds": 28.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/rock and roll music",
+        "iabName": "Music and Audio",
+        "confidence": 0.6174,
+        "id": 9,
+        "name": "Music/Rock Music",
+        "appearances": [
+          {
+            "startTime": "0:00:28.29",
+            "endTime": "0:00:28.53",
+            "startSeconds": 28.3,
+            "endSeconds": 28.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music",
+        "iabName": "Music and Audio",
+        "confidence": 0.6016,
+        "id": 10,
+        "name": "Music/Music Albums",
+        "appearances": [
+          {
+            "startTime": "0:00:28.29",
+            "endTime": "0:00:28.53",
+            "startSeconds": 28.3,
+            "endSeconds": 28.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "society/communities/social networking",
+        "iabName": "Business and Finance",
+        "confidence": 0.584,
+        "id": 11,
+        "name": "Business/Startups/Social and Online Music Startups",
+        "appearances": [
+          {
+            "startTime": "0:00:28.29",
+            "endTime": "0:00:28.53",
+            "startSeconds": 28.3,
+            "endSeconds": 28.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/country music",
+        "iabName": "Music and Audio",
+        "confidence": 0.5821,
+        "id": 12,
+        "name": "Music/Country Music",
+        "appearances": [
+          {
+            "startTime": "0:00:28.29",
+            "endTime": "0:00:28.53",
+            "startSeconds": 28.3,
+            "endSeconds": 28.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/movies",
+        "iabName": "Movies",
+        "confidence": 0.5734,
+        "id": 13,
+        "name": "Movies, Tv and Entertainment/Movies",
+        "appearances": [
+          {
+            "startTime": "0:00:28.29",
+            "endTime": "0:00:28.53",
+            "startSeconds": 28.3,
+            "endSeconds": 28.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music",
+        "iabName": "Music and Audio",
+        "confidence": 0.5705,
+        "id": 14,
+        "name": "Music/Songs",
+        "appearances": [
+          {
+            "startTime": "0:00:28.29",
+            "endTime": "0:00:28.53",
+            "startSeconds": 28.3,
+            "endSeconds": 28.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/jazz music",
+        "iabName": "Music and Audio",
+        "confidence": 0.5249,
+        "id": 15,
+        "name": "Music/Soul Music",
+        "appearances": [
+          {
+            "startTime": "0:00:28.29",
+            "endTime": "0:00:28.53",
+            "startSeconds": 28.3,
+            "endSeconds": 28.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical performance",
+        "iabName": "Music and Audio",
+        "confidence": 0.524,
+        "id": 16,
+        "name": "Music/Singing",
+        "appearances": [
+          {
+            "startTime": "0:00:28.29",
+            "endTime": "0:00:28.53",
+            "startSeconds": 28.3,
+            "endSeconds": 28.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/mass media/radio",
+        "iabName": "Technology & Computing",
+        "confidence": 0.518,
+        "id": 17,
+        "name": "Technology/Fm Radio",
+        "appearances": [
+          {
+            "startTime": "0:00:28.29",
+            "endTime": "0:00:28.53",
+            "startSeconds": 28.3,
+            "endSeconds": 28.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/dance band music",
+        "iabName": "Music and Audio",
+        "confidence": 0.5059,
+        "id": 18,
+        "name": "Music/Band Names/Daft Punk Band",
+        "appearances": [
+          {
+            "startTime": "0:00:28.29",
+            "endTime": "0:00:28.53",
+            "startSeconds": 28.3,
+            "endSeconds": 28.5
+          }
+        ]
+      }
+    ]
+  },
+  "videos": [
+    {
+      "accountId": "a9696e33-fd7a-4070-83f6-fc8d2e06633a",
+      "id": "d21mmr237b",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:00:50.341",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [
+          "en-US"
+        ],
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "transcript": [
+          {
+            "id": 1,
+            "text": "Music.",
+            "confidence": 0.0763,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          }
+        ],
+        "ocr": [
+          {
+            "id": 1,
+            "text": "20",
+            "confidence": 0.998,
+            "left": 650,
+            "top": 664,
+            "width": 45,
+            "height": 27,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:07.0403667",
+                "start": "0:00:03.003",
+                "end": "0:00:07.0403667"
+              },
+              {
+                "adjustedStart": "0:00:09.009",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:09.009",
+                "end": "0:00:10.0433667"
+              },
+              {
+                "adjustedStart": "0:00:41.041",
+                "adjustedEnd": "0:00:43.0763667",
+                "start": "0:00:41.041",
+                "end": "0:00:43.0763667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "25",
+            "confidence": 0.998,
+            "left": 642,
+            "top": 802,
+            "width": 79,
+            "height": 27,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:07.0403667",
+                "start": "0:00:03.003",
+                "end": "0:00:07.0403667"
+              },
+              {
+                "adjustedStart": "0:00:09.009",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:09.009",
+                "end": "0:00:10.0433667"
+              },
+              {
+                "adjustedStart": "0:00:41.041",
+                "adjustedEnd": "0:00:43.0763667",
+                "start": "0:00:41.041",
+                "end": "0:00:43.0763667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "We didn't Just Win",
+            "confidence": 0.9973,
+            "left": 521,
+            "top": 388,
+            "width": 875,
+            "height": 86,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:01.001",
+                "end": "0:00:02.0353667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "one",
+            "confidence": 0.996,
+            "left": 613,
+            "top": 532,
+            "width": 707,
+            "height": 219,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:01.001",
+                "end": "0:00:02.0353667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "We won two",
+            "confidence": 0.9877,
+            "left": 672,
+            "top": 188,
+            "width": 575,
+            "height": 76,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:03.003",
+                "end": "0:00:05.0383667"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "TECHNOLOGY",
+            "confidence": 0.997,
+            "left": 554,
+            "top": 761,
+            "width": 142,
+            "height": 22,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:03.003",
+                "end": "0:00:05.0383667"
+              },
+              {
+                "adjustedStart": "0:00:07.007",
+                "adjustedEnd": "0:00:07.0403667",
+                "start": "0:00:07.007",
+                "end": "0:00:07.0403667"
+              },
+              {
+                "adjustedStart": "0:00:41.041",
+                "adjustedEnd": "0:00:43.0763667",
+                "start": "0:00:41.041",
+                "end": "0:00:43.0763667"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "AWARD",
+            "confidence": 0.998,
+            "left": 721,
+            "top": 765,
+            "width": 66,
+            "height": 21,
+            "angle": -3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:03.003",
+                "end": "0:00:05.0383667"
+              },
+              {
+                "adjustedStart": "0:00:07.007",
+                "adjustedEnd": "0:00:07.0403667",
+                "start": "0:00:07.007",
+                "end": "0:00:07.0403667"
+              },
+              {
+                "adjustedStart": "0:00:09.009",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:09.009",
+                "end": "0:00:10.0433667"
+              },
+              {
+                "adjustedStart": "0:00:41.041",
+                "adjustedEnd": "0:00:43.0763667",
+                "start": "0:00:41.041",
+                "end": "0:00:43.0763667"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "PRODUCT AWARD",
+            "confidence": 0.955,
+            "left": 1201,
+            "top": 849,
+            "width": 105,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:03.003",
+                "end": "0:00:03.0363667"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "Pinnacle Awards in 2025!",
+            "confidence": 0.998,
+            "left": 195,
+            "top": 323,
+            "width": 1525,
+            "height": 110,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:04.004",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:04.004",
+                "end": "0:00:05.0383667"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "PRODUCT",
+            "confidence": 0.998,
+            "left": 1073,
+            "top": 681,
+            "width": 207,
+            "height": 37,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:04.004",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:04.004",
+                "end": "0:00:05.0383667"
+              },
+              {
+                "adjustedStart": "0:00:09.009",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:09.009",
+                "end": "0:00:10.0433667"
+              },
+              {
+                "adjustedStart": "0:00:41.041",
+                "adjustedEnd": "0:00:43.0763667",
+                "start": "0:00:41.041",
+                "end": "0:00:43.0763667"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "Creative Designer Studio",
+            "confidence": 0.9977,
+            "left": 546,
+            "top": 130,
+            "width": 853,
+            "height": 75,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:07.0403667",
+                "start": "0:00:06.006",
+                "end": "0:00:07.0403667"
+              },
+              {
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:17.0503667",
+                "start": "0:00:15.015",
+                "end": "0:00:17.0503667"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "TECHNOLOGY AWARD",
+            "confidence": 0.992,
+            "left": 852,
+            "top": 441,
+            "width": 209,
+            "height": 25,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:06.0393667",
+                "start": "0:00:06.006",
+                "end": "0:00:06.0393667"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "Template",
+            "confidence": 0.953,
+            "left": 127,
+            "top": 776,
+            "width": 93,
+            "height": 19,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07.007",
+                "adjustedEnd": "0:00:07.0403667",
+                "start": "0:00:07.007",
+                "end": "0:00:07.0403667"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "Technology Category",
+            "confidence": 0.9975,
+            "left": 446,
+            "top": 790,
+            "width": 1029,
+            "height": 97,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07.007",
+                "adjustedEnd": "0:00:07.0403667",
+                "start": "0:00:07.007",
+                "end": "0:00:07.0403667"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "Art Layout",
+            "confidence": 0.9925,
+            "left": 116,
+            "top": 880,
+            "width": 117,
+            "height": 26,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07.007",
+                "adjustedEnd": "0:00:07.0403667",
+                "start": "0:00:07.007",
+                "end": "0:00:07.0403667"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "THE",
+            "confidence": 0.997,
+            "left": 373,
+            "top": 98,
+            "width": 66,
+            "height": 25,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.008",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:08.008",
+                "end": "0:00:10.0433667"
+              },
+              {
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:19.0523667",
+                "start": "0:00:19.019",
+                "end": "0:00:19.0523667"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "PRINT",
+            "confidence": 0.998,
+            "left": 368,
+            "top": 117,
+            "width": 89,
+            "height": 28,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.008",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:08.008",
+                "end": "0:00:10.0433667"
+              },
+              {
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:19.0523667",
+                "start": "0:00:19.019",
+                "end": "0:00:19.0523667"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "SHOP",
+            "confidence": 0.995,
+            "left": 369,
+            "top": 133,
+            "width": 88,
+            "height": 31,
+            "angle": 5,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.008",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:08.008",
+                "end": "0:00:10.0433667"
+              },
+              {
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:19.0523667",
+                "start": "0:00:19.019",
+                "end": "0:00:19.0523667"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "Wallpapers",
+            "confidence": 0.989,
+            "left": 490,
+            "top": 583,
+            "width": 128,
+            "height": 19,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.008",
+                "adjustedEnd": "0:00:08.0413667",
+                "start": "0:00:08.008",
+                "end": "0:00:08.0413667"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "Pattern",
+            "confidence": 0.998,
+            "left": 167,
+            "top": 596,
+            "width": 487,
+            "height": 103,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.008",
+                "adjustedEnd": "0:00:08.0413667",
+                "start": "0:00:08.008",
+                "end": "0:00:08.0413667"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "text": "Bedsheets",
+            "confidence": 0.997,
+            "left": 1303,
+            "top": 595,
+            "width": 107,
+            "height": 22,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.008",
+                "adjustedEnd": "0:00:08.0413667",
+                "start": "0:00:08.008",
+                "end": "0:00:08.0413667"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "text": "ets",
+            "confidence": 0.995,
+            "left": 1173,
+            "top": 305,
+            "width": 54,
+            "height": 26,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09.009",
+                "adjustedEnd": "0:00:09.0423667",
+                "start": "0:00:09.009",
+                "end": "0:00:09.0423667"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "text": "Product Options",
+            "confidence": 0.9875,
+            "left": 1133,
+            "top": 456,
+            "width": 143,
+            "height": 18,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09.009",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:09.009",
+                "end": "0:00:10.0433667"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "text": "108 nch",
+            "confidence": 0.9785,
+            "left": 887,
+            "top": 542,
+            "width": 68,
+            "height": 16,
+            "angle": 91,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09.009",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:09.009",
+                "end": "0:00:10.0433667"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "text": "Pattern Design Software",
+            "confidence": 0.998,
+            "left": 169,
+            "top": 622,
+            "width": 1608,
+            "height": 116,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09.009",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:09.009",
+                "end": "0:00:10.0433667"
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "text": "Non-Output Category",
+            "confidence": 0.9965,
+            "left": 432,
+            "top": 775,
+            "width": 1053,
+            "height": 96,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:10.01",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:10.01",
+                "end": "0:00:10.0433667"
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "text": "Recognized for",
+            "confidence": 0.9965,
+            "left": 603,
+            "top": 409,
+            "width": 716,
+            "height": 104,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.011",
+                "adjustedEnd": "0:00:12.0453667",
+                "start": "0:00:11.011",
+                "end": "0:00:12.0453667"
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "text": "Solving",
+            "confidence": 0.998,
+            "left": 166,
+            "top": 583,
+            "width": 486,
+            "height": 115,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.011",
+                "adjustedEnd": "0:00:11.0443667",
+                "start": "0:00:11.011",
+                "end": "0:00:11.0443667"
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "text": "Solving Real Challenges",
+            "confidence": 0.9967,
+            "left": 166,
+            "top": 546,
+            "width": 1587,
+            "height": 122,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12.012",
+                "adjustedEnd": "0:00:12.0453667",
+                "start": "0:00:12.012",
+                "end": "0:00:12.0453667"
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "text": "with Smart Automation",
+            "confidence": 0.997,
+            "left": 162,
+            "top": 648,
+            "width": 1599,
+            "height": 115,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:13.013",
+                "adjustedEnd": "0:00:14.0473667",
+                "start": "0:00:13.013",
+                "end": "0:00:14.0473667"
+              }
+            ]
+          },
+          {
+            "id": 31,
+            "text": "Brochures",
+            "confidence": 0.933,
+            "left": 215,
+            "top": 287,
+            "width": 58,
+            "height": 12,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:15.015",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 32,
+            "text": "Heading",
+            "confidence": 0.998,
+            "left": 219,
+            "top": 377,
+            "width": 76,
+            "height": 19,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:15.015",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 33,
+            "text": "Quick Text",
+            "confidence": 0.9425,
+            "left": 241,
+            "top": 430,
+            "width": 69,
+            "height": 12,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:15.015",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 34,
+            "text": "Personalization",
+            "confidence": 0.989,
+            "left": 264,
+            "top": 511,
+            "width": 1401,
+            "height": 104,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:17.0503667",
+                "start": "0:00:15.015",
+                "end": "0:00:17.0503667"
+              }
+            ]
+          },
+          {
+            "id": 35,
+            "text": "WITH",
+            "confidence": 0.992,
+            "left": 225,
+            "top": 537,
+            "width": 34,
+            "height": 9,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:15.0483667",
+                "start": "0:00:15.015",
+                "end": "0:00:15.0483667"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "text": "Templates",
+            "confidence": 0.993,
+            "left": 134,
+            "top": 564,
+            "width": 60,
+            "height": 12,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:15.015",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 37,
+            "text": "Technology",
+            "confidence": 0.929,
+            "left": 1003,
+            "top": 630,
+            "width": 92,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:15.015",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 38,
+            "text": "Support",
+            "confidence": 0.925,
+            "left": 225,
+            "top": 648,
+            "width": 46,
+            "height": 17,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:15.015",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 39,
+            "text": "Marketing",
+            "confidence": 0.919,
+            "left": 225,
+            "top": 680,
+            "width": 53,
+            "height": 16,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:15.015",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 40,
+            "text": "Business",
+            "confidence": 0.963,
+            "left": 1293,
+            "top": 680,
+            "width": 66,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:15.0483667",
+                "start": "0:00:15.015",
+                "end": "0:00:15.0483667"
+              }
+            ]
+          },
+          {
+            "id": 41,
+            "text": "QR Code",
+            "confidence": 0.9755,
+            "left": 138,
+            "top": 688,
+            "width": 51,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:15.015",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 42,
+            "text": "Our Service",
+            "confidence": 0.9085,
+            "left": 225,
+            "top": 716,
+            "width": 62,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:15.015",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 43,
+            "text": "Project Completion",
+            "confidence": 0.9525,
+            "left": 1293,
+            "top": 752,
+            "width": 127,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:15.015",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 44,
+            "text": "WITH.US",
+            "confidence": 0.902,
+            "left": 630,
+            "top": 743,
+            "width": 164,
+            "height": 31,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:15.0483667",
+                "start": "0:00:15.015",
+                "end": "0:00:15.0483667"
+              }
+            ]
+          },
+          {
+            "id": 45,
+            "text": "ABOUT US",
+            "confidence": 0.998,
+            "left": 632,
+            "top": 886,
+            "width": 109,
+            "height": 19,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:15.015",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 46,
+            "text": "Clipart",
+            "confidence": 0.929,
+            "left": 164,
+            "top": 499,
+            "width": 39,
+            "height": 15,
+            "angle": 1,
+            "language": "to-TO",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.016",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:16.016",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 47,
+            "text": "EXPAND YOUR",
+            "confidence": 0.9665,
+            "left": 633,
+            "top": 683,
+            "width": 169,
+            "height": 22,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.016",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:16.016",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 48,
+            "text": "ES",
+            "confidence": 0.972,
+            "left": 188,
+            "top": 475,
+            "width": 136,
+            "height": 105,
+            "angle": 1,
+            "language": "es-ES",
+            "instances": [
+              {
+                "adjustedStart": "0:00:18.018",
+                "adjustedEnd": "0:00:18.0513667",
+                "start": "0:00:18.018",
+                "end": "0:00:18.0513667"
+              }
+            ]
+          },
+          {
+            "id": 49,
+            "text": "and Innovation",
+            "confidence": 0.984,
+            "left": 438,
+            "top": 631,
+            "width": 1056,
+            "height": 116,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:18.018",
+                "adjustedEnd": "0:00:19.0523667",
+                "start": "0:00:18.018",
+                "end": "0:00:19.0523667"
+              }
+            ]
+          },
+          {
+            "id": 50,
+            "text": "that",
+            "confidence": 0.996,
+            "left": 496,
+            "top": 787,
+            "width": 202,
+            "height": 76,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:18.018",
+                "adjustedEnd": "0:00:18.0513667",
+                "start": "0:00:18.018",
+                "end": "0:00:18.0513667"
+              }
+            ]
+          },
+          {
+            "id": 51,
+            "text": "Elevate Your Professional Image",
+            "confidence": 0.9715,
+            "left": 780,
+            "top": 788,
+            "width": 679,
+            "height": 41,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:18.018",
+                "adjustedEnd": "0:00:18.0513667",
+                "start": "0:00:18.018",
+                "end": "0:00:18.0513667"
+              }
+            ]
+          },
+          {
+            "id": 52,
+            "text": "STARTS AT $50.00",
+            "confidence": 0.993,
+            "left": 779,
+            "top": 844,
+            "width": 357,
+            "height": 41,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:18.018",
+                "adjustedEnd": "0:00:18.0513667",
+                "start": "0:00:18.018",
+                "end": "0:00:18.0513667"
+              }
+            ]
+          },
+          {
+            "id": 53,
+            "text": "that Actually Works",
+            "confidence": 0.9973,
+            "left": 495,
+            "top": 781,
+            "width": 925,
+            "height": 97,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:19.0523667",
+                "start": "0:00:19.019",
+                "end": "0:00:19.0523667"
+              }
+            ]
+          },
+          {
+            "id": 54,
+            "text": "La",
+            "confidence": 0.973,
+            "left": 1194,
+            "top": 1015,
+            "width": 77,
+            "height": 62,
+            "angle": -26,
+            "language": "es-ES",
+            "instances": [
+              {
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:19.0523667",
+                "start": "0:00:19.019",
+                "end": "0:00:19.0523667"
+              }
+            ]
+          },
+          {
+            "id": 55,
+            "text": "Jury's Comments for",
+            "confidence": 0.9827,
+            "left": 175,
+            "top": 180,
+            "width": 939,
+            "height": 96,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20.02",
+                "adjustedEnd": "0:00:20.0533667",
+                "start": "0:00:20.02",
+                "end": "0:00:20.0533667"
+              }
+            ]
+          },
+          {
+            "id": 56,
+            "text": "Jury's Comments for the Recognition",
+            "confidence": 0.9876,
+            "left": 166,
+            "top": 180,
+            "width": 1592,
+            "height": 104,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:21.021",
+                "adjustedEnd": "0:00:28.0613667",
+                "start": "0:00:21.021",
+                "end": "0:00:28.0613667"
+              }
+            ]
+          },
+          {
+            "id": 57,
+            "text": "Excellent Success Story.",
+            "confidence": 0.9893,
+            "left": 468,
+            "top": 608,
+            "width": 997,
+            "height": 81,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.022",
+                "adjustedEnd": "0:00:23.0563667",
+                "start": "0:00:22.022",
+                "end": "0:00:23.0563667"
+              }
+            ]
+          },
+          {
+            "id": 58,
+            "text": "Al-immersive and Affordable.",
+            "confidence": 0.9527,
+            "left": 579,
+            "top": 609,
+            "width": 1247,
+            "height": 80,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:24.024",
+                "adjustedEnd": "0:00:25.0583667",
+                "start": "0:00:24.024",
+                "end": "0:00:25.0583667"
+              }
+            ]
+          },
+          {
+            "id": 59,
+            "text": "e and Affordable.",
+            "confidence": 0.9923,
+            "left": 6,
+            "top": 616,
+            "width": 725,
+            "height": 74,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26.026",
+                "adjustedEnd": "0:00:26.0593667",
+                "start": "0:00:26.026",
+                "end": "0:00:26.0593667"
+              }
+            ]
+          },
+          {
+            "id": 60,
+            "text": "Growing Part",
+            "confidence": 0.997,
+            "left": 1339,
+            "top": 649,
+            "width": 551,
+            "height": 92,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26.026",
+                "adjustedEnd": "0:00:26.0593667",
+                "start": "0:00:26.026",
+                "end": "0:00:26.0593667"
+              }
+            ]
+          },
+          {
+            "id": 61,
+            "text": "Addresses a Specific and",
+            "confidence": 0.9883,
+            "left": 442,
+            "top": 549,
+            "width": 1074,
+            "height": 89,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:27.027",
+                "adjustedEnd": "0:00:28.0613667",
+                "start": "0:00:27.027",
+                "end": "0:00:28.0613667"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "text": "Growing Part of the Industry.",
+            "confidence": 0.9916,
+            "left": 381,
+            "top": 650,
+            "width": 1196,
+            "height": 93,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:27.027",
+                "adjustedEnd": "0:00:28.0613667",
+                "start": "0:00:27.027",
+                "end": "0:00:28.0613667"
+              }
+            ]
+          },
+          {
+            "id": 63,
+            "text": "This win belongs to",
+            "confidence": 0.9973,
+            "left": 481,
+            "top": 440,
+            "width": 965,
+            "height": 94,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:30.03",
+                "adjustedEnd": "0:00:36.0693667",
+                "start": "0:00:30.03",
+                "end": "0:00:36.0693667"
+              }
+            ]
+          },
+          {
+            "id": 64,
+            "text": "Our Customers",
+            "confidence": 0.9965,
+            "left": 435,
+            "top": 574,
+            "width": 1050,
+            "height": 110,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31.031",
+                "adjustedEnd": "0:00:31.0643667",
+                "start": "0:00:31.031",
+                "end": "0:00:31.0643667"
+              }
+            ]
+          },
+          {
+            "id": 65,
+            "text": "Our Partners",
+            "confidence": 0.995,
+            "left": 524,
+            "top": 586,
+            "width": 881,
+            "height": 114,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:32.032",
+                "adjustedEnd": "0:00:33.0663667",
+                "start": "0:00:32.032",
+                "end": "0:00:33.0663667"
+              }
+            ]
+          },
+          {
+            "id": 66,
+            "text": "and You",
+            "confidence": 0.997,
+            "left": 676,
+            "top": 574,
+            "width": 574,
+            "height": 116,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:34.034",
+                "adjustedEnd": "0:00:34.0673667",
+                "start": "0:00:34.034",
+                "end": "0:00:34.0673667"
+              }
+            ]
+          },
+          {
+            "id": 67,
+            "text": "The Print Leaders",
+            "confidence": 0.9977,
+            "left": 372,
+            "top": 568,
+            "width": 1178,
+            "height": 121,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:35.035",
+                "adjustedEnd": "0:00:39.0723667",
+                "start": "0:00:35.035",
+                "end": "0:00:39.0723667"
+              }
+            ]
+          },
+          {
+            "id": 68,
+            "text": "Shaping the Future",
+            "confidence": 0.9977,
+            "left": 149,
+            "top": 557,
+            "width": 1628,
+            "height": 172,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:37.037",
+                "adjustedEnd": "0:00:39.0723667",
+                "start": "0:00:37.037",
+                "end": "0:00:39.0723667"
+              }
+            ]
+          },
+          {
+            "id": 69,
+            "text": "See the Award-winning",
+            "confidence": 0.9953,
+            "left": 496,
+            "top": 151,
+            "width": 956,
+            "height": 87,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:40.04",
+                "adjustedEnd": "0:00:43.0763667",
+                "start": "0:00:40.04",
+                "end": "0:00:43.0763667"
+              }
+            ]
+          },
+          {
+            "id": 70,
+            "text": "Platform in Action",
+            "confidence": 0.998,
+            "left": 611,
+            "top": 251,
+            "width": 707,
+            "height": 76,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:40.04",
+                "adjustedEnd": "0:00:43.0763667",
+                "start": "0:00:40.04",
+                "end": "0:00:43.0763667"
+              }
+            ]
+          },
+          {
+            "id": 71,
+            "text": "PINN CLE",
+            "confidence": 0.9895,
+            "left": 1082,
+            "top": 494,
+            "width": 337,
+            "height": 78,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41.041",
+                "adjustedEnd": "0:00:43.0763667",
+                "start": "0:00:41.041",
+                "end": "0:00:43.0763667"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "text": "Book Now",
+            "confidence": 0.9965,
+            "left": 816,
+            "top": 898,
+            "width": 282,
+            "height": 47,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:42.042",
+                "adjustedEnd": "0:00:43.0763667",
+                "start": "0:00:42.042",
+                "end": "0:00:43.0763667"
+              }
+            ]
+          },
+          {
+            "id": 73,
+            "text": "Book a Live Demo",
+            "confidence": 0.9943,
+            "left": 610,
+            "top": 714,
+            "width": 695,
+            "height": 72,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:44.044",
+                "adjustedEnd": "0:00:44.0773667",
+                "start": "0:00:44.044",
+                "end": "0:00:44.0773667"
+              }
+            ]
+          },
+          {
+            "id": 74,
+            "text": "OnPrintShop",
+            "confidence": 0.995,
+            "left": 409,
+            "top": 222,
+            "width": 166,
+            "height": 29,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:45.045",
+                "adjustedEnd": "0:00:45.0783667",
+                "start": "0:00:45.045",
+                "end": "0:00:45.0783667"
+              },
+              {
+                "adjustedStart": "0:00:47.047",
+                "adjustedEnd": "0:00:50.0833667",
+                "start": "0:00:47.047",
+                "end": "0:00:50.0833667"
+              }
+            ]
+          },
+          {
+            "id": 75,
+            "text": "Search here",
+            "confidence": 0.997,
+            "left": 795,
+            "top": 230,
+            "width": 79,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:45.045",
+                "adjustedEnd": "0:00:45.0783667",
+                "start": "0:00:45.045",
+                "end": "0:00:45.0783667"
+              }
+            ]
+          },
+          {
+            "id": 76,
+            "text": "TM",
+            "confidence": 0.969,
+            "left": 1458,
+            "top": 445,
+            "width": 28,
+            "height": 20,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:47.047",
+                "adjustedEnd": "0:00:50.0833667",
+                "start": "0:00:47.047",
+                "end": "0:00:50.0833667"
+              }
+            ]
+          },
+          {
+            "id": 77,
+            "text": "Web-to-Print Storefront",
+            "confidence": 0.995,
+            "left": 724,
+            "top": 566,
+            "width": 734,
+            "height": 58,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:47.047",
+                "adjustedEnd": "0:00:50.0833667",
+                "start": "0:00:47.047",
+                "end": "0:00:50.0833667"
+              }
+            ]
+          },
+          {
+            "id": 78,
+            "text": "www.onprintshop.com",
+            "confidence": 0.983,
+            "left": 663,
+            "top": 728,
+            "width": 636,
+            "height": 58,
+            "angle": 0,
+            "language": "fi-FI",
+            "instances": [
+              {
+                "adjustedStart": "0:00:47.047",
+                "adjustedEnd": "0:00:50.0833667",
+                "start": "0:00:47.047",
+                "end": "0:00:50.0833667"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 1,
+            "text": "print",
+            "confidence": 0.69,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.008",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:08.008",
+                "end": "0:00:10.0433667"
+              },
+              {
+                "adjustedStart": "0:00:35.035",
+                "adjustedEnd": "0:00:39.0723667",
+                "start": "0:00:35.035",
+                "end": "0:00:39.0723667"
+              },
+              {
+                "adjustedStart": "0:00:45.045",
+                "adjustedEnd": "0:00:45.0783667",
+                "start": "0:00:45.045",
+                "end": "0:00:45.0783667"
+              },
+              {
+                "adjustedStart": "0:00:47.047",
+                "adjustedEnd": "0:00:50.0833667",
+                "start": "0:00:47.047",
+                "end": "0:00:50.0833667"
+              },
+              {
+                "adjustedStart": "0:00:47.047",
+                "adjustedEnd": "0:00:50.0833667",
+                "start": "0:00:47.047",
+                "end": "0:00:50.0833667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "technology",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:03.003",
+                "end": "0:00:05.0383667"
+              },
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:06.0393667",
+                "start": "0:00:06.006",
+                "end": "0:00:06.0393667"
+              },
+              {
+                "adjustedStart": "0:00:07.007",
+                "adjustedEnd": "0:00:07.0403667",
+                "start": "0:00:07.007",
+                "end": "0:00:07.0403667"
+              },
+              {
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:15.015",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "award",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:03.003",
+                "end": "0:00:05.0383667"
+              },
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:03.003",
+                "end": "0:00:03.0363667"
+              },
+              {
+                "adjustedStart": "0:00:04.004",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:04.004",
+                "end": "0:00:05.0383667"
+              },
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:06.0393667",
+                "start": "0:00:06.006",
+                "end": "0:00:06.0393667"
+              },
+              {
+                "adjustedStart": "0:00:40.04",
+                "adjustedEnd": "0:00:43.0763667",
+                "start": "0:00:40.04",
+                "end": "0:00:43.0763667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "shop",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.008",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:08.008",
+                "end": "0:00:10.0433667"
+              },
+              {
+                "adjustedStart": "0:00:45.045",
+                "adjustedEnd": "0:00:45.0783667",
+                "start": "0:00:45.045",
+                "end": "0:00:45.0783667"
+              },
+              {
+                "adjustedStart": "0:00:47.047",
+                "adjustedEnd": "0:00:50.0833667",
+                "start": "0:00:47.047",
+                "end": "0:00:50.0833667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "jury",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20.02",
+                "adjustedEnd": "0:00:20.0533667",
+                "start": "0:00:20.02",
+                "end": "0:00:20.0533667"
+              },
+              {
+                "adjustedStart": "0:00:21.021",
+                "adjustedEnd": "0:00:28.0613667",
+                "start": "0:00:21.021",
+                "end": "0:00:28.0613667"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "comments",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20.02",
+                "adjustedEnd": "0:00:20.0533667",
+                "start": "0:00:20.02",
+                "end": "0:00:20.0533667"
+              },
+              {
+                "adjustedStart": "0:00:21.021",
+                "adjustedEnd": "0:00:28.0613667",
+                "start": "0:00:21.021",
+                "end": "0:00:28.0613667"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "product",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:03.003",
+                "end": "0:00:03.0363667"
+              },
+              {
+                "adjustedStart": "0:00:04.004",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:04.004",
+                "end": "0:00:05.0383667"
+              },
+              {
+                "adjustedStart": "0:00:09.009",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:09.009",
+                "end": "0:00:10.0433667"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "onprintshop",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:45.045",
+                "adjustedEnd": "0:00:45.0783667",
+                "start": "0:00:45.045",
+                "end": "0:00:45.0783667"
+              },
+              {
+                "adjustedStart": "0:00:47.047",
+                "adjustedEnd": "0:00:50.0833667",
+                "start": "0:00:47.047",
+                "end": "0:00:50.0833667"
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 1,
+            "name": "Music",
+            "referenceId": "Music",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music",
+            "confidence": 0.997,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Music Industry",
+            "referenceId": "Movies, Tv and Entertainment/Entertainment/Music Industry",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/media/music industry",
+            "confidence": 0.9109,
+            "iabName": "Movies",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Entertainment",
+            "referenceId": "Movies, Tv and Entertainment/Entertainment",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/movies",
+            "confidence": 0.8424,
+            "iabName": "Movies",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Electronic Music",
+            "referenceId": "Music/Electronic Music",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/electronic dance music",
+            "confidence": 0.7392,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Techno Music",
+            "referenceId": "Music/Techno Music",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/electronic dance music",
+            "confidence": 0.719,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Entertainment Industry",
+            "referenceId": "Movies, Tv and Entertainment/Entertainment/Entertainment Industry",
+            "referenceType": "VideoIndexer",
+            "iptcName": "environment",
+            "confidence": 0.6994,
+            "iabName": "Movies",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Music Videos",
+            "referenceId": "Music/Music Videos",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music",
+            "confidence": 0.6945,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Spotify Company",
+            "referenceId": "Business/Companies/Spotify Company",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance",
+            "confidence": 0.6726,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Rock Music",
+            "referenceId": "Music/Rock Music",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/rock and roll music",
+            "confidence": 0.6174,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Music Albums",
+            "referenceId": "Music/Music Albums",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music",
+            "confidence": 0.6016,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Social and Online Music Startups",
+            "referenceId": "Business/Startups/Social and Online Music Startups",
+            "referenceType": "VideoIndexer",
+            "iptcName": "society/communities/social networking",
+            "confidence": 0.584,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Country Music",
+            "referenceId": "Music/Country Music",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/country music",
+            "confidence": 0.5821,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Movies",
+            "referenceId": "Movies, Tv and Entertainment/Movies",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/movies",
+            "confidence": 0.5734,
+            "iabName": "Movies",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Songs",
+            "referenceId": "Music/Songs",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music",
+            "confidence": 0.5705,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Soul Music",
+            "referenceId": "Music/Soul Music",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/jazz music",
+            "confidence": 0.5249,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Singing",
+            "referenceId": "Music/Singing",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical performance",
+            "confidence": 0.524,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Fm Radio",
+            "referenceId": "Technology/Fm Radio",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/mass media/radio",
+            "confidence": 0.518,
+            "iabName": "Technology & Computing",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Daft Punk Band",
+            "referenceId": "Music/Band Names/Daft Punk Band",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/dance band music",
+            "confidence": 0.5059,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "text",
+            "referenceId": "communication/writing/text",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9798,
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:01.001",
+                "end": "0:00:02.0353667"
+              },
+              {
+                "confidence": 0.999,
+                "adjustedStart": "0:00:04.004",
+                "adjustedEnd": "0:00:28.0613667",
+                "start": "0:00:04.004",
+                "end": "0:00:28.0613667"
+              },
+              {
+                "confidence": 0.9884,
+                "adjustedStart": "0:00:31.031",
+                "adjustedEnd": "0:00:38.0713667",
+                "start": "0:00:31.031",
+                "end": "0:00:38.0713667"
+              },
+              {
+                "confidence": 0.9992,
+                "adjustedStart": "0:00:41.041",
+                "adjustedEnd": "0:00:45.0783667",
+                "start": "0:00:41.041",
+                "end": "0:00:45.0783667"
+              },
+              {
+                "confidence": 0.9991,
+                "adjustedStart": "0:00:47.047",
+                "adjustedEnd": "0:00:50.0833667",
+                "start": "0:00:47.047",
+                "end": "0:00:50.0833667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "graphics",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9567,
+                "adjustedStart": "0:00:02.002",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:02.002",
+                "end": "0:00:02.0353667"
+              },
+              {
+                "confidence": 0.9512,
+                "adjustedStart": "0:00:13.013",
+                "adjustedEnd": "0:00:14.0473667",
+                "start": "0:00:13.013",
+                "end": "0:00:14.0473667"
+              },
+              {
+                "confidence": 0.9609,
+                "adjustedStart": "0:00:38.038",
+                "adjustedEnd": "0:00:38.0713667",
+                "start": "0:00:38.038",
+                "end": "0:00:38.0713667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "font",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9528,
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:19.0523667",
+                "start": "0:00:19.019",
+                "end": "0:00:19.0523667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "graphic design",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9561,
+                "adjustedStart": "0:00:38.038",
+                "adjustedEnd": "0:00:38.0713667",
+                "start": "0:00:38.038",
+                "end": "0:00:38.0713667"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:07.9079",
+                "start": "0:00:00",
+                "end": "0:00:07.9079"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:00:07.9079",
+                "adjustedEnd": "0:00:12.4124",
+                "start": "0:00:07.9079",
+                "end": "0:00:12.4124"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "instances": [
+              {
+                "adjustedStart": "0:00:12.4124",
+                "adjustedEnd": "0:00:39.1724667",
+                "start": "0:00:12.4124",
+                "end": "0:00:39.1724667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "instances": [
+              {
+                "adjustedStart": "0:00:39.1724667",
+                "adjustedEnd": "0:00:43.0763667",
+                "start": "0:00:39.1724667",
+                "end": "0:00:43.0763667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "instances": [
+              {
+                "adjustedStart": "0:00:43.0763667",
+                "adjustedEnd": "0:00:50.2835667",
+                "start": "0:00:43.0763667",
+                "end": "0:00:50.2835667"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "322ea530-269d-434f-ba85-60e68db9cebc",
+                    "adjustedStart": "0:00:00.1668333",
+                    "adjustedEnd": "0:00:00.2002",
+                    "start": "0:00:00.1668333",
+                    "end": "0:00:00.2002"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:02.6359667",
+                "start": "0:00:00",
+                "end": "0:00:02.6359667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "keyFrames": [
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "f483372c-c842-457f-9a06-526798c366d0",
+                    "adjustedStart": "0:00:03.3033",
+                    "adjustedEnd": "0:00:03.3366667",
+                    "start": "0:00:03.3033",
+                    "end": "0:00:03.3366667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:02.6359667",
+                "adjustedEnd": "0:00:05.6389667",
+                "start": "0:00:02.6359667",
+                "end": "0:00:05.6389667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "keyFrames": [
+              {
+                "id": 3,
+                "instances": [
+                  {
+                    "thumbnailId": "0ae62b95-772b-45b4-93f1-ed59c9161f48",
+                    "adjustedStart": "0:00:06.1061",
+                    "adjustedEnd": "0:00:06.1394667",
+                    "start": "0:00:06.1061",
+                    "end": "0:00:06.1394667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:05.6389667",
+                "adjustedEnd": "0:00:07.9079",
+                "start": "0:00:05.6389667",
+                "end": "0:00:07.9079"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "keyFrames": [
+              {
+                "id": 4,
+                "instances": [
+                  {
+                    "thumbnailId": "efb9101c-f08d-4eb5-ab3b-966a6d71a2db",
+                    "adjustedStart": "0:00:08.1748333",
+                    "adjustedEnd": "0:00:08.2082",
+                    "start": "0:00:08.1748333",
+                    "end": "0:00:08.2082"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:07.9079",
+                "adjustedEnd": "0:00:10.2102",
+                "start": "0:00:07.9079",
+                "end": "0:00:10.2102"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "keyFrames": [
+              {
+                "id": 5,
+                "instances": [
+                  {
+                    "thumbnailId": "5a7c6845-b71a-4bdc-9e8b-d637c16471b4",
+                    "adjustedStart": "0:00:10.4771333",
+                    "adjustedEnd": "0:00:10.5105",
+                    "start": "0:00:10.4771333",
+                    "end": "0:00:10.5105"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:10.2102",
+                "adjustedEnd": "0:00:12.4124",
+                "start": "0:00:10.2102",
+                "end": "0:00:12.4124"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "keyFrames": [
+              {
+                "id": 6,
+                "instances": [
+                  {
+                    "thumbnailId": "1c773463-2e81-4e3b-afe9-319703e6e0e6",
+                    "adjustedStart": "0:00:12.4457667",
+                    "adjustedEnd": "0:00:12.4791333",
+                    "start": "0:00:12.4457667",
+                    "end": "0:00:12.4791333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:12.4124",
+                "adjustedEnd": "0:00:14.9149",
+                "start": "0:00:12.4124",
+                "end": "0:00:14.9149"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "keyFrames": [
+              {
+                "id": 7,
+                "instances": [
+                  {
+                    "thumbnailId": "1588307f-264d-4d41-a2c4-ea2e755f4881",
+                    "adjustedStart": "0:00:15.1484667",
+                    "adjustedEnd": "0:00:15.1818333",
+                    "start": "0:00:15.1484667",
+                    "end": "0:00:15.1818333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:14.9149",
+                "adjustedEnd": "0:00:17.0837333",
+                "start": "0:00:14.9149",
+                "end": "0:00:17.0837333"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "keyFrames": [
+              {
+                "id": 8,
+                "instances": [
+                  {
+                    "thumbnailId": "2677d26b-14ee-4796-b566-d3198a694390",
+                    "adjustedStart": "0:00:17.3173",
+                    "adjustedEnd": "0:00:17.3506667",
+                    "start": "0:00:17.3173",
+                    "end": "0:00:17.3506667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:17.0837333",
+                "adjustedEnd": "0:00:19.4194",
+                "start": "0:00:17.0837333",
+                "end": "0:00:19.4194"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "keyFrames": [
+              {
+                "id": 9,
+                "instances": [
+                  {
+                    "thumbnailId": "590c0b4e-374d-43ca-bc04-346cde9fd77b",
+                    "adjustedStart": "0:00:21.1878333",
+                    "adjustedEnd": "0:00:21.2212",
+                    "start": "0:00:21.1878333",
+                    "end": "0:00:21.2212"
+                  }
+                ]
+              },
+              {
+                "id": 10,
+                "instances": [
+                  {
+                    "thumbnailId": "4b66e90f-9e4d-4bc3-b838-03be2d8e5720",
+                    "adjustedStart": "0:00:24.0907333",
+                    "adjustedEnd": "0:00:24.1241",
+                    "start": "0:00:24.0907333",
+                    "end": "0:00:24.1241"
+                  }
+                ]
+              },
+              {
+                "id": 11,
+                "instances": [
+                  {
+                    "thumbnailId": "34d70f59-3f97-4364-941c-dadef5ea9e6b",
+                    "adjustedStart": "0:00:28.6953333",
+                    "adjustedEnd": "0:00:28.7287",
+                    "start": "0:00:28.6953333",
+                    "end": "0:00:28.7287"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:19.4194",
+                "adjustedEnd": "0:00:29.1624667",
+                "start": "0:00:19.4194",
+                "end": "0:00:29.1624667"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "keyFrames": [
+              {
+                "id": 12,
+                "instances": [
+                  {
+                    "thumbnailId": "a502c4f6-1467-4580-92a5-0f40a301de85",
+                    "adjustedStart": "0:00:36.6699667",
+                    "adjustedEnd": "0:00:36.7033333",
+                    "start": "0:00:36.6699667",
+                    "end": "0:00:36.7033333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:29.1624667",
+                "adjustedEnd": "0:00:39.1724667",
+                "start": "0:00:29.1624667",
+                "end": "0:00:39.1724667"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "keyFrames": [
+              {
+                "id": 13,
+                "instances": [
+                  {
+                    "thumbnailId": "48ad2474-fb80-476b-88f3-34d387f0a6e0",
+                    "adjustedStart": "0:00:39.4394",
+                    "adjustedEnd": "0:00:39.4727667",
+                    "start": "0:00:39.4394",
+                    "end": "0:00:39.4727667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:39.1724667",
+                "adjustedEnd": "0:00:43.0763667",
+                "start": "0:00:39.1724667",
+                "end": "0:00:43.0763667"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "keyFrames": [
+              {
+                "id": 14,
+                "instances": [
+                  {
+                    "thumbnailId": "7e1ad059-dca0-476a-854a-8cdbd88f8237",
+                    "adjustedStart": "0:00:43.3099333",
+                    "adjustedEnd": "0:00:43.3433",
+                    "start": "0:00:43.3099333",
+                    "end": "0:00:43.3433"
+                  }
+                ]
+              },
+              {
+                "id": 15,
+                "instances": [
+                  {
+                    "thumbnailId": "82c5f64b-ece4-4dbf-8d12-d41196ac5713",
+                    "adjustedStart": "0:00:45.045",
+                    "adjustedEnd": "0:00:45.0783667",
+                    "start": "0:00:45.045",
+                    "end": "0:00:45.0783667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:43.0763667",
+                "adjustedEnd": "0:00:46.0793667",
+                "start": "0:00:43.0763667",
+                "end": "0:00:46.0793667"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "keyFrames": [
+              {
+                "id": 16,
+                "instances": [
+                  {
+                    "thumbnailId": "6212985c-6dcf-4093-ad2c-db5cd082913f",
+                    "adjustedStart": "0:00:46.3129333",
+                    "adjustedEnd": "0:00:46.3463",
+                    "start": "0:00:46.3129333",
+                    "end": "0:00:46.3463"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:46.0793667",
+                "adjustedEnd": "0:00:50.2835667",
+                "start": "0:00:46.0793667",
+                "end": "0:00:50.2835667"
+              }
+            ]
+          }
+        ],
+        "sentiments": [
+          {
+            "id": 1,
+            "averageScore": 0.5,
+            "sentimentType": "Neutral",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:50.341",
+                "start": "0:00:00",
+                "end": "0:00:50.341"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:50.341",
+                "start": "0:00:00",
+                "end": "0:00:50.341"
+              }
+            ]
+          }
+        ],
+        "framePatterns": [
+          {
+            "id": 1,
+            "patternType": "Black",
+            "confidence": 1,
+            "displayName": null,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:00.0667333",
+                "start": "0:00:00",
+                "end": "0:00:00.0667333"
+              },
+              {
+                "adjustedStart": "0:00:17.1171",
+                "adjustedEnd": "0:00:17.1504667",
+                "start": "0:00:17.1171",
+                "end": "0:00:17.1504667"
+              }
+            ]
+          }
+        ],
+        "speakers": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.29",
+                "adjustedEnd": "0:00:28.53",
+                "start": "0:00:28.29",
+                "end": "0:00:28.53"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 0,
+          "speakerTalkToListenRatio": {
+            "1": 1
+          },
+          "speakerLongestMonolog": {
+            "1": 0
+          },
+          "speakerNumberOfFragments": {
+            "1": 1
+          },
+          "speakerWordCount": {
+            "1": 1
+          }
+        }
+      },
+      "thumbnailId": "919e0673-eaea-4232-b43b-18b8831e145a",
+      "width": 1920,
+      "height": 1080,
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [
+        "en-US"
+      ],
+      "language": "en-US",
+      "languages": [
+        "en-US"
+      ],
+      "indexingPreset": "Default",
+      "streamingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "logoGroupId": null,
+      "isAdult": false,
+      "excludedAIs": [],
+      "isSearchable": true,
+      "publishedUrl": "https://api.videoindexer.ai/internals/Trial/Accounts/a9696e33-fd7a-4070-83f6-fc8d2e06633a/Videos/d21mmr237b/streaming-manifest/manifest.m3u8",
+      "publishedProxyUrl": null,
+      "viewToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJWZXJzaW9uIjoiMi4wLjAuMCIsIktleVZlcnNpb24iOiI1YmZmYWI1MTUwZWI0NGM4ODMzNzE2NzVhNzcwYzU4YSIsIkFjY291bnRJZCI6ImE5Njk2ZTMzLWZkN2EtNDA3MC04M2Y2LWZjOGQyZTA2NjMzYSIsIkFjY291bnRUeXBlIjoiVHJpYWwiLCJWaWRlb0lkIjoiZDIxbW1yMjM3YiIsIlBlcm1pc3Npb24iOiJSZXN0cmljdGVkVmlld2VyIiwiRXh0ZXJuYWxVc2VySWQiOiI4YzQ5NmY2ZThlZTZlYTIyIiwiVXNlclR5cGUiOiJNaWNyb3NvZnQiLCJJc3N1ZXJMb2NhdGlvbiI6IlRyaWFsIiwibmJmIjoxNzYxOTgyNTkwLCJleHAiOjE3NjE5ODY0OTAsImlzcyI6Imh0dHBzOi8vYXBpLnZpZGVvaW5kZXhlci5haS8iLCJhdWQiOiJodHRwczovL2FwaS52aWRlb2luZGV4ZXIuYWkvIn0.fAXYB--Lw51Pls47PkX3mv78Sd-uRVg49pAN6U_MYDrxEJP6-78SAWS2L4qWYd_5_qWu_lCFH1bZoPHRvh041cfMOZzq3JAo5rbFW1KGWWzSVyU3F93KV9DwgLEC37vGX7Wo7iDAVWjLrqYkm7j4zKDvo-mT-2pB7m-3LscinxRC6pwaMrH1Apxy8F4rG75sdmAklsHjHmtmWUn5rlJ1B19sJ7bEJNJTXO7JF7Rt4BzTKforOMlCUQU4aHQ1aF8orMl3YyWzpZtgj2bW81bnlYx493chREufcZqXqlDJLB0cE8GNRvjOSP5oP15x59awr8IsgWnV5_Ksv4FcYzRJNw"
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "d21mmr237b",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:00:50.341"
+      }
+    }
+  ]
+}

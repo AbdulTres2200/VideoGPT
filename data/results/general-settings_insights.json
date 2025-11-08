@@ -1,0 +1,21 @@
+{
+  "id": "txt_397205",
+  "name": "general-settings",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarketing\n\nSEO\nGeneral Settings\n\n1 min\nyou can set search engine friendly urls for your web pages, as well as enter google analytic code and google conversion tracking code to get an analysis of your website visitors we have provided settings in the system to manage these from admin >> store configuration >> site settings >> seo tab enable search engine optimizer with user friendly url enable search engine optimizer with user friendly url this setting will help you generate a search engine friendly url for the front store urls such as https //www example com/index php?productid=83671 will be avoided rather the system will show urls such as https //www example com/standard business cards enable search engine optimizer with rich snippets/schema org enable search engine optimizer with rich snippets/schema org this allows you to enable search engine optimization with rich snippets/schema org to know more about rich snippets/schema, please refer to moz guide set custom metatag set custom metatag here, you can add little snippets of code called metatags describing your website though this will not appear on the website anywhere, it appears on the source code product and category group seo url pattern product and category group seo url pattern here, you can manage the pattern of seo urls for front store product/category/group pages if seo friendly url setting is enabled click on the help icon to know more\nDid this page help you?\n\n\nPREVIOUS\nSEO\nNEXT\nPage title, Keyword setting\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

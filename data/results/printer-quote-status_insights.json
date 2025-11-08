@@ -1,0 +1,21 @@
+{
+  "id": "txt_404891",
+  "name": "printer-quote-status",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders, Quotes & Customers\n\n\nQuote Status\nPrinter Quote Status\n\n1 min\nas you assign a quote to the printer then the system will automatically update the status of those quotes you can review and edit different printer quote statuses from the admin >> quote management >> quote status >> printer quote status tab assigned to printer \u2013 as soon as you request to your printer to send an estimation of the quote, the quote status becomes \u2018assigned to printer\u2019 quotation declined \u2013 if the printer declines your quotation i e they decline your estimated request for the quote then the printer\u2019s quote status becomes \u2018quotation declined\u2019 quotation \u2013 if the printer sends you the requested estimated quote then the printer status of the quote becomes \u2018quotation\u2019 quotation approved \u2013 when you approve the printer\u2019s quote, then the status of quote changes to quotation approved and the printer receives an email for the same quotation disapproved \u2013 this status will appear when you (admin) will disapprove of the estimated quote sent by the printer\nDid this page help you?\n\n\nPREVIOUS\nCustomer Quote Status\nNEXT\nImposition - Beta Version\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

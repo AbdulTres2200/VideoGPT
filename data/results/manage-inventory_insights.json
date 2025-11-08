@@ -1,0 +1,21 @@
+{
+  "id": "txt_618465",
+  "name": "manage-inventory",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nB2B/Private Store - Pro Plan\n\nManaging Store\nManage Inventory\n\n3 min\noveview & purpose manage inventory option will allow store customers to place orders with large printing quantity when they don't want all printing quantities to be shipped at one time thus, this interface will allow admin to manage and store finished goods until the time of delivery in a more systematic way configuration for managing the store wise inventory, navigate to the admin >> store management >> stores >> select the store >> action menu >> configuration tab >> inventory this interface will basically keep a record of orders whose production process is complete below is the description of important fields min print quantity minimum require quantity to place an order time such that the inventory option is made available min ship quantity minimum require quantity for a shipment request cost per print unit one time inventory storage charges, applicable while ordering the product shipment handling cost charges will be applicable for each shipment request keep it blank for no charge(s) storage days maximum days for allowed to make shipment request keep it blank for no limit changes made in this section will have an effect on the storefront inventory option will be automatically enabled once inventory is set up for any product once an inventory order is placed successfully, the customer can raise shipment requests for the remaining quantity until inventory gets finished in a fixed time period if admin manages inventory for a product, then while placing an order store customer will get an option \u2018inventory\u2019 in the product additional info page the page will describe how customer can manage their inventory and make shipment requests the system will also display the minimum shipment quantity (refer to below image) , giving an idea to the customers about the quantity they should minimum request to ship while making a request for shipments\nDid this page help you?\n\n\nPREVIOUS\nMaster Markup\nNEXT\nStore Fields\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

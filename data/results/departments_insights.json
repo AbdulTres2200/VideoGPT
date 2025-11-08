@@ -1,0 +1,21 @@
+{
+  "id": "txt_797140",
+  "name": "departments",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nB2B/Private Store - Pro Plan\n\n\nStore Actions\nDepartments\n\n4 min\npurpose the departments tab allows the admin to add new and manage store departments note this tab only appears when \"department\" setting is enabled in the edit store screen configuration you can check the list of all departments and their basic details such as their email id, department code, and their pay on limit from the admin >> store management >> stores >> action >> departments pay on limit \u2013 this is the credit amount allocated to each branch status \u2013you can instantly toggle the status as either of the following make it active members of the selected department can access the store storefront make it inactive members of the selected department are restricted from accessing the storefront making department inactive will not run any delete functions add department to add a department, click on the \u2018 +add \u2019 button in the department dashboard this helps you to quickly create a department(s) for your store customers under store drop down, only those store will be listed for which department module is enabled fill in the add department form to create a department department enter the name of the department which you want to add into the store to email enter the email id(s) for the selected department all the updates regarding the department activities will be sent to the mentioned email address(es) cost center code the main function of the cost center is to track the expenses of the department this field will be displayed on department listing page & order information pages like view order detail, export orders, export order api, and generate order details report, etc pay on limit this field will only appear if the pay on limit in store setting is set to \u201cstore wise\u201d using this store admin and site admin can assign pay on account balance to each store enter the credit limit for this specific department next to the field, you will see the total pay on limit remaining for this store action menu edit allows you to select the store and edit the department details delete this option will appear only if there are no records under the department, customers or orders\nDid this page help you?\n\n\nPREVIOUS\nEdit Store\nNEXT\nView Store Customers\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

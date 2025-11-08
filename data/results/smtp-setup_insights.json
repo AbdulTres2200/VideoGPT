@@ -1,0 +1,21 @@
+{
+  "id": "txt_928955",
+  "name": "smtp-setup",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImportant Configurations\nSMTP Setup\n\n6 min\nsmtp (simple mail transfer protocol) is a push protocol to send emails it helps servers communicate and facilitates the delivery of an email message it verifies the configuration of the computer from where the email is sent with a follow up of the successfully delivered email at onprintshop, we provide your smtp setting on our server this means all the emails sent from your storefront to your customers, clients, etc will be delivered using your own smtp there are numerous advantages of having your smtp server; to list a few are \u2013 it will become very easy to control the delivered emails from your storefront smtp servers will save your emails from landing in the spam box or junk box of the receiver you get the flexibility to send more emails per day without any email bouncing back smtp servers save your email from being marked spam to set up your smtp server, you need to gather the following information smtp username smtp password smtp port smtp hostname you can get the above information from the ultimate smtp guides \u2013 gmail smtp settings yahoo smtp setting mailgun smtp setting in case you are configuring gmail smtp and you face any challenges in the \"create app password\" stage then, you can refer to this google help after gathering all the required data there is a need to integrate smtp into the admin panel read below a systematic guide to integrating smtp into your onprintshop website 1 configuration of smtp details into admin panel 1 configuration of smtp details into admin panel for admin panel configuration, navigate to the admin >> content management >> email/sms notification >> email configuration button (top right corner) 2 add new connection 2 add new connection on the email configuration page click on the add connection button at the top right corner on the add connection page, enter the collected data from smtp service providers enter the title, hostname, port number, username, and password click on the save & back after a successful connection, you will be able to send an email from your smtp server in case of any query or failure, contact the onprintshop support team at support\\@onprintshop com\nDid this page help you?\n\n\nPREVIOUS\nImportant Configurations\nNEXT\nLive Chat Integration\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

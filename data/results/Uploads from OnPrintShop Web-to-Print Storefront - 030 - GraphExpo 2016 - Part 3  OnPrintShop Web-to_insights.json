@@ -1,0 +1,3028 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+  "id": "q0id4gxa68",
+  "name": "Uploads from OnPrintShop Web-to-Print Storefront - 030 - GraphExpo 2016 - Part 3",
+  "userName": "Abdul Moiz",
+  "created": "2025-11-01T06:11:07.21+00:00",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 21,
+  "duration": "0:00:21.131",
+  "summarizedInsights": {
+    "name": "Uploads from OnPrintShop Web-to-Print Storefront - 030 - GraphExpo 2016 - Part 3",
+    "id": "q0id4gxa68",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:00:21.131",
+      "seconds": 21.1
+    },
+    "thumbnailVideoId": "q0id4gxa68",
+    "thumbnailId": "47a5c09e-b226-4863-afda-b6e346baf74e",
+    "faces": [
+      {
+        "videoId": "q0id4gxa68",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "15490e3f-d89e-4b13-a6f6-981653c4c43a",
+        "seenDuration": 21.1,
+        "seenDurationRatio": 0.9985,
+        "id": 1000,
+        "name": "Unknown #1",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:21.0543667",
+            "startSeconds": 0,
+            "endSeconds": 21.1
+          }
+        ]
+      },
+      {
+        "videoId": "q0id4gxa68",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "bf0b5a20-c3d5-4555-951c-6a295650135a",
+        "seenDuration": 21.1,
+        "seenDurationRatio": 0.9985,
+        "id": 1001,
+        "name": "Unknown #2",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:21.0543667",
+            "startSeconds": 0,
+            "endSeconds": 21.1
+          }
+        ]
+      },
+      {
+        "videoId": "q0id4gxa68",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "df5757ea-96ad-419a-bb8b-5478b395eee2",
+        "seenDuration": 1.5,
+        "seenDurationRatio": 0.071,
+        "id": 1097,
+        "name": "Unknown #3",
+        "appearances": [
+          {
+            "startTime": "0:00:19.6196",
+            "endTime": "0:00:21.0543667",
+            "startSeconds": 19.6,
+            "endSeconds": 21.1
+          }
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "isTranscript": true,
+        "id": 1,
+        "name": "child",
+        "appearances": [
+          {
+            "startTime": "0:00:01.92",
+            "endTime": "0:00:05.68",
+            "startSeconds": 1.9,
+            "endSeconds": 5.7
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 2,
+        "name": "father",
+        "appearances": [
+          {
+            "startTime": "0:00:12.84",
+            "endTime": "0:00:14.44",
+            "startSeconds": 12.8,
+            "endSeconds": 14.4
+          },
+          {
+            "startTime": "0:00:19.16",
+            "endTime": "0:00:21.04",
+            "startSeconds": 19.2,
+            "endSeconds": 21
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 3,
+        "name": "love",
+        "appearances": [
+          {
+            "startTime": "0:00:01.48",
+            "endTime": "0:00:01.76",
+            "startSeconds": 1.5,
+            "endSeconds": 1.8
+          },
+          {
+            "startTime": "0:00:12.84",
+            "endTime": "0:00:14.44",
+            "startSeconds": 12.8,
+            "endSeconds": 14.4
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 4,
+        "name": "print",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:21.0543667",
+            "startSeconds": 0,
+            "endSeconds": 21.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 5,
+        "name": "tions",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:08.0413667",
+            "startSeconds": 0,
+            "endSeconds": 8
+          },
+          {
+            "startTime": "0:00:13.013",
+            "endTime": "0:00:21.0543667",
+            "startSeconds": 13,
+            "endSeconds": 21.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 6,
+        "name": "rocketp",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:21.0543667",
+            "startSeconds": 0,
+            "endSeconds": 21.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 7,
+        "name": "lutions",
+        "appearances": [
+          {
+            "startTime": "0:00:06.006",
+            "endTime": "0:00:08.0413667",
+            "startSeconds": 6,
+            "endSeconds": 8
+          },
+          {
+            "startTime": "0:00:13.013",
+            "endTime": "0:00:21.0543667",
+            "startSeconds": 13,
+            "endSeconds": 21.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 8,
+        "name": "unch",
+        "appearances": [
+          {
+            "startTime": "0:00:06.006",
+            "endTime": "0:00:20.0533667",
+            "startSeconds": 6,
+            "endSeconds": 20.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 9,
+        "name": "prin",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:21.0543667",
+            "startSeconds": 0,
+            "endSeconds": 21.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 10,
+        "name": "harp",
+        "appearances": [
+          {
+            "startTime": "0:00:02.002",
+            "endTime": "0:00:05.0383667",
+            "startSeconds": 2,
+            "endSeconds": 5
+          },
+          {
+            "startTime": "0:00:17.017",
+            "endTime": "0:00:18.0513667",
+            "startSeconds": 17,
+            "endSeconds": 18.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 11,
+        "name": "sharp",
+        "appearances": [
+          {
+            "startTime": "0:00:04.004",
+            "endTime": "0:00:05.0383667",
+            "startSeconds": 4,
+            "endSeconds": 5
+          },
+          {
+            "startTime": "0:00:17.017",
+            "endTime": "0:00:18.0513667",
+            "startSeconds": 17,
+            "endSeconds": 18.1
+          }
+        ]
+      }
+    ],
+    "sentiments": [
+      {
+        "sentimentKey": "Neutral",
+        "seenDurationRatio": 0.9985,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:21.131",
+            "startSeconds": 0,
+            "endSeconds": 21.1
+          }
+        ]
+      },
+      {
+        "sentimentKey": "Negative",
+        "seenDurationRatio": 0.123,
+        "appearances": [
+          {
+            "startTime": "0:00:01.92",
+            "endTime": "0:00:02.72",
+            "startSeconds": 1.9,
+            "endSeconds": 2.7
+          },
+          {
+            "startTime": "0:00:19.16",
+            "endTime": "0:00:21.04",
+            "startSeconds": 19.2,
+            "endSeconds": 21
+          }
+        ]
+      },
+      {
+        "sentimentKey": "Positive",
+        "seenDurationRatio": 0.0757,
+        "appearances": [
+          {
+            "startTime": "0:00:12.84",
+            "endTime": "0:00:14.44",
+            "startSeconds": 12.8,
+            "endSeconds": 14.4
+          }
+        ]
+      }
+    ],
+    "emotions": [
+      {
+        "type": "Sad",
+        "seenDurationRatio": 0.123,
+        "appearances": [
+          {
+            "startTime": "0:00:01.92",
+            "endTime": "0:00:02.72",
+            "startSeconds": 1.9,
+            "endSeconds": 2.7
+          },
+          {
+            "startTime": "0:00:19.16",
+            "endTime": "0:00:21.04",
+            "startSeconds": 19.2,
+            "endSeconds": 21
+          }
+        ]
+      },
+      {
+        "type": "Joy",
+        "seenDurationRatio": 0.0757,
+        "appearances": [
+          {
+            "startTime": "0:00:12.84",
+            "endTime": "0:00:14.44",
+            "startSeconds": 12.8,
+            "endSeconds": 14.4
+          }
+        ]
+      }
+    ],
+    "audioEffects": [],
+    "labels": [
+      {
+        "id": 1,
+        "name": "clothing",
+        "appearances": [
+          {
+            "confidence": 0.9981,
+            "startTime": "0:00:00",
+            "endTime": "0:00:21.0543667",
+            "startSeconds": 0,
+            "endSeconds": 21.1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "person",
+        "appearances": [
+          {
+            "confidence": 0.9958,
+            "startTime": "0:00:00",
+            "endTime": "0:00:21.0543667",
+            "startSeconds": 0,
+            "endSeconds": 21.1
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "man",
+        "appearances": [
+          {
+            "confidence": 0.9824,
+            "startTime": "0:00:00",
+            "endTime": "0:00:21.0543667",
+            "startSeconds": 0,
+            "endSeconds": 21.1
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "text",
+        "appearances": [
+          {
+            "confidence": 0.9715,
+            "startTime": "0:00:00",
+            "endTime": "0:00:21.0543667",
+            "startSeconds": 0,
+            "endSeconds": 21.1
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "computer",
+        "appearances": [
+          {
+            "confidence": 0.9642,
+            "startTime": "0:00:00",
+            "endTime": "0:00:05.0383667",
+            "startSeconds": 0,
+            "endSeconds": 5
+          },
+          {
+            "confidence": 0.9529,
+            "startTime": "0:00:09.009",
+            "endTime": "0:00:11.0443667",
+            "startSeconds": 9,
+            "endSeconds": 11
+          },
+          {
+            "confidence": 0.9701,
+            "startTime": "0:00:17.017",
+            "endTime": "0:00:17.0503667",
+            "startSeconds": 17,
+            "endSeconds": 17.1
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "indoor",
+        "appearances": [
+          {
+            "confidence": 0.9584,
+            "startTime": "0:00:03.003",
+            "endTime": "0:00:05.0383667",
+            "startSeconds": 3,
+            "endSeconds": 5
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "job",
+        "appearances": [
+          {
+            "confidence": 0.9569,
+            "startTime": "0:00:10.01",
+            "endTime": "0:00:10.0433667",
+            "startSeconds": 10,
+            "endSeconds": 10
+          }
+        ]
+      }
+    ],
+    "framePatterns": [],
+    "brands": [
+      {
+        "referenceId": "Xerox",
+        "referenceUrl": "http://en.wikipedia.org/wiki/Xerox",
+        "confidence": 1,
+        "description": "Xerox Corporation /\u02c8z\u026a\u0259r\u0252ks/ is an American global corporation that sells business services and document technology products. Xerox is headquartered in Norwalk, Connecticut (moved from Stamford, Connecticut in October 2007), though its largest population of employees is based around Rochester, New York, the area in which the company was founded.",
+        "seenDuration": 21.1,
+        "id": 1,
+        "name": "Xerox",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:21.0543667",
+            "startSeconds": 0,
+            "endSeconds": 21.1
+          }
+        ]
+      }
+    ],
+    "namedLocations": [
+      {
+        "referenceId": null,
+        "referenceUrl": null,
+        "confidence": 0.7,
+        "description": null,
+        "seenDuration": 0.8,
+        "id": 1,
+        "name": "or",
+        "appearances": [
+          {
+            "startTime": "0:00:11.04",
+            "endTime": "0:00:11.76",
+            "startSeconds": 11,
+            "endSeconds": 11.8
+          }
+        ]
+      }
+    ],
+    "namedPeople": [],
+    "statistics": {
+      "correspondenceCount": 10,
+      "speakerTalkToListenRatio": {
+        "1": 0.33,
+        "2": 0.268,
+        "3": 0.16,
+        "4": 0.24
+      },
+      "speakerLongestMonolog": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 1
+      },
+      "speakerNumberOfFragments": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2
+      },
+      "speakerWordCount": {
+        "1": 10,
+        "2": 11,
+        "3": 6,
+        "4": 10
+      }
+    },
+    "topics": [
+      {
+        "referenceUrl": null,
+        "iptcName": "society/family/parenting",
+        "iabName": "Family and Relationships",
+        "confidence": 0.9944,
+        "id": 1,
+        "name": "Society, Family and Relationship/Family/Parenting",
+        "appearances": [
+          {
+            "startTime": "0:00:01.08",
+            "endTime": "0:00:21.04",
+            "startSeconds": 1.1,
+            "endSeconds": 21
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "society/family",
+        "iabName": "Family and Relationships",
+        "confidence": 0.9443,
+        "id": 2,
+        "name": "Society, Family and Relationship/Family",
+        "appearances": [
+          {
+            "startTime": "0:00:01.08",
+            "endTime": "0:00:21.04",
+            "startSeconds": 1.1,
+            "endSeconds": 21
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "education/parents group",
+        "iabName": "Family and Relationships",
+        "confidence": 0.9054,
+        "id": 3,
+        "name": "Society, Family and Relationship/Family/Parents",
+        "appearances": [
+          {
+            "startTime": "0:00:01.08",
+            "endTime": "0:00:21.04",
+            "startSeconds": 1.1,
+            "endSeconds": 21
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "education/students",
+        "iabName": "Education",
+        "confidence": 0.868,
+        "id": 4,
+        "name": "Education/School Children",
+        "appearances": [
+          {
+            "startTime": "0:00:01.08",
+            "endTime": "0:00:21.04",
+            "startSeconds": 1.1,
+            "endSeconds": 21
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "society/family/dating and relationships",
+        "iabName": "Family and Relationships",
+        "confidence": 0.8277,
+        "id": 5,
+        "name": "Society, Family and Relationship/Relationships/Dating and Relationships",
+        "appearances": [
+          {
+            "startTime": "0:00:01.08",
+            "endTime": "0:00:21.04",
+            "startSeconds": 1.1,
+            "endSeconds": 21
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "education/school/early childhood education",
+        "iabName": "Education",
+        "confidence": 0.8116,
+        "id": 6,
+        "name": "Education/Family/Child Development",
+        "appearances": [
+          {
+            "startTime": "0:00:01.08",
+            "endTime": "0:00:21.04",
+            "startSeconds": 1.1,
+            "endSeconds": 21
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "society/family/parenting",
+        "iabName": "Family and Relationships",
+        "confidence": 0.8082,
+        "id": 7,
+        "name": "Society, Family and Relationship/Family/Fatherhood",
+        "appearances": [
+          {
+            "startTime": "0:00:01.08",
+            "endTime": "0:00:21.04",
+            "startSeconds": 1.1,
+            "endSeconds": 21
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "society/family/parenting",
+        "iabName": "Family and Relationships",
+        "confidence": 0.6987,
+        "id": 8,
+        "name": "Society, Family and Relationship/Family/Fathers",
+        "appearances": [
+          {
+            "startTime": "0:00:01.08",
+            "endTime": "0:00:21.04",
+            "startSeconds": 1.1,
+            "endSeconds": 21
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "society/family/parenting",
+        "iabName": "Medical Health",
+        "confidence": 0.629,
+        "id": 9,
+        "name": "Health and Wellbeing/Psychology/Psychology and Parenting",
+        "appearances": [
+          {
+            "startTime": "0:00:01.08",
+            "endTime": "0:00:21.04",
+            "startSeconds": 1.1,
+            "endSeconds": 21
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "society/family",
+        "iabName": "Family and Relationships",
+        "confidence": 0.5438,
+        "id": 10,
+        "name": "Society, Family and Relationship/Family/Daughters",
+        "appearances": [
+          {
+            "startTime": "0:00:01.08",
+            "endTime": "0:00:21.04",
+            "startSeconds": 1.1,
+            "endSeconds": 21
+          }
+        ]
+      }
+    ]
+  },
+  "videos": [
+    {
+      "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+      "id": "q0id4gxa68",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:00:21.131",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [
+          "en-US"
+        ],
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "transcript": [
+          {
+            "id": 1,
+            "text": "Everybody.",
+            "confidence": 0.4677,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.08",
+                "adjustedEnd": "0:00:01.48",
+                "start": "0:00:01.08",
+                "end": "0:00:01.48"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "Loves.",
+            "confidence": 0.6922,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.48",
+                "adjustedEnd": "0:00:01.76",
+                "start": "0:00:01.48",
+                "end": "0:00:01.76"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "To see their children.",
+            "confidence": 0.6906,
+            "speakerId": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.92",
+                "adjustedEnd": "0:00:02.72",
+                "start": "0:00:01.92",
+                "end": "0:00:02.72"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "My child.",
+            "confidence": 0.3977,
+            "speakerId": 4,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:05.24",
+                "adjustedEnd": "0:00:05.68",
+                "start": "0:00:05.24",
+                "end": "0:00:05.68"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "Is.",
+            "confidence": 0.5878,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.64",
+                "adjustedEnd": "0:00:06.76",
+                "start": "0:00:06.64",
+                "end": "0:00:06.76"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "Playing.",
+            "confidence": 0.6749,
+            "speakerId": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.76",
+                "adjustedEnd": "0:00:06.96",
+                "start": "0:00:06.76",
+                "end": "0:00:06.96"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "Baseball or.",
+            "confidence": 0.5967,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.04",
+                "adjustedEnd": "0:00:11.76",
+                "start": "0:00:11.04",
+                "end": "0:00:11.76"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "As a father, I would love to have.",
+            "confidence": 0.5276,
+            "speakerId": 4,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12.84",
+                "adjustedEnd": "0:00:14.44",
+                "start": "0:00:12.84",
+                "end": "0:00:14.44"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "That's one idea we were thinking about.",
+            "confidence": 0.6143,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.12",
+                "adjustedEnd": "0:00:17.8",
+                "start": "0:00:16.12",
+                "end": "0:00:17.8"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "People.",
+            "confidence": 0.1866,
+            "speakerId": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:18.8",
+                "adjustedEnd": "0:00:19.16",
+                "start": "0:00:18.8",
+                "end": "0:00:19.16"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "Like my father has no memories of what I.",
+            "confidence": 0.6369,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:19.16",
+                "adjustedEnd": "0:00:21.04",
+                "start": "0:00:19.16",
+                "end": "0:00:21.04"
+              }
+            ]
+          }
+        ],
+        "ocr": [
+          {
+            "id": 1,
+            "text": "140",
+            "confidence": 0.996,
+            "left": 1576,
+            "top": 88,
+            "width": 20,
+            "height": 12,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:03.003",
+                "end": "0:00:03.0363667"
+              },
+              {
+                "adjustedStart": "0:00:05.005",
+                "adjustedEnd": "0:00:06.0393667",
+                "start": "0:00:05.005",
+                "end": "0:00:06.0393667"
+              },
+              {
+                "adjustedStart": "0:00:11.011",
+                "adjustedEnd": "0:00:12.0453667",
+                "start": "0:00:11.011",
+                "end": "0:00:12.0453667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "12",
+            "confidence": 0.979,
+            "left": 474,
+            "top": 593,
+            "width": 32,
+            "height": 18,
+            "angle": -4,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:17.017",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "Rocketprint",
+            "confidence": 0.994,
+            "left": 506,
+            "top": 57,
+            "width": 162,
+            "height": 28,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "Amazing Web to rint Features",
+            "confidence": 0.9506,
+            "left": 821,
+            "top": 62,
+            "width": 169,
+            "height": 23,
+            "angle": -9,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "xerox",
+            "confidence": 0.987,
+            "left": 1251,
+            "top": 78,
+            "width": 84,
+            "height": 24,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "Online Photobo",
+            "confidence": 0.998,
+            "left": 1753,
+            "top": 94,
+            "width": 165,
+            "height": 30,
+            "angle": -3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "Software",
+            "confidence": 0.998,
+            "left": 505,
+            "top": 90,
+            "width": 126,
+            "height": 28,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "to make e-C",
+            "confidence": 0.905,
+            "left": 824,
+            "top": 90,
+            "width": 68,
+            "height": 20,
+            "angle": -7,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "WEB to PRINT",
+            "confidence": 0.9967,
+            "left": 510,
+            "top": 138,
+            "width": 163,
+            "height": 24,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "tions",
+            "confidence": 0.998,
+            "left": 556,
+            "top": 168,
+            "width": 69,
+            "height": 21,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:04.0373667",
+                "start": "0:00:00",
+                "end": "0:00:04.0373667"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "Trade Printer So",
+            "confidence": 0.998,
+            "left": 1744,
+            "top": 292,
+            "width": 169,
+            "height": 29,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "Tailor-Made Solu",
+            "confidence": 0.994,
+            "left": 1740,
+            "top": 389,
+            "width": 177,
+            "height": 29,
+            "angle": 4,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "OnPrintShop",
+            "confidence": 0.988,
+            "left": 1286,
+            "top": 498,
+            "width": 69,
+            "height": 12,
+            "angle": -81,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:11.0443667",
+                "start": "0:00:00",
+                "end": "0:00:11.0443667"
+              },
+              {
+                "adjustedStart": "0:00:13.013",
+                "adjustedEnd": "0:00:15.0483667",
+                "start": "0:00:13.013",
+                "end": "0:00:15.0483667"
+              },
+              {
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:17.017",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "Rocketp",
+            "confidence": 0.939,
+            "left": 388,
+            "top": 444,
+            "width": 104,
+            "height": 26,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:00",
+                "end": "0:00:05.0383667"
+              },
+              {
+                "adjustedStart": "0:00:07.007",
+                "adjustedEnd": "0:00:19.0523667",
+                "start": "0:00:07.007",
+                "end": "0:00:19.0523667"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "WEB",
+            "confidence": 0.993,
+            "left": 412,
+            "top": 503,
+            "width": 64,
+            "height": 25,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:17.0503667",
+                "start": "0:00:00",
+                "end": "0:00:17.0503667"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "Our Resellers",
+            "confidence": 0.995,
+            "left": 1666,
+            "top": 528,
+            "width": 123,
+            "height": 26,
+            "angle": 11,
+            "language": "es-ES",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "Sol",
+            "confidence": 0.992,
+            "left": 457,
+            "top": 514,
+            "width": 52,
+            "height": 28,
+            "angle": -1,
+            "language": "fr-FR",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:04.0373667",
+                "start": "0:00:00",
+                "end": "0:00:04.0373667"
+              },
+              {
+                "adjustedStart": "0:00:07.007",
+                "adjustedEnd": "0:00:11.0443667",
+                "start": "0:00:07.007",
+                "end": "0:00:11.0443667"
+              },
+              {
+                "adjustedStart": "0:00:14.014",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:14.014",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "xer",
+            "confidence": 0.949,
+            "left": 1868,
+            "top": 603,
+            "width": 48,
+            "height": 24,
+            "angle": 7,
+            "language": "it-IT",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.0343667",
+                "start": "0:00:00",
+                "end": "0:00:01.0343667"
+              },
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:07.0403667",
+                "start": "0:00:06.006",
+                "end": "0:00:07.0403667"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "Designer Studi",
+            "confidence": 0.9365,
+            "left": 1755,
+            "top": 177,
+            "width": 163,
+            "height": 33,
+            "angle": -2,
+            "language": "it-IT",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:01.001",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "HARP S",
+            "confidence": 0.9275,
+            "left": 1482,
+            "top": 103,
+            "width": 57,
+            "height": 11,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:02.002",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:02.002",
+                "end": "0:00:02.0353667"
+              },
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:06.0393667",
+                "start": "0:00:06.006",
+                "end": "0:00:06.0393667"
+              },
+              {
+                "adjustedStart": "0:00:08.008",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:08.008",
+                "end": "0:00:10.0433667"
+              },
+              {
+                "adjustedStart": "0:00:12.012",
+                "adjustedEnd": "0:00:12.0453667",
+                "start": "0:00:12.012",
+                "end": "0:00:12.0453667"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "text": "ach",
+            "confidence": 0.961,
+            "left": 585,
+            "top": 218,
+            "width": 39,
+            "height": 20,
+            "angle": 3,
+            "language": "ga-IE",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:03.003",
+                "end": "0:00:03.0363667"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "text": "re",
+            "confidence": 0.992,
+            "left": 636,
+            "top": 452,
+            "width": 22,
+            "height": 17,
+            "angle": -3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:03.003",
+                "end": "0:00:05.0383667"
+              },
+              {
+                "adjustedStart": "0:00:07.007",
+                "adjustedEnd": "0:00:08.0413667",
+                "start": "0:00:07.007",
+                "end": "0:00:08.0413667"
+              },
+              {
+                "adjustedStart": "0:00:10.01",
+                "adjustedEnd": "0:00:14.0473667",
+                "start": "0:00:10.01",
+                "end": "0:00:14.0473667"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "text": "NO Start",
+            "confidence": 0.997,
+            "left": 433,
+            "top": 547,
+            "width": 79,
+            "height": 21,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:03.003",
+                "end": "0:00:03.0363667"
+              },
+              {
+                "adjustedStart": "0:00:05.005",
+                "adjustedEnd": "0:00:11.0443667",
+                "start": "0:00:05.005",
+                "end": "0:00:11.0443667"
+              },
+              {
+                "adjustedStart": "0:00:13.013",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:13.013",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "text": "SHARP S",
+            "confidence": 0.987,
+            "left": 1479,
+            "top": 119,
+            "width": 67,
+            "height": 11,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:04.004",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:04.004",
+                "end": "0:00:05.0383667"
+              },
+              {
+                "adjustedStart": "0:00:13.013",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:13.013",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "text": "DH",
+            "confidence": 0.955,
+            "left": 393,
+            "top": 56,
+            "width": 56,
+            "height": 22,
+            "angle": 4,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:05.005",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:05.005",
+                "end": "0:00:05.0383667"
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "text": "lutions",
+            "confidence": 0.929,
+            "left": 551,
+            "top": 154,
+            "width": 82,
+            "height": 22,
+            "angle": 1,
+            "language": "fr-FR",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:08.0413667",
+                "start": "0:00:06.006",
+                "end": "0:00:08.0413667"
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "text": "unch",
+            "confidence": 0.969,
+            "left": 553,
+            "top": 200,
+            "width": 53,
+            "height": 19,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:06.006",
+                "end": "0:00:10.0433667"
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "text": "So",
+            "confidence": 0.934,
+            "left": 455,
+            "top": 524,
+            "width": 36,
+            "height": 28,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:06.0393667",
+                "start": "0:00:06.006",
+                "end": "0:00:06.0393667"
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "text": "12 D",
+            "confidence": 0.929,
+            "left": 453,
+            "top": 593,
+            "width": 45,
+            "height": 19,
+            "angle": -1,
+            "language": "fr-FR",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:07.0403667",
+                "start": "0:00:06.006",
+                "end": "0:00:07.0403667"
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "text": "prin",
+            "confidence": 0.969,
+            "left": 1885,
+            "top": 743,
+            "width": 28,
+            "height": 14,
+            "angle": 6,
+            "language": "ro-RO",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:09.0423667",
+                "start": "0:00:06.006",
+                "end": "0:00:09.0423667"
+              }
+            ]
+          },
+          {
+            "id": 31,
+            "text": "xe",
+            "confidence": 0.956,
+            "left": 1877,
+            "top": 584,
+            "width": 36,
+            "height": 22,
+            "angle": 6,
+            "language": "vi-VN",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.008",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:08.008",
+                "end": "0:00:10.0433667"
+              },
+              {
+                "adjustedStart": "0:00:12.012",
+                "adjustedEnd": "0:00:14.0473667",
+                "start": "0:00:12.012",
+                "end": "0:00:14.0473667"
+              }
+            ]
+          },
+          {
+            "id": 32,
+            "text": "pr",
+            "confidence": 0.957,
+            "left": 1891,
+            "top": 742,
+            "width": 21,
+            "height": 14,
+            "angle": 5,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:10.01",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:10.01",
+                "end": "0:00:10.0433667"
+              },
+              {
+                "adjustedStart": "0:00:13.013",
+                "adjustedEnd": "0:00:13.0463667",
+                "start": "0:00:13.013",
+                "end": "0:00:13.0463667"
+              }
+            ]
+          },
+          {
+            "id": 33,
+            "text": "Dupl",
+            "confidence": 0.938,
+            "left": 86,
+            "top": 176,
+            "width": 30,
+            "height": 11,
+            "angle": 90,
+            "language": "es-ES",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12.012",
+                "adjustedEnd": "0:00:12.0453667",
+                "start": "0:00:12.012",
+                "end": "0:00:12.0453667"
+              },
+              {
+                "adjustedStart": "0:00:14.014",
+                "adjustedEnd": "0:00:17.0503667",
+                "start": "0:00:14.014",
+                "end": "0:00:17.0503667"
+              }
+            ]
+          },
+          {
+            "id": 34,
+            "text": "Solutions",
+            "confidence": 0.986,
+            "left": 526,
+            "top": 153,
+            "width": 112,
+            "height": 23,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:13.013",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:13.013",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 35,
+            "text": "aunch",
+            "confidence": 0.94,
+            "left": 558,
+            "top": 183,
+            "width": 65,
+            "height": 21,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:13.013",
+                "adjustedEnd": "0:00:20.0533667",
+                "start": "0:00:13.013",
+                "end": "0:00:20.0533667"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "text": "are",
+            "confidence": 0.995,
+            "left": 628,
+            "top": 466,
+            "width": 35,
+            "height": 21,
+            "angle": -3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.016",
+                "adjustedEnd": "0:00:20.0533667",
+                "start": "0:00:16.016",
+                "end": "0:00:20.0533667"
+              }
+            ]
+          },
+          {
+            "id": 37,
+            "text": "SHARP",
+            "confidence": 0.97,
+            "left": 1496,
+            "top": 92,
+            "width": 52,
+            "height": 12,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:18.0513667",
+                "start": "0:00:17.017",
+                "end": "0:00:18.0513667"
+              },
+              {
+                "adjustedStart": "0:00:20.02",
+                "adjustedEnd": "0:00:20.0533667",
+                "start": "0:00:20.02",
+                "end": "0:00:20.0533667"
+              }
+            ]
+          },
+          {
+            "id": 38,
+            "text": "WE",
+            "confidence": 0.998,
+            "left": 443,
+            "top": 475,
+            "width": 45,
+            "height": 26,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:18.018",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:18.018",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 39,
+            "text": "RICO",
+            "confidence": 0.929,
+            "left": 1738,
+            "top": 539,
+            "width": 99,
+            "height": 31,
+            "angle": 12,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:20.0533667",
+                "start": "0:00:19.019",
+                "end": "0:00:20.0533667"
+              }
+            ]
+          },
+          {
+            "id": 40,
+            "text": "au",
+            "confidence": 0.998,
+            "left": 545,
+            "top": 166,
+            "width": 31,
+            "height": 18,
+            "angle": 0,
+            "language": "fr-FR",
+            "instances": [
+              {
+                "adjustedStart": "0:00:21.021",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:21.021",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 1,
+            "text": "child",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.92",
+                "adjustedEnd": "0:00:02.72",
+                "start": "0:00:01.92",
+                "end": "0:00:02.72"
+              },
+              {
+                "adjustedStart": "0:00:05.24",
+                "adjustedEnd": "0:00:05.68",
+                "start": "0:00:05.24",
+                "end": "0:00:05.68"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "father",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12.84",
+                "adjustedEnd": "0:00:14.44",
+                "start": "0:00:12.84",
+                "end": "0:00:14.44"
+              },
+              {
+                "adjustedStart": "0:00:19.16",
+                "adjustedEnd": "0:00:21.04",
+                "start": "0:00:19.16",
+                "end": "0:00:21.04"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "love",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.48",
+                "adjustedEnd": "0:00:01.76",
+                "start": "0:00:01.48",
+                "end": "0:00:01.76"
+              },
+              {
+                "adjustedStart": "0:00:12.84",
+                "adjustedEnd": "0:00:14.44",
+                "start": "0:00:12.84",
+                "end": "0:00:14.44"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "print",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:11.0443667",
+                "start": "0:00:00",
+                "end": "0:00:11.0443667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "tions",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:04.0373667",
+                "start": "0:00:00",
+                "end": "0:00:04.0373667"
+              },
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:08.0413667",
+                "start": "0:00:06.006",
+                "end": "0:00:08.0413667"
+              },
+              {
+                "adjustedStart": "0:00:13.013",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:13.013",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "rocketp",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:00",
+                "end": "0:00:05.0383667"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "lutions",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:08.0413667",
+                "start": "0:00:06.006",
+                "end": "0:00:08.0413667"
+              },
+              {
+                "adjustedStart": "0:00:13.013",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:13.013",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "unch",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:06.006",
+                "end": "0:00:10.0433667"
+              },
+              {
+                "adjustedStart": "0:00:13.013",
+                "adjustedEnd": "0:00:20.0533667",
+                "start": "0:00:13.013",
+                "end": "0:00:20.0533667"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "prin",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:11.0443667",
+                "start": "0:00:00",
+                "end": "0:00:11.0443667"
+              },
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:09.0423667",
+                "start": "0:00:06.006",
+                "end": "0:00:09.0423667"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "harp",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:02.002",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:02.002",
+                "end": "0:00:02.0353667"
+              },
+              {
+                "adjustedStart": "0:00:04.004",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:04.004",
+                "end": "0:00:05.0383667"
+              },
+              {
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:18.0513667",
+                "start": "0:00:17.017",
+                "end": "0:00:18.0513667"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "sharp",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:04.004",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:04.004",
+                "end": "0:00:05.0383667"
+              },
+              {
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:18.0513667",
+                "start": "0:00:17.017",
+                "end": "0:00:18.0513667"
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 1,
+            "name": "Parenting",
+            "referenceId": "Society, Family and Relationship/Family/Parenting",
+            "referenceType": "VideoIndexer",
+            "iptcName": "society/family/parenting",
+            "confidence": 0.9944,
+            "iabName": "Family and Relationships",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.08",
+                "adjustedEnd": "0:00:21.04",
+                "start": "0:00:01.08",
+                "end": "0:00:21.04"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Family",
+            "referenceId": "Society, Family and Relationship/Family",
+            "referenceType": "VideoIndexer",
+            "iptcName": "society/family",
+            "confidence": 0.9443,
+            "iabName": "Family and Relationships",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.08",
+                "adjustedEnd": "0:00:21.04",
+                "start": "0:00:01.08",
+                "end": "0:00:21.04"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Parents",
+            "referenceId": "Society, Family and Relationship/Family/Parents",
+            "referenceType": "VideoIndexer",
+            "iptcName": "education/parents group",
+            "confidence": 0.9054,
+            "iabName": "Family and Relationships",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.08",
+                "adjustedEnd": "0:00:21.04",
+                "start": "0:00:01.08",
+                "end": "0:00:21.04"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "School Children",
+            "referenceId": "Education/School Children",
+            "referenceType": "VideoIndexer",
+            "iptcName": "education/students",
+            "confidence": 0.868,
+            "iabName": "Education",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.08",
+                "adjustedEnd": "0:00:21.04",
+                "start": "0:00:01.08",
+                "end": "0:00:21.04"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Dating and Relationships",
+            "referenceId": "Society, Family and Relationship/Relationships/Dating and Relationships",
+            "referenceType": "VideoIndexer",
+            "iptcName": "society/family/dating and relationships",
+            "confidence": 0.8277,
+            "iabName": "Family and Relationships",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.08",
+                "adjustedEnd": "0:00:21.04",
+                "start": "0:00:01.08",
+                "end": "0:00:21.04"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Child Development",
+            "referenceId": "Education/Family/Child Development",
+            "referenceType": "VideoIndexer",
+            "iptcName": "education/school/early childhood education",
+            "confidence": 0.8116,
+            "iabName": "Education",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.08",
+                "adjustedEnd": "0:00:21.04",
+                "start": "0:00:01.08",
+                "end": "0:00:21.04"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Fatherhood",
+            "referenceId": "Society, Family and Relationship/Family/Fatherhood",
+            "referenceType": "VideoIndexer",
+            "iptcName": "society/family/parenting",
+            "confidence": 0.8082,
+            "iabName": "Family and Relationships",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.08",
+                "adjustedEnd": "0:00:21.04",
+                "start": "0:00:01.08",
+                "end": "0:00:21.04"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Fathers",
+            "referenceId": "Society, Family and Relationship/Family/Fathers",
+            "referenceType": "VideoIndexer",
+            "iptcName": "society/family/parenting",
+            "confidence": 0.6987,
+            "iabName": "Family and Relationships",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.08",
+                "adjustedEnd": "0:00:21.04",
+                "start": "0:00:01.08",
+                "end": "0:00:21.04"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Psychology and Parenting",
+            "referenceId": "Health and Wellbeing/Psychology/Psychology and Parenting",
+            "referenceType": "VideoIndexer",
+            "iptcName": "society/family/parenting",
+            "confidence": 0.629,
+            "iabName": "Medical Health",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.08",
+                "adjustedEnd": "0:00:21.04",
+                "start": "0:00:01.08",
+                "end": "0:00:21.04"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Daughters",
+            "referenceId": "Society, Family and Relationship/Family/Daughters",
+            "referenceType": "VideoIndexer",
+            "iptcName": "society/family",
+            "confidence": 0.5438,
+            "iabName": "Family and Relationships",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.08",
+                "adjustedEnd": "0:00:21.04",
+                "start": "0:00:01.08",
+                "end": "0:00:21.04"
+              }
+            ]
+          }
+        ],
+        "faces": [
+          {
+            "id": 1000,
+            "name": "Unknown #1",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "15490e3f-d89e-4b13-a6f6-981653c4c43a",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "c9054c3e-1271-4d3e-8739-7ca1e1ad9657",
+                "fileName": "FaceInstanceThumbnail_c9054c3e-1271-4d3e-8739-7ca1e1ad9657.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:00",
+                    "adjustedEnd": "0:00:00.0333666",
+                    "start": "0:00:00",
+                    "end": "0:00:00.0333666"
+                  }
+                ]
+              },
+              {
+                "id": "52dd7a18-0822-4ef8-a649-b465b10d906b",
+                "fileName": "FaceInstanceThumbnail_52dd7a18-0822-4ef8-a649-b465b10d906b.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:05.1384666",
+                    "adjustedEnd": "0:00:05.1718332",
+                    "start": "0:00:05.1384666",
+                    "end": "0:00:05.1718332"
+                  }
+                ]
+              },
+              {
+                "id": "f156bd2d-9708-4aa3-9e41-9e9f286157ce",
+                "fileName": "FaceInstanceThumbnail_f156bd2d-9708-4aa3-9e41-9e9f286157ce.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:10.2769333",
+                    "adjustedEnd": "0:00:10.3102999",
+                    "start": "0:00:10.2769333",
+                    "end": "0:00:10.3102999"
+                  }
+                ]
+              },
+              {
+                "id": "b1235034-09aa-45c5-9f91-5a549ada7c33",
+                "fileName": "FaceInstanceThumbnail_b1235034-09aa-45c5-9f91-5a549ada7c33.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:15.4154",
+                    "adjustedEnd": "0:00:15.4487666",
+                    "start": "0:00:15.4154",
+                    "end": "0:00:15.4487666"
+                  }
+                ]
+              },
+              {
+                "id": "29761e80-d5e9-40aa-9a4f-33ba84805835",
+                "fileName": "FaceInstanceThumbnail_29761e80-d5e9-40aa-9a4f-33ba84805835.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:20.5538666",
+                    "adjustedEnd": "0:00:20.5872332",
+                    "start": "0:00:20.5538666",
+                    "end": "0:00:20.5872332"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "52dd7a18-0822-4ef8-a649-b465b10d906b",
+                  "c9054c3e-1271-4d3e-8739-7ca1e1ad9657",
+                  "b1235034-09aa-45c5-9f91-5a549ada7c33",
+                  "f156bd2d-9708-4aa3-9e41-9e9f286157ce",
+                  "29761e80-d5e9-40aa-9a4f-33ba84805835"
+                ],
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 1001,
+            "name": "Unknown #2",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "bf0b5a20-c3d5-4555-951c-6a295650135a",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "d5c25bed-d344-4601-aab5-b2003d0c2ecb",
+                "fileName": "FaceInstanceThumbnail_d5c25bed-d344-4601-aab5-b2003d0c2ecb.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:00",
+                    "adjustedEnd": "0:00:00.0333666",
+                    "start": "0:00:00",
+                    "end": "0:00:00.0333666"
+                  }
+                ]
+              },
+              {
+                "id": "42e51bcb-24b8-4aac-a3e6-73deb1bf4233",
+                "fileName": "FaceInstanceThumbnail_42e51bcb-24b8-4aac-a3e6-73deb1bf4233.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:04.2042",
+                    "adjustedEnd": "0:00:04.2375666",
+                    "start": "0:00:04.2042",
+                    "end": "0:00:04.2375666"
+                  }
+                ]
+              },
+              {
+                "id": "0da64a6b-9d39-4a3b-a99b-581075aaeb49",
+                "fileName": "FaceInstanceThumbnail_0da64a6b-9d39-4a3b-a99b-581075aaeb49.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:05.1384666",
+                    "adjustedEnd": "0:00:05.1718332",
+                    "start": "0:00:05.1384666",
+                    "end": "0:00:05.1718332"
+                  }
+                ]
+              },
+              {
+                "id": "c3388b41-187b-485a-99b2-f8fda23e031c",
+                "fileName": "FaceInstanceThumbnail_c3388b41-187b-485a-99b2-f8fda23e031c.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:10.2769333",
+                    "adjustedEnd": "0:00:10.3102999",
+                    "start": "0:00:10.2769333",
+                    "end": "0:00:10.3102999"
+                  }
+                ]
+              },
+              {
+                "id": "754d09b5-74e7-4933-b00d-a17e14102345",
+                "fileName": "FaceInstanceThumbnail_754d09b5-74e7-4933-b00d-a17e14102345.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:15.4154",
+                    "adjustedEnd": "0:00:15.4487666",
+                    "start": "0:00:15.4154",
+                    "end": "0:00:15.4487666"
+                  }
+                ]
+              },
+              {
+                "id": "b5287939-3b0e-4eee-beb2-ca6099583c2d",
+                "fileName": "FaceInstanceThumbnail_b5287939-3b0e-4eee-beb2-ca6099583c2d.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:20.5538666",
+                    "adjustedEnd": "0:00:20.5872332",
+                    "start": "0:00:20.5538666",
+                    "end": "0:00:20.5872332"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "42e51bcb-24b8-4aac-a3e6-73deb1bf4233",
+                  "c3388b41-187b-485a-99b2-f8fda23e031c",
+                  "0da64a6b-9d39-4a3b-a99b-581075aaeb49",
+                  "754d09b5-74e7-4933-b00d-a17e14102345",
+                  "d5c25bed-d344-4601-aab5-b2003d0c2ecb",
+                  "b5287939-3b0e-4eee-beb2-ca6099583c2d"
+                ],
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 1097,
+            "name": "Unknown #3",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "df5757ea-96ad-419a-bb8b-5478b395eee2",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "934f7e17-df54-4932-b2e8-eeb4039f3583",
+                "fileName": "FaceInstanceThumbnail_934f7e17-df54-4932-b2e8-eeb4039f3583.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:20.5538666",
+                    "adjustedEnd": "0:00:20.5872332",
+                    "start": "0:00:20.5538666",
+                    "end": "0:00:20.5872332"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "934f7e17-df54-4932-b2e8-eeb4039f3583"
+                ],
+                "adjustedStart": "0:00:19.6196",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:19.6196",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "clothing",
+            "referenceId": "consumer goods/clothing",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9981,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "person",
+            "referenceId": "person",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9958,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "man",
+            "referenceId": "person/man",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9824,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "text",
+            "referenceId": "communication/writing/text",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9745,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:13.0463667",
+                "start": "0:00:00",
+                "end": "0:00:13.0463667"
+              },
+              {
+                "confidence": 0.9715,
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:15.015",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "computer",
+            "referenceId": "device/machine/computer",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.963,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:00.0333667",
+                "start": "0:00:00",
+                "end": "0:00:00.0333667"
+              },
+              {
+                "confidence": 0.9642,
+                "adjustedStart": "0:00:02.002",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:02.002",
+                "end": "0:00:05.0383667"
+              },
+              {
+                "confidence": 0.9529,
+                "adjustedStart": "0:00:09.009",
+                "adjustedEnd": "0:00:11.0443667",
+                "start": "0:00:09.009",
+                "end": "0:00:11.0443667"
+              },
+              {
+                "confidence": 0.9701,
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:17.0503667",
+                "start": "0:00:17.017",
+                "end": "0:00:17.0503667"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "indoor",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9597,
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:03.003",
+                "end": "0:00:03.0363667"
+              },
+              {
+                "confidence": 0.9584,
+                "adjustedStart": "0:00:05.005",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:05.005",
+                "end": "0:00:05.0383667"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "job",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9569,
+                "adjustedStart": "0:00:10.01",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:10.01",
+                "end": "0:00:10.0433667"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "tags": [
+              "Medium"
+            ],
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "f94e39ef-a571-4f3d-998a-9c39dbe9361b",
+                    "adjustedStart": "0:00:00.2002",
+                    "adjustedEnd": "0:00:00.2335667",
+                    "start": "0:00:00.2002",
+                    "end": "0:00:00.2335667"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "4b8666bd-c7fe-4842-964a-d8d41c730edf",
+                    "adjustedStart": "0:00:05.2719333",
+                    "adjustedEnd": "0:00:05.3053",
+                    "start": "0:00:05.2719333",
+                    "end": "0:00:05.3053"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          }
+        ],
+        "brands": [
+          {
+            "id": 1,
+            "referenceType": "Wiki",
+            "name": "Xerox",
+            "referenceId": "Xerox",
+            "referenceUrl": "http://en.wikipedia.org/wiki/Xerox",
+            "description": "Xerox Corporation /\u02c8z\u026a\u0259r\u0252ks/ is an American global corporation that sells business services and document technology products. Xerox is headquartered in Norwalk, Connecticut (moved from Stamford, Connecticut in October 2007), though its largest population of employees is based around Rochester, New York, the area in which the company was founded.",
+            "tags": [],
+            "confidence": 1,
+            "isCustom": false,
+            "instances": [
+              {
+                "brandType": "Ocr",
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:00",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          }
+        ],
+        "namedLocations": [
+          {
+            "id": 1,
+            "name": "or",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 0.7,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:11.04",
+                "adjustedEnd": "0:00:11.76",
+                "start": "0:00:11.04",
+                "end": "0:00:11.76"
+              }
+            ]
+          }
+        ],
+        "detectedObjects": [
+          {
+            "id": 1,
+            "type": "Chair",
+            "thumbnailId": "20d594fa-342a-4179-a583-922a44d15a06",
+            "displayName": "chair",
+            "wikiDataId": "Q15026",
+            "instances": [
+              {
+                "confidence": 0.59,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:06.7067",
+                "start": "0:00:00",
+                "end": "0:00:06.7067"
+              },
+              {
+                "confidence": 0.836,
+                "adjustedStart": "0:00:07.173833",
+                "adjustedEnd": "0:00:21.054367",
+                "start": "0:00:07.173833",
+                "end": "0:00:21.054367"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "type": "Book",
+            "thumbnailId": "1a8c9fca-6184-419d-8df1-ce9a2bca6b7a",
+            "displayName": "book",
+            "wikiDataId": "Q571",
+            "instances": [
+              {
+                "confidence": 0.511,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:05.2052",
+                "start": "0:00:00",
+                "end": "0:00:05.2052"
+              },
+              {
+                "confidence": 0.486,
+                "adjustedStart": "0:00:05.839167",
+                "adjustedEnd": "0:00:07.2072",
+                "start": "0:00:05.839167",
+                "end": "0:00:07.2072"
+              },
+              {
+                "confidence": 0.433,
+                "adjustedStart": "0:00:07.674333",
+                "adjustedEnd": "0:00:14.047367",
+                "start": "0:00:07.674333",
+                "end": "0:00:14.047367"
+              },
+              {
+                "confidence": 0.38,
+                "adjustedStart": "0:00:14.5145",
+                "adjustedEnd": "0:00:20.887533",
+                "start": "0:00:14.5145",
+                "end": "0:00:20.887533"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "type": "Necktie",
+            "thumbnailId": "13d599fe-8222-4e07-909b-320dac912cc4",
+            "displayName": "necktie",
+            "wikiDataId": "Q44416",
+            "instances": [
+              {
+                "confidence": 0.564,
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.370033",
+                "start": "0:00:03.003",
+                "end": "0:00:03.370033"
+              },
+              {
+                "confidence": 0.546,
+                "adjustedStart": "0:00:17.684333",
+                "adjustedEnd": "0:00:17.7177",
+                "start": "0:00:17.684333",
+                "end": "0:00:17.7177"
+              },
+              {
+                "confidence": 0.539,
+                "adjustedStart": "0:00:18.184833",
+                "adjustedEnd": "0:00:18.385033",
+                "start": "0:00:18.184833",
+                "end": "0:00:18.385033"
+              }
+            ]
+          }
+        ],
+        "sentiments": [
+          {
+            "id": 1,
+            "averageScore": 0.5,
+            "sentimentType": "Neutral",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.92",
+                "start": "0:00:00",
+                "end": "0:00:01.92"
+              },
+              {
+                "adjustedStart": "0:00:02.72",
+                "adjustedEnd": "0:00:12.84",
+                "start": "0:00:02.72",
+                "end": "0:00:12.84"
+              },
+              {
+                "adjustedStart": "0:00:14.44",
+                "adjustedEnd": "0:00:19.16",
+                "start": "0:00:14.44",
+                "end": "0:00:19.16"
+              },
+              {
+                "adjustedStart": "0:00:21.04",
+                "adjustedEnd": "0:00:21.131",
+                "start": "0:00:21.04",
+                "end": "0:00:21.131"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "averageScore": 0.1719,
+            "sentimentType": "Negative",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.92",
+                "adjustedEnd": "0:00:02.72",
+                "start": "0:00:01.92",
+                "end": "0:00:02.72"
+              },
+              {
+                "adjustedStart": "0:00:19.16",
+                "adjustedEnd": "0:00:21.04",
+                "start": "0:00:19.16",
+                "end": "0:00:21.04"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "averageScore": 0.9616,
+            "sentimentType": "Positive",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12.84",
+                "adjustedEnd": "0:00:14.44",
+                "start": "0:00:12.84",
+                "end": "0:00:14.44"
+              }
+            ]
+          }
+        ],
+        "emotions": [
+          {
+            "id": 1,
+            "type": "Sad",
+            "instances": [
+              {
+                "confidence": 0.8638,
+                "adjustedStart": "0:00:01.92",
+                "adjustedEnd": "0:00:02.72",
+                "start": "0:00:01.92",
+                "end": "0:00:02.72"
+              },
+              {
+                "confidence": 0.8573,
+                "adjustedStart": "0:00:19.16",
+                "adjustedEnd": "0:00:21.04",
+                "start": "0:00:19.16",
+                "end": "0:00:21.04"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "type": "Joy",
+            "instances": [
+              {
+                "confidence": 0.7437,
+                "adjustedStart": "0:00:12.84",
+                "adjustedEnd": "0:00:14.44",
+                "start": "0:00:12.84",
+                "end": "0:00:14.44"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.131",
+                "start": "0:00:00",
+                "end": "0:00:21.131"
+              }
+            ]
+          }
+        ],
+        "speakers": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.08",
+                "adjustedEnd": "0:00:01.48",
+                "start": "0:00:01.08",
+                "end": "0:00:01.48"
+              },
+              {
+                "adjustedStart": "0:00:11.04",
+                "adjustedEnd": "0:00:11.76",
+                "start": "0:00:11.04",
+                "end": "0:00:11.76"
+              },
+              {
+                "adjustedStart": "0:00:16.12",
+                "adjustedEnd": "0:00:17.8",
+                "start": "0:00:16.12",
+                "end": "0:00:17.8"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Speaker #2",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.48",
+                "adjustedEnd": "0:00:01.76",
+                "start": "0:00:01.48",
+                "end": "0:00:01.76"
+              },
+              {
+                "adjustedStart": "0:00:06.64",
+                "adjustedEnd": "0:00:06.76",
+                "start": "0:00:06.64",
+                "end": "0:00:06.76"
+              },
+              {
+                "adjustedStart": "0:00:19.16",
+                "adjustedEnd": "0:00:21.04",
+                "start": "0:00:19.16",
+                "end": "0:00:21.04"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Speaker #3",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.92",
+                "adjustedEnd": "0:00:02.72",
+                "start": "0:00:01.92",
+                "end": "0:00:02.72"
+              },
+              {
+                "adjustedStart": "0:00:06.76",
+                "adjustedEnd": "0:00:06.96",
+                "start": "0:00:06.76",
+                "end": "0:00:06.96"
+              },
+              {
+                "adjustedStart": "0:00:18.8",
+                "adjustedEnd": "0:00:19.16",
+                "start": "0:00:18.8",
+                "end": "0:00:19.16"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Speaker #4",
+            "instances": [
+              {
+                "adjustedStart": "0:00:05.24",
+                "adjustedEnd": "0:00:05.68",
+                "start": "0:00:05.24",
+                "end": "0:00:05.68"
+              },
+              {
+                "adjustedStart": "0:00:12.84",
+                "adjustedEnd": "0:00:14.44",
+                "start": "0:00:12.84",
+                "end": "0:00:14.44"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 10,
+          "speakerTalkToListenRatio": {
+            "1": 0.33,
+            "2": 0.268,
+            "3": 0.16,
+            "4": 0.24
+          },
+          "speakerLongestMonolog": {
+            "1": 1,
+            "2": 1,
+            "3": 0,
+            "4": 1
+          },
+          "speakerNumberOfFragments": {
+            "1": 3,
+            "2": 3,
+            "3": 3,
+            "4": 2
+          },
+          "speakerWordCount": {
+            "1": 10,
+            "2": 11,
+            "3": 6,
+            "4": 10
+          }
+        }
+      },
+      "thumbnailId": "47a5c09e-b226-4863-afda-b6e346baf74e",
+      "width": 1920,
+      "height": 1080,
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [
+        "en-US"
+      ],
+      "language": "en-US",
+      "languages": [
+        "en-US"
+      ],
+      "indexingPreset": "Default",
+      "streamingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "logoGroupId": null,
+      "isAdult": false,
+      "excludedAIs": [],
+      "isSearchable": true,
+      "publishedUrl": "https://api.videoindexer.ai/internals/eastus/Accounts/fbafe9ff-1c94-40bd-987e-a4e4dfe52365/Videos/q0id4gxa68/streaming-manifest/manifest.m3u8",
+      "publishedProxyUrl": null,
+      "viewToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJWZXJzaW9uIjoiMi4wLjAuMCIsIktleVZlcnNpb24iOiI1YmZmYWI1MTUwZWI0NGM4ODMzNzE2NzVhNzcwYzU4YSIsIkFjY291bnRJZCI6ImZiYWZlOWZmLTFjOTQtNDBiZC05ODdlLWE0ZTRkZmU1MjM2NSIsIkFjY291bnRUeXBlIjoiQ2xhc3NpYyIsIlZpZGVvSWQiOiJxMGlkNGd4YTY4IiwiUGVybWlzc2lvbiI6IlJlc3RyaWN0ZWRWaWV3ZXIiLCJFeHRlcm5hbFVzZXJJZCI6IjYxMzM3QzI2RUFCQjRGNEU5MjA3NURBNjAyQ0IyQTQzIiwiVXNlclR5cGUiOiJNaWNyb3NvZnRDb3JwQWFkIiwiSXNzdWVyTG9jYXRpb24iOiJlYXN0dXMiLCJuYmYiOjE3NjE5NzcyMjMsImV4cCI6MTc2MTk4MTEyMywiaXNzIjoiaHR0cHM6Ly9hcGkudmlkZW9pbmRleGVyLmFpLyIsImF1ZCI6Imh0dHBzOi8vYXBpLnZpZGVvaW5kZXhlci5haS8ifQ.GOqvEAtP1fHEoW3fy7bCWPuCA5DDW0g0qPF-05cHEfsiD3P_2Rh2GHHc-OI3y3hfMS1dBDfB8E4eyhMFNewdM8OiCqCuhueDxn3AQK-UZyCpnYdy77rxOwznFq9X7r9MlmjtAaey4CKlXdlWUTB_XSufyRI0vv3Em8PCpGtGHuiXo0jMnPWYYUsgd66h6wbE3VQz5KE3gppejLgABN_73DhBbnKiMzrpyW8cs7b_vW7URgEeq5eieHr_TPINy4ZnPitKSkjyaE7swFfqCkPXhM2t7_HDfqYFEkESmjl61KCIPVJj4tZUL3umT2dAI0yGuYISAEJoewRV2YV3Hsd6ag"
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "q0id4gxa68",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:00:21.131"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "txt_894671",
+  "name": "custom-forms",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\n\nManage Forms\nCustom Forms\n\n7 min\noverview & purpose if you are running a marketing campaign or collecting data for some survey from your customers, you can now create these forms from the admin panel this screen allows you to create and display custom forms on any cms page to collect data and seamlessly meet your unique business requirements on accessing this menu, you will be redirected to the forms listing page from where you can create the custom forms via the add button and manage the form fields using the manage form fields button configuration add custom form to create new forms for the website, navigate to store configuration > manage forms from the manage forms main screen, click on the add button now, for the new form, define for which store, you are creating this form, give a title such as product interest survey form, select the layout of the form as the fields will be displayed in one column or two columns, and choose to notify admin or customer and enable the status of the form as active now, it is time to assign the custom form fields so, let\u2019s select these fields, and if you want you can change the sequence of the fields by simply dragging and dropping as per your need once you are done, click on save and back button display form at front to display the form on the website, the admin needs to create a cms page and add the block along with the form unique id separated with a pipe {% block custom form|uniqueid%} to see how this form will appear on the website, click on the preview icon against the cms page email notifications email templates for custom forms allow admins to automate communication with users based on their form submissions these templates ensure seamless interaction by delivering timely notifications, confirmations, or updates to both the admin and the end user with customizable content, you can tailor the email templates to include dynamic information such as form field data, user details, or submission timestamps this not only enhances the professional appeal of your emails but also improves user engagement and operational efficiency for example, when a customer submits a custom form, an automated confirmation email can be sent, acknowledging their submission and providing further details similarly, admins can receive notifications about new submissions to take immediate action by leveraging email templates for custom forms, you can establish clear and efficient communication while maintaining consistency across all touchpoints sms notifications in addition to email notifications, users will receive instant sms updates when a custom form is submitted admins can customize sms templates from content management > email/sms > sms notifications > add screen to align with their communication style, helping streamline lead management, feedback collection, and service requests to enable sms notifications for a custom form, the admin must activate the \u2018notify admin\u2019 option and provide a valid phone number in the sms template panel for that specific form to notify customers, the \u2018notify customer\u2019 option must also be enabled these settings apply to both sms and email notifications when \u2018notify customer\u2019 is selected, the system needs to know which form field contains the customer\u2019s phone number for this, a phone number field selector is available in the add/edit custom form panel once the appropriate field is selected, its value will be used as the recipient number for sending sms notifications\nDid this page help you?\n\n\nPREVIOUS\nManage Form Fields\nNEXT\nManage Site Access\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

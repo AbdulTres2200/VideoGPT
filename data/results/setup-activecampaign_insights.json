@@ -1,0 +1,21 @@
+{
+  "id": "txt_606158",
+  "name": "setup-activecampaign",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmail Marketing\nSetup ActiveCampaign\n\n8 min\noverview & purpose activecampaign is a cloud based software platform that offers customer experience automation including sales automation, email marketing, marketing automation, and crm categories in this integration, we have given automatic one way sync of customer, order, and abandon cart details from the onprintshop system to your activecampaign system how to integrate let\u2019s see the steps to integrate activecampaign with your onprintshop website 1 register to the activecampaign website 1 register to the activecampaign website the first of the integration is to get yourself registered with the activecampaign website and then logged into your account visit the activecampaign site and register your account in 4 simple steps enter your email id and click on the try it free button enter your name and phone number and click on the next step button select the best suitable answers to personalize the platform and experience and click on the next step button finally, create a password for your account and click on the take me to my account button to reach your dashboard 2 get url and api key 2 get url and api key to integrate activecampaign and use its services, you need to integrate the onprintshop store using api url and api key to get the credentials on your dashboard, go to the settings >> developer here, you will see the url and key for the api access copy the url as well as key and keep it somewhere safe and secure 3 configuration into admin panel 3 configuration into admin panel finally, you need to enter the saved url and key into your admin panel go to the admin >> store configuration >> external service settings >> digital marketing tab >> activecampaign \u2018action\u2019 drop down >> \u2018edit\u2019 option api url enter the url saved in step 2 api key enter the saved api key in step 2 select list select the user group to which your newly registered customers will be mapped in the activecampaign select service select the service from the drop down via which the onprintshop admin panel and your activecampaign account will be connected you can also create a new service using the plus icon and specify the company name and display name customer extra field select any extra customer detail fields from the drop down to map save the api integration note the customer extra fields will only appear when you have enabled the customer detail extra fields in the admin >> customer >> website customers >> extra fields screen once all the above steps are completed successfully, you are all set to auto sync data between onprintshop and the activecampaign system the sync will work as follows customer as soon as any customer registers in the onprintshop via online registration, offline registration, quick registration, regular registration, guest customer, quote customer, etc the customers will be synced and added in the activecampaign\u2019s contacts section abandon cart as soon as any customer adds products in their onprintshop\u2019s cart those products will be synced in the activecampaign\u2019s abandoned cart in onprintshop\u2019s shopping cart, if the customer adds, edits, removes any product, or clears the cart it will be reflected accordingly in the activecampaign order similarly, as soon as an order is placed online, offline, from a quotation, or re ordered in the onprintshop system (except the imported orders) they will be auto synced in the activecampaign system when any product from shopping cart turns into an order that will be reflected accordingly in the activecampaign system as well (i e product will be removed from abandoned cart and added into order section) in case of any query in api integration, contact our technical support team\nDid this page help you?\n\n\nPREVIOUS\nSetup Mandrill\nNEXT\nMailing List Services\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

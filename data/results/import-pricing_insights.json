@@ -1,0 +1,21 @@
+{
+  "id": "txt_22667",
+  "name": "import-pricing",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProducts\n\nPricing Setup\nImport Pricing\n\n5 min\nit can be hideous to increase or decrease the price of each product or product additional options keeping this in mind onprintshop admin panel allows you to download excel files an excel file is an easy option when you have different price updates for every product an excel file will reduce down the effort of tracking each product option and changing its price step \u2013 1 download file under the import modified price tab, click to download the file for file download, choose the following these filters will help you find your product better and download all its size options and additional options in the form of an excel sheet product type \u2013 select the product type to filter out the required products i e standard or pre defined price defining method \u2013 choose the price defining method of the products the price defining method is entered while adding a product this would become easy for admin to update the prices price type \u2013 select the price type i e default store price, store price, option price (additional options price) or option combined price when you select option price, then a new dropdown will ask you for the options price type you can select \u2018the common price for all sizes\u2019 or \u2018size based\u2019 prices selection method \u2013 if there is large data then it is recommended to go for single product rather than multiple products products \u2013 finally select the products of which you want to modify the prices step \u2013 2 fill up data after downloading the excel file fill up the necessary details for every \u2018price type\u2019, step 2 has guidelines on how to fill up the data in each field it gives a quick highlight and guide to fill each field of the excel sheet also, the system will list all the stores in a separate tab with their ids step \u2013 3 upload file at last upload the excel file with the new pricing details the system will require you to select the price type i e for whom the pricing will be applicable, default store, store, option price, or combined option price note at a time you can upload only one excel sheet pricing is a very vital aspect of the product to make sure you have entered the correct pricing the system performs a validation test and displays a data summary correct records \u2013 the records are correctly entered into the excel sheet invalid records \u2013 the records with some missing information skipped records \u2013 records that are wrong or invalid are not considered by the system check the records and import the file\nDid this page help you?\n\n\nPREVIOUS\nBulk Pricing - Additional Options\nNEXT\nPercentage +/-\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

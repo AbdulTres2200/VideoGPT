@@ -1,0 +1,21 @@
+{
+  "id": "txt_62070",
+  "name": "admin",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdmin & Reports\n\nManage Admins\nAdmin\n\n7 min\noverview & purpose when you have several people accessing your onprintshop admin panel, then it is a good idea to set up different admin roles for each person you can set admin group role without giving them access to sensitive store content/information the store admin can add new admin users, edit existing admin details and even delete existing admin users from the admin user management panel screen at a glance this section enlists admin users added by you it contains the user name, group name and email address of the admins it also contains quick links to common admin management actions such as edit/delete and login as admin by default, the system has two pre defined admin group roles created for you \u2013 store manager and content manager you can also admin group/role docid\\ lmtf78elvt3fn jt044lx , according to your business model note only the admin users with active group status will be able to log into the admin panel easy navigation between store & super admin login, we have linked multiple store admin account with the super admin account to streamline account management and easily switch between accounts the super admin will find a dropdown with all the active stores and they can switch into any of the admins when the super admin switches to any other store admin, then they\u2019ll find a login dropdown to get back to the super admin account note this account switch dropdown only appears in the super admin\u2019s account and not on a store admin account you can give admins two level of permission full permission allows access to all sections of the onprintshop store admin panel, including the sensitive account or financial information limited permissions these permissions will restrict admins from a section of your store (as defined by you), depending upon the group and their role they cannot view a part of your store there can be various reasons for limiting permissions for admins these reasons can vary for each store some of the cases are \u2013 you don\u2019t want a specific admin to view your sales report you don\u2019t want specific admins to view your third party integrations as it might contain some sensitive information you don\u2019t want specific admins to change the store settings, hence restricting them from the store configuration section you want an admin to manage all the content shown on the website, thus giving them the role of content manager note store admin can give other admin permissions to log in to onprintshop admin, and they can also edit their log in details https //help onprintshop com/file\\ admin2 png https //help onprintshop com/file\\ admin2 png create an admin to add a new admin for your store, go to the onprintshop admin panel >> admin >> \u2018+add\u2019 button (top right corner) in the screen above, we are creating an site manager into the default store in the help section, check all the sections that the admin created will be able to access select the store and then the group for which you want to create an admin role these roles are created from the admin group/role section of the admin panel fill in the remaining details, such as username, password, etc of the admin if you enable the super admin toggle, then the admin created can access all parts of the store (only applicable to default store), without any restrictions action menu you can easily restrict any admin from accessing their admin panel by disabling their status toggle also, you can edit their basic details and change their roles using the action menu as a super admin, you get the access to log in as their profile and view their admin panel\nDid this page help you?\n\n\nPREVIOUS\nReward Points\nNEXT\nWorkflow Admin\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

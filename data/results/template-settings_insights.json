@@ -1,0 +1,21 @@
+{
+  "id": "txt_458353",
+  "name": "template-settings",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTemplate & Studio\n\n\nManaging Templates\nTemplate Settings\n\n7 min\noverview & purpose you can manage template settings from this section manage the display of templates at the admin panel and also on the front store here, with every setting, you will find a word associated which will help you define whether the setting is for the front store or admin panel some of the important settings are described here configuration enable template group matching on shopping cart and product additional info page? front if you have created product templates under the same group, then the customer will be given an option to view matching templates (if they have selected the template belonging to a group) on the product additional information page and shopping cart page enable template category? this setting will allow admin to enable or disable the category filter at the front and admin side you get the option to choose whether to allow the template categories for private/public store customers, default store customers or all admin in the admin panel, when the template category display is enabled, then the category for individual templates will be displayed on the product templates as well as product master templates page front store once the cateory is enabled, the option to select or filter the templates using category will be available on the browse design page template auto personalization it helps to fetch certain text content entered by a particular user while designing templates using a designer studio/html based studio for further use the next time the user tries to load any of the design templates, some of the text in them can be auto personalized based on this setting here you have four options to select disable it does not allow you to fetch the user data in the design templates only for default store customers it will allow registered customers to fetch the user data in design templates only for store customers fetching user data in design templates will work only for store customers see more from here all will allow fetching the user data for all website users in design templates enable template cost? this option will allow you to define a cost for each template this cost will be added to the product subtotal along with other parameters admin in the admin panel, the facility to add template cost will be offered while adding/editing a product template once the admin has added a template cost, it will be displayed on the product templates main page as displayed below front store on the front, the template cost will be displayed on the browse design page along with the product additional info page template auto personalization using cache it helps to fetch previously added data in the template by a particular user while designing templates using a designer studio/html based studio for further use using cache the next time the user tries to load any of the design templates, the template will be auto filled based on this setting here you have four options to select disable it will not fetch the user data in the design templates only for default store customers it will fetch the previous data using cache for the registered customers only only for store customers fetching user data in design templates will work only for store customers all will fetch the user data for all website users in design templates no of templates to be displayed in each row admin this determines the number of product templates to be displayed in one row at the front side in the template module\nDid this page help you?\n\n\nPREVIOUS\nManaging Templates\nNEXT\nTemplate Properties Master\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

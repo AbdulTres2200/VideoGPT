@@ -1,0 +1,21 @@
+{
+  "id": "txt_801044",
+  "name": "help-template",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProducts\n\n\nProduct Actions\nHelp Template\n\n4 min\npurpose this tab allows the admin to add the sample templates that help customers create proper format, assign proper margins to a page, and take care of additional design options the templates are available on the product info and product upload center page configuration from the help template tab, click on the add button to add a help template for the selected product product size select the product size for which you want to upload the template template type there are various file types allowed for product template such as pdf files, doc files ai files, etc template title give a suitable template title that you want the customers to see note if you want to show product size then use %s in the template title duplicate product assign the help template to any other duplicate product (if any) this will save you from again uploading the template for multiple products upload file upload psd, ai, eps, pdf, cdr, pub, or indd files based on the selected template type note your system comes pre built with sample help template files you can either modify them or upload a completely new one\nDid this page help you?\n\n\nPREVIOUS\nMetatag\nNEXT\nStock\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

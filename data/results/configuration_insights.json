@@ -1,0 +1,21 @@
+{
+  "id": "txt_891957",
+  "name": "configuration",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupporting Docs\n\nReal Preview\nConfiguration\n\n4 min\nwe have given the facility of configuring the real preview for the products in the a dmin >> designer studio >> studio settings >> real preview tab real preview models we will be giving model previews configured for some of the flat and model products you can see the details of the products for the preview by clicking on the real preview models button as shown below to add a new real preview model, you can click on the add button from the above screen it will take you to the next screen where you can enter the details for your new model from the same screen, you can add models for 2d and 3d previews note you can enable/disable the 3d type of preview using the \" enable 3d preview \" setting from the studio settings for a 2d preview model, select 2d in the preview type, enter the title and then, upload the mask image for the preview, and finally add custom css after filling up all the details click on the save button for a 3d preview model, select 3d in the preview type, enter the title, select model type as gltf or script and then upload respective files along with any additional files once done, click on the save button note based on the product for which you want to show a 3d preview, the ops technical team will configure and assign the 3d models for you, after checking the feasibility and with additional cost assign real preview models now, need to assign products to the real preview models created from the main real preview screen, click on the assign real preview models button select the product from the first drop down, choose the type, assign the 2d or/and 3d models, specify the status of this preview (display or no display), and save the details the models added and assigned to products will be displayed on the real preview main screen\nDid this page help you?\n\n\nPREVIOUS\nReal Preview\nNEXT\nReal Preview\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

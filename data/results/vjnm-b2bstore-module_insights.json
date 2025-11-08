@@ -1,0 +1,21 @@
+{
+  "id": "txt_595513",
+  "name": "vjnm-b2bstore-module",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 11.0 Release Notes\nB2B/Store Module\n\n8 min\nstore specific product content overwrite store specific product content overwrite we are expanding the store specific product content overwrite facility to offer more customized and personalized product content management store wise in this release, the store admin can now also add and manage the product title, url, keywords, product category, and gallery images as well once the store admin logs into their account and goes to the products listing page, they will be able to see the actions column with the gallery option in the dropdown and the product categories menu in the left panel in the edit screen, the admin can now add the product title, url, and keywords in the gallery tab, the store admin can add images or videos for the product assigned to the store with the product categories menu provided, the store admin can now categorize the assigned products as per their requirement multi currency support in admin panel multi currency support in admin panel in the admin panel, all the pricing and costs are displayed in the default currency to allow the admin to see the order amount or quote price in the store currency or site currency, we have added a new \u201cselect currency for display\u201d setting in the site settings with this, the admin can now choose to see the orders/quotes in a specific store's currency or the site\u2019s default currency under which the order/quote is placed when the admin has selected to see the store wise currency then, on the order listing page or quote listing page, the pricing will be displayed as per the stores store wise time zone display store wise time zone display there can be scenarios where the admin has multiple stores that are located across different time zones, and they want to manage the sales and orders as per the store wise time zones to allow admin to see the orders, coupons/discounts, etc in the store wise time zones, and manage the entire sale and order fulfillment time zone wise, we\u2019re introducing an option in the store settings section to set up the time zone store wise in version 11 0 tax/vat settings for partnership solution tax/vat settings for partnership solution recognizing that tax or vat rates can vary based on geographical locations, we have implemented this feature that enables accurate tax calculation for franchisee and reseller stores the \u201ctax calculation based on\u201d setting is made available under the configurations section of the individual stores to manage this setting, navigate to the admin panel >> store management >> stores >> action dropdown >> configuration >> settings screen >> search \"tax\" here, the admin will have the option to set the tax calculation as per the default site settings or keep it store specific on the selection of \"store specific\", you will have further options to configure after the configuration, the stores will gain access to the tax/vat settings in the store configuration section and products tax/vat settings under the product section store wise product pricing display store wise product pricing display from v11 0, the super admin will have a provision to check the cost bifurcation of products for all stores from the product's view screen, once the admin clicks on the price calculator icon, the pop up screen will have the store filter to select and check the product pricing and its bifurcation store wise\nDid this page help you?\n\n\nPREVIOUS\nOrder Section\nNEXT\nFront Store Features\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

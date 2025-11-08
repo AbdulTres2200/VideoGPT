@@ -1,0 +1,21 @@
+{
+  "id": "txt_221036",
+  "name": "production-time-spent",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdmin & Reports\n\nViewing Reports\nProduction Time Spent\n\n5 min\noverview & purpose in this report, the admin can gain deeper insights into their operations by monitoring the time taken at each order status and identifying bottlenecks in the workflow, helping them to streamline processes and boost efficiency in real time note this feature will continue evolving, with new enhancements added based on user needs, ensuring your operations remain a step ahead! production time spent report order wise this report provides a detailed summary of the time spent on every order status the report information is based on the selection of the month, user, order statuses, and time duration, as daily, weekly, monthly, and additional columns are added the report includes the time duration, order status, job count, time span, total time spent on the respective order status, and average time spent per job clicking on the total time spent link redirects to a new popup screen and displays the bifurcation of the total time order product wise this report provides a detailed summary of the time spent on every order product status the report information is based on the selection of the month, user, order statuses, and time duration as daily, weekly, monthly, and additional columns are added the report includes the time duration, order product status, job count, time span, total time spent on the respective order status, and average time spent per job clicking on the total time spent link redirects to a new popup screen and displays the bifurcation of the total time\nDid this page help you?\n\n\nPREVIOUS\nPartners\nNEXT\nLog\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

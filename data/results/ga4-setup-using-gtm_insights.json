@@ -1,0 +1,21 @@
+{
+  "id": "txt_793845",
+  "name": "ga4-setup-using-gtm",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDigital Marketing\n\nGoogle Tag Manager Integration\nGA4 setup using GTM\n\n9 min\n1 1 registration with google tag manager to create an account registration with google tag manager to create an account go to the tag manager site and sign in to the tag manager next, is to create an account click on the create account button this will take you to the account setup page to complete the account setup enter your account name and select your country next, for container setup enter your website name and choose the target platform as web 2 add the google tag manager code 2 add the google tag manager code after creating the account the google tag manager pop up will appear copy the \\<head> tag code and paste it into the below path in admin panel \u2013 store configuration >> external service settings >> digital marketing tab >> google tag manager >> edit copy the \\<body> tag code and paste it in the below location of admin panel \u2013 store personalization >> language text references >> search \u2018noscript message\u2019 3 get the measurement id from google analytics account 3 get the measurement id from google analytics account to get the measurement id, follow the below given steps \u2013 sign in to your analytics account click on the admin from the left hand side panel from the admin screen, click on the create >> account button in the account setup steps, enter the account name the same as the google tag manager account name, select the \"google products & services\" checkbox and click on the next button in the next step, enter the property name, manage the time zone as well as curreny and then click on the next button in the 3rd and 4th steps, specify the business details and objectives click on the create button complete the terms and services agreement step the account and property will be successfully created and you will be redirected to the data collection step click on the \" web \" from the data collection page, and you will be directed to data streams page enter the website url and stream name click on the create & continue button you will be redirected to the data streams listing page select \"web\" from the screen and click on the stream you created from the web stream details page, copy and save the measurement id for further steps\nDid this page help you?\n\n\nPREVIOUS\nGoogle Tag Manager Integration\nNEXT\nEnhanced eCommerce Setup\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

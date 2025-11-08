@@ -1,0 +1,21 @@
+{
+  "id": "txt_21387",
+  "name": "currency",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\n\nSettings\nCurrency\n\n6 min\noverview using this section, you can add and configure various currencies you are willing to use on your storefront the default currency set is the us dollar as required you can set a different default currency and add more currencies as you proceed further with your store purpose allowing customers to shop in their native currency will give them a more consistent shopping experience maintaining prices throughout the shopping process can encourage more conversion and making payments in the native currency will help customers avoid currency conversion fees charged by their banks read along to understand how you can add currency from the admin panel configuration your store can be configured to show prices in different countries and allow shoppers to check out using their preferred currencies add a currency by default, we give us dollar as the currency for the store the admin can anytime add new currencies as per their business requirements for adding a new currency, click on the add button from the top right corner currency specify the currency name currency code enter the code for the currency left symbol & right symbol you can also add left or right symbols for the currency decimal separator select the decimal separator thousand separator select the thousand separator from the drop down interpreted value the value of the added currency against the default currency you can easily find the interpreted value or conversion rate by using the link there note the default currency is considered as the base for the interpreted value currency icon upload the currency icon to be displayed at the front store this will be displayed based on the setting frontend view when the admin has set multiple currencies, the customers can select their desired currencies from the 2 locations my account to change the desired currency in their user profile, the customers can navigate to the my account >> my profile page and select the currency from the currency drop down sidebar widget if you have enabled the sidebar widget currency from the a dmin >> store personalization >> site management >> sidebar widget >> currency (enable the toggle button) then, the customers can click on the currency icons and select their desired currency and shop on your website\nDid this page help you?\n\n\nPREVIOUS\nLanguages\nNEXT\nCountry/States\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

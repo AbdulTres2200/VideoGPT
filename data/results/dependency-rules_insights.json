@@ -1,0 +1,21 @@
+{
+  "id": "txt_441652",
+  "name": "dependency-rules",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesigner Studio\n\nPDF Block Template\nDependency Rules\n\n2 min\nset rules for blocks on various pdf block templates the rules are created on a certain conditions available in in \"conditions operator\" dropdown menu the action \"do\" refers to triggering an action this will work based on block configured in \u2018action\u2019 block how to set up dependency rule? how to set up dependency rule? select any product template and click on the action button and select manage blocks from the drop down from the manage blocks tab, switch to the \" dependency rule \" tab click on the \u2018 add \u2019 button to add a dependency rule name the rule select and or or option in the term (if) select the block and apply a conditional operator in the action (than) select do operator and select the block to apply the condition click on save to save the dependency rules what is the difference between and or or? what is the difference between and or or? if and is selected then the action(s) will be taken only when all terms are true and if or is selected then the action(s) will be taken only when any one of terms is true\nDid this page help you?\n\n\nPREVIOUS\nStore Fields Block Mapping\nNEXT\nCreating Group Blocks\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

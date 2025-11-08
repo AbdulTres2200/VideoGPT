@@ -1,0 +1,21 @@
+{
+  "id": "txt_948625",
+  "name": "front-end-printing-and-mailing",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMailing & Fulfilment\nFront End - Printing and Mailing\n\n6 min\nprinting & mailing service consider a product \u2013 flyer with product service type as printing & mailing thus, the customer will have to opt for compulsory mailing with the printing at the front, the system will display the mailing calculator, where customers can define the mailing quantity, choose postage class as per their requirement, and select the mailing date (if the setting is enabled) in the price section, they\u2019ll get the total product cost as the summation of printing and mailing costs and postage price also, we have a few settings related to pricing, so contact the technical support team for further assistance after completing the product design, a customer will land on the product options page here, one can choose to upload the mailing list this will move to the printing specifications section customers can now download a sample file and add the mailing list once the file gets uploaded select the mailing list and check the mailing summary one can map the fields according to the data filled in the sheet click on upload and save and complete the order at the admin panel, go to admin >> orders >> list order >> \u2018action menu\u2019 of the order with mail list >> update order option under the order product details, admin can find the link to download the mailing list uploaded by the customer mailing list at the admin panel, the customer mailing list is available at under customers >> customer mailing list here admin can download or delete the mailing list, however, they have no provision to add a mailing list at the front end, customer can check their mailing list from my account >> my mailing list here customers can view, update, delete, and upload a new mailing list as per their requirements mailing only service consider a product \u2013 flyer with product service type as mailing only here the customer will only have to enter the mailing quantity and proceed to checkout the only thing is that customers will not get the option to design the product or to place a printing order next, it will be redirected to the product options page and rest remain the same as explained in case 1 printing & mailing optional service consider a product \u2013 flyer with product service type as printing and mailing (optional) here, customers can choose whether or not to opt for the mailing service using the feature, show mailing calculator if opted for yes, then it means the customer looks forward to availing the mailing option and the order flow will take them to the product options page if no, then the order flow will be like any other standard product\nDid this page help you?\n\n\nPREVIOUS\nCreate Mailing Products\nNEXT\nEasy Order Importer\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

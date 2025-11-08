@@ -1,0 +1,21 @@
+{
+  "id": "txt_37435",
+  "name": "exportapi-orders",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders, Quotes & Customers\n\n\nManaging Orders\nExport/API Orders\n\n7 min\noverview & purpose at every screen of the admin panel, we have given the option to export the data into an excel file here we have an option using which you can export the orders to any third party app exporting orders can be a quick way to transfer all the order details into third party analytics software or accounting software we have various order export settings, api web services settings, and hot folder settings, so that you do not miss any information export api orders export orders either manually or all at once using this interface using this section, you can easily export all your orders into your offline system at first you will have to understand and configure the export/api settings to enable order transfer (which we will discuss later in the document) after successful configuration simply selects the order range from various options, decide upon a date range and choose the order status(es) then, click on export to move order records to your offline system click manual transfer, if you wish to move only selective orders to your offline system export api settings you manage the export api settings from the admin >> orders >> export/api orders >> export/api settings (top right link) this displays the summary of current export order settings such as export style, export file format, export file name format, hot folder setting, folder location and its structure to change the settings, click on \u2018 export/api settings \u2019 button export order settings to manage the export order settings, go to admin >> orders >> export/api orders >> export/api settings >> export/api settings tab this section decides how your export file will look export style \u2013 this will create either a single file for all orders or create single files per order export file name format \u2013 with the variables provided decide the file name of the export order file export format \u2013 depending on your business usage you can choose the file format i e xml or excel we also have a separate section for api web services where you will have to generate a token, this token will be used as authentication while using this service set a format, and provide an ip address capture order information \u2013 get the list of variables that will be included in various information captured such as order details, customer details, billing details, order product info, shipping address, and order shipment info hot folder settings the hot folder is a folder set in the server which holds the exported files you can access this section from the admin >> orders >> export / api orders >> export / api settings >> hot folder settings tab in this section, you get to decide the hot folder location, its name, and its structure folder location \u2013 select as per the requirement and save the updated settings server folder a folder will be created on the server remote ftp folder configure your own ftp and the system will create folders in your configured ftp printer wise folder the folder will be created based on the printer management system cloud storage the cloud storage integrated into your system will be displayed here (the 'google drive' option is listed in the above example) selecting the option will enable you to transfer the order details to a cloud storage option automated transfer automated functionality will export your orders automatically after a specific time duration that will automatically transfer the print job ticket of orders this automated service will be on a paid basis api service settings api web service is used to retrieve order information, and customer information based on the parameter passed and also update order status for the specific order this api provides data in xml or json format\nDid this page help you?\n\n\nPREVIOUS\nPayment Request\nNEXT\nOrder Shipment\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

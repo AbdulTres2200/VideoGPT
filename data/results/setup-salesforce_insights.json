@@ -1,0 +1,21 @@
+{
+  "id": "txt_40976",
+  "name": "setup-salesforce",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOthers\nSetup Salesforce\n\n6 min\noverview and purpose salesforce is a leading customer relationship management (crm) platform that offers a suite of cloud based applications for sales, marketing, customer service, and more it provides tools for managing customer interactions, tracking leads and opportunities, automating workflows, and analyzing data to drive business growth salesforce is highly customizable and scalable, making it suitable for businesses of all sizes and industries the integration of salesforce with the onprintshop platform aims to empower print businesses with advanced crm capabilities, streamline business processes, and deliver personalized customer experiences to drive success in the competitive printing industry how to integrate 1 log in to your salesforce account 1 log in to your salesforce account go to the salesforce developers site and log in to your account 2 2 get the security token get the security token to get or reset the security token, click on the \" settings \" link from the account profile available at the top right corner of the screen from your \"my personal information\", enter reset in the quick find box, then select reset my security token click reset security token the new security token is sent to the email address in your salesforce personal settings copy and paste the required keys in the given configuration form with other configuration settings and click on the save button 3 configuration in admin panel 3 configuration in admin panel on your admin panel, go to the store configurations >> external service settings >> crm tab >> salesforce >> \u2018action\u2019 menu >> \u2018edit\u2019 option enter the username and password of your salesforce account security token enter the security token generated in the above step and received it at your registered email address retailer customer sync to select where you would like to sync the retailer customers i e as leads or contacts in salesforce auto synchronize select if you want the system to auto sync the corporate accounts, customers as well as quotes after a specific interval auto update to update the details to salesforce automatically, enable this setting please note that this setting will work only when the auto synchronize setting is enabled save all the details 4 get sync and log the report 4 get sync and log the report you can manually synchronize the corporate accounts, customers, and quotes from onprintshop to the salesforce system click on the click here to sync manually button you can check the logs by clicking on the salesforce logs button\nDid this page help you?\n\n\nPREVIOUS\nSetup Printer's Plan\nNEXT\nEnfocus Integration\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

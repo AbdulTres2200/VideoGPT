@@ -1,0 +1,21 @@
+{
+  "id": "txt_172166",
+  "name": "create-idml-file-from-ai-file",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupporting Docs\nCreate IDML File from AI file\n\n9 min\noverview converting an ai (adobe illustrator) file to an idml (indesign markup language) file offers numerous benefits, particularly for users who work across multiple adobe creative cloud applications or need advanced layout and publishing capabilities in the onprintshop store, you can create product templates via different means in the system, you can even upload idml format design files when you have ai files available, you can simply convert these files to idml format via the indesign tool before you import these to the onprintshop platform create idml file from ai file to create an idml file from an ai (adobe illustrator) file using adobe indesign, follow these steps to begin with, open the indesign software and then go to file > new > document choose the size for your artboard and click on the create button once you click on create , a new artboard of the specified size will be created now, from the menu, click on file > place you will be asked to select a file that you want to convert choose your ai file and click on open note while opening the ai file, you nee to ensure the the option named show import options is ticked next, go to windows > links a new links panel will open right click on the ai file from the links tab as shown above, and click on embed link finally, navigate to the file > package in the popup screen, click on package and then save it to the desired location note while you are packaging, please make sure to select the following checkboxes copy fonts copy linked graphics include idml\nDid this page help you?\n\n\nPREVIOUS\nCMS Blocks Setup\nNEXT\nCustom Art & Logo Maker\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

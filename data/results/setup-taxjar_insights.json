@@ -1,0 +1,21 @@
+{
+  "id": "txt_795994",
+  "name": "setup-taxjar",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTax API\nSetup TaxJar\n\n11 min\noverview & purpose taxjar automates your sales tax calculations, reporting, and filings which is integrated as a third party service in onprintshop choose to automate your filings with and let taxjar handle filing integrate taxjar into your web store and never miss a due date again on time, every time how to integrate read the below systematic guide to integrate taxjar in your onprintshop website 1 register with taxjar 1 register with taxjar visit the taxjar website and sign up filling in the https //app taxjar com/sign in required information and completing the registration process 2 setup your account 2 setup your account in the next step, fill up your basic account details this will involve a few quick questions about your business so that taxjar can tailor your experience enter details such as business name, business phone number, select data resources, and taxjar will redirect you to your dashboard 3 get taxjar api 3 get taxjar api to import the transactions into taxjar, get the taxjar api this will integrate taxjar into your web store to get the api, go to the account >> linked accounts on the linked accounts page, scroll down and select taxjar api to configure taxjar with onprintshop as displayed in the below screen 4 generate api key 4 generate api key to get the api token, click on api token button from the taxjar api dashboard this will redirect you to the taxjar api page where you will find the live token and an option to generate api sandbox token copy and save the api token 5 configure taxjar into admin panel 5 configure taxjar into admin panel to use the third party for tax calculation, you need to make some settings in the admin panel >> store configurations >> site settings in the search box, type \" tax \" for the tax calculation based on setting, select \" third party api 4 \" from the drop down save the changes made enable and configure taxjar to enable the taxjar services, go to the store configurations >> external service settings >> tax api tab >> taxjar >> \u2018action\u2019 dropdown >> \u2018edit\u2019 option enter the exact origin address in the fields and click on the save & back note in the country field enter the iso code of the country, for example the iso code of usa is us and iso code of india is in\nDid this page help you?\n\n\nPREVIOUS\nSetup AvaTax\nNEXT\nSetup GST\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

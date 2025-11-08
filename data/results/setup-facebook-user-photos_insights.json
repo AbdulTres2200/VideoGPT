@@ -1,0 +1,21 @@
+{
+  "id": "txt_925176",
+  "name": "setup-facebook-user-photos",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThird-Party Images\nSetup Facebook User Photos\n\n11 min\noverview & purpose facebook is one of the most powerful social media tools thus, it is highly recommended by onprintshop to their clients to integrate facebook user photos into their designer studios this will help your end customer select any image from their facebook account how to integrate follow the systematic guide to integrating facebook user photos into your web store 1 create a facebook app 1 create a facebook app here, you can either create a new app or use the same one created while integrating facebook login from the setup facebook docid\\ svi ohkqhcfepebxwmwit link, follow from step \u2013 1 to step \u2013 6 for app creation and other basic settings such as api key and secret key 2 enter the link for designer studio 2 enter the link for designer studio under the facebook login tab from the sidebar, select settings enter the link for your user registration page in valid oauth redirect urls as http //www yourwebsite com/studio/services/images php for example https //wwww onprintshop com/studio/services/images php click on the save changes button 3 request for user photos 3 request for user photos on the sidebar, select the app review >> permissions & features this will list down the app's permission to request scroll down to search for user photos click on the request advanced access click on the continue the request button now, to get access to user photos, your web store has to fulfill all the facebook guidelines and criteria requesting for app review is a 3 \u2013 step procedure and may take about 6 7 days or more during the verification process, facebook will verify how your web store will use the user photos, i e what is the actual purpose of integrating facebook user photos in the app review process, you will have to do the following accept permission or feature usage guidelines provide use case scenarios add instructions on how to access your app upload screencast how to create a screencast? how to create a screencast? to create a screencast use your test account login into facebook with the account you used to create an app record a video or screencast which shows the following log in to your web store with your facebook test account log in into your web store with your facebook test account navigate to any product in your store click on the custom design this will lead you to the designer studio on the designer studio, click on the images in the images pop up, click on the facebook button, and then connect with your facebook account this will connect with your test account after successful connection, all the images from your test account will appear use any image to complete a design complete the video screencast and save upload this screencast in the app review process, and wait for the facebook officials to verify the in app review and other details after the successful verification process, your customers will be able to use their facebook photos in the designer studio\nDid this page help you?\n\n\nPREVIOUS\nDropbox Images\nNEXT\nSetup Adobe Stock\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

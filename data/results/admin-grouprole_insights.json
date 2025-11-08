@@ -1,0 +1,21 @@
+{
+  "id": "txt_76638",
+  "name": "admin-grouprole",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdmin & Reports\n\nManage Admins\nAdmin Group/Role\n\n4 min\noverview & purpose using this section you can create various admin groups and assign them different sections that they can access the access groups created can be for store admin, store admins, or a specific store admin also, you can assign access to different sections to these groups based on their access rights dashboard the dashboard lists all the admin groups created with their roles and their accessible sections you can change the status of the groups to active or inactive only the admin users with active group status will be able to log into their admin panel the sections highlighted in green are those sections that will be accessible by the person (admin) belonging to this group, and the sections marked in grey will not be accessible by them all the store type groups are marked with purple tags admin type groups are marked with blue tags add a group you can add an admin group using this section the admin group created here will have access to all the sections assigned to them to add a group, go to admin >> admin >> admin group / role >> add button select group type \u2013 this will list down all the stores listed in your system you can also create a group for main admin then use the option \u2018admin group\u2019 also, if you wish to create an admin group for all stores, i e an admin which manages all store, then choose the group type as \u2013 all stores write a suitable group name, which defines at admin\u2019s right and access select the sections to allow the admin to access them and make desired modifications each type of permission gives your admins access to a different part of your onprintshop admin orders \u2013 view, update, add, delete orders and order notifications quote \u2013 view, update, add, delete or download quote customer \u2013 view, add, delete, update the customer database, and the ability to add multiple customers, and get access to the newsletter subscriber section store \u2013 get access to the store module; edit, delete and update the store accounts, manage their departments, inventory, and store fields products \u2013 view, add, delete, and manage product details, meta tag details, variant details, template details, and category of products on your website template \u2013 view, add, update, and delete template and template category create master templates, and change template settings content management \u2013 view, add and delete content on your website update faq and faq categories, update testimonials, website banners, email and sms templates seo \u2013 view seo list, add, update or delete page titles and descriptions manage sitemaps, meta tags, robot txt file, and other seo settings store personalization \u2013 view and set the theme for a site, set layout for product pages, manage website languages, header, footer and sidebar contents, and other store personalization settings store configuration \u2013 manage store configuration settings, manage shipping methods, payment methods and currencies available in the system also, configure tax settings, manage the country and state lists and more imposition beta \u2013 view, duplicate, add update and delete schema import job and superimpose on the sheets designer studio \u2013 view, add, update, and delete images gallery and category, update studio settings and manage studio fonts reports \u2013 view and analyze various reports such as sales, products, customers, partners, etc admin \u2013 view, update or delete site admins, create admin groups and assign them roles create and manage workflow admins dashboard \u2013 view recent orders, customers, and quotes analyze sales statistics, order and store statistics, hot selling products and keep a track of the job board action menu edit or delete any admin group using the action menu\nDid this page help you?\n\n\nPREVIOUS\nWorkflow Admin\nNEXT\nCommon Settings\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

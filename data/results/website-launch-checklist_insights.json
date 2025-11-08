@@ -1,0 +1,21 @@
+{
+  "id": "txt_121324",
+  "name": "website-launch-checklist",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\nCommon Setup\nWebsite Launch Checklist\n\n4 min\nare you getting ready for the launch of your onprintshop website? we put together this helpful website launch checklist to make sure your launch goes off smoothly when you make your site accessible to customers download the checklist from here to track your progress https //archbee doc uploads s3 amazonaws com/hfxpyr6 ao5gwa1hn pyx/oy0fcslztkblelm wdd63 website launch checklist xlsx domain and ssl domain and ssl for domain and ssl configuration, coordinate with the support team ( support\\@onprintshop com ) domain configuration > setup a record ssl purchase & installation process ( recommended ) website master configuration website master configuration payment method configuration ( admin panel > store configuration > payment methods ) shipping method configuration ( admin panel > store configuration > shipping methods ) local pickup third party api site settings ( admin panel > store configuration > site settings ) languages currencies site review settings country/states social media/external service configuration ( admin panel > store configuration > external services ) seo google analytics google tag manager (gtm) third party login google login facebook login yotpo (review system) add shoppers (social sharing) google captcha (recommended) designer studio images pixabay deposit photos (paid stock photos app) google photos flickr dropbox images large file upload and cloud backup (s3 server or dropbox or google drive) live chat time zone setting data migration (if the site is already running) url redirection user data import website content setup website content setup product ( admin panel > products ) product description, images, additional options, etc product price product weights (recommended for shipping calculation) website link setup ( admin panel > store personalization ) header & footer links (all content pages) product links urls standard content pages ( admin panel > content management > contents ) about us contact us terms & conditions privacy policy make your website seo friendly ( admin panel > seo ) to improve your website\u2019s visibility on search engines like google and bing, it\u2019s essential to follow seo best practices from setting up analytics to submitting product feeds, we\u2019ve prepared a detailed seo checklist to help you optimize your site you can view the full checklist here seo optimization checklist for websites docid 4lcstea4xvxh25actblzq email content configuration ( admin panel > content management > email/sms ) review the existing email notification content configure the email notification sender (to & from email) smtp configuration to avoid sending emails to spam website logos ( admin panel > store personalization > website themes ) site, email, designer studio, favicon\nDid this page help you?\n\n\nPREVIOUS\nCommon Setup\nNEXT\nWebsite Migration Checklist\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

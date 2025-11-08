@@ -1,0 +1,21 @@
+{
+  "id": "txt_303011",
+  "name": "setup-openai",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenerative AI\nSetup OpenAI\n\n8 min\noverview and purpose openai is an artificial intelligence research and deployment company committed to ensuring that general purpose ai benefits all of humanity openai aims to advance digital intelligence in ways that can improve human capabilities and address global challenges the organization is known for developing state of the art ai models and technologies, such as the gpt series, which includes models like chatgpt integrating onprintshop with openai can significantly enhance the capabilities of print service providers by improving customer support, automating content creation, and optimizing operations for generative ai implementation in your onprintshop store, we recommend using your paid open ai account you can check your account status from the \"billing\" section how to integrate 1 log in to your openai account 1 log in to your openai account go to the open ai site and log in to your account from the next screen, click on the api 2 2 get the api key get the api key to create the api key, click on the api keys available in the left panel on the api keys screen, click on the create new secret key button enter name, product and click on the create secret key button the secret key will generated you can copy and save the key in a secure place click on the done button 3 3 configuration in admin panel configuration in admin panel on your admin panel, go to the store configurations >> external service settings >> generative ai >> open ai >> 'edit\u2019 option to begin with, click on the install service button the \"settings\" section will appear and you can proceed with further configuration as mentioned below api key enter the api key copied in the above step model select the gpt model you want to use from the drop down custom instructions the system message is the default prompt or message that will be considered while generating content in the onprintshop solution for any description or content you can just change this message as you need it enable image generation when enabled, this setting will allow the admin to generate images for products using ai image model select the model you want to use for the image generation product color & backround color the colors selected for the product and background will be considered for image generation once done, you can save all the details to utilize the openai integration, follow the generate content and images using openai docid\\ ay6htjgkoxs9bxnsn9qs4 guide\nDid this page help you?\n\n\nPREVIOUS\nGenerative AI\nNEXT\nSetup Google Gemini\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

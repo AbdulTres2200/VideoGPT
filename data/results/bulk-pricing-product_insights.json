@@ -1,0 +1,21 @@
+{
+  "id": "txt_595646",
+  "name": "bulk-pricing-product",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProducts\n\nPricing Setup\nBulk Pricing - Product\n\n5 min\noverview & purpose the product price bulk update section allows admin to update/manage the price of one product at a time this interface allows you to handle bulk prices add product pricing in bulk with simple steps, choose the products to update prices of and add prices step \u2013 1 select the available options this step will help you create a filter to update the product price price category for default stores, stores, and specific stores choose the price category the system allows you to choose the category of the prices with the type of customer i e default store, store (if there are any) and specific store (if there are any) as you change the price category, the products listed in \u2018select products\u2019 get changed fix quantity \u2013 this will show products for which you have added price quantity wise range based quantity \u2013 this will show products for which you have added price according to range based with multiplication or range based without multiplication custom size \u2013 this will list down all the products whose prices are defined on custom size based apply price on quantity depending on the product category, you can set the pricing filter by entering any price keep blank for all quantities enter the price for bulk price update here enter the price that you want to increase, decrease or enter a percentage increase or decrease in the price of the products adding percentage or price is mandatory fixed ($) increase fixed ($) decrease percentage (%) increase percentage (%) decrease select products now select the products from unassigned products select the products for which you want to change the price and move them to assigned products step \u2013 2 list of prices you will get a list of current and new prices based on the filter created in step \u2013 1 according to the filter created the system lists down all the products with their old prices and new prices the new prices are defined based on the \u2018bulk price update\u2019 value entered if you do not want to update the new price of a specific product then simply delete it by clicking on the trash icon while on this screen, you can still change the filter from the \u2018filter\u2019 section the above example shows a product price increase of default store product with fixed quantity pricing method all the products have an increase of $5 on price quantity greater than or equal to $10 step \u2013 3 click to apply after finalizing the price and check thoroughly the changed prices click on the \u2018apply new price\u2019 button in the top left corner this will update all the prices displayed on the list note after applying, the updated price there is no provision to revert the action\nDid this page help you?\n\n\nPREVIOUS\nProduct Pricing\nNEXT\nBulk Pricing - Additional Options\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

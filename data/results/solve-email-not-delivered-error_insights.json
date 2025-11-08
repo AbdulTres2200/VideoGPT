@@ -1,0 +1,21 @@
+{
+  "id": "txt_516974",
+  "name": "solve-email-not-delivered-error",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupporting Docs\nSolve Email Not Delivered Error\n\n2 min\nas an ops site admin, the emails may remain undelivered or bounces back with an error message on the admin side depending on your account settings there are various reasons that the system fails to send the notification emails to the admin for example, the customer receives an order confirmation email however the mail delivery subsystem failed to send the same order confirmation email to the admin for such cases, we have a few recommended solutions for the admin \u2013 keep separate email addresses for from and to sections from email/sms notification for the admin to receive every email, it is very much important to have different emails mentioned in the from and to section of the email/sms notification to check the same, navigate to admin >> content management >> email/sms notification >> action menu of any email template >> set email notification as shown in the below image, the from and to email addresses are set differently note the mail ids mentioned in the above screen are just for your reference always enter email ids created for your business make sure the notify checkbox is enabled along with adding the different mail ids, make sure the notify toggle is enabled this notifies the setting is responsible for sending the email to the id mentioned in the to section\nDid this page help you?\n\n\nPREVIOUS\nSetup Store's Payon Account\nNEXT\nStore Fields - Use Cases\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

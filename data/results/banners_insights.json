@@ -1,0 +1,21 @@
+{
+  "id": "txt_207426",
+  "name": "banners",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\nContent Management\nBanners\n\n6 min\noverview a banner is a form of visual advertisement embedded into a web page, typically used to make your website more engaging and interactive it serves as a promotional space to highlight offers, discounts, announcements, or new product releases through eye catching visuals purpose the banner management section allows you to add, edit, and organize banners on your storefront you can upload banner images, define their display order, activate or deactivate them, and link each banner to a specific page or url the filter by store option helps view banners added per store, and the interface provides an overview of all banners with their duration, status, and quick actions, making it easy to keep your promotions fresh and targeted configuration you can also create banners for a specific product page or product category, or product group page to be displayed in the front store from the admin panel > content management > banners add a banner click on the add button from the top right corner, and on the add banner page, simply fill out the form to add a banner to your website field description use case/example title internal name for the banner \u201cback to school offer\u201d helps identify the campaign quickly in the admin dashboard upload image (web) upload an image for desktop view (jpg, jpeg, gif, png, bmp, svg) a wide format promotional graphic for homepage display upload image (mobile device) upload a mobile optimized image for responsive design a mobile optimized banner ensures clarity on mobile screens display choose whether to display the banner before login, after login, or both show loyalty discounts only after the user logs in link url to which the banner redirects when clicked link the banner to the \u201cclearance sale\u201d product category page open link in choose whether the banner link should open in the same window or a new window/tab use a new window for external links (e g , youtube, vendor site) so users stay on your site; use the same window for internal product or cms pages available to select the page(s) where the banner should be shown display banner on homepage, product info page, or category page select language set the language version for multilingual sites show french banners to french speaking customers banner text add text to be overlaid on the desktop/web banner add \u201cfree shipping on orders above $50\u201d directly on the image mobile banner text add text specifically for the mobile version of the banner a shortened message like \u201cfree shipping $50+\u201d for compact mobile screens banner duration set start and end date/time for the banner schedule \u201cblack friday deals\u201d to auto expire at midnight banner settings we have assembled all the basic banner settings on this screen some of the important fields are field description use case/example banner selection choose display type full page banner or inner page banner a full width sale banner on product category pages auto start slideshow enable automatic rotation of multiple banners display a rotating carousel of 3 promotions on the homepage slide transition timeout time delay (in seconds) between banner transitions in the slideshow set a 5 second interval to ensure users have enough time to read each message banner transition effect select a visual effect for banner transition (fade, slide, etc ) use a sliding effect for modern, engaging transitions display banner on mobile device enable or disable banner visibility on mobile devices disable large promotional banners for faster mobile performance display of banner inner page banner suitable for subtle announcements or branding above product details (e g , \u201cdesign tip use cmyk for print accuracy\u201d) full page banner best for attention grabbing promotions on product category pages (e g , \"back to school essentials \u2013 shop now\")\nDid this page help you?\n\n\nPREVIOUS\nTestimonials\nNEXT\nEmail/SMS Notifications\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

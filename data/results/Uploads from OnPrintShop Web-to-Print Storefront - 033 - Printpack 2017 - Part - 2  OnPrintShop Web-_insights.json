@@ -1,0 +1,1261 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "a9696e33-fd7a-4070-83f6-fc8d2e06633a",
+  "id": "uik26vaxx6",
+  "name": "Uploads from OnPrintShop Web-to-Print Storefront - 033 - Printpack 2017 - Part -",
+  "userName": "Abdul Moiz",
+  "created": "2025-11-01T21:27:00.31+00:00",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 43,
+  "duration": "0:00:43.004",
+  "summarizedInsights": {
+    "name": "Uploads from OnPrintShop Web-to-Print Storefront - 033 - Printpack 2017 - Part -",
+    "id": "uik26vaxx6",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:00:43.004",
+      "seconds": 43
+    },
+    "thumbnailVideoId": "uik26vaxx6",
+    "thumbnailId": "8bab8e2e-53c5-48f5-bbaa-afb71a3677c8",
+    "faces": [],
+    "keywords": [
+      {
+        "isTranscript": false,
+        "id": 1,
+        "name": "onprintshop",
+        "appearances": [
+          {
+            "startTime": "0:00:02.002",
+            "endTime": "0:00:14.0473667",
+            "startSeconds": 2,
+            "endSeconds": 14
+          },
+          {
+            "startTime": "0:00:22.022",
+            "endTime": "0:00:25.0583667",
+            "startSeconds": 22,
+            "endSeconds": 25.1
+          }
+        ]
+      }
+    ],
+    "sentiments": [
+      {
+        "sentimentKey": "Neutral",
+        "seenDurationRatio": 0.9999,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:43.004",
+            "startSeconds": 0,
+            "endSeconds": 43
+          }
+        ]
+      }
+    ],
+    "emotions": [],
+    "audioEffects": [],
+    "labels": [
+      {
+        "id": 1,
+        "name": "clothing",
+        "appearances": [
+          {
+            "confidence": 0.999,
+            "startTime": "0:00:00",
+            "endTime": "0:00:42.0753667",
+            "startSeconds": 0,
+            "endSeconds": 42.1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "person",
+        "appearances": [
+          {
+            "confidence": 0.9966,
+            "startTime": "0:00:00",
+            "endTime": "0:00:42.0753667",
+            "startSeconds": 0,
+            "endSeconds": 42.1
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "human face",
+        "appearances": [
+          {
+            "confidence": 0.9813,
+            "startTime": "0:00:00",
+            "endTime": "0:00:42.0753667",
+            "startSeconds": 0,
+            "endSeconds": 42.1
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "man",
+        "appearances": [
+          {
+            "confidence": 0.9932,
+            "startTime": "0:00:00",
+            "endTime": "0:00:07.0403667",
+            "startSeconds": 0,
+            "endSeconds": 7
+          },
+          {
+            "confidence": 0.9907,
+            "startTime": "0:00:12.012",
+            "endTime": "0:00:24.0573667",
+            "startSeconds": 12,
+            "endSeconds": 24.1
+          },
+          {
+            "confidence": 0.9879,
+            "startTime": "0:00:28.028",
+            "endTime": "0:00:42.0753667",
+            "startSeconds": 28,
+            "endSeconds": 42.1
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "indoor",
+        "appearances": [
+          {
+            "confidence": 0.9582,
+            "startTime": "0:00:00",
+            "endTime": "0:00:23.0563667",
+            "startSeconds": 0,
+            "endSeconds": 23.1
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "computer",
+        "appearances": [
+          {
+            "confidence": 0.9768,
+            "startTime": "0:00:02.002",
+            "endTime": "0:00:23.0563667",
+            "startSeconds": 2,
+            "endSeconds": 23.1
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "wall",
+        "appearances": [
+          {
+            "confidence": 0.9571,
+            "startTime": "0:00:05.005",
+            "endTime": "0:00:05.0383667",
+            "startSeconds": 5,
+            "endSeconds": 5
+          },
+          {
+            "confidence": 0.9501,
+            "startTime": "0:00:19.019",
+            "endTime": "0:00:22.0553667",
+            "startSeconds": 19,
+            "endSeconds": 22.1
+          },
+          {
+            "confidence": 0.9675,
+            "startTime": "0:00:27.027",
+            "endTime": "0:00:27.0603667",
+            "startSeconds": 27,
+            "endSeconds": 27.1
+          },
+          {
+            "confidence": 0.9797,
+            "startTime": "0:00:32.032",
+            "endTime": "0:00:42.0753667",
+            "startSeconds": 32,
+            "endSeconds": 42.1
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "shirt",
+        "appearances": [
+          {
+            "confidence": 0.9655,
+            "startTime": "0:00:25.025",
+            "endTime": "0:00:35.0683667",
+            "startSeconds": 25,
+            "endSeconds": 35.1
+          },
+          {
+            "confidence": 0.9612,
+            "startTime": "0:00:39.039",
+            "endTime": "0:00:42.0753667",
+            "startSeconds": 39,
+            "endSeconds": 42.1
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "laptop",
+        "appearances": [
+          {
+            "confidence": 0.9548,
+            "startTime": "0:00:02.002",
+            "endTime": "0:00:04.0373667",
+            "startSeconds": 2,
+            "endSeconds": 4
+          },
+          {
+            "confidence": 0.9814,
+            "startTime": "0:00:21.021",
+            "endTime": "0:00:23.0563667",
+            "startSeconds": 21,
+            "endSeconds": 23.1
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "plaid",
+        "appearances": [
+          {
+            "confidence": 0.956,
+            "startTime": "0:00:29.029",
+            "endTime": "0:00:29.0623667",
+            "startSeconds": 29,
+            "endSeconds": 29.1
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "tartan",
+        "appearances": [
+          {
+            "confidence": 0.9518,
+            "startTime": "0:00:29.029",
+            "endTime": "0:00:29.0623667",
+            "startSeconds": 29,
+            "endSeconds": 29.1
+          }
+        ]
+      }
+    ],
+    "framePatterns": [],
+    "brands": [],
+    "namedLocations": [],
+    "namedPeople": [],
+    "statistics": {
+      "correspondenceCount": 0,
+      "speakerTalkToListenRatio": {
+        "1": 1
+      },
+      "speakerLongestMonolog": {
+        "1": 0
+      },
+      "speakerNumberOfFragments": {
+        "1": 1
+      },
+      "speakerWordCount": {
+        "1": 2
+      }
+    },
+    "topics": [
+      {
+        "referenceUrl": null,
+        "iptcName": "science and technology",
+        "iabName": "Education",
+        "confidence": 0.6471,
+        "id": 1,
+        "name": "Education/Technology",
+        "appearances": [
+          {
+            "startTime": "0:00:22.24",
+            "endTime": "0:00:22.92",
+            "startSeconds": 22.2,
+            "endSeconds": 22.9
+          }
+        ]
+      }
+    ]
+  },
+  "videos": [
+    {
+      "accountId": "a9696e33-fd7a-4070-83f6-fc8d2e06633a",
+      "id": "uik26vaxx6",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:00:43.004",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [
+          "en-US"
+        ],
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "transcript": [
+          {
+            "id": 1,
+            "text": "Short orders.",
+            "confidence": 0.3372,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.24",
+                "adjustedEnd": "0:00:22.92",
+                "start": "0:00:22.24",
+                "end": "0:00:22.92"
+              }
+            ]
+          }
+        ],
+        "ocr": [
+          {
+            "id": 1,
+            "text": "35",
+            "confidence": 0.998,
+            "left": 1391,
+            "top": 706,
+            "width": 58,
+            "height": 54,
+            "angle": 8,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:30.03",
+                "adjustedEnd": "0:00:30.0633667",
+                "start": "0:00:30.03",
+                "end": "0:00:30.0633667"
+              },
+              {
+                "adjustedStart": "0:00:32.032",
+                "adjustedEnd": "0:00:32.0653667",
+                "start": "0:00:32.032",
+                "end": "0:00:32.0653667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "OnPrintShop",
+            "confidence": 0.948,
+            "left": 1358,
+            "top": 578,
+            "width": 83,
+            "height": 12,
+            "angle": 101,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:02.002",
+                "adjustedEnd": "0:00:14.0473667",
+                "start": "0:00:02.002",
+                "end": "0:00:14.0473667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "TM",
+            "confidence": 0.954,
+            "left": 31,
+            "top": 884,
+            "width": 30,
+            "height": 31,
+            "angle": -6,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:04.0373667",
+                "start": "0:00:03.003",
+                "end": "0:00:04.0373667"
+              },
+              {
+                "adjustedStart": "0:00:08.008",
+                "adjustedEnd": "0:00:12.0453667",
+                "start": "0:00:08.008",
+                "end": "0:00:12.0453667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "LG",
+            "confidence": 0.973,
+            "left": 1640,
+            "top": 804,
+            "width": 83,
+            "height": 60,
+            "angle": -5,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:03.003",
+                "end": "0:00:03.0363667"
+              },
+              {
+                "adjustedStart": "0:00:08.008",
+                "adjustedEnd": "0:00:09.0423667",
+                "start": "0:00:08.008",
+                "end": "0:00:09.0423667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "MIN",
+            "confidence": 0.93,
+            "left": 1752,
+            "top": 184,
+            "width": 24,
+            "height": 9,
+            "angle": 92,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.008",
+                "adjustedEnd": "0:00:08.0413667",
+                "start": "0:00:08.008",
+                "end": "0:00:08.0413667"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "MICALS",
+            "confidence": 0.995,
+            "left": 0,
+            "top": 1000,
+            "width": 71,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.011",
+                "adjustedEnd": "0:00:12.0453667",
+                "start": "0:00:11.011",
+                "end": "0:00:12.0453667"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "OnPrintshop",
+            "confidence": 0.903,
+            "left": 1177,
+            "top": 527,
+            "width": 85,
+            "height": 13,
+            "angle": 104,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.022",
+                "adjustedEnd": "0:00:25.0583667",
+                "start": "0:00:22.022",
+                "end": "0:00:25.0583667"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "ALS",
+            "confidence": 0.995,
+            "left": 56,
+            "top": 1009,
+            "width": 42,
+            "height": 19,
+            "angle": 1,
+            "language": "de-DE",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.022",
+                "adjustedEnd": "0:00:22.0553667",
+                "start": "0:00:22.022",
+                "end": "0:00:22.0553667"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "LS",
+            "confidence": 0.929,
+            "left": 75,
+            "top": 967,
+            "width": 35,
+            "height": 27,
+            "angle": -7,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:23.023",
+                "adjustedEnd": "0:00:23.0563667",
+                "start": "0:00:23.023",
+                "end": "0:00:23.0563667"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "Sho",
+            "confidence": 0.987,
+            "left": 1507,
+            "top": 759,
+            "width": 28,
+            "height": 18,
+            "angle": 15,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:34.034",
+                "adjustedEnd": "0:00:34.0673667",
+                "start": "0:00:34.034",
+                "end": "0:00:34.0673667"
+              },
+              {
+                "adjustedStart": "0:00:36.036",
+                "adjustedEnd": "0:00:37.0703667",
+                "start": "0:00:36.036",
+                "end": "0:00:37.0703667"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "Shop",
+            "confidence": 0.994,
+            "left": 1595,
+            "top": 759,
+            "width": 41,
+            "height": 17,
+            "angle": 20,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:35.035",
+                "adjustedEnd": "0:00:35.0683667",
+                "start": "0:00:35.035",
+                "end": "0:00:35.0683667"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "est",
+            "confidence": 0.995,
+            "left": 1385,
+            "top": 737,
+            "width": 23,
+            "height": 12,
+            "angle": 18,
+            "language": "fr-FR",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39.039",
+                "adjustedEnd": "0:00:39.0723667",
+                "start": "0:00:39.039",
+                "end": "0:00:39.0723667"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "ost",
+            "confidence": 0.914,
+            "left": 1382,
+            "top": 725,
+            "width": 22,
+            "height": 11,
+            "angle": 16,
+            "language": "de-DE",
+            "instances": [
+              {
+                "adjustedStart": "0:00:40.04",
+                "adjustedEnd": "0:00:40.0733667",
+                "start": "0:00:40.04",
+                "end": "0:00:40.0733667"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "MASTER",
+            "confidence": 0.956,
+            "left": 1183,
+            "top": 615,
+            "width": 47,
+            "height": 12,
+            "angle": -165,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41.041",
+                "adjustedEnd": "0:00:41.0743667",
+                "start": "0:00:41.041",
+                "end": "0:00:41.0743667"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 1,
+            "text": "onprintshop",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:02.002",
+                "adjustedEnd": "0:00:14.0473667",
+                "start": "0:00:02.002",
+                "end": "0:00:14.0473667"
+              },
+              {
+                "adjustedStart": "0:00:22.022",
+                "adjustedEnd": "0:00:25.0583667",
+                "start": "0:00:22.022",
+                "end": "0:00:25.0583667"
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 1,
+            "name": "Technology",
+            "referenceId": "Education/Technology",
+            "referenceType": "VideoIndexer",
+            "iptcName": "science and technology",
+            "confidence": 0.6471,
+            "iabName": "Education",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.24",
+                "adjustedEnd": "0:00:22.92",
+                "start": "0:00:22.24",
+                "end": "0:00:22.92"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "clothing",
+            "referenceId": "consumer goods/clothing",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.999,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:42.0753667",
+                "start": "0:00:00",
+                "end": "0:00:42.0753667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "person",
+            "referenceId": "person",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9966,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:42.0753667",
+                "start": "0:00:00",
+                "end": "0:00:42.0753667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "human face",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9897,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:20.0533667",
+                "start": "0:00:00",
+                "end": "0:00:20.0533667"
+              },
+              {
+                "confidence": 0.9503,
+                "adjustedStart": "0:00:22.022",
+                "adjustedEnd": "0:00:22.0553667",
+                "start": "0:00:22.022",
+                "end": "0:00:22.0553667"
+              },
+              {
+                "confidence": 0.9813,
+                "adjustedStart": "0:00:24.024",
+                "adjustedEnd": "0:00:42.0753667",
+                "start": "0:00:24.024",
+                "end": "0:00:42.0753667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "man",
+            "referenceId": "person/man",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9921,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:04.0373667",
+                "start": "0:00:00",
+                "end": "0:00:04.0373667"
+              },
+              {
+                "confidence": 0.9932,
+                "adjustedStart": "0:00:07.007",
+                "adjustedEnd": "0:00:07.0403667",
+                "start": "0:00:07.007",
+                "end": "0:00:07.0403667"
+              },
+              {
+                "confidence": 0.9918,
+                "adjustedStart": "0:00:12.012",
+                "adjustedEnd": "0:00:15.0483667",
+                "start": "0:00:12.012",
+                "end": "0:00:15.0483667"
+              },
+              {
+                "confidence": 0.9929,
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:22.0553667",
+                "start": "0:00:17.017",
+                "end": "0:00:22.0553667"
+              },
+              {
+                "confidence": 0.9907,
+                "adjustedStart": "0:00:24.024",
+                "adjustedEnd": "0:00:24.0573667",
+                "start": "0:00:24.024",
+                "end": "0:00:24.0573667"
+              },
+              {
+                "confidence": 0.972,
+                "adjustedStart": "0:00:28.028",
+                "adjustedEnd": "0:00:30.0633667",
+                "start": "0:00:28.028",
+                "end": "0:00:30.0633667"
+              },
+              {
+                "confidence": 0.9737,
+                "adjustedStart": "0:00:33.033",
+                "adjustedEnd": "0:00:36.0693667",
+                "start": "0:00:33.033",
+                "end": "0:00:36.0693667"
+              },
+              {
+                "confidence": 0.9879,
+                "adjustedStart": "0:00:38.038",
+                "adjustedEnd": "0:00:42.0753667",
+                "start": "0:00:38.038",
+                "end": "0:00:42.0753667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "indoor",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9584,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:00",
+                "end": "0:00:02.0353667"
+              },
+              {
+                "confidence": 0.9635,
+                "adjustedStart": "0:00:04.004",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:04.004",
+                "end": "0:00:05.0383667"
+              },
+              {
+                "confidence": 0.9582,
+                "adjustedStart": "0:00:07.007",
+                "adjustedEnd": "0:00:20.0533667",
+                "start": "0:00:07.007",
+                "end": "0:00:20.0533667"
+              },
+              {
+                "confidence": 0.9582,
+                "adjustedStart": "0:00:22.022",
+                "adjustedEnd": "0:00:23.0563667",
+                "start": "0:00:22.022",
+                "end": "0:00:23.0563667"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "computer",
+            "referenceId": "device/machine/computer",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9754,
+                "adjustedStart": "0:00:02.002",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:02.002",
+                "end": "0:00:02.0353667"
+              },
+              {
+                "confidence": 0.9683,
+                "adjustedStart": "0:00:04.004",
+                "adjustedEnd": "0:00:18.0513667",
+                "start": "0:00:04.004",
+                "end": "0:00:18.0513667"
+              },
+              {
+                "confidence": 0.9768,
+                "adjustedStart": "0:00:20.02",
+                "adjustedEnd": "0:00:23.0563667",
+                "start": "0:00:20.02",
+                "end": "0:00:23.0563667"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "laptop",
+            "referenceId": "computer/portable computer/laptop",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9502,
+                "adjustedStart": "0:00:02.002",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:02.002",
+                "end": "0:00:02.0353667"
+              },
+              {
+                "confidence": 0.9548,
+                "adjustedStart": "0:00:04.004",
+                "adjustedEnd": "0:00:04.0373667",
+                "start": "0:00:04.004",
+                "end": "0:00:04.0373667"
+              },
+              {
+                "confidence": 0.9555,
+                "adjustedStart": "0:00:21.021",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:21.021",
+                "end": "0:00:21.0543667"
+              },
+              {
+                "confidence": 0.9814,
+                "adjustedStart": "0:00:23.023",
+                "adjustedEnd": "0:00:23.0563667",
+                "start": "0:00:23.023",
+                "end": "0:00:23.0563667"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "wall",
+            "referenceId": "structure/wall",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9571,
+                "adjustedStart": "0:00:05.005",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:05.005",
+                "end": "0:00:05.0383667"
+              },
+              {
+                "confidence": 0.9585,
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:19.0523667",
+                "start": "0:00:19.019",
+                "end": "0:00:19.0523667"
+              },
+              {
+                "confidence": 0.9501,
+                "adjustedStart": "0:00:22.022",
+                "adjustedEnd": "0:00:22.0553667",
+                "start": "0:00:22.022",
+                "end": "0:00:22.0553667"
+              },
+              {
+                "confidence": 0.9675,
+                "adjustedStart": "0:00:27.027",
+                "adjustedEnd": "0:00:27.0603667",
+                "start": "0:00:27.027",
+                "end": "0:00:27.0603667"
+              },
+              {
+                "confidence": 0.9797,
+                "adjustedStart": "0:00:32.032",
+                "adjustedEnd": "0:00:42.0753667",
+                "start": "0:00:32.032",
+                "end": "0:00:42.0753667"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "shirt",
+            "referenceId": "consumer goods/clothing/shirt",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9743,
+                "adjustedStart": "0:00:25.025",
+                "adjustedEnd": "0:00:26.0593667",
+                "start": "0:00:25.025",
+                "end": "0:00:26.0593667"
+              },
+              {
+                "confidence": 0.9649,
+                "adjustedStart": "0:00:28.028",
+                "adjustedEnd": "0:00:29.0623667",
+                "start": "0:00:28.028",
+                "end": "0:00:29.0623667"
+              },
+              {
+                "confidence": 0.9845,
+                "adjustedStart": "0:00:31.031",
+                "adjustedEnd": "0:00:33.0663667",
+                "start": "0:00:31.031",
+                "end": "0:00:33.0663667"
+              },
+              {
+                "confidence": 0.9655,
+                "adjustedStart": "0:00:35.035",
+                "adjustedEnd": "0:00:35.0683667",
+                "start": "0:00:35.035",
+                "end": "0:00:35.0683667"
+              },
+              {
+                "confidence": 0.9661,
+                "adjustedStart": "0:00:39.039",
+                "adjustedEnd": "0:00:39.0723667",
+                "start": "0:00:39.039",
+                "end": "0:00:39.0723667"
+              },
+              {
+                "confidence": 0.9612,
+                "adjustedStart": "0:00:41.041",
+                "adjustedEnd": "0:00:42.0753667",
+                "start": "0:00:41.041",
+                "end": "0:00:42.0753667"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "plaid",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.956,
+                "adjustedStart": "0:00:29.029",
+                "adjustedEnd": "0:00:29.0623667",
+                "start": "0:00:29.029",
+                "end": "0:00:29.0623667"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "tartan",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9518,
+                "adjustedStart": "0:00:29.029",
+                "adjustedEnd": "0:00:29.0623667",
+                "start": "0:00:29.029",
+                "end": "0:00:29.0623667"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:27.1604667",
+                "start": "0:00:00",
+                "end": "0:00:27.1604667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:00:27.3606667",
+                "adjustedEnd": "0:00:42.9429",
+                "start": "0:00:27.3606667",
+                "end": "0:00:42.9429"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "f80513a7-8dea-43d7-b5be-ebb5ecee0e5f",
+                    "adjustedStart": "0:00:00.2002",
+                    "adjustedEnd": "0:00:00.2335667",
+                    "start": "0:00:00.2002",
+                    "end": "0:00:00.2335667"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "aad05f7d-c851-4ce0-aef7-6405d4e19718",
+                    "adjustedStart": "0:00:13.3800333",
+                    "adjustedEnd": "0:00:13.4134",
+                    "start": "0:00:13.3800333",
+                    "end": "0:00:13.4134"
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "instances": [
+                  {
+                    "thumbnailId": "5e69e023-f230-4f56-ad19-b2529a128811",
+                    "adjustedStart": "0:00:26.0593667",
+                    "adjustedEnd": "0:00:26.0927333",
+                    "start": "0:00:26.0593667",
+                    "end": "0:00:26.0927333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:27.1604667",
+                "start": "0:00:00",
+                "end": "0:00:27.1604667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "keyFrames": [
+              {
+                "id": 4,
+                "instances": [
+                  {
+                    "thumbnailId": "4d0adba7-5347-4f24-a8ad-0975fb9d3e62",
+                    "adjustedStart": "0:00:28.6619667",
+                    "adjustedEnd": "0:00:28.6953333",
+                    "start": "0:00:28.6619667",
+                    "end": "0:00:28.6953333"
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "instances": [
+                  {
+                    "thumbnailId": "471c80cd-05fc-4d89-8be6-d0e1654cc41b",
+                    "adjustedStart": "0:00:32.5658667",
+                    "adjustedEnd": "0:00:32.5992333",
+                    "start": "0:00:32.5658667",
+                    "end": "0:00:32.5992333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:27.3606667",
+                "adjustedEnd": "0:00:42.9429",
+                "start": "0:00:27.3606667",
+                "end": "0:00:42.9429"
+              }
+            ]
+          }
+        ],
+        "detectedObjects": [
+          {
+            "id": 1,
+            "type": "Handbag",
+            "thumbnailId": "7bd0c946-2a30-42d5-a490-b28651a33f4c",
+            "displayName": "handbag",
+            "wikiDataId": "Q467505",
+            "instances": [
+              {
+                "confidence": 0.576,
+                "adjustedStart": "0:00:29.095733",
+                "adjustedEnd": "0:00:42.9429",
+                "start": "0:00:29.095733",
+                "end": "0:00:42.9429"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "type": "Laptop",
+            "thumbnailId": "1683ad76-0f63-4789-9426-6f1a9cf02a2a",
+            "displayName": "laptop",
+            "wikiDataId": "Q3962",
+            "instances": [
+              {
+                "confidence": 0.677,
+                "adjustedStart": "0:00:29.4294",
+                "adjustedEnd": "0:00:29.796433",
+                "start": "0:00:29.4294",
+                "end": "0:00:29.796433"
+              }
+            ]
+          }
+        ],
+        "sentiments": [
+          {
+            "id": 1,
+            "averageScore": 0.5,
+            "sentimentType": "Neutral",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:43.004",
+                "start": "0:00:00",
+                "end": "0:00:43.004"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:43.004",
+                "start": "0:00:00",
+                "end": "0:00:43.004"
+              }
+            ]
+          }
+        ],
+        "speakers": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.24",
+                "adjustedEnd": "0:00:22.92",
+                "start": "0:00:22.24",
+                "end": "0:00:22.92"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 0,
+          "speakerTalkToListenRatio": {
+            "1": 1
+          },
+          "speakerLongestMonolog": {
+            "1": 0
+          },
+          "speakerNumberOfFragments": {
+            "1": 1
+          },
+          "speakerWordCount": {
+            "1": 2
+          }
+        }
+      },
+      "thumbnailId": "8bab8e2e-53c5-48f5-bbaa-afb71a3677c8",
+      "width": 1920,
+      "height": 1080,
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [
+        "en-US"
+      ],
+      "language": "en-US",
+      "languages": [
+        "en-US"
+      ],
+      "indexingPreset": "Default",
+      "streamingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "logoGroupId": null,
+      "isAdult": false,
+      "excludedAIs": [],
+      "isSearchable": true,
+      "publishedUrl": "https://api.videoindexer.ai/internals/Trial/Accounts/a9696e33-fd7a-4070-83f6-fc8d2e06633a/Videos/uik26vaxx6/streaming-manifest/manifest.m3u8",
+      "publishedProxyUrl": null,
+      "viewToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJWZXJzaW9uIjoiMi4wLjAuMCIsIktleVZlcnNpb24iOiI1YmZmYWI1MTUwZWI0NGM4ODMzNzE2NzVhNzcwYzU4YSIsIkFjY291bnRJZCI6ImE5Njk2ZTMzLWZkN2EtNDA3MC04M2Y2LWZjOGQyZTA2NjMzYSIsIkFjY291bnRUeXBlIjoiVHJpYWwiLCJWaWRlb0lkIjoidWlrMjZ2YXh4NiIsIlBlcm1pc3Npb24iOiJSZXN0cmljdGVkVmlld2VyIiwiRXh0ZXJuYWxVc2VySWQiOiI4YzQ5NmY2ZThlZTZlYTIyIiwiVXNlclR5cGUiOiJNaWNyb3NvZnQiLCJJc3N1ZXJMb2NhdGlvbiI6IlRyaWFsIiwibmJmIjoxNzYyMDMyMzE4LCJleHAiOjE3NjIwMzYyMTgsImlzcyI6Imh0dHBzOi8vYXBpLnZpZGVvaW5kZXhlci5haS8iLCJhdWQiOiJodHRwczovL2FwaS52aWRlb2luZGV4ZXIuYWkvIn0.JlCrfz1K062SbYhKPofp-e2_anHHbjHkhSDOhFtzimWSRQ44hcD7pxZqIUQEBIYqQVzKa5t-aDo_auaUHXaR6WrSBTZGdzgKgIPF9j1YNKrppB7qh5sefaP76-7-i6qiqv4A4nYpLgg8zC_gdB7WFYkjAh6yd-hhXPN5wvD0KMtxntyJHeHOc5sz8B5Dq_4xC5U2TE1VcDnUfAfzD1O9LnV5xlzMKwyTNU3-UiPhwmYO8kVAFLV94M7lKTTg35JwVq0BUKVpMcVvtKjkW2GM112-qxkauXppNMdUPMq_W_rblvaq4f4-yCLd-Q_DdDR1uJT600A8Y-mcqnEknP6OuQ"
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "uik26vaxx6",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:00:43.004"
+      }
+    }
+  ]
+}

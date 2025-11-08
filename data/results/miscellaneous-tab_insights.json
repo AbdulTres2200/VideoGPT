@@ -1,0 +1,21 @@
+{
+  "id": "txt_639708",
+  "name": "miscellaneous-tab",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\n\nSite Settings\nMiscellaneous Tab\n\n2 min\npurpose the miscellaneous section includes some basic settings of the storefront and admin panel you can control admin notifications, image width and height, \u2018my account\u2019 section of the customer, a maximum number of records to be displayed per page and number of page links that need to be displayed per page read along to understand the features \u2013 enable admin notification? enable admin notification? this setting disables/enables the admin panel notifications that admin receives after a customer registration, order placement and more maximum image height and width maximum image height and width this setting will allow you to define the maximum height and width of all the images however, the default width is \u2018150\u2019 no of records to be displayed in 'my account' portfolio and orders front no of records to be displayed in 'my account' portfolio and orders front allows you to set a maximum number of records that should be visible to customers in their my account under portfolio and orders section once the maximum limit is reached pagination is applied on the page to show the next records display number of pages display number of pages allows the admin to set the number of pages to display in the store front if display number of pages is 5, then paging will show only 5 pages to be referred directly after 5th page, the next button has to be clicked which will provide the next set of 5 pages which are 6,7,8,9 and 10 no of records to be displayed per page for all listing pages admin no of records to be displayed per page for all listing pages admin allows you to set a number of records to be displayed per page in all the listing pages of admin panel the admin can select the value from the drop down based on which the records will be displayed\nDid this page help you?\n\n\nPREVIOUS\nTheme Settings Tab\nNEXT\nLanguages\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

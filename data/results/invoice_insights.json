@@ -1,0 +1,21 @@
+{
+  "id": "txt_419160",
+  "name": "invoice",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nB2B/Private Store - Pro Plan\n\n\nStore Actions\nInvoice\n\n5 min\npurpose the invoice tab allows you to manage store wise invoices this tab will appear when you have set \"stores\" for the manage invoice setting in the store edit screen admin can raise the invoice for more than one order for their store customers also, they can change the status of the invoice from 'unpaid' to 'paid ' manage invoices the invoice dashboard has three tabs namely raised invoice, paid invoice, and online orders the screen will display the invoice number along with the order number on which invoice has been raised/created the total of all the orders grouped in the invoice will be displayed to change the status of the invoice, click on the pencil like icon write down the payment note and click on paid now this invoice will be displayed in the 'paid' tab along with all the details click on the download button to download the invoice add button for adding/raising a new invoice, click on the add button (top right corner) the screen will display a list of all orders for which invoice has not been raised select the orders to raise the invoice for click on add button click on generate link to generate the invoice number and then click on save after adding remarks and setting up a due date store admin will be able to check the status of 'raised invoice' and 'paid invoice' from their admin panel invoice setting admin can set the auto invoice generation settings for the stores using the invoice setting button from the top right corner of invoices screen, admin can enable auto invoice generation default pay on limit this option will help you to set the default pay on account limit for the store while the invoice is generated date consideration set the date consideration for generating the invoices i e order date or shipping date also, admin gets to select the invoice generation interval i e weekly or monthly when the interval selected is weekly then admin gets to select a weekday for invoice generation similarly, when the interval is set to monthly then admin can set a 'date' to generate the invoices invoice due days select the due days from the drop down for the customers to pay the outstanding invoice amount after generating monthly invoice reset payon limit this toggle will help you to reset the pay on limit after the invoice is generated system will make remaining pay on amount as a paid and set the default pay on amount\nDid this page help you?\n\n\nPREVIOUS\nManage Pay On Account\nNEXT\nConfiguration\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

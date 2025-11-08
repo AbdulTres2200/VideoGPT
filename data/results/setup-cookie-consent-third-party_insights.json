@@ -1,0 +1,21 @@
+{
+  "id": "txt_118681",
+  "name": "setup-cookie-consent-third-party",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImportant Configurations\nSetup Cookie Consent - Third Party\n\n4 min\na cookie consent popup is a banner that appears on websites to request visitors' permission to use cookies in this manner, the user will be informed of the website's cookie usage and provide informed consent cookie popups fulfill the gdpr requirement to obtain consent before setting cookies on a user's device 1 go to cookies service provider 1 go to cookies service provider onprintshop has standard cookie consent popup but for advance you can use third party service provider here is the list of service provider onetrust userway cookiesyes axeptio osano cookie bot 2 get the code from cookies service provider 2 get the code from cookies service provider after registration, the cookies service provider will give you a code to install the cookies functionality into your website copy and save securely the code 3 configuration into admin panel 3 configuration into admin panel to enable the cookies service, you will require pasting the code in admin panel on the admin panel navigate to the admin > external service settings > \u2018social sharing\u2019 tab > google services > \u2018action\u2019 menu > \u2018edit\u2019 option under the settings section, find the \u2018common footer script code\u2019 text block paste the saved code from the cookies service provider this will enable the cookies services on your website in case of query, please contact the onprintshop support team at support\\@onprintshop com\nDid this page help you?\n\n\nPREVIOUS\nLive Chat Integration\nNEXT\nDesigner Studio\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

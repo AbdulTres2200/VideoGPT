@@ -1,0 +1,21 @@
+{
+  "id": "txt_354132",
+  "name": "setup-mandrill",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmail Marketing\nSetup Mandrill\n\n4 min\noverview & purpose mandrill is a paid add on of mailchimp it is a transitional email product for people using mailchimp mandrill helps applications send transitional emails like password resets, order confirmation, and welcome emails this means that through mandrill you can send any legal and non spam emails mandrill has advanced tracking features with easy to understand reports and email templates with mandrill, you can either send email through the mandrill api or smtp integration if you are already sending transitional emails through smtp then all you need to do is change the smtp credentials to mandrill and begin immediately mandrill is a paid service and its billing model is based on a monthly billing cycle note customers using forever free and pay as you go plans on mailchimp cannot use mandrill services to use mandrill as a paid add on or upgrade to a monthly plan how to integrate to integrate mandrill into your onprintshop web store, you need to login to mandrill and follow the below steps visit mandrill's login page click on the link add mandrill to your mailchimp account to use mandrill services after adding mandrill to your mailchimp account this will redirect you to a guide where you can learn how to add a mandrill account, remove mandrill, and much more follow the systematic guidelines to add or remove mandrill https //mailchimp com/help/add or remove mandrill/ also, in case of any queries feel free to contact our support team at support\\@onprintshop com\nDid this page help you?\n\n\nPREVIOUS\nSetup Zendesk\nNEXT\nSetup ActiveCampaign\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

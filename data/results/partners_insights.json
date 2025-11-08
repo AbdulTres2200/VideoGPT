@@ -1,0 +1,21 @@
+{
+  "id": "txt_371446",
+  "name": "partners",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdmin & Reports\n\nViewing Reports\nPartners\n\n8 min\noverview & purpose in this section, you can access detailed reports about your business partners here, you can see information about your orders fulfilled by respective printers, commissions paid to sales agent, printers, and designers partners report sales agent commission this report provides information about the commission of sales agents on each order the report information varies on the basis of the date selected, commission payment status, or the sales agent selected the report has information such as order id, order date, sales agent, and customer details, total commission amount as well as percentage and commission payment status clicking on the order id will redirect to the view order page the total order amount and commission amount is displayed at the top of the report printer order summary the total assigned job count is displayed at the top of the report report information varies based on the selection of date range, order status, or printer selected the report contains printer details, assign job count, order product count, and price clicking on the printer details link will redirect to the printer\u2019s personal details page clicking on assign job count links will generate a printer wise report in different tabs clicking on order products count link will generate a printer wise report in different tabs printer/vendor commission this report provides information about the commission to printer/vendor on each order report information varies based on the selection of date range, order status or printer selected the report contains order id, order date, printer details, total order amount, vendor commission, and, admin commission clicking on order id will redirect to the view order page branch order summary this report will show data when you have assigned any order to the branch the branch order summary can be filtered on the basis of the date range selected, order status, pick up branch or placed branch and the branch selected reports contain time period, order count, branch details, product price, shipping price, discount applied, taxes, payment processing fees (if any), and total order amount clicking on orders will redirect you to the order detail report designer commission this tab will only appear if you have enabled the designer module from our technical team the report gives information about the commission every designer gets the data shown in the report depends on the date range selected, payment status types (paid, unpaid, canceled), payment method, and the designer name the report will show the commission date, designer details, order number (of which the designer is paid commission), product amount, commission amount, and payment status i e if the admin has paid the designer clicking on the order no will redirect you to the view order page\nDid this page help you?\n\n\nPREVIOUS\nCustomers\nNEXT\nProduction Time Spent\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

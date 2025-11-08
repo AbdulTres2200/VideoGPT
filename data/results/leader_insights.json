@@ -1,0 +1,21 @@
+{
+  "id": "txt_914927",
+  "name": "leader",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesigner Studio\n\nPDF Block Template\nLeader\n\n3 min\nthis property is useful in the templates where there are fields displaying menu items on design templates such templates are designed mostly for hotel/restaurant menu cards how to set up a leader block? how to set up a leader block? note the leader property only works for text flow blocks select any product template and click on the action button and select manage blocks from the drop down from the manage blocks tab, click on the \u2018 manage properties \u2019 link of any block in the manage properties screen, click on the \u2018 add \u2019 button from the top right corner to add a property in the property drop down, select \u2018leader\u2019 enter the character this character is applied as a leader between the inputs enter the separator add a separator to differentiate the text shown on the left side and right side how to define characters? how to define characters? for a menu item pizza + $25 the output displayed is pizza $25 this means \u201c \u201d (a dot) is the character how to define a separator? how to define a separator? for a menu item pizza + $25, the \u2018+\u2019 sign is the separator\nDid this page help you?\n\n\nPREVIOUS\nText Formatting\nNEXT\nBullet Format\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

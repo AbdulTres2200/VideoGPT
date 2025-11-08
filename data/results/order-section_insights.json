@@ -1,0 +1,21 @@
+{
+  "id": "txt_289032",
+  "name": "order-section",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 12.0 Release Notes\nOrder Section\n\n8 min\nenhanced order action page for a better experience to improve access to key functions, save time, and enhance workflow efficiency, we are introducing a new tabbed ui that incorporates all options from the order actions menu in the updated interface, certain actions have been relocated for better navigation for example, the update order and download buttons are now positioned in the top right corner for quick access additionally, to ensure consistency, the actions dropdown on the order listing page has been updated track order progress and optimize team efficiency unlock actionable insights with the new \"production time spent\" report in onprintshop v12 0! track the time spent at each order status and uncover workflow inefficiencies in real time note this feature will continue evolving, with new enhancements added based on user needs, ensuring your operations remain a step ahead! in the admin panel, a new menu \"production time spent\" has been added under the report section the admin can review the time spent on every order for the entire order or order product wise with the help of various filters, such as month, users, status, report view and additional columns, the admin can view, generate and download the report for further analysis product option specific package configuration simplify shipping configurations by assigning specific packaging directly to product options within the system this user friendly feature enhances efficiency, streamlines logistics for specialized products, and simplifies your team's overall shipping workflow for the product options created for hardware, you can now create predefined packaging boxes in the system and assign them for preselection during shipment post order to achieve this, a new product options tab has been introduced in the package configuration screen while creating the package, the admin can choose between a common package for the selected product option or a specific package for the product option associated with the selected product once the admin has created the packages, it will be displayed on the listing page with all the details setting minimum shipping price for online shipping methods the minimum shipping amount feature ensures that customers are always charged a predefined minimum shipping cost if the actual shipping price, including any markup for online shipping methods (such as ups and fedex), is lower than the set minimum, the system will automatically apply the predefined amount minor enhancement product filter in order section to enable the admin to filter orders based on the selected products, a product filter has been added to the order section this filter will be available on the order listing, archive orders, store pending orders, and unpaid orders\nDid this page help you?\n\n\nPREVIOUS\nFront Store\nNEXT\nProduct Section\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "txt_179256",
+  "name": "cloudflare-integration",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOthers\nCloudflare Integration\n\n10 min\noverview & purpose cloudflare is an extensive server network that can increase the security, speed, and dependability of everything connected to the internet the cloudflare integration with onprintshop helps user manage their website performance more effectively as part of this integration, users who utilize cloudflare dns for their domain can now purge (delete) cache directly from cloudflare to ensure their latest site updates are reflected instantly for more information on how cache purging works, refer to the official purge everything \u2013 cloudflare developer docs how to integrate read the below systematic guide to integrate cloudflare with your onprintshop website 1 signup/register to the cloudflare 1 signup/register to the cloudflare visit the cloudflare site and login if you have an existing account or sign up complete the verification process and login into your account 2 create/add a site 2 create/add a site after login, you will land on your homepage of the dashboard to get started you will have to add a new site by clicking on the add site button on the next page, enter the site url and click on the add site button 3 complete your account details 3 complete your account details after creating the site, complete your account details starting with selecting the plan for your account, completing the nameserver setup and domain settings 4 add dns records 4 add dns records for adding dns records, navigate to the dns >> records from the left panel on the dns records page, click on the add record button to add mutliple records this is how the dns records will appear once added 5 get the ids and keys 5 get the ids and keys for getting the ids and keys for integration, click on the overview page, scroll the the page and locate api section as highlighted in the screen below you need to copy the zone id from here to be used in the later steps for api token, click on the \" get your api token \" link below the account id this will take you to the my profile >> api tokens page click on the view button against global api key one pop up will appear as shown below allow the system to check captcha, enter the password after successful captcha and then click on view button the key will appear in new pop up, click on the click to copy link and close the popup 6 configuration into admin panel 6 configuration into admin panel on your admin panel, go to the store configurations >> external service settings >> others >> cloudflare enable the status of the cloudflare and then click on the edit icon enter the email id associated with the cloudflare account and xauth key ( global api key ) enter the domain and zone ids that you copied in the above steps you can enter multiple domains/zones using the add button once done with filling in all the details, save the changes to delete the cache from the cloudflare domains, click on the confirm delete button\nDid this page help you?\n\n\nPREVIOUS\nipstack Integration\nNEXT\nSetup PressWise\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

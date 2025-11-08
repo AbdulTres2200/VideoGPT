@@ -1,0 +1,21 @@
+{
+  "id": "txt_595746",
+  "name": "U5iu-third-party-integrations",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 12.1 Release Notes\nThird-Party Integrations\n\n6 min\norder and notification via the whatsapp platform we\u2019re introducing setup whatsapp business docid\\ cj egsgeqfg4kgqtj3qp1 to elevate customer experience with a seamless, conversational interface this feature allows users to create orders, track existing ones, and receive real time notifications for order updates and important communications\u2014all through whatsapp to get started, clients must have a verified whatsapp business account our team will guide you through the verification process to ensure a smooth setup apple pay and google pay methods for ready to buy products front store customers can now pay with apple pay or google pay for ready to buy products admins can configure express checkout options from the paypal advance method settings, choosing whether it appears on \"ready to buy\" product pages or on the first step of the shopping cart (for all the products) front end login with single sign on (sso) onprintshop now supports single sign on (sso) for front end login, allowing users to authenticate through providers like oidc, saml 2 0, or oauth admins can configure sso store wise, with dynamic fields, metadata uploads, and user restriction settings a \u201clogin via sso\u201d button appears on the login screen, enabling seamless access and automatic user registration if permitted csv mailing list upload integration for 4over mailing products 4over mailing products now support csv mailing list uploads via the 4over direct mailing api after selecting a mailing service location and postage class, and completing their design, they\u2019ll be redirected to the additional info page, where they can upload their mail list using the new upload mail list button the user clicks the upload mail list button, which opens the standard mailing selection popup they then select and upload their csv file by clicking upload & save, after which the 4over step by step mailing workflow pop up appears if the user is not logged in, a login pop up appears within the mailing interface once logged in, the user selects an address validation level there are three options accept all (low validation), which accepts all records without removing duplicates, running ncoa (move update), or correcting addresses; most popular (medium validation), which removes duplicates and runs address correction but does not include ncoa, accepting only corrected records; and exact matches (high validation), which includes duplicate removal, ncoa, and full address correction, accepting only deliverable addresses after selecting the validation type, the user can review the results the system displays valid addresses (up to 100 in a table), along with links to view invalid and duplicate addresses in detail finally, the system presents a summary including the total number of valid addresses, postage price and type, and the estimated post office drop date the user then clicks accept mailing details to proceed to the next step the user is redirected to the cart page, where they can review their order details if needed, they also have the option to update the mailing csv file before proceeding to checkout\nDid this page help you?\n\n\nPREVIOUS\nProduct Section\nNEXT\nVersion 12.0 Release Notes\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

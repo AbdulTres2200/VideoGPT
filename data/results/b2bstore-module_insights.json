@@ -1,0 +1,21 @@
+{
+  "id": "txt_127059",
+  "name": "b2bstore-module",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 10.0 Release Notes\nB2B/Store Module\n\n5 min\nstore specific product content store specific product content (new) (new) from this version, we are providing this facility to the store admins so that they can create and manage the product content for their respective stores once the store admin logs in to their account and go to the products listing page, they will be able to see the actions column with edit , description and settings option in the dropdown store admins will be able to modify the product details, product descriptions, and product settings the modified content can be anytime restored to the default content using the \" restore default content \" button edit the edit tab allows the admin to overwrite the product sorting, product type display, and product display at the home page settings for the selected store description you can specify the images and descriptions for the selected store settings from the settings tab, the admin can manage some general settings along with overwriting product wise label new minor features & enhancement new minor features & enhancement duplicate and import store departments duplicate and import store departments the admin will now have the facility to duplicate any department along with adding departments in bulk using import departments functionality the import department button will be available on the store listing and store department listing pages allow ip address enhancement allow ip address enhancement in this version, we have enhanced the allow ip(s) feature we've now given the ability to super admin to allow the ip addresses based on the store with this enhancement, only the super admin will be able to manage the allow ip addresses for all the stores the selection of the user type will be utilized when your individual store is under maintenance and you need to allow certain ip(s) to access that specific store\nDid this page help you?\n\n\nPREVIOUS\nDesigner Studio\nNEXT\nAdmin Section\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

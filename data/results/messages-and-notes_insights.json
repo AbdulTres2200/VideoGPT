@@ -1,0 +1,21 @@
+{
+  "id": "txt_517958",
+  "name": "messages-and-notes",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders, Quotes & Customers\n\n\nManaging Orders\nMessages & Notes\n\n4 min\noverview & purpose messages and notes are brief messages which will be used by the customers while updating the order, order product update, or product cancellation request these messages will help your customers in getting rid of repetitive typing and reduce their efforts while performing any of the actions we have provided various sections wherein you can create messages and a list will appear at the web store your customers can easily choose one from the pre defined messages and proceed without any hassle configuration add a pre defined message to add a pre defined message, go to orders >> list orders >> message & notes (top right corner) >> add predefined comment choose a section where the message should appear there are certain pre defined sections made available you can select multiple sections for a particular message update order these are order specific messages, informing customers about the activities performed on their order update order product these notes are specific for order product update action every time you update a product in an order attaching a note will help customers better understand the reason behind each action vendor assignment while assigning any order to a vendor you can choose a note for them this will help the vendor easily understand the order requirements and fulfillment needs refund at times it is possible that your customer cancels the order and requests for refund or you make modifications in certain product specifications and feel like to refund the remaining amount for such scenarios, you can create refund messages for customers as well as for admins cancellation request by customers these messages will help the customer(s) choose the best possible reason for canceling their order you can create pre defined messages stating every possible reason for canceling an order the system comes with a few pre defined comments for order cancellation such as 'incorrect order details', 'incorrect product details', 'don't need the product', 'payment failure', and more order notes at certain stages, there will arrive a need to add notes into the order this will help in keeping your customer(s) updated about the order example of some order notes are products shipped, order modified, etc enter a suitable title defining the crux of the message and in the description, you can write the message describing the reason or usage actions in the message and notes, you can easily edit or delete the pre defined messages from the action column if you click on delete , then there will be a 2 step delete function\nDid this page help you?\n\n\nPREVIOUS\nOrder Shipment\nNEXT\nBulk Order Update\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

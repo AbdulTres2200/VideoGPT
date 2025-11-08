@@ -1,0 +1,21 @@
+{
+  "id": "txt_473188",
+  "name": "price",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProducts\n\n\nProduct Actions\nPrice\n\n6 min\npurpose after you add product sizes, you need to define a price for each of the size variants the price tab displays the list of all the sizes and allows the admin to add prices for individual sizes and quantities (based on the pricing method selected) learn about the pricing methods docid\\ tfzduiomcqkmaaipk6suo configuration product prices add the price that you are charging for the product based on the different sizes uploaded select user type \u2013 the system gives the admin the flexibility to add different prices for each of its customer categories you can add different prices for a default store customer (a regular customer), a store customer, or a specific store the method of adding the price for each customer is the same just fill in the correct information in the correct field add price quantity \u2013 enter the quantity range for pricing the quantity depends on the pricing method selected for the product fixed quantity, and price there will be only one quantity field range based with/without multiplication there will be a quantity range option; quantity from quantity to, where you can specify the range size based price \u2013 there will be a size range option i e size from and size to option vendor price \u2013 a vendor, in this case, is a printer you may have a supplier of your printing products this option helps in bifurcating the vendor price and avoids re calculation after the order is placed admin mark up this is the ratio between the price of the product and its vendor price if a vendor is completing your orders then as an admin you can add your mark up this markup is added to the final price of the product price \u2013 this is the price of the product the customer sees this price if there is a vendor then this is a sum of vendor price and admin mark up percentage note \u2013 if the vendor price and the final price are entered, then markup will be calculated automatically and vice versa add bulk data for adding multiple quantities and prices of the products at one go instead of entering the price separately for each range, just click on the add bulk data button here, you can either add bulk price with a range or create a range first and then add the price this reduces the effort in entering each price separately for every quantity range generate range \u2013 instead of entering each quantity, you can easily create a range once you enter the values for start, end, and interval and click on the generate range, the ranges will be displayed in the add new bulk price tab now, you need to enter the vendor price and admin markup % as shown below finally, click on the add button to add the quantity range and price for the product\nDid this page help you?\n\n\nPREVIOUS\nDesigner\nNEXT\nOption\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

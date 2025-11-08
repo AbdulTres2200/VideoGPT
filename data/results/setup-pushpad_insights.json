@@ -1,0 +1,21 @@
+{
+  "id": "txt_250136",
+  "name": "setup-pushpad",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOthers\nSetup Pushpad\n\n18 min\noverview & purpose pushpad offers a web push notification service; it is the easiest way to add push notifications to websites and web apps push notifications are delivered to you even when you are not on the website pushpad supports all major browsers and uses w3c push api for chrome, firefox, edge, opera, and the apple push notification service for safari by using pushpad you can receive notifications from the browser even when you are not on the onprintshop page in the browser you can receive important notifications from the browser in the system tray even when the browser is minimized which will help you not miss any important notifications, improve production efficiency, and get the order in time to the end users how to integrate read below a systematic guide to integrate pushpad with your onprintshop website 1 log in/register with pushpad 1 log in/register with pushpad visit the pushpad and log in if you have an existing account or sign up complete the verification process and login into your pushpad account 2 create a new project 2 create a new project after login, you will land on your dashboard to get started, you will have to create a new project, new sender, collect your subscription list, and send awesome notifications click on the new project to get started 3 create a new sender 3 create a new sender before creating a project, you need to create a sender, the website that collects subscriptions and sends push notifications click on the new sender link the sender is the owner of subscriptions give the name of your project enter your domain name click on the create sender 4 create a new project 4 create a new project from the senders creation page, click on the projects link from the top menu from the project page, click on the new project button on the new project page, add the sender name, project name and website url and click on create project 5 get project id 5 get project id to get project id, go to the project dashboard click on the settings in the settings , you will get the project id copy and save the project id change other settings, if you wish to such as notifications ttl click on the update project 6 get access token 6 get access token to integrate the pushpad notifications on your website go to your account on the account page, click on the access tokens link click on the access tokens this will take you to the access tokens page click on the add access token button to generate the access token, enter a token description also, restrict access of the token to some projects click on the click access token the access token will be generated copy and save the access token generated 7 configuration into admin panel 7 configuration into admin panel to integrate the pushpad services into your website, enter the access token and project id to get started on your admin panel, go to the store configuration >> external service settings >> others tab >> pushpad >> \u2018edit\u2019 option under the settings section, paste the access token and project id choose which notification should be displayed from the given list of notifications define the message title and content to be displayed when such an event occurs in the system once you have configured all the messages and the settings, click on the save button to save the details click on the save & continue button\nDid this page help you?\n\n\nPREVIOUS\nSetup Avanti SlingShot\nNEXT\nSetup Zapier\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

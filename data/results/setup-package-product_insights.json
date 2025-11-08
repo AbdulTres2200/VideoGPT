@@ -1,0 +1,21 @@
+{
+  "id": "txt_271359",
+  "name": "setup-package-product",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3D Packaging Solution\nSetup Package Product\n\n8 min\nthe packages product is by default disabled to enable the product please contact the technical team of onprintshop we will by default offer 3 packages mailer box, product box, and shipping box product details go to admin >> products >> products >> add product to add a packages product choose the product type as \u2018packages as soon as you select the product type as \u201cpackages\u201d, the product pricing method changes to \u2018size based price (dynamic size)\u2019 and you don\u2019t get the option to edit the price defining method designer options this is where you can define pages of the package product that you want to offer to your customers to design or customize price the product price configuration and calculation will work similarly to the custom size pricing method for entering the price, you need to enter the product size ranges and then specify the price for that range additional options for package product, you can create product options such as box type, paper type, thickness, coating type, printing sides and many more the option rules, metatag description, product gallery, and settings of photo print product type remain the same as the dynamic size product for any assistance, you can anytime contact the technical team formula for price calculation to ease the price calculation of the package module, we have added the functionality of formula in the product options section on the add master option formula page, you can add the title, variable name for formula, formula value and sorting preference for adding the formula value, you can refer to the help text by clicking on the help icon once you save the formula, it will appear as shown below you can anytime modify the formula and save the changes the formula created can be used in the product (master) option for price calculation master product options after creating the master formula, it is time to create a master product options which includes the formula created from the admin >> products >> product options screen, click on the add button on the add product option page, enter the option details in the price settings section, it is important to select the custom formula option from the option price formula field now, for creating the formula copy the formula variable name from the formula screen and paste in curly braces in the space provided enter any other variable for the custom formula and then save assigning product option to package product finally, it is time to assign the product option created to the respective package product\nDid this page help you?\n\n\nPREVIOUS\n3D Packaging Solution\nNEXT\nCreate & Assign Package Preview Models\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "txt_157896",
+  "name": "validation",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesigner Studio\n\nPDF Block Template\nValidation\n\n3 min\nwith these features, you can bind rules to a certain block some of the validation types are regular expression, date specific range, allowed characters in the text block and a few default validation formats like email, mobile you can also define your own validation more details in help how to setup validation for a block? how to setup validation for a block? select any product template and click on the action button and select manage blocks from the drop down from the manage blocks tab, click on the \u2018 manage properties \u2019 link of any block in the manage properties screen, click on the \u2018 add \u2019 button from the top right corner to add a property in the property drop down, select \u2018 validation \u2019 set the block requirement set the block format i e validation rules there are predefined rules created by onprintshop enter validation message to display at the front side what are data validation formats? what are data validation formats? there are seven predefined validation rules created phone number allows only 10 numeric values email must contain a dot and \u2018@\u2019 symbol username (3 to 16 characters, numbers \u2013 and \u2018 \u2019 allowed website must contain www only numeric only numeric values allowed only alphabet only alphabets allowed alphanumeric both alphabets and numbers allowed other create your custom validation examples are shown in the below picture\nDid this page help you?\n\n\nPREVIOUS\nInput Options\nNEXT\nLink Blocks\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

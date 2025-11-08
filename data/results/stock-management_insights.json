@@ -1,0 +1,21 @@
+{
+  "id": "txt_590144",
+  "name": "stock-management",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProducts\n\nManaging Products\nStock Management\n\n6 min\noverview & purpose stock management is the process of managing the products and their quantity this will help the admin to track the purchase, storage, and number of products stock management for single product manage your stock for specific printing products like apparel, mugs, cds, stationary, and caps manage stock according to size and size with product options manage stock the manage stock icon allows the admin to add or remove the selected product stock this section gives a provision to the admin such that they can add or debit stock manually you can add the inventory from this section the stock is automatically debited when an order is placed, but in case of offline orders, there is also a provision to debit stock from the inventory history this displays an overview of total stock credited, debited, and remaining stock, with a summary of stocks according to all product sizes total credited stock total stock credited for this product total debited stock total stock debited by the customer i e the quantity of the order placed it shows data of both online and offline if the admin has correctly entered the data of offline orders total remaining stock thus is the result of credited stock minus the debited stock export stock history this creates an excel file of all the stock debited and credit action stock settings this screen allows the admin to manage the notification when the product stock reaches at a certain point notify me when the stock reached at this helps you get a reminder when the product stock reached a certain level this will reduce down your extra effort in tracking down every day credited and debited stock the system will give a reminder when stock touches a level set by the admin allow order if the product is out of stock? keep the status on if you want to receive orders after the product\u2019s stock gets exhausted import stock import stock for all the product sizes with product options at once through an xls/csv file download file rather than creating your own excel file, the system creates a file with all the column fields to download the file select the stock type and choose the products note the select product will list down all the products for which the stock management is enabled fill the data follow the instruction given in the \u2018fill up data & help\u2019 section to fill correctly all the records records highlighted in red color are mandatory upload file save and upload the excel file upload only excel file, only correct information is uploaded into the system from the file stock management for all products this section helps you check the overall stock of all the products of the system click to view the stock, stock history, and download stock history, etc history the history button at the top right corner shows a pop up with all the products stock history here, admin can filter the stock data for a specific time span import stock instead of crediting and debiting stock for each product you can import an excel file for the same step 1 download the stock import file select the stock type and product to download the file step 2 fill stock details fill up the stock details into the excel file with the relevant information refer to fill up data & help section to correctly fill in the data step 3 import file select the file and upload it into the system after a successful upload, the system will verify the records for each column and import the data\nDid this page help you?\n\n\nPREVIOUS\nProduct Tax/VAT Settings\nNEXT\nImport Bulk Products\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

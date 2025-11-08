@@ -1,0 +1,21 @@
+{
+  "id": "txt_797463",
+  "name": "upload-mail-list",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMailing List Services\nUpload Mail List\n\n5 min\nthe upload mail list is a part of the mailing list service, which you can offer in the front store for the mailing products you can enable the service to allow the end user to upload and use his own mailing list in the system to allow users to upload their mail list, you just need to enable the ' upload mail list' service displayed under mailing list services by navigating to the store configuration >> external service settings >> mailing list services tab >> upload mails list row and enable the service select product service type select product service type for offering the option of uploading the mail list on the products, you need to set the product service type to printing & mailing , mailing only , or printing & mailing (optional) for this, navigate to products >> select any product >> \u2018action\u2019 drop down >> \u2018edit\u2019 locate the product service type under the configuration tab and select the best suitable option upload mail list upload mail list front end at the front end side, when the user will select a product falling under the printing & mailing, mailing only, or printing & mailing (optional) category and proceeds on the additional option page then, he will get the options to upload his mail list click on the upload mail list here option a pop up screen as below will appear click on the download sample button to download the sample file for filling up the mailing details your customer can enter the data in the sample file once done, the customer save the file and can upload the file using the select file button else, if the customer already have the mailing list ready then, they can directly upload the file instead of using the sample file as soon as the file is uploaded, the customer can see the entries user can check the preview of the entries or click on the save & continue button the following screen will have the mailing list uploaded by your customer to proceed further, user needs to click on the select button and then on the upload and save back end/admin side at the admin side, you will get the mailing list uploaded by your customer when you will click on the download file option from the action menu of the selected order\nDid this page help you?\n\n\nPREVIOUS\nMailing List Services\nNEXT\nSMS Notification\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

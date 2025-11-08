@@ -1,0 +1,21 @@
+{
+  "id": "txt_844239",
+  "name": "ipstack-integration",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOthers\nipstack Integration\n\n6 min\noverview & purpose ip stack offers a powerful, real time ip to geolocation api capable of looking up accurate location data with the ipstack api integration, your website will be able to locate visitors and adjust their user experience accordingly based on the configuration how to integrate follow the schematic guideline given below to integrate your onprintshop website with ip stack 1 sign up to ipstack & get api details 1 sign up to ipstack & get api details go to https //ipstack com/ https //ipstack com/ click on the sign up free or get free api key buttons from the website main page it will take you to the pricing page on the pricing page, click on the get free api key button from the free plan on the next page, complete your sign up process once signed up, you will be directed to the ipstack control panel copy the api access key and keep it in a safe and secure place for future use 2 configuration into admin panel 2 configuration into admin panel login to your onprintshop admin panel and navigate to the store configuration >> external service settings >> others tab >> auto currency language >> edit if the \"auto currency language\" service is unavailable in your store, please get in touch with the onprintshop technical team select the service name as ipstack (by default, the ipstack service will be selected) enter the saved access api key saved in the previous step configure the countries and their respective language and currencies that will be reflected on the website once any user from the configured country accesses the onprintshop website in case any customer visits the website from a country which you have not configured in the above screen then, the system will refer to the language and currency set as default at the store configuration >> languages when done click on save\nDid this page help you?\n\n\nPREVIOUS\nSetup HubSpot CRM\nNEXT\nCloudflare Integration\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

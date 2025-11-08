@@ -1,0 +1,21 @@
+{
+  "id": "txt_796668",
+  "name": "IcOY-solution-core",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 10.0 Release Notes\nSolution Core\n\n5 min\nupgrade third party js upgrade third party js in this release, we have updated all of the third party js optimized query and database optimized query and database we optimized the product setting query to assist the product setting page load faster, and we also optimized the database to help the data load faster optimized checkout procedure optimized checkout procedure for a quicker checkout, we optimized the shipping call in the checkout procedure report optimization report optimization we have optimized the report creation; in order to obtain the data more quickly, we have limited the number of data that appear in the list, and all data will be presented in the export report; the export report will now produce in the background we stored the cart value to display in the customer report, thus the report is now generated efficiently removed http/https path in studio data removed http/https path in studio data we removed the http/https path from the studio data and replaced it with a relative path so that we may access any of the studio data from any domain production days calculation production days calculation previously, the production day\u2019s calculation was different on the product details and cart pages now, we have centralized the calculation and created a common code for all screens cron script run with security parameters cron script run with security parameters previously, all cron scripts were run using urls, which might cause scripts to trigger from outside of the server as well we have now restricted cron scripts to only run from the specified server, and no longer utilise urls log enhancement log enhancement to reduce overall log file size, log files on the server will now be terminated every month\nDid this page help you?\n\n\nPREVIOUS\nShipping Module\nNEXT\nChange Log\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

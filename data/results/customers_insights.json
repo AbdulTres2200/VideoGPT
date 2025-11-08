@@ -1,0 +1,21 @@
+{
+  "id": "txt_285391",
+  "name": "customers",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdmin & Reports\n\nViewing Reports\nCustomers\n\n7 min\noverview & purpose customers are an integral part of any ecommerce business in this section, you can access detailed reports about your customers these reports will help you analyze some important insights about your customers including their number of orders, their pay on account details, login date and count, the number of items in their cart, their outstanding invoice amount, and more customer reports customer order summary this report provides you with information related to the customer\u2019s order the report is generated based on date range, order status, and customer type the customer type can be store, default store or any user group created the report contains customer information (name, email, and user type), number of orders placed within the selected time range, total orders amount, tax amount, shipping amount, discount applied (if any), payment processing fees (if any), and total price (including tax, shipping, and discount) on clicking order count link, it redirects to the sales order detail report page total order counts and pricing are displayed at the top of the report pay on account this report provides information about the pay on account of customers to generate report select date and customer type in return, the system will generate a report containing information about the pay on account of customers, such as a number of orders, debits, credits, outstanding amount, total limit and remaining credit balance clicking on the customer\u2019s name will redirect to their manage credit/debit page to view further details a total number of orders, debit amount, credit amount, outstanding amount, total limit and remaining credit balance of report displays at the top of the report customer details this report provides detailed information about customers it can be generated for both default store and store customers report information varies based on the selection of date range, total order amount, number of orders, number of templates and total items in the cart you get to filter customers based on their registration date and last login date report contains customers' registration date, last login details, total order amount, number of orders, number of templates and number of items in cart on clicking template count link will open customer templates section clicking on order count will redirect to sales order details report download print file this report provides details about the print ready file downloaded by the customers from the front end report information varies based on the selection of date range, store type and products report contains customers' details, product title, product size, template type, template name and total number of download counts on clicking the download count link, you can view the details of the downloaded files\nDid this page help you?\n\n\nPREVIOUS\nProducts\nNEXT\nPartners\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

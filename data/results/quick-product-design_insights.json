@@ -1,0 +1,21 @@
+{
+  "id": "txt_727535",
+  "name": "quick-product-design",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupporting Docs\nQuick Product Design\n\n4 min\noverview the quick design feature in onprintshop is a user friendly tool designed to simplify and speed up the print product customization process it allows customers to personalize pre designed templates with minimal effort, making it ideal for those who need quick modifications without requiring advanced design skills purpose by offering an intuitive and streamlined interface, quick design ensures faster order processing, maintains design consistency, and enhances the overall user experience this feature helps businesses boost conversions, reduce manual design efforts, and provide customers with a hassle free way to create print ready designs effortlessly product setup to enable quick design for a specific product in onprintshop , start by navigating to the print products section under the products module in the admin panel select the desired product and click on settings from the action menu in the general tab, you will find the quick design setting\u2014enable it to activate the feature once enabled, visit the front store to check how it appears for customers note the canvas product page layout has been taken into account for the quick design products on the product page, customers will see multiple tabs in the above image, it is product options, and personalize the number of tabs depends on the template structure the design customization is streamlined, ensuring a quick and effortless experience customers begin by selecting their product options, such as size, material, and quantity after this, they proceed to the template editor , where they can personalize text, fonts, colors, and images once a page is customized, customers can move to the next one until the entire template is complete all essential personalization tools, such as text editing, font selection, and image uploads, are readily available within the quick design studio if customers want to explore different templates, they can use the browse design option to switch designs for more advanced customization, they have the flexibility to transition to the full designer studio by default, the system displays the first template in the sorting order however, admins can prioritize a specific template by adjusting the sorting order in the admin panel additionally, if the \"template selection before product landing page\" setting is enabled, customers will first see the browse design page, where they must select a template before personalizing it once customization is complete, customers can review their design and proceed to checkout the system ensures that all edits are saved, generating a print ready file for processing this setup makes quick design an efficient and user friendly feature, enabling customers to personalize and order printed products effortlessly\nDid this page help you?\n\n\nPREVIOUS\nPrice Calculator Block Setup\nNEXT\nReal Preview\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

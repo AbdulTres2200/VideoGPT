@@ -1,0 +1,21 @@
+{
+  "id": "txt_398287",
+  "name": "debug-view",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDigital Marketing\n\nGoogle Tag Manager Integration\nDebug View\n\n4 min\ncheck the google tag manager plugin check the google tag manager plugin the above configuration will enable the google tag manager plugin on google chrome if not downloaded then download the plugin from https //chrome google com/webstore/category/extensions?hl=en open your website and enable the google tag manager plugin now, navigate to any product page of your website and you\u2019ll see that the google tag manager is enabled for your website preview the tags fired preview the tags fired once you are done with all the configurations, you can check how the variables and tags you created are working for checking the same, navigate to the overview page in the google tag manager and click on the preview button from the right corner on the next screen, enter your website's url and click on connect button this will open the frontend of your store in the new browser window and in the current window ask you to complete the connection using the continue button now to verify the tags, explore products from your store, upload designs, add to the cart and complete the checkout after the process, here is how all tags fired will appear according to events that occurred at the front store checking the tag fire in ga4 for checking if the tags and variables of ga4 are working as configured, log in to your google analytics account, navigate to the admin page from the left panel, select the account and then select the ga4 property from the property panel, scroll down and click on \" debugview \" now, open and complete the purchase process in your front store (in debug mode same as above) starting from exploring products, uploading designs, adding to the cart, and completing the checkout note site data like product views, clicks, etc will display in google analytics after 24 hours only after the process, the tags fired will appear as shown below\nDid this page help you?\n\n\nPREVIOUS\nSetup Dashboard\nNEXT\nMailchimp Ecommerce Integration\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

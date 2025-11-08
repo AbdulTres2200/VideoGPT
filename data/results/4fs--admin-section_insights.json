@@ -1,0 +1,21 @@
+{
+  "id": "txt_380649",
+  "name": "4fs--admin-section",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 11.2 Release Notes\nAdmin Section\n\n5 min\ncontent & image generation with generative ai the print service providers can automate the content and image creation and optimize their operations, saving time in website and product description personalization and focusing more on the operations the generative ai integration with the onprintshop store will allow the admin to generate product descriptions, email content, cms pages, and images within seconds and enhance the visual appeal of the products to start with, the admin needs to setup openai docid\\ ezgszte6omziddqygd6kw via api key, perform some prerequisites, and then you are good to go! display of purchase order number in admin and front the display of the po number field in the admin as well as on the front store is now based on the \"enable po number\" site setting according to the value configured, the po number field will be either in the admin panel only, on both sides or unavailable the display of the po number for store customers will only be available when you have set \u201cadmin and front both\u201d as well as in the respective payment methods you have either set \u201coptional\u201d or \u201crequired\u201d minor enhancements search by company name and customer in the entire solution, the admin can now search the listing by company name and customer via the \"company name\" search box search orders by invoice number on the order listing page, the orders can be searched by their invoice number force password reset while importing customers in the system, you can choose if the customers imported need to reset their password on the next login\nDid this page help you?\n\n\nPREVIOUS\nVersion 11.2 Release Notes\nNEXT\nDesigner Studio\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

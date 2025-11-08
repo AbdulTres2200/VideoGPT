@@ -1,0 +1,21 @@
+{
+  "id": "txt_461055",
+  "name": "Jqfr-order-section",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 12.1 Release Notes\nOrder Section\n\n8 min\nrevamped offline order module for improved usability online payment methods support to meet growing business needs and regional payment preferences, we\u2019ve expanded payment flexibility by adding support for five new methods paypal advance, stripe pos, razor pay, ec pay, and enets once an admin places an offline order, the system now redirects them to a dedicated payment screen, similar to the standard online checkout process a new \"payment action\" radio button will be available to determine the payment flow after order confirmation this field will offer four options pay now, pay later, payment request, and mark as paid the available options will vary based on the selected payment method orders for inactive products sometimes, products may be made inactive for public view but still need to be ordered manually for repeat customers, internal use, or special requests to support this, admins can now place offline orders for inactive products without making them live on the store improved order experience the offline order module now features a cleaner, more efficient ui admins can quickly create customers with minimal details, enjoy a more organized product selection layout, and easily upload artwork the payment, shipping, and order summary steps are now clearly separated for a smoother process reorder for another customer with a saved design reordering has been made more flexible to support different business scenarios admins can now easily reorder on behalf of a different customer by selecting the \"another customer\" option during the reorder process additionally, a new \"copy design\" toggle allows admins to choose whether to retain the original design or start fresh when duplicating an order, giving greater control over how reorder requests are handled minor enhancements edit customer info directly on orders admins with order modify rights can now update customer details directly from the view/update order page via a new edit button this allows changes to customer name (order level only), phone number, email, and company name, with an option to sync updates to customer master records design files now easier to manage we've improved the file download experience on the modify order page by renaming \"download original file\" to \" download design files \" for all products when identical files are used across pages, only one download link will appear instead of separate links additionally, for photobook and calendar products, the download option is now available on the view/update order page modified orders will also clearly separate current and previous design files for better clarity and management\nDid this page help you?\n\n\nPREVIOUS\nFront Store\nNEXT\nQuote Section\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

@@ -1,0 +1,971 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+  "id": "vch6n13v0u",
+  "name": "Uploads from OnPrintShop Web-to-Print Storefront - 001 - Radixweb at CeBit 2010",
+  "userName": "Abdul Moiz",
+  "created": "2025-11-01T03:54:34.7533333+00:00",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 21,
+  "duration": "0:00:21.5219998",
+  "summarizedInsights": {
+    "name": "Uploads from OnPrintShop Web-to-Print Storefront - 001 - Radixweb at CeBit 2010",
+    "id": "vch6n13v0u",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:00:21.5219998",
+      "seconds": 21.5
+    },
+    "thumbnailVideoId": "vch6n13v0u",
+    "thumbnailId": "ba88a2d8-4997-46d4-8ef2-55f79b765899",
+    "faces": [
+      {
+        "videoId": "vch6n13v0u",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "2ac8550f-1fd4-4f5f-9761-ce3b449a1c62",
+        "seenDuration": 18.7,
+        "seenDurationRatio": 0.8689,
+        "id": 1002,
+        "name": "Unknown #1",
+        "appearances": [
+          {
+            "startTime": "0:00:02.8028",
+            "endTime": "0:00:21.5215",
+            "startSeconds": 2.8,
+            "endSeconds": 21.5
+          }
+        ]
+      },
+      {
+        "videoId": "vch6n13v0u",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "3a708257-547e-49fd-91d7-90644a8af55a",
+        "seenDuration": 1.9,
+        "seenDurationRatio": 0.0883,
+        "id": 1020,
+        "name": "Unknown #2",
+        "appearances": [
+          {
+            "startTime": "0:00:19.6196",
+            "endTime": "0:00:21.5215",
+            "startSeconds": 19.6,
+            "endSeconds": 21.5
+          }
+        ]
+      },
+      {
+        "videoId": "vch6n13v0u",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "fdfd62b8-42e2-4702-be7d-bda0046822f5",
+        "seenDuration": 1.3,
+        "seenDurationRatio": 0.0604,
+        "id": 1017,
+        "name": "Unknown #3",
+        "appearances": [
+          {
+            "startTime": "0:00:10.7774333",
+            "endTime": "0:00:12.1454667",
+            "startSeconds": 10.8,
+            "endSeconds": 12.1
+          }
+        ]
+      },
+      {
+        "videoId": "vch6n13v0u",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "22e05c26-bff6-498b-a53c-b03a65b4e4d6",
+        "seenDuration": 0.8,
+        "seenDurationRatio": 0.0372,
+        "id": 1011,
+        "name": "Unknown #4",
+        "appearances": [
+          {
+            "startTime": "0:00:09.8765333",
+            "endTime": "0:00:10.7440667",
+            "startSeconds": 9.9,
+            "endSeconds": 10.7
+          }
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "isTranscript": false,
+        "id": 1,
+        "name": "radix &",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:04.0373667",
+            "startSeconds": 0,
+            "endSeconds": 4
+          },
+          {
+            "startTime": "0:00:14.014",
+            "endTime": "0:00:20.0533667",
+            "startSeconds": 14,
+            "endSeconds": 20.1
+          }
+        ]
+      }
+    ],
+    "sentiments": [],
+    "emotions": [],
+    "audioEffects": [],
+    "labels": [
+      {
+        "id": 1,
+        "name": "text",
+        "appearances": [
+          {
+            "confidence": 0.9985,
+            "startTime": "0:00:00",
+            "endTime": "0:00:21.0543667",
+            "startSeconds": 0,
+            "endSeconds": 21.1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "clothing",
+        "appearances": [
+          {
+            "confidence": 0.9653,
+            "startTime": "0:00:05.005",
+            "endTime": "0:00:06.0393667",
+            "startSeconds": 5,
+            "endSeconds": 6
+          },
+          {
+            "confidence": 0.9797,
+            "startTime": "0:00:10.01",
+            "endTime": "0:00:11.0443667",
+            "startSeconds": 10,
+            "endSeconds": 11
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "man",
+        "appearances": [
+          {
+            "confidence": 0.9726,
+            "startTime": "0:00:10.01",
+            "endTime": "0:00:11.0443667",
+            "startSeconds": 10,
+            "endSeconds": 11
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "human face",
+        "appearances": [
+          {
+            "confidence": 0.966,
+            "startTime": "0:00:11.011",
+            "endTime": "0:00:11.0443667",
+            "startSeconds": 11,
+            "endSeconds": 11
+          },
+          {
+            "confidence": 0.9655,
+            "startTime": "0:00:20.02",
+            "endTime": "0:00:20.0533667",
+            "startSeconds": 20,
+            "endSeconds": 20.1
+          }
+        ]
+      }
+    ],
+    "framePatterns": [],
+    "brands": [],
+    "namedLocations": [],
+    "namedPeople": [],
+    "statistics": {
+      "correspondenceCount": 0,
+      "speakerTalkToListenRatio": {},
+      "speakerLongestMonolog": {},
+      "speakerNumberOfFragments": {},
+      "speakerWordCount": {}
+    },
+    "topics": []
+  },
+  "videos": [
+    {
+      "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+      "id": "vch6n13v0u",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:00:21.5219999",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [
+          "en-US"
+        ],
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "ocr": [
+          {
+            "id": 1,
+            "text": "3.",
+            "confidence": 0.959,
+            "left": 349,
+            "top": 431,
+            "width": 23,
+            "height": 27,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:01.001",
+                "end": "0:00:02.0353667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "SOLUTIONS",
+            "confidence": 0.997,
+            "left": 179,
+            "top": 410,
+            "width": 90,
+            "height": 23,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:00",
+                "end": "0:00:03.0363667"
+              },
+              {
+                "adjustedStart": "0:00:05.005",
+                "adjustedEnd": "0:00:06.0393667",
+                "start": "0:00:05.005",
+                "end": "0:00:06.0393667"
+              },
+              {
+                "adjustedStart": "0:00:08.008",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:08.008",
+                "end": "0:00:10.0433667"
+              },
+              {
+                "adjustedStart": "0:00:12.012",
+                "adjustedEnd": "0:00:18.0513667",
+                "start": "0:00:12.012",
+                "end": "0:00:18.0513667"
+              },
+              {
+                "adjustedStart": "0:00:20.02",
+                "adjustedEnd": "0:00:20.0533667",
+                "start": "0:00:20.02",
+                "end": "0:00:20.0533667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "RADIX & YOU",
+            "confidence": 0.995,
+            "left": 570,
+            "top": 153,
+            "width": 169,
+            "height": 21,
+            "angle": 92,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:04.0373667",
+                "start": "0:00:00",
+                "end": "0:00:04.0373667"
+              },
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:11.0443667",
+                "start": "0:00:06.006",
+                "end": "0:00:11.0443667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "RADIXWEB",
+            "confidence": 0.99,
+            "left": 118,
+            "top": 207,
+            "width": 105,
+            "height": 12,
+            "angle": 91,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:00",
+                "end": "0:00:02.0353667"
+              },
+              {
+                "adjustedStart": "0:00:05.005",
+                "adjustedEnd": "0:00:06.0393667",
+                "start": "0:00:05.005",
+                "end": "0:00:06.0393667"
+              },
+              {
+                "adjustedStart": "0:00:16.016",
+                "adjustedEnd": "0:00:18.0513667",
+                "start": "0:00:16.016",
+                "end": "0:00:18.0513667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "RAD",
+            "confidence": 0.994,
+            "left": 450,
+            "top": 418,
+            "width": 60,
+            "height": 17,
+            "angle": 86,
+            "language": "sv-SE",
+            "instances": [
+              {
+                "adjustedStart": "0:00:05.005",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:05.005",
+                "end": "0:00:05.0383667"
+              },
+              {
+                "adjustedStart": "0:00:13.013",
+                "adjustedEnd": "0:00:14.0473667",
+                "start": "0:00:13.013",
+                "end": "0:00:14.0473667"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "SOLUTIO",
+            "confidence": 0.922,
+            "left": 229,
+            "top": 262,
+            "width": 73,
+            "height": 23,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.011",
+                "adjustedEnd": "0:00:11.0443667",
+                "start": "0:00:11.011",
+                "end": "0:00:11.0443667"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "RADI",
+            "confidence": 0.969,
+            "left": 396,
+            "top": 410,
+            "width": 68,
+            "height": 17,
+            "angle": 88,
+            "language": "hr-HR",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12.012",
+                "adjustedEnd": "0:00:12.0453667",
+                "start": "0:00:12.012",
+                "end": "0:00:12.0453667"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "RADIX",
+            "confidence": 0.997,
+            "left": 568,
+            "top": 379,
+            "width": 94,
+            "height": 18,
+            "angle": 88,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:14.014",
+                "adjustedEnd": "0:00:15.0483667",
+                "start": "0:00:14.014",
+                "end": "0:00:15.0483667"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "RADIX & 1",
+            "confidence": 0.955,
+            "left": 610,
+            "top": 334,
+            "width": 144,
+            "height": 20,
+            "angle": 89,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.016",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:16.016",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "RADIX & YO",
+            "confidence": 0.9917,
+            "left": 526,
+            "top": 308,
+            "width": 171,
+            "height": 21,
+            "angle": 90,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:18.0513667",
+                "start": "0:00:17.017",
+                "end": "0:00:18.0513667"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "RADIX &",
+            "confidence": 0.9945,
+            "left": 511,
+            "top": 351,
+            "width": 123,
+            "height": 24,
+            "angle": 91,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20.02",
+                "adjustedEnd": "0:00:20.0533667",
+                "start": "0:00:20.02",
+                "end": "0:00:20.0533667"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 1,
+            "text": "radix &",
+            "confidence": 0.9348,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:04.0373667",
+                "start": "0:00:00",
+                "end": "0:00:04.0373667"
+              },
+              {
+                "adjustedStart": "0:00:16.016",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:16.016",
+                "end": "0:00:16.0493667"
+              },
+              {
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:18.0513667",
+                "start": "0:00:17.017",
+                "end": "0:00:18.0513667"
+              },
+              {
+                "adjustedStart": "0:00:20.02",
+                "adjustedEnd": "0:00:20.0533667",
+                "start": "0:00:20.02",
+                "end": "0:00:20.0533667"
+              }
+            ]
+          }
+        ],
+        "faces": [
+          {
+            "id": 1002,
+            "name": "Unknown #1",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "2ac8550f-1fd4-4f5f-9761-ce3b449a1c62",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "949d3243-a755-4087-9187-535e33b776ce",
+                "fileName": "FaceInstanceThumbnail_949d3243-a755-4087-9187-535e33b776ce.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:03.2699333",
+                    "adjustedEnd": "0:00:03.3032999",
+                    "start": "0:00:03.2699333",
+                    "end": "0:00:03.3032999"
+                  }
+                ]
+              },
+              {
+                "id": "87305803-0149-482c-8317-aa079f6e4947",
+                "fileName": "FaceInstanceThumbnail_87305803-0149-482c-8317-aa079f6e4947.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:04.6713333",
+                    "adjustedEnd": "0:00:04.7046999",
+                    "start": "0:00:04.6713333",
+                    "end": "0:00:04.7046999"
+                  }
+                ]
+              },
+              {
+                "id": "26ceed5f-6564-4bee-9d1f-d4e75bd48b61",
+                "fileName": "FaceInstanceThumbnail_26ceed5f-6564-4bee-9d1f-d4e75bd48b61.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:09.3426666",
+                    "adjustedEnd": "0:00:09.3760332",
+                    "start": "0:00:09.3426666",
+                    "end": "0:00:09.3760332"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "87305803-0149-482c-8317-aa079f6e4947",
+                  "949d3243-a755-4087-9187-535e33b776ce"
+                ],
+                "adjustedStart": "0:00:02.8028",
+                "adjustedEnd": "0:00:06.0393667",
+                "start": "0:00:02.8028",
+                "end": "0:00:06.0393667"
+              },
+              {
+                "thumbnailsIds": [
+                  "26ceed5f-6564-4bee-9d1f-d4e75bd48b61"
+                ],
+                "adjustedStart": "0:00:07.1404667",
+                "adjustedEnd": "0:00:11.2112",
+                "start": "0:00:07.1404667",
+                "end": "0:00:11.2112"
+              },
+              {
+                "adjustedStart": "0:00:21.021",
+                "adjustedEnd": "0:00:21.5215",
+                "start": "0:00:21.021",
+                "end": "0:00:21.5215"
+              }
+            ]
+          },
+          {
+            "id": 1020,
+            "name": "Unknown #2",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "3a708257-547e-49fd-91d7-90644a8af55a",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "0a8e3e25-63cb-4664-a6d7-550e2b728022",
+                "fileName": "FaceInstanceThumbnail_0a8e3e25-63cb-4664-a6d7-550e2b728022.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:20.0867333",
+                    "adjustedEnd": "0:00:20.1200999",
+                    "start": "0:00:20.0867333",
+                    "end": "0:00:20.1200999"
+                  }
+                ]
+              },
+              {
+                "id": "184a1acb-d7b9-42b8-b593-5cf93a1d854f",
+                "fileName": "FaceInstanceThumbnail_184a1acb-d7b9-42b8-b593-5cf93a1d854f.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:20.5538666",
+                    "adjustedEnd": "0:00:20.5872332",
+                    "start": "0:00:20.5538666",
+                    "end": "0:00:20.5872332"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "184a1acb-d7b9-42b8-b593-5cf93a1d854f",
+                  "0a8e3e25-63cb-4664-a6d7-550e2b728022"
+                ],
+                "adjustedStart": "0:00:19.6196",
+                "adjustedEnd": "0:00:21.5215",
+                "start": "0:00:19.6196",
+                "end": "0:00:21.5215"
+              }
+            ]
+          },
+          {
+            "id": 1017,
+            "name": "Unknown #3",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "fdfd62b8-42e2-4702-be7d-bda0046822f5",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "cbe16c93-34e1-4e27-a0e6-202487f541e3",
+                "fileName": "FaceInstanceThumbnail_cbe16c93-34e1-4e27-a0e6-202487f541e3.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:11.2112",
+                    "adjustedEnd": "0:00:11.2445666",
+                    "start": "0:00:11.2112",
+                    "end": "0:00:11.2445666"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "cbe16c93-34e1-4e27-a0e6-202487f541e3"
+                ],
+                "adjustedStart": "0:00:10.7774333",
+                "adjustedEnd": "0:00:12.1454667",
+                "start": "0:00:10.7774333",
+                "end": "0:00:12.1454667"
+              }
+            ]
+          },
+          {
+            "id": 1011,
+            "name": "Unknown #4",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "22e05c26-bff6-498b-a53c-b03a65b4e4d6",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "bd1797d3-4313-4ae1-bb7d-ae6069ad22b6",
+                "fileName": "FaceInstanceThumbnail_bd1797d3-4313-4ae1-bb7d-ae6069ad22b6.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:10.2769333",
+                    "adjustedEnd": "0:00:10.3102999",
+                    "start": "0:00:10.2769333",
+                    "end": "0:00:10.3102999"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "bd1797d3-4313-4ae1-bb7d-ae6069ad22b6"
+                ],
+                "adjustedStart": "0:00:09.8765333",
+                "adjustedEnd": "0:00:10.7440667",
+                "start": "0:00:09.8765333",
+                "end": "0:00:10.7440667"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "text",
+            "referenceId": "communication/writing/text",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9964,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:00",
+                "end": "0:00:03.0363667"
+              },
+              {
+                "confidence": 0.9965,
+                "adjustedStart": "0:00:05.005",
+                "adjustedEnd": "0:00:06.0393667",
+                "start": "0:00:05.005",
+                "end": "0:00:06.0393667"
+              },
+              {
+                "confidence": 0.9985,
+                "adjustedStart": "0:00:08.008",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:08.008",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "clothing",
+            "referenceId": "consumer goods/clothing",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9653,
+                "adjustedStart": "0:00:05.005",
+                "adjustedEnd": "0:00:06.0393667",
+                "start": "0:00:05.005",
+                "end": "0:00:06.0393667"
+              },
+              {
+                "confidence": 0.9797,
+                "adjustedStart": "0:00:10.01",
+                "adjustedEnd": "0:00:11.0443667",
+                "start": "0:00:10.01",
+                "end": "0:00:11.0443667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "man",
+            "referenceId": "person/man",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9726,
+                "adjustedStart": "0:00:10.01",
+                "adjustedEnd": "0:00:11.0443667",
+                "start": "0:00:10.01",
+                "end": "0:00:11.0443667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "human face",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.966,
+                "adjustedStart": "0:00:11.011",
+                "adjustedEnd": "0:00:11.0443667",
+                "start": "0:00:11.011",
+                "end": "0:00:11.0443667"
+              },
+              {
+                "confidence": 0.9655,
+                "adjustedStart": "0:00:20.02",
+                "adjustedEnd": "0:00:20.0533667",
+                "start": "0:00:20.02",
+                "end": "0:00:20.0533667"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.5215",
+                "start": "0:00:00",
+                "end": "0:00:21.5215"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "tags": [
+              "Wide"
+            ],
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "d84f7c8a-da86-4436-b536-e4f6cd54bc84",
+                    "adjustedStart": "0:00:02.2689333",
+                    "adjustedEnd": "0:00:02.3023",
+                    "start": "0:00:02.2689333",
+                    "end": "0:00:02.3023"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "cd0701d0-6d44-4c16-8f9f-0d90599e3e99",
+                    "adjustedStart": "0:00:10.7440667",
+                    "adjustedEnd": "0:00:10.7774333",
+                    "start": "0:00:10.7440667",
+                    "end": "0:00:10.7774333"
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "instances": [
+                  {
+                    "thumbnailId": "2f150d3c-a847-40e7-88e8-49ba0a43f6d6",
+                    "adjustedStart": "0:00:13.8138",
+                    "adjustedEnd": "0:00:13.8471667",
+                    "start": "0:00:13.8138",
+                    "end": "0:00:13.8471667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.5215",
+                "start": "0:00:00",
+                "end": "0:00:21.5215"
+              }
+            ]
+          }
+        ],
+        "detectedObjects": [
+          {
+            "id": 1,
+            "type": "Chair",
+            "thumbnailId": "1d3a7697-da03-4615-a4ee-e29e7183cdcd",
+            "displayName": "chair",
+            "wikiDataId": "Q15026",
+            "instances": [
+              {
+                "confidence": 0.682,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:03.870533",
+                "start": "0:00:00",
+                "end": "0:00:03.870533"
+              },
+              {
+                "confidence": 0.527,
+                "adjustedStart": "0:00:04.5045",
+                "adjustedEnd": "0:00:06.039367",
+                "start": "0:00:04.5045",
+                "end": "0:00:06.039367"
+              },
+              {
+                "confidence": 0.496,
+                "adjustedStart": "0:00:08.675333",
+                "adjustedEnd": "0:00:09.7097",
+                "start": "0:00:08.675333",
+                "end": "0:00:09.7097"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.5219999",
+                "start": "0:00:00",
+                "end": "0:00:21.5219999"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 0,
+          "speakerTalkToListenRatio": {},
+          "speakerLongestMonolog": {},
+          "speakerNumberOfFragments": {},
+          "speakerWordCount": {}
+        }
+      },
+      "thumbnailId": "ba88a2d8-4997-46d4-8ef2-55f79b765899",
+      "width": 640,
+      "height": 480,
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [
+        "en-US"
+      ],
+      "language": "en-US",
+      "languages": [
+        "en-US"
+      ],
+      "indexingPreset": "Default",
+      "streamingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "logoGroupId": null,
+      "isAdult": false,
+      "excludedAIs": [],
+      "isSearchable": true,
+      "publishedUrl": "https://api.videoindexer.ai/internals/eastus/Accounts/fbafe9ff-1c94-40bd-987e-a4e4dfe52365/Videos/vch6n13v0u/streaming-manifest/manifest.m3u8",
+      "publishedProxyUrl": null,
+      "viewToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJWZXJzaW9uIjoiMi4wLjAuMCIsIktleVZlcnNpb24iOiI1YmZmYWI1MTUwZWI0NGM4ODMzNzE2NzVhNzcwYzU4YSIsIkFjY291bnRJZCI6ImZiYWZlOWZmLTFjOTQtNDBiZC05ODdlLWE0ZTRkZmU1MjM2NSIsIkFjY291bnRUeXBlIjoiQ2xhc3NpYyIsIlZpZGVvSWQiOiJ2Y2g2bjEzdjB1IiwiUGVybWlzc2lvbiI6IlJlc3RyaWN0ZWRWaWV3ZXIiLCJFeHRlcm5hbFVzZXJJZCI6IjYxMzM3QzI2RUFCQjRGNEU5MjA3NURBNjAyQ0IyQTQzIiwiVXNlclR5cGUiOiJNaWNyb3NvZnRDb3JwQWFkIiwiSXNzdWVyTG9jYXRpb24iOiJlYXN0dXMiLCJuYmYiOjE3NjE5NjkxMDYsImV4cCI6MTc2MTk3MzAwNiwiaXNzIjoiaHR0cHM6Ly9hcGkudmlkZW9pbmRleGVyLmFpLyIsImF1ZCI6Imh0dHBzOi8vYXBpLnZpZGVvaW5kZXhlci5haS8ifQ.eQQf56OdVG770AmevxOKusrsky4YK6SmWGAZ1-CS0C_U2SyS3wll1ccMOSRh6_zwCtW7XQGMj7TpSMwqUxZI-rTvWgdGlMhkdpdtM5Dsuh6EA7Dv1b5RcVDM6ZIk1b9kJVzLqVkUL486SgYZ-gYDiF4RFctH5G8HOFRigWXcz5TkRqSVqVfxUE8F-s8PgxcV9sm6DsG3E2oBMmVoTCGd-5J3yENIdfstO75MNGynmIzJOS_waBBNnazhbUXO40Gq-O9KhslENLNtt_PyUWIFqM9RUlpxT-wILSY-3qSoGfhlCmfnzOQEe_j7mV3F4GfE8MRBxhQ7gTmEHk0mSAUPRw"
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "vch6n13v0u",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:00:21.5219999"
+      }
+    }
+  ]
+}

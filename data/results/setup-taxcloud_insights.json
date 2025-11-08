@@ -1,0 +1,21 @@
+{
+  "id": "txt_883455",
+  "name": "setup-taxcloud",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTax API\nSetup TaxCloud\n\n8 min\noverview & purpose this third party api is exclusively for the united states market taxcloud is the internet usa's only sales tax compliance service, which we help you integrate as a third party service in onprintshop how to integrate read the below systematic guide to integrate the taxcloud api with your onprintshop website 1 register with taxcloud 1 register with taxcloud visit the taxcloud website and click on the get started button the registration page will appear fill in the required information to complete the registration process 2 configure your connections 2 configure your connections after successful registration and verification, configure your connection to avail the features of taxcloud go to the taxcloud dashboard >> settings (left sidebar) >> integrations from the integrations page, click on the +add connection button, locate and select custom api to create a new custom api, click on the +add button from the top right corner of the screen enter the name of your store under the name field enter the url of your store under the field url specify the default tax identification code click on the finish setup button to complete adding the connection 3 get the api key and api id 3 get the api key and api id once the connection is added, the api key and login id are displayed with the integration details copy and save the key and login id details in a secure place 4 4 configure taxcloud with onprintshop admin panel configure taxcloud with onprintshop admin panel to configure taxcloud with your website, go to the admin panel >> store configurations >> external service settings >> \u2018tax api\u2019 tab >> taxcloud option>> \u2018action\u2019 drop down >> \u2018edit\u2019 option enter the saved login id in the app id field and the api key in the app key field for entering the value in the tic field, refer to https //taxcloud net/tic/ https //taxcloud net/tic/ and enter the desired tic number enter the correct origin address save the details and continue\nDid this page help you?\n\n\nPREVIOUS\nTax API\nNEXT\nSetup AvaTax\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

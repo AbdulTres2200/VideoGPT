@@ -1,0 +1,21 @@
+{
+  "id": "txt_781658",
+  "name": "email-reminders",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\n\nEmail/SMS Notifications\nEmail Reminders\n\n4 min\noverview personalized order notifications are messages sent to customers regarding the status and details of their orders these notifications are styled to align with your brand's look and feel, ensuring a consistent customer experience purpose the goal is to keep customers informed throughout the order process, including order confirmation, shipment, and delivery, while reinforcing your brand identity through visually consistent, professional communication configuration the email reminders section is divided into two tabs default reminder and additional reminders in onprintshop, the default reminders are system generated and focus on order related activities like feedback and reorder prompts, which are sent automatically based on system configurations in contrast, additional reminders cover broader scenarios such as account activity, shopping cart abandonment, order feedback, and stock alerts these require integration with mailgun to enable and send, allowing for more targeted and marketing driven email communications important the additional reminders are inactive by default to enable this feature, your site must be integrated with the mailgun email service please reach out to your onprintshop support consultant to activate any reminder statuses admins can configure reminder frequency, such as the number of days between reminders, via the reminder setting option to enable mailgun services, go to the admin panel > store configuration > external service settings > mail services > mailgun >edit , and enter the required api key and credentials managing reminders edit load and customize the default email content as per your business needs using available variables reminder settings set the time interval and number of reminder emails to send you can also target reminders based on customer type to suit different business models\nDid this page help you?\n\n\nPREVIOUS\nSMS Templates\nNEXT\nMedia Gallery\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

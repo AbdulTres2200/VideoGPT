@@ -1,0 +1,21 @@
+{
+  "id": "txt_86753",
+  "name": "promotional-message",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\nStore Personalization\nPromotional Message\n\n7 min\noverview according to your business needs, you will need to regularly promote your business, products, services, and offers to keep customers engaged and informed purpose promotional messages are a marketing strategy designed to highlight and promote your products or services, helping to drive traffic, boost sales, and enhance brand visibility configuration this guide will help you create and manage promotional messages to effectively market your products, services, and offers on your website configuring a promotional message you can display promotional messages in various formats such as popup, slider, toggle, or top header to highlight key offers or services this section is disabled by default and can be enabled by navigating to store configuration >> site settings , searching for \u201cpromotional message,\u201d and selecting yes to activate it the promotional message listing page shows a summary of the existing messages along with their active status use the keyword search option available at the top left side of the page to search for a particular promotional content message you can create a new promotional message by clicking on the +add button you will also find a direct link to the site settings sections wherein you get the flexibility to disable this feature types of promotional messages we have provided 4 different patterns in which you can create your promotional message \u2013 popup slider, toggle and top header you can get an example of each pattern from the below image add promotional message admin >> store personalization >> promotional content/message >> add (top right link) fill out the form details and click the \u2018 save \u2019 button to instantly create a new promotional message various fields in the form are \u2013 field description use case/example page to be displayed for select the specific page where the promotional message should appear display a discount banner only on the product page during a seasonal sale promotion pattern choose the layout or style of the promotional message based on its type and width use a full width banner at the top of the homepage or a small popup on product pages promotion message duration set the start and end date, as well as the time, for the promotional message visibility schedule a new year promotion to run from dec 30 at 12 00 pm to jan 2 at 11 59 pm note the same page can't be selected again for creating another promotional content/message action menu for the promotional messages created, you can take further actions by editing the message or delete the same as per the need field description use case/example edit quick link to modify the details of existing promotional content or message update an ongoing offer\u2019s text or change the display format of an active message delete allows you to remove a promotional message that is no longer relevant or needed delete a holiday sale banner after the promotional period has ended\nDid this page help you?\n\n\nPREVIOUS\nSidebar Management\nNEXT\nWebsite Themes\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

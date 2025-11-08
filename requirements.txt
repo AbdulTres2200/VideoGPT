@@ -1,0 +1,22 @@
+python-dotenv>=1.0.0
+requests>=2.31.0
+dropbox>=11.36.0
+azure-identity>=1.15.0
+azure-mgmt-videoanalyzer>=1.0.0b4
+
+# RAG Pipeline Dependencies
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-core>=0.1.0
+langchain-text-splitters>=0.0.1
+langchain-openai>=0.1.0
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+torch>=2.0.0
+openai>=1.0.0
+
+# API Dependencies
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.0.0
+

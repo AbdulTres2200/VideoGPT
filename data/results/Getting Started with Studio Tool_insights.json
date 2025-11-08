@@ -1,0 +1,6216 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+  "id": "fkyxfsmpip",
+  "name": "Getting Started with Studio Tool",
+  "userName": "Abdul Moiz",
+  "created": "2025-11-01T05:27:41.41+00:00",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 87,
+  "duration": "0:01:27.446",
+  "summarizedInsights": {
+    "name": "Getting Started with Studio Tool",
+    "id": "fkyxfsmpip",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:01:27.446",
+      "seconds": 87.4
+    },
+    "thumbnailVideoId": "fkyxfsmpip",
+    "thumbnailId": "a6d415d1-3fc8-493a-a9e7-f48dd5e1743a",
+    "faces": [],
+    "keywords": [
+      {
+        "isTranscript": true,
+        "id": 14,
+        "name": "images",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:27.0555556",
+            "startSeconds": 0,
+            "endSeconds": 87.1
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 15,
+        "name": "design",
+        "appearances": [
+          {
+            "startTime": "0:00:03.04",
+            "endTime": "0:00:34.2",
+            "startSeconds": 3,
+            "endSeconds": 34.2
+          },
+          {
+            "startTime": "0:00:52.28",
+            "endTime": "0:01:22.84",
+            "startSeconds": 52.3,
+            "endSeconds": 82.8
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 1,
+        "name": "clip art",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:27.0555556",
+            "startSeconds": 0,
+            "endSeconds": 87.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 2,
+        "name": "good luck",
+        "appearances": [
+          {
+            "startTime": "0:01:02",
+            "endTime": "0:01:07.0555556",
+            "startSeconds": 62,
+            "endSeconds": 67.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 3,
+        "name": "move image",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:27.0555556",
+            "startSeconds": 0,
+            "endSeconds": 87.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 4,
+        "name": "body text",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:03",
+            "startSeconds": 0,
+            "endSeconds": 63
+          },
+          {
+            "startTime": "0:01:07.32",
+            "endTime": "0:01:27.0555556",
+            "startSeconds": 67.3,
+            "endSeconds": 87.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 5,
+        "name": "templates",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:20.2",
+            "startSeconds": 0,
+            "endSeconds": 20.2
+          },
+          {
+            "startTime": "0:00:27.4",
+            "endTime": "0:00:34.2",
+            "startSeconds": 27.4,
+            "endSeconds": 34.2
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 6,
+        "name": "shine",
+        "appearances": [
+          {
+            "startTime": "0:01:02",
+            "endTime": "0:01:07.0555556",
+            "startSeconds": 62,
+            "endSeconds": 67.1
+          },
+          {
+            "startTime": "0:01:23.12",
+            "endTime": "0:01:26.28",
+            "startSeconds": 83.1,
+            "endSeconds": 86.3
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 7,
+        "name": "good",
+        "appearances": [
+          {
+            "startTime": "0:01:02",
+            "endTime": "0:01:07.0555556",
+            "startSeconds": 62,
+            "endSeconds": 67.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 8,
+        "name": "wishes",
+        "appearances": [
+          {
+            "startTime": "0:01:02",
+            "endTime": "0:01:07.0555556",
+            "startSeconds": 62,
+            "endSeconds": 67.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 9,
+        "name": "drag",
+        "appearances": [
+          {
+            "startTime": "0:00:08.84",
+            "endTime": "0:00:20.2",
+            "startSeconds": 8.8,
+            "endSeconds": 20.2
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 10,
+        "name": "click",
+        "appearances": [
+          {
+            "startTime": "0:00:08.84",
+            "endTime": "0:00:20.2",
+            "startSeconds": 8.8,
+            "endSeconds": 20.2
+          },
+          {
+            "startTime": "0:00:37",
+            "endTime": "0:00:48.0555556",
+            "startSeconds": 37,
+            "endSeconds": 48.1
+          },
+          {
+            "startTime": "0:01:07.32",
+            "endTime": "0:01:19.76",
+            "startSeconds": 67.3,
+            "endSeconds": 79.8
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 11,
+        "name": "text",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:03",
+            "startSeconds": 0,
+            "endSeconds": 63
+          },
+          {
+            "startTime": "0:01:07.32",
+            "endTime": "0:01:27.0555556",
+            "startSeconds": 67.3,
+            "endSeconds": 87.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 12,
+        "name": "heading",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:08.0555556",
+            "startSeconds": 0,
+            "endSeconds": 8.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 13,
+        "name": "open",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:10.0555556",
+            "startSeconds": 0,
+            "endSeconds": 10.1
+          },
+          {
+            "startTime": "0:00:59",
+            "endTime": "0:01:01.0555556",
+            "startSeconds": 59,
+            "endSeconds": 61.1
+          }
+        ]
+      }
+    ],
+    "sentiments": [
+      {
+        "sentimentKey": "Neutral",
+        "seenDurationRatio": 0.9629,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:23.12",
+            "startSeconds": 0,
+            "endSeconds": 83.1
+          },
+          {
+            "startTime": "0:01:26.28",
+            "endTime": "0:01:27.446",
+            "startSeconds": 86.3,
+            "endSeconds": 87.4
+          }
+        ]
+      },
+      {
+        "sentimentKey": "Positive",
+        "seenDurationRatio": 0.0366,
+        "appearances": [
+          {
+            "startTime": "0:01:23.12",
+            "endTime": "0:01:26.28",
+            "startSeconds": 83.1,
+            "endSeconds": 86.3
+          }
+        ]
+      }
+    ],
+    "emotions": [
+      {
+        "type": "Joy",
+        "seenDurationRatio": 0.0366,
+        "appearances": [
+          {
+            "startTime": "0:01:23.12",
+            "endTime": "0:01:26.28",
+            "startSeconds": 83.1,
+            "endSeconds": 86.3
+          }
+        ]
+      }
+    ],
+    "audioEffects": [
+      {
+        "audioEffectKey": "Silence",
+        "seenDurationRatio": 0.0469,
+        "seenDuration": 4.1,
+        "appearances": [
+          {
+            "confidence": 1,
+            "startTime": "0:00:00",
+            "endTime": "0:00:01.5",
+            "startSeconds": 0,
+            "endSeconds": 1.5
+          },
+          {
+            "confidence": 1,
+            "startTime": "0:00:47.84",
+            "endTime": "0:00:49.34",
+            "startSeconds": 47.8,
+            "endSeconds": 49.3
+          },
+          {
+            "confidence": 1,
+            "startTime": "0:01:26.28",
+            "endTime": "0:01:27.446",
+            "startSeconds": 86.3,
+            "endSeconds": 87.4
+          }
+        ]
+      }
+    ],
+    "labels": [
+      {
+        "id": 1,
+        "name": "text",
+        "appearances": [
+          {
+            "confidence": 0.9999,
+            "startTime": "0:00:00",
+            "endTime": "0:01:27.0555556",
+            "startSeconds": 0,
+            "endSeconds": 87.1
+          }
+        ]
+      }
+    ],
+    "framePatterns": [],
+    "brands": [
+      {
+        "referenceId": "Dropbox_(service)",
+        "referenceUrl": "http://en.wikipedia.org/wiki/Dropbox_(service)",
+        "confidence": 1,
+        "description": "Dropbox is a file hosting service operated by Dropbox, Inc., headquartered in San Francisco, California, that offers cloud storage, file synchronization, personal cloud, and client software.",
+        "seenDuration": 0.1,
+        "id": 1,
+        "name": "Dropbox (service)",
+        "appearances": [
+          {
+            "startTime": "0:00:48",
+            "endTime": "0:00:48.0555556",
+            "startSeconds": 48,
+            "endSeconds": 48.1
+          }
+        ]
+      },
+      {
+        "referenceId": "Ducati",
+        "referenceUrl": "http://en.wikipedia.org/wiki/Ducati",
+        "confidence": 1,
+        "description": "Ducati Motor Holding S.p.A. is an Italian company that designs and manufactures motorcycles. Headquartered in Bologna, Italy, Ducati is owned by German automotive manufacturer Audi through its Italian subsidiary Lamborghini, which is all owned by the Volkswagen Group.",
+        "seenDuration": 0.1,
+        "id": 2,
+        "name": "Ducati",
+        "appearances": [
+          {
+            "startTime": "0:00:50",
+            "endTime": "0:00:50.0555556",
+            "startSeconds": 50,
+            "endSeconds": 50.1
+          }
+        ]
+      }
+    ],
+    "namedLocations": [
+      {
+        "referenceId": "Arial",
+        "referenceUrl": "https://en.wikipedia.org/wiki/Arial",
+        "confidence": 0.45,
+        "description": "Arial, sometimes marketed as Arial MT, is a sans-serif typeface and computer font packaged with Microsoft Windows, other Microsoft software applications, Apple Mac OS X, and many PostScript computer printers. The typeface was designed in 1982 by Robin Nicholas and Patricia Saunders for Monotype Typography. Arial is also a typeface family comprising standard Arial (Arial Std) and variants, including Arial Black, Bold, Extra Bold, Condensed, Italic, Light, Medium, Monospaced, Narrow, and Rounded.",
+        "seenDuration": 0.1,
+        "id": 1,
+        "name": "Arial",
+        "appearances": [
+          {
+            "startTime": "0:01:15",
+            "endTime": "0:01:15.0555556",
+            "startSeconds": 75,
+            "endSeconds": 75.1
+          }
+        ]
+      }
+    ],
+    "namedPeople": [],
+    "statistics": {
+      "correspondenceCount": 0,
+      "speakerTalkToListenRatio": {
+        "1": 1
+      },
+      "speakerLongestMonolog": {
+        "1": 81
+      },
+      "speakerNumberOfFragments": {
+        "1": 13
+      },
+      "speakerWordCount": {
+        "1": 200
+      }
+    },
+    "topics": [
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/visual arts/design (visual arts)",
+        "iabName": "Fine Art",
+        "confidence": 0.9851,
+        "id": 1,
+        "name": "Design/Communication Design/Graphic Design",
+        "appearances": [
+          {
+            "startTime": "0:00:08.84",
+            "endTime": "0:00:34.2",
+            "startSeconds": 8.8,
+            "endSeconds": 34.2
+          },
+          {
+            "startTime": "0:00:48.52",
+            "endTime": "0:01:26.28",
+            "startSeconds": 48.5,
+            "endSeconds": 86.3
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/construction and property/design and engineering",
+        "iabName": "Fine Art",
+        "confidence": 0.9841,
+        "id": 2,
+        "name": "Design",
+        "appearances": [
+          {
+            "startTime": "0:00:00.68",
+            "endTime": "0:00:34.2",
+            "startSeconds": 0.7,
+            "endSeconds": 34.2
+          },
+          {
+            "startTime": "0:00:48.52",
+            "endTime": "0:01:26.28",
+            "startSeconds": 48.5,
+            "endSeconds": 86.3
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/construction and property/design and engineering",
+        "iabName": "Fine Art",
+        "confidence": 0.93,
+        "id": 3,
+        "name": "Design/User Experience/User Interface Design",
+        "appearances": [
+          {
+            "startTime": "0:00:08.84",
+            "endTime": "0:00:34.2",
+            "startSeconds": 8.8,
+            "endSeconds": 34.2
+          },
+          {
+            "startTime": "0:00:48.52",
+            "endTime": "0:01:26.28",
+            "startSeconds": 48.5,
+            "endSeconds": 86.3
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/computing and information technology/software",
+        "iabName": "Fine Art",
+        "confidence": 0.9161,
+        "id": 4,
+        "name": "Design/User Experience/Adobe Illustrator",
+        "appearances": [
+          {
+            "startTime": "0:00:08.84",
+            "endTime": "0:00:34.2",
+            "startSeconds": 8.8,
+            "endSeconds": 34.2
+          },
+          {
+            "startTime": "0:00:48.52",
+            "endTime": "0:01:26.28",
+            "startSeconds": 48.5,
+            "endSeconds": 86.3
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/visual arts/design (visual arts)",
+        "iabName": "Fine Art",
+        "confidence": 0.9018,
+        "id": 5,
+        "name": "Design/Interaction Design/User Experience Design",
+        "appearances": [
+          {
+            "startTime": "0:00:00.68",
+            "endTime": "0:00:34.2",
+            "startSeconds": 0.7,
+            "endSeconds": 34.2
+          },
+          {
+            "startTime": "0:00:48.52",
+            "endTime": "0:01:26.28",
+            "startSeconds": 48.5,
+            "endSeconds": 86.3
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/computing and information technology/software",
+        "iabName": null,
+        "confidence": 0.7843,
+        "id": 6,
+        "name": "Product Development/Product Design Software",
+        "appearances": [
+          {
+            "startTime": "0:00:08.84",
+            "endTime": "0:00:34.2",
+            "startSeconds": 8.8,
+            "endSeconds": 34.2
+          },
+          {
+            "startTime": "0:00:48.52",
+            "endTime": "0:01:26.28",
+            "startSeconds": 48.5,
+            "endSeconds": 86.3
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/visual arts",
+        "iabName": "Fine Art",
+        "confidence": 0.7583,
+        "id": 7,
+        "name": "Design/Graphics",
+        "appearances": [
+          {
+            "startTime": "0:00:08.84",
+            "endTime": "0:01:26.28",
+            "startSeconds": 8.8,
+            "endSeconds": 86.3
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/computing and information technology/software",
+        "iabName": "Fine Art",
+        "confidence": 0.6055,
+        "id": 8,
+        "name": "Design/Communication Design/Adobe Photoshop",
+        "appearances": [
+          {
+            "startTime": "0:00:08.84",
+            "endTime": "0:01:26.28",
+            "startSeconds": 8.8,
+            "endSeconds": 86.3
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/construction and property/design and engineering",
+        "iabName": "Fine Art",
+        "confidence": 0.5284,
+        "id": 9,
+        "name": "Design/Communication Design/Typography",
+        "appearances": [
+          {
+            "startTime": "0:00:27.4",
+            "endTime": "0:00:34.2",
+            "startSeconds": 27.4,
+            "endSeconds": 34.2
+          },
+          {
+            "startTime": "0:00:48.52",
+            "endTime": "0:01:03",
+            "startSeconds": 48.5,
+            "endSeconds": 63
+          }
+        ]
+      }
+    ]
+  },
+  "videos": [
+    {
+      "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+      "id": "fkyxfsmpip",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:01:27.446",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [
+          "en-US"
+        ],
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "transcript": [
+          {
+            "id": 1,
+            "text": "Welcome to your creative workspace.",
+            "confidence": 0.9463,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.68",
+                "adjustedEnd": "0:00:02.64",
+                "start": "0:00:00.68",
+                "end": "0:00:02.64"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "The left side panel is your creative toolkit, offering everything you need to design like a pro.",
+            "confidence": 0.9322,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.04",
+                "adjustedEnd": "0:00:08.52",
+                "start": "0:00:03.04",
+                "end": "0:00:08.52"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "From templates to clip art, images, and text, Simply click, drag, or drop elements into place to craft your perfect design effortlessly.",
+            "confidence": 0.9294,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.84",
+                "adjustedEnd": "0:00:20.2",
+                "start": "0:00:08.84",
+                "end": "0:00:20.2"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "Each feature is designed to make customization quick and easy, whether you're a first timer or an experienced designer.",
+            "confidence": 0.9632,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20.48",
+                "adjustedEnd": "0:00:27",
+                "start": "0:00:20.48",
+                "end": "0:00:27"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "In the Templates tab, explore a variety of professional layouts designed specifically for different print products.",
+            "confidence": 0.964,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:27.4",
+                "adjustedEnd": "0:00:34.2",
+                "start": "0:00:27.4",
+                "end": "0:00:34.2"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "Want to make it truly yours?",
+            "confidence": 0.9628,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:34.52",
+                "adjustedEnd": "0:00:36.08",
+                "start": "0:00:34.52",
+                "end": "0:00:36.08"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "Visit the Images tab to upload your own photos or artwork, browse our premium stock image library, or even import images directly from your social media accounts.",
+            "confidence": 0.9653,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:36.44",
+                "adjustedEnd": "0:00:47.84",
+                "start": "0:00:36.44",
+                "end": "0:00:47.84"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "The Clip Art tab is packed with icons, shapes, and graphics.",
+            "confidence": 0.8846,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48.52",
+                "adjustedEnd": "0:00:52.28",
+                "start": "0:00:48.52",
+                "end": "0:00:52.28"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "To give your design A unique flair, use the Text tab to add customized text or pick from a variety of suggested styles and predefined content.",
+            "confidence": 0.9393,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:52.28",
+                "adjustedEnd": "0:01:03",
+                "start": "0:00:52.28",
+                "end": "0:01:03"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "Ready to start?",
+            "confidence": 0.973,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03.48",
+                "adjustedEnd": "0:01:04.44",
+                "start": "0:01:03.48",
+                "end": "0:01:04.44"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "Pick a template or design from scratch.",
+            "confidence": 0.9721,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:04.76",
+                "adjustedEnd": "0:01:06.96",
+                "start": "0:01:04.76",
+                "end": "0:01:06.96"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "Click on any object, text, images, or shapes and use the intuitive toolbar to customize colors, fonts, sizes, and layouts effortlessly with our Designer Studio.",
+            "confidence": 0.9449,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:07.32",
+                "adjustedEnd": "0:01:19.76",
+                "start": "0:01:07.32",
+                "end": "0:01:19.76"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "Creating beautiful rint designs has never been simler.",
+            "confidence": 0.8927,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:19.88",
+                "adjustedEnd": "0:01:22.84",
+                "start": "0:01:19.88",
+                "end": "0:01:22.84"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "Dive in exlore and let your creativity shine.",
+            "confidence": 0.82,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:23.12",
+                "adjustedEnd": "0:01:26.28",
+                "start": "0:01:23.12",
+                "end": "0:01:26.28"
+              }
+            ]
+          }
+        ],
+        "ocr": [
+          {
+            "id": 1,
+            "text": "$3.00",
+            "confidence": 0.997,
+            "left": 1002,
+            "top": 493,
+            "width": 68,
+            "height": 25,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:19.0555556",
+                "start": "0:00:00",
+                "end": "0:01:19.0555556"
+              },
+              {
+                "adjustedStart": "0:01:23",
+                "adjustedEnd": "0:01:25.0555556",
+                "start": "0:01:23",
+                "end": "0:01:25.0555556"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "10",
+            "confidence": 0.983,
+            "left": 430,
+            "top": 753,
+            "width": 13,
+            "height": 12,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:00",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "11",
+            "confidence": 0.998,
+            "left": 429,
+            "top": 809,
+            "width": 17,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03",
+                "adjustedEnd": "0:00:04.0555556",
+                "start": "0:00:03",
+                "end": "0:00:04.0555556"
+              },
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:06",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:10",
+                "adjustedEnd": "0:00:10.0555556",
+                "start": "0:00:10",
+                "end": "0:00:10.0555556"
+              },
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:12.0555556",
+                "start": "0:00:12",
+                "end": "0:00:12.0555556"
+              },
+              {
+                "adjustedStart": "0:00:14",
+                "adjustedEnd": "0:00:42.0555556",
+                "start": "0:00:14",
+                "end": "0:00:42.0555556"
+              },
+              {
+                "adjustedStart": "0:00:44",
+                "adjustedEnd": "0:00:58.0555556",
+                "start": "0:00:44",
+                "end": "0:00:58.0555556"
+              },
+              {
+                "adjustedStart": "0:01:00",
+                "adjustedEnd": "0:01:13.0555556",
+                "start": "0:01:00",
+                "end": "0:01:13.0555556"
+              },
+              {
+                "adjustedStart": "0:01:16",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:16",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "$3.0",
+            "confidence": 0.996,
+            "left": 107,
+            "top": 626,
+            "width": 27,
+            "height": 11,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:04",
+                "adjustedEnd": "0:00:06.0555556",
+                "start": "0:00:04",
+                "end": "0:00:06.0555556"
+              },
+              {
+                "adjustedStart": "0:00:13",
+                "adjustedEnd": "0:00:13.0555556",
+                "start": "0:00:13",
+                "end": "0:00:13.0555556"
+              },
+              {
+                "adjustedStart": "0:00:55",
+                "adjustedEnd": "0:00:58.0555556",
+                "start": "0:00:55",
+                "end": "0:00:58.0555556"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "2021",
+            "confidence": 0.956,
+            "left": 212,
+            "top": 297,
+            "width": 28,
+            "height": 8,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.0555556",
+                "start": "0:00:09",
+                "end": "0:00:10.0555556"
+              },
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:30.0555556",
+                "start": "0:00:28",
+                "end": "0:00:30.0555556"
+              },
+              {
+                "adjustedStart": "0:00:35",
+                "adjustedEnd": "0:00:36.0555556",
+                "start": "0:00:35",
+                "end": "0:00:36.0555556"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "80000",
+            "confidence": 0.984,
+            "left": 345,
+            "top": 347,
+            "width": 40,
+            "height": 12,
+            "angle": -33,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16",
+                "adjustedEnd": "0:00:19.0555556",
+                "start": "0:00:16",
+                "end": "0:00:19.0555556"
+              },
+              {
+                "adjustedStart": "0:00:21",
+                "adjustedEnd": "0:00:22.0555556",
+                "start": "0:00:21",
+                "end": "0:00:22.0555556"
+              },
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0555556",
+                "start": "0:00:25",
+                "end": "0:00:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "2022",
+            "confidence": 0.949,
+            "left": 329,
+            "top": 461,
+            "width": 35,
+            "height": 9,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:29.0555556",
+                "start": "0:00:28",
+                "end": "0:00:29.0555556"
+              },
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:32.0555556",
+                "start": "0:00:32",
+                "end": "0:00:32.0555556"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "83",
+            "confidence": 0.953,
+            "left": 697,
+            "top": 926,
+            "width": 34,
+            "height": 16,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:45",
+                "adjustedEnd": "0:00:45.0555556",
+                "start": "0:00:45",
+                "end": "0:00:45.0555556"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "2023",
+            "confidence": 0.993,
+            "left": 208,
+            "top": 680,
+            "width": 55,
+            "height": 19,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:00:59",
+                "end": "0:01:01.0555556"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "40%",
+            "confidence": 0.993,
+            "left": 217,
+            "top": 889,
+            "width": 38,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:00:59",
+                "end": "0:01:01.0555556"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "02",
+            "confidence": 0.993,
+            "left": 111,
+            "top": 250,
+            "width": 23,
+            "height": 11,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:01",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:01:01",
+                "end": "0:01:01.0555556"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "35",
+            "confidence": 0.998,
+            "left": 703,
+            "top": 79,
+            "width": 21,
+            "height": 12,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:08",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:08",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "12",
+            "confidence": 0.991,
+            "left": 708,
+            "top": 204,
+            "width": 13,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:16",
+                "adjustedEnd": "0:01:16.0555556",
+                "start": "0:01:16",
+                "end": "0:01:16.0555556"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "14",
+            "confidence": 1,
+            "left": 706,
+            "top": 227,
+            "width": 15,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:16",
+                "adjustedEnd": "0:01:16.0555556",
+                "start": "0:01:16",
+                "end": "0:01:16.0555556"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "16",
+            "confidence": 0.992,
+            "left": 707,
+            "top": 251,
+            "width": 15,
+            "height": 14,
+            "angle": -4,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:16",
+                "adjustedEnd": "0:01:16.0555556",
+                "start": "0:01:16",
+                "end": "0:01:16.0555556"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "18",
+            "confidence": 0.999,
+            "left": 706,
+            "top": 275,
+            "width": 16,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:16",
+                "adjustedEnd": "0:01:16.0555556",
+                "start": "0:01:16",
+                "end": "0:01:16.0555556"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "20",
+            "confidence": 0.998,
+            "left": 706,
+            "top": 298,
+            "width": 17,
+            "height": 15,
+            "angle": -3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:16",
+                "adjustedEnd": "0:01:16.0555556",
+                "start": "0:01:16",
+                "end": "0:01:16.0555556"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "22",
+            "confidence": 0.998,
+            "left": 705,
+            "top": 319,
+            "width": 18,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:16",
+                "adjustedEnd": "0:01:16.0555556",
+                "start": "0:01:16",
+                "end": "0:01:16.0555556"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "24",
+            "confidence": 0.991,
+            "left": 705,
+            "top": 343,
+            "width": 19,
+            "height": 17,
+            "angle": -3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:16",
+                "adjustedEnd": "0:01:16.0555556",
+                "start": "0:01:16",
+                "end": "0:01:16.0555556"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "26",
+            "confidence": 0.957,
+            "left": 705,
+            "top": 364,
+            "width": 19,
+            "height": 18,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:16",
+                "adjustedEnd": "0:01:16.0555556",
+                "start": "0:01:16",
+                "end": "0:01:16.0555556"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "text": "28",
+            "confidence": 0.998,
+            "left": 705,
+            "top": 389,
+            "width": 19,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:16",
+                "adjustedEnd": "0:01:16.0555556",
+                "start": "0:01:16",
+                "end": "0:01:16.0555556"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "text": "31",
+            "confidence": 0.998,
+            "left": 704,
+            "top": 411,
+            "width": 17,
+            "height": 17,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:16",
+                "adjustedEnd": "0:01:16.0555556",
+                "start": "0:01:16",
+                "end": "0:01:16.0555556"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "text": "36",
+            "confidence": 0.998,
+            "left": 703,
+            "top": 456,
+            "width": 21,
+            "height": 20,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:16",
+                "adjustedEnd": "0:01:16.0555556",
+                "start": "0:01:16",
+                "end": "0:01:16.0555556"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "text": "48",
+            "confidence": 0.989,
+            "left": 707,
+            "top": 479,
+            "width": 17,
+            "height": 16,
+            "angle": -3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:16",
+                "adjustedEnd": "0:01:16.0555556",
+                "start": "0:01:16",
+                "end": "0:01:16.0555556"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "text": "A4 - 8.25\"x11.67\"",
+            "confidence": 0.949,
+            "left": 107,
+            "top": 30,
+            "width": 105,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:00",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "text": "Add Body Text",
+            "confidence": 0.9953,
+            "left": 322,
+            "top": 86,
+            "width": 77,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:13",
+                "adjustedEnd": "0:00:13.0555556",
+                "start": "0:00:13",
+                "end": "0:00:13.0555556"
+              },
+              {
+                "adjustedStart": "0:00:55",
+                "adjustedEnd": "0:01:17.0555556",
+                "start": "0:00:55",
+                "end": "0:01:17.0555556"
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "text": "Background",
+            "confidence": 0.997,
+            "left": 442,
+            "top": 77,
+            "width": 79,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:00:00",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "text": "Images",
+            "confidence": 0.963,
+            "left": 16,
+            "top": 181,
+            "width": 48,
+            "height": 12,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:00",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "text": "\u54c1 Pattern",
+            "confidence": 0.9285,
+            "left": 669,
+            "top": 73,
+            "width": 73,
+            "height": 18,
+            "angle": 2,
+            "language": "zh-Hans",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:00:00",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "text": "Add Heading",
+            "confidence": 0.9965,
+            "left": 110,
+            "top": 85,
+            "width": 72,
+            "height": 14,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:13",
+                "adjustedEnd": "0:00:13.0555556",
+                "start": "0:00:13",
+                "end": "0:00:13.0555556"
+              },
+              {
+                "adjustedStart": "0:00:55",
+                "adjustedEnd": "0:01:17.0555556",
+                "start": "0:00:55",
+                "end": "0:01:17.0555556"
+              }
+            ]
+          },
+          {
+            "id": 31,
+            "text": "Add Sub Heading",
+            "confidence": 0.9767,
+            "left": 211,
+            "top": 86,
+            "width": 83,
+            "height": 12,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:13",
+                "adjustedEnd": "0:00:13.0555556",
+                "start": "0:00:13",
+                "end": "0:00:13.0555556"
+              },
+              {
+                "adjustedStart": "0:00:55",
+                "adjustedEnd": "0:01:17.0555556",
+                "start": "0:00:55",
+                "end": "0:01:17.0555556"
+              }
+            ]
+          },
+          {
+            "id": 32,
+            "text": "Text",
+            "confidence": 0.995,
+            "left": 23,
+            "top": 106,
+            "width": 31,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:54.0555556",
+                "start": "0:00:00",
+                "end": "0:00:54.0555556"
+              },
+              {
+                "adjustedStart": "0:00:57",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:57",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 33,
+            "text": "Heading",
+            "confidence": 0.998,
+            "left": 106,
+            "top": 116,
+            "width": 80,
+            "height": 19,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:13",
+                "adjustedEnd": "0:00:13.0555556",
+                "start": "0:00:13",
+                "end": "0:00:13.0555556"
+              },
+              {
+                "adjustedStart": "0:00:55",
+                "adjustedEnd": "0:01:17.0555556",
+                "start": "0:00:55",
+                "end": "0:01:17.0555556"
+              }
+            ]
+          },
+          {
+            "id": 34,
+            "text": "Sub Heading",
+            "confidence": 0.997,
+            "left": 212,
+            "top": 115,
+            "width": 80,
+            "height": 15,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:13",
+                "adjustedEnd": "0:00:13.0555556",
+                "start": "0:00:13",
+                "end": "0:00:13.0555556"
+              },
+              {
+                "adjustedStart": "0:00:55",
+                "adjustedEnd": "0:01:17.0555556",
+                "start": "0:00:55",
+                "end": "0:01:17.0555556"
+              }
+            ]
+          },
+          {
+            "id": 35,
+            "text": "Body Text",
+            "confidence": 0.996,
+            "left": 334,
+            "top": 119,
+            "width": 52,
+            "height": 11,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:13",
+                "adjustedEnd": "0:00:13.0555556",
+                "start": "0:00:13",
+                "end": "0:00:13.0555556"
+              },
+              {
+                "adjustedStart": "0:00:55",
+                "adjustedEnd": "0:01:17.0555556",
+                "start": "0:00:55",
+                "end": "0:01:17.0555556"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "text": "inch",
+            "confidence": 0.996,
+            "left": 431,
+            "top": 116,
+            "width": 27,
+            "height": 10,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:00",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 37,
+            "text": "Quick Text",
+            "confidence": 0.997,
+            "left": 105,
+            "top": 168,
+            "width": 69,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:13",
+                "adjustedEnd": "0:00:13.0555556",
+                "start": "0:00:13",
+                "end": "0:00:13.0555556"
+              },
+              {
+                "adjustedStart": "0:00:55",
+                "adjustedEnd": "0:01:17.0555556",
+                "start": "0:00:55",
+                "end": "0:01:17.0555556"
+              }
+            ]
+          },
+          {
+            "id": 38,
+            "text": "Suggestions",
+            "confidence": 0.995,
+            "left": 199,
+            "top": 170,
+            "width": 83,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:13",
+                "adjustedEnd": "0:00:13.0555556",
+                "start": "0:00:13",
+                "end": "0:00:13.0555556"
+              },
+              {
+                "adjustedStart": "0:00:55",
+                "adjustedEnd": "0:01:17.0555556",
+                "start": "0:00:55",
+                "end": "0:01:17.0555556"
+              }
+            ]
+          },
+          {
+            "id": 39,
+            "text": "Snippets",
+            "confidence": 0.996,
+            "left": 310,
+            "top": 169,
+            "width": 64,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:13",
+                "adjustedEnd": "0:00:13.0555556",
+                "start": "0:00:13",
+                "end": "0:00:13.0555556"
+              },
+              {
+                "adjustedStart": "0:00:55",
+                "adjustedEnd": "0:01:22.0555556",
+                "start": "0:00:55",
+                "end": "0:01:22.0555556"
+              }
+            ]
+          },
+          {
+            "id": 40,
+            "text": "Espresso | Cappuccino | Irish",
+            "confidence": 0.9392,
+            "left": 106,
+            "top": 225,
+            "width": 166,
+            "height": 14,
+            "angle": 0,
+            "language": "it-IT",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:13",
+                "adjustedEnd": "0:00:13.0555556",
+                "start": "0:00:13",
+                "end": "0:00:13.0555556"
+              },
+              {
+                "adjustedStart": "0:00:55",
+                "adjustedEnd": "0:00:58.0555556",
+                "start": "0:00:55",
+                "end": "0:00:58.0555556"
+              },
+              {
+                "adjustedStart": "0:01:08",
+                "adjustedEnd": "0:01:17.0555556",
+                "start": "0:01:08",
+                "end": "0:01:17.0555556"
+              }
+            ]
+          },
+          {
+            "id": 41,
+            "text": "Clipart",
+            "confidence": 0.998,
+            "left": 18,
+            "top": 251,
+            "width": 44,
+            "height": 15,
+            "angle": 1,
+            "language": "to-TO",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:10.0555556",
+                "start": "0:00:00",
+                "end": "0:00:10.0555556"
+              },
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:13.0555556",
+                "start": "0:00:12",
+                "end": "0:00:13.0555556"
+              },
+              {
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:15",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 42,
+            "text": "Great Place Perfect Coffee",
+            "confidence": 0.998,
+            "left": 106,
+            "top": 264,
+            "width": 147,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:00",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 43,
+            "text": "THE CAFE",
+            "confidence": 0.9935,
+            "left": 1289,
+            "top": 281,
+            "width": 111,
+            "height": 24,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:00",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 44,
+            "text": "+1 123 456 7890",
+            "confidence": 0.9963,
+            "left": 1049,
+            "top": 732,
+            "width": 195,
+            "height": 25,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.0555556",
+                "start": "0:00:11",
+                "end": "0:00:13.0555556"
+              },
+              {
+                "adjustedStart": "0:00:17",
+                "adjustedEnd": "0:00:29.0555556",
+                "start": "0:00:17",
+                "end": "0:00:29.0555556"
+              },
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:32.0555556",
+                "start": "0:00:32",
+                "end": "0:00:32.0555556"
+              },
+              {
+                "adjustedStart": "0:00:36",
+                "adjustedEnd": "0:00:37.0555556",
+                "start": "0:00:36",
+                "end": "0:00:37.0555556"
+              },
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:39.0555556",
+                "start": "0:00:39",
+                "end": "0:00:39.0555556"
+              },
+              {
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:49.0555556",
+                "start": "0:00:46",
+                "end": "0:00:49.0555556"
+              },
+              {
+                "adjustedStart": "0:00:51",
+                "adjustedEnd": "0:00:53.0555556",
+                "start": "0:00:51",
+                "end": "0:00:53.0555556"
+              },
+              {
+                "adjustedStart": "0:00:55",
+                "adjustedEnd": "0:01:00.0555556",
+                "start": "0:00:55",
+                "end": "0:01:00.0555556"
+              },
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:02.0555556",
+                "start": "0:01:02",
+                "end": "0:01:02.0555556"
+              },
+              {
+                "adjustedStart": "0:01:06",
+                "adjustedEnd": "0:01:18.0555556",
+                "start": "0:01:06",
+                "end": "0:01:18.0555556"
+              },
+              {
+                "adjustedStart": "0:01:22",
+                "adjustedEnd": "0:01:25.0555556",
+                "start": "0:01:22",
+                "end": "0:01:25.0555556"
+              },
+              {
+                "adjustedStart": "0:01:27",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:27",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 45,
+            "text": "Templates",
+            "confidence": 0.998,
+            "left": 7,
+            "top": 325,
+            "width": 66,
+            "height": 12,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:09.0555556",
+                "start": "0:00:00",
+                "end": "0:00:09.0555556"
+              },
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:27.0555556",
+                "start": "0:00:11",
+                "end": "0:00:27.0555556"
+              },
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:29",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 46,
+            "text": "1501 Black Stallion Rd. Sterling, KY 40353",
+            "confidence": 0.9963,
+            "left": 109,
+            "top": 344,
+            "width": 233,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:00",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 47,
+            "text": "Art Layout",
+            "confidence": 0.997,
+            "left": 5,
+            "top": 395,
+            "width": 70,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:00",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 48,
+            "text": "www.Thecafe.com",
+            "confidence": 0.979,
+            "left": 109,
+            "top": 387,
+            "width": 102,
+            "height": 11,
+            "angle": 1,
+            "language": "es-ES",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:00",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 49,
+            "text": "OPEN",
+            "confidence": 0.996,
+            "left": 108,
+            "top": 426,
+            "width": 33,
+            "height": 11,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.0555556",
+                "start": "0:00:11",
+                "end": "0:00:13.0555556"
+              },
+              {
+                "adjustedStart": "0:00:17",
+                "adjustedEnd": "0:00:29.0555556",
+                "start": "0:00:17",
+                "end": "0:00:29.0555556"
+              },
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:32.0555556",
+                "start": "0:00:32",
+                "end": "0:00:32.0555556"
+              },
+              {
+                "adjustedStart": "0:00:36",
+                "adjustedEnd": "0:00:37.0555556",
+                "start": "0:00:36",
+                "end": "0:00:37.0555556"
+              },
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:39.0555556",
+                "start": "0:00:39",
+                "end": "0:00:39.0555556"
+              },
+              {
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:49.0555556",
+                "start": "0:00:46",
+                "end": "0:00:49.0555556"
+              },
+              {
+                "adjustedStart": "0:00:51",
+                "adjustedEnd": "0:00:53.0555556",
+                "start": "0:00:51",
+                "end": "0:00:53.0555556"
+              },
+              {
+                "adjustedStart": "0:00:55",
+                "adjustedEnd": "0:01:00.0555556",
+                "start": "0:00:55",
+                "end": "0:01:00.0555556"
+              },
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:02.0555556",
+                "start": "0:01:02",
+                "end": "0:01:02.0555556"
+              },
+              {
+                "adjustedStart": "0:01:06",
+                "adjustedEnd": "0:01:18.0555556",
+                "start": "0:01:06",
+                "end": "0:01:18.0555556"
+              },
+              {
+                "adjustedStart": "0:01:22",
+                "adjustedEnd": "0:01:25.0555556",
+                "start": "0:01:22",
+                "end": "0:01:25.0555556"
+              },
+              {
+                "adjustedStart": "0:01:27",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:27",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 50,
+            "text": "MON-SAT",
+            "confidence": 0.998,
+            "left": 106,
+            "top": 464,
+            "width": 58,
+            "height": 15,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:00",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 51,
+            "text": "Best Price",
+            "confidence": 0.997,
+            "left": 980,
+            "top": 459,
+            "width": 113,
+            "height": 31,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:00",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 52,
+            "text": "QR Code",
+            "confidence": 0.997,
+            "left": 12,
+            "top": 468,
+            "width": 56,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:14.0555556",
+                "start": "0:00:00",
+                "end": "0:00:14.0555556"
+              },
+              {
+                "adjustedStart": "0:00:16",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:16",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 53,
+            "text": "6 AM-10 PM",
+            "confidence": 0.9957,
+            "left": 109,
+            "top": 504,
+            "width": 66,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:00",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 54,
+            "text": "Safe Line",
+            "confidence": 0.9945,
+            "left": 972,
+            "top": 886,
+            "width": 64,
+            "height": 14,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:00",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 55,
+            "text": "Bleed Line",
+            "confidence": 0.997,
+            "left": 1350,
+            "top": 880,
+            "width": 72,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:00",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 56,
+            "text": "Front",
+            "confidence": 0.998,
+            "left": 1116,
+            "top": 926,
+            "width": 38,
+            "height": 14,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:00",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 57,
+            "text": "BLACK",
+            "confidence": 0.941,
+            "left": 304,
+            "top": 889,
+            "width": 56,
+            "height": 17,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:00",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 58,
+            "text": "OPEN +1 123 456 7890",
+            "confidence": 0.9958,
+            "left": 967,
+            "top": 728,
+            "width": 278,
+            "height": 34,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:10.0555556",
+                "start": "0:00:07",
+                "end": "0:00:10.0555556"
+              },
+              {
+                "adjustedStart": "0:00:14",
+                "adjustedEnd": "0:00:16.0555556",
+                "start": "0:00:14",
+                "end": "0:00:16.0555556"
+              },
+              {
+                "adjustedStart": "0:00:30",
+                "adjustedEnd": "0:00:31.0555556",
+                "start": "0:00:30",
+                "end": "0:00:31.0555556"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:35.0555556",
+                "start": "0:00:33",
+                "end": "0:00:35.0555556"
+              },
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:38.0555556",
+                "start": "0:00:38",
+                "end": "0:00:38.0555556"
+              },
+              {
+                "adjustedStart": "0:00:40",
+                "adjustedEnd": "0:00:45.0555556",
+                "start": "0:00:40",
+                "end": "0:00:45.0555556"
+              },
+              {
+                "adjustedStart": "0:00:50",
+                "adjustedEnd": "0:00:50.0555556",
+                "start": "0:00:50",
+                "end": "0:00:50.0555556"
+              },
+              {
+                "adjustedStart": "0:00:54",
+                "adjustedEnd": "0:00:55.0555556",
+                "start": "0:00:54",
+                "end": "0:00:55.0555556"
+              },
+              {
+                "adjustedStart": "0:00:57",
+                "adjustedEnd": "0:00:58.0555556",
+                "start": "0:00:57",
+                "end": "0:00:58.0555556"
+              },
+              {
+                "adjustedStart": "0:01:01",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:01:01",
+                "end": "0:01:01.0555556"
+              },
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:05.0555556",
+                "start": "0:01:03",
+                "end": "0:01:05.0555556"
+              },
+              {
+                "adjustedStart": "0:01:09",
+                "adjustedEnd": "0:01:09.0555556",
+                "start": "0:01:09",
+                "end": "0:01:09.0555556"
+              },
+              {
+                "adjustedStart": "0:01:12",
+                "adjustedEnd": "0:01:14.0555556",
+                "start": "0:01:12",
+                "end": "0:01:14.0555556"
+              },
+              {
+                "adjustedStart": "0:01:16",
+                "adjustedEnd": "0:01:16.0555556",
+                "start": "0:01:16",
+                "end": "0:01:16.0555556"
+              },
+              {
+                "adjustedStart": "0:01:19",
+                "adjustedEnd": "0:01:21.0555556",
+                "start": "0:01:19",
+                "end": "0:01:21.0555556"
+              },
+              {
+                "adjustedStart": "0:01:26",
+                "adjustedEnd": "0:01:26.0555556",
+                "start": "0:01:26",
+                "end": "0:01:26.0555556"
+              }
+            ]
+          },
+          {
+            "id": 59,
+            "text": "Q Search",
+            "confidence": 0.9805,
+            "left": 103,
+            "top": 548,
+            "width": 73,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.0555556",
+                "start": "0:00:09",
+                "end": "0:00:10.0555556"
+              },
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:12.0555556",
+                "start": "0:00:12",
+                "end": "0:00:12.0555556"
+              },
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:33.0555556",
+                "start": "0:00:28",
+                "end": "0:00:33.0555556"
+              },
+              {
+                "adjustedStart": "0:00:35",
+                "adjustedEnd": "0:00:36.0555556",
+                "start": "0:00:35",
+                "end": "0:00:36.0555556"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:41.0555556",
+                "start": "0:00:41",
+                "end": "0:00:41.0555556"
+              },
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 60,
+            "text": "ICE-CREA",
+            "confidence": 0.914,
+            "left": 115,
+            "top": 459,
+            "width": 53,
+            "height": 14,
+            "angle": -2,
+            "language": "es-ES",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.0555556",
+                "start": "0:00:09",
+                "end": "0:00:10.0555556"
+              },
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:36.0555556",
+                "start": "0:00:31",
+                "end": "0:00:36.0555556"
+              }
+            ]
+          },
+          {
+            "id": 61,
+            "text": "DMISSION",
+            "confidence": 0.981,
+            "left": 328,
+            "top": 470,
+            "width": 42,
+            "height": 8,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.0555556",
+                "start": "0:00:09",
+                "end": "0:00:10.0555556"
+              },
+              {
+                "adjustedStart": "0:00:30",
+                "adjustedEnd": "0:00:36.0555556",
+                "start": "0:00:30",
+                "end": "0:00:36.0555556"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "text": "All Categories",
+            "confidence": 0.983,
+            "left": 105,
+            "top": 85,
+            "width": 84,
+            "height": 16,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:11.0555556",
+                "start": "0:00:11",
+                "end": "0:00:11.0555556"
+              },
+              {
+                "adjustedStart": "0:00:14",
+                "adjustedEnd": "0:00:27.0555556",
+                "start": "0:00:14",
+                "end": "0:00:27.0555556"
+              },
+              {
+                "adjustedStart": "0:00:49",
+                "adjustedEnd": "0:00:54.0555556",
+                "start": "0:00:49",
+                "end": "0:00:54.0555556"
+              }
+            ]
+          },
+          {
+            "id": 63,
+            "text": "To move image, use keyboard arrow",
+            "confidence": 0.9975,
+            "left": 111,
+            "top": 98,
+            "width": 220,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:12.0555556",
+                "start": "0:00:12",
+                "end": "0:00:12.0555556"
+              }
+            ]
+          },
+          {
+            "id": 64,
+            "text": "keys or drag image to desired location",
+            "confidence": 0.9969,
+            "left": 112,
+            "top": 117,
+            "width": 229,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:12.0555556",
+                "start": "0:00:12",
+                "end": "0:00:12.0555556"
+              },
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:48.0555556",
+                "start": "0:00:37",
+                "end": "0:00:48.0555556"
+              }
+            ]
+          },
+          {
+            "id": 65,
+            "text": "on sheet. To expand the page, click on",
+            "confidence": 0.9938,
+            "left": 111,
+            "top": 136,
+            "width": 233,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:12.0555556",
+                "start": "0:00:12",
+                "end": "0:00:12.0555556"
+              },
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:48.0555556",
+                "start": "0:00:37",
+                "end": "0:00:48.0555556"
+              }
+            ]
+          },
+          {
+            "id": 66,
+            "text": "ZOOM symbol above.",
+            "confidence": 0.9967,
+            "left": 111,
+            "top": 155,
+            "width": 130,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:12.0555556",
+                "start": "0:00:12",
+                "end": "0:00:12.0555556"
+              },
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:48.0555556",
+                "start": "0:00:37",
+                "end": "0:00:48.0555556"
+              }
+            ]
+          },
+          {
+            "id": 67,
+            "text": "For assistance, click on HELP button",
+            "confidence": 0.9965,
+            "left": 110,
+            "top": 195,
+            "width": 218,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:12.0555556",
+                "start": "0:00:12",
+                "end": "0:00:12.0555556"
+              }
+            ]
+          },
+          {
+            "id": 68,
+            "text": "on left.",
+            "confidence": 0.9845,
+            "left": 112,
+            "top": 214,
+            "width": 41,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:12.0555556",
+                "start": "0:00:12",
+                "end": "0:00:12.0555556"
+              },
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:45.0555556",
+                "start": "0:00:38",
+                "end": "0:00:45.0555556"
+              }
+            ]
+          },
+          {
+            "id": 69,
+            "text": "Upload",
+            "confidence": 0.998,
+            "left": 110,
+            "top": 286,
+            "width": 50,
+            "height": 17,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:12.0555556",
+                "start": "0:00:12",
+                "end": "0:00:12.0555556"
+              },
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:48.0555556",
+                "start": "0:00:37",
+                "end": "0:00:48.0555556"
+              }
+            ]
+          },
+          {
+            "id": 70,
+            "text": "Image Gallery",
+            "confidence": 0.977,
+            "left": 204,
+            "top": 285,
+            "width": 90,
+            "height": 17,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:12.0555556",
+                "start": "0:00:12",
+                "end": "0:00:12.0555556"
+              },
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:48.0555556",
+                "start": "0:00:37",
+                "end": "0:00:48.0555556"
+              }
+            ]
+          },
+          {
+            "id": 71,
+            "text": "Social",
+            "confidence": 0.998,
+            "left": 337,
+            "top": 286,
+            "width": 42,
+            "height": 14,
+            "angle": 0,
+            "language": "es-ES",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:12.0555556",
+                "start": "0:00:12",
+                "end": "0:00:12.0555556"
+              },
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:44.0555556",
+                "start": "0:00:37",
+                "end": "0:00:44.0555556"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "text": "Mobile",
+            "confidence": 0.998,
+            "left": 284,
+            "top": 335,
+            "width": 63,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:12.0555556",
+                "start": "0:00:12",
+                "end": "0:00:12.0555556"
+              },
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:41.0555556",
+                "start": "0:00:37",
+                "end": "0:00:41.0555556"
+              }
+            ]
+          },
+          {
+            "id": 73,
+            "text": "Add Images",
+            "confidence": 0.9705,
+            "left": 210,
+            "top": 484,
+            "width": 72,
+            "height": 14,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:12.0555556",
+                "start": "0:00:12",
+                "end": "0:00:12.0555556"
+              },
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:41.0555556",
+                "start": "0:00:37",
+                "end": "0:00:41.0555556"
+              }
+            ]
+          },
+          {
+            "id": 74,
+            "text": "Drop File Here",
+            "confidence": 0.996,
+            "left": 193,
+            "top": 493,
+            "width": 104,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:12.0555556",
+                "start": "0:00:12",
+                "end": "0:00:12.0555556"
+              },
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:41.0555556",
+                "start": "0:00:37",
+                "end": "0:00:41.0555556"
+              }
+            ]
+          },
+          {
+            "id": 75,
+            "text": "just",
+            "confidence": 0.944,
+            "left": 252,
+            "top": 406,
+            "width": 52,
+            "height": 23,
+            "angle": -3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:15.0555556",
+                "start": "0:00:15",
+                "end": "0:00:15.0555556"
+              }
+            ]
+          },
+          {
+            "id": 76,
+            "text": "CHAPTER",
+            "confidence": 0.982,
+            "left": 256,
+            "top": 433,
+            "width": 52,
+            "height": 12,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:27.0555556",
+                "start": "0:00:15",
+                "end": "0:00:27.0555556"
+              },
+              {
+                "adjustedStart": "0:00:49",
+                "adjustedEnd": "0:00:50.0555556",
+                "start": "0:00:49",
+                "end": "0:00:50.0555556"
+              }
+            ]
+          },
+          {
+            "id": 77,
+            "text": "Education_black_6-01_0344221220",
+            "confidence": 0.928,
+            "left": 37,
+            "top": 474,
+            "width": 184,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:15.0555556",
+                "start": "0:00:15",
+                "end": "0:00:15.0555556"
+              }
+            ]
+          },
+          {
+            "id": 78,
+            "text": "2404.svg",
+            "confidence": 0.978,
+            "left": 102,
+            "top": 493,
+            "width": 54,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:15.0555556",
+                "start": "0:00:15",
+                "end": "0:00:15.0555556"
+              },
+              {
+                "adjustedStart": "0:00:51",
+                "adjustedEnd": "0:00:51.0555556",
+                "start": "0:00:51",
+                "end": "0:00:51.0555556"
+              }
+            ]
+          },
+          {
+            "id": 79,
+            "text": "teacher",
+            "confidence": 0.962,
+            "left": 178,
+            "top": 404,
+            "width": 54,
+            "height": 16,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:17",
+                "adjustedEnd": "0:00:27.0555556",
+                "start": "0:00:17",
+                "end": "0:00:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 80,
+            "text": "Flyers",
+            "confidence": 0.901,
+            "left": 96,
+            "top": 4,
+            "width": 44,
+            "height": 16,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:27",
+                "adjustedEnd": "0:00:34.0555556",
+                "start": "0:00:27",
+                "end": "0:00:34.0555556"
+              }
+            ]
+          },
+          {
+            "id": 81,
+            "text": "Continue",
+            "confidence": 0.936,
+            "left": 1811,
+            "top": 21,
+            "width": 86,
+            "height": 18,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:27",
+                "adjustedEnd": "0:00:37.0555556",
+                "start": "0:00:27",
+                "end": "0:00:37.0555556"
+              },
+              {
+                "adjustedStart": "0:00:40",
+                "adjustedEnd": "0:00:49.0555556",
+                "start": "0:00:40",
+                "end": "0:00:49.0555556"
+              }
+            ]
+          },
+          {
+            "id": 82,
+            "text": "COMBO",
+            "confidence": 0.923,
+            "left": 351,
+            "top": 179,
+            "width": 28,
+            "height": 9,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:30.0555556",
+                "start": "0:00:28",
+                "end": "0:00:30.0555556"
+              }
+            ]
+          },
+          {
+            "id": 83,
+            "text": "VACCIN",
+            "confidence": 0.948,
+            "left": 317,
+            "top": 354,
+            "width": 35,
+            "height": 12,
+            "angle": 0,
+            "language": "fr-FR",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:29.0555556",
+                "start": "0:00:28",
+                "end": "0:00:29.0555556"
+              }
+            ]
+          },
+          {
+            "id": 84,
+            "text": "HAIR",
+            "confidence": 0.963,
+            "left": 316,
+            "top": 595,
+            "width": 19,
+            "height": 10,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:31.0555556",
+                "start": "0:00:28",
+                "end": "0:00:31.0555556"
+              },
+              {
+                "adjustedStart": "0:00:35",
+                "adjustedEnd": "0:00:35.0555556",
+                "start": "0:00:35",
+                "end": "0:00:35.0555556"
+              }
+            ]
+          },
+          {
+            "id": 85,
+            "text": "All Templates",
+            "confidence": 0.9805,
+            "left": 111,
+            "top": 126,
+            "width": 82,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:34.0555556",
+                "start": "0:00:31",
+                "end": "0:00:34.0555556"
+              }
+            ]
+          },
+          {
+            "id": 86,
+            "text": "My Saved Designs",
+            "confidence": 0.998,
+            "left": 112,
+            "top": 155,
+            "width": 109,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:34.0555556",
+                "start": "0:00:31",
+                "end": "0:00:34.0555556"
+              }
+            ]
+          },
+          {
+            "id": 87,
+            "text": "Beauty & Spa",
+            "confidence": 0.9953,
+            "left": 111,
+            "top": 183,
+            "width": 81,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:34.0555556",
+                "start": "0:00:31",
+                "end": "0:00:34.0555556"
+              }
+            ]
+          },
+          {
+            "id": 88,
+            "text": "Business Service",
+            "confidence": 0.997,
+            "left": 111,
+            "top": 210,
+            "width": 104,
+            "height": 13,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:34.0555556",
+                "start": "0:00:31",
+                "end": "0:00:34.0555556"
+              }
+            ]
+          },
+          {
+            "id": 89,
+            "text": "Education and Training",
+            "confidence": 0.9973,
+            "left": 113,
+            "top": 236,
+            "width": 139,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:34.0555556",
+                "start": "0:00:31",
+                "end": "0:00:34.0555556"
+              }
+            ]
+          },
+          {
+            "id": 90,
+            "text": "Events & Entertainment",
+            "confidence": 0.9927,
+            "left": 112,
+            "top": 263,
+            "width": 142,
+            "height": 13,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:34.0555556",
+                "start": "0:00:31",
+                "end": "0:00:34.0555556"
+              }
+            ]
+          },
+          {
+            "id": 91,
+            "text": "Fashion & Retail",
+            "confidence": 0.996,
+            "left": 110,
+            "top": 291,
+            "width": 100,
+            "height": 12,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:34.0555556",
+                "start": "0:00:31",
+                "end": "0:00:34.0555556"
+              }
+            ]
+          },
+          {
+            "id": 92,
+            "text": "Food & Beverage",
+            "confidence": 0.995,
+            "left": 111,
+            "top": 320,
+            "width": 103,
+            "height": 12,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:34.0555556",
+                "start": "0:00:31",
+                "end": "0:00:34.0555556"
+              }
+            ]
+          },
+          {
+            "id": 93,
+            "text": "Industries",
+            "confidence": 0.93,
+            "left": 112,
+            "top": 348,
+            "width": 57,
+            "height": 12,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:34.0555556",
+                "start": "0:00:31",
+                "end": "0:00:34.0555556"
+              }
+            ]
+          },
+          {
+            "id": 94,
+            "text": "To move image, use keyboard arrow keys",
+            "confidence": 0.9967,
+            "left": 111,
+            "top": 98,
+            "width": 256,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:48.0555556",
+                "start": "0:00:37",
+                "end": "0:00:48.0555556"
+              }
+            ]
+          },
+          {
+            "id": 95,
+            "text": "For assistance, click on HELP button on",
+            "confidence": 0.9967,
+            "left": 110,
+            "top": 195,
+            "width": 236,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:48.0555556",
+                "start": "0:00:37",
+                "end": "0:00:48.0555556"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "text": "My Computer",
+            "confidence": 0.9055,
+            "left": 115,
+            "top": 335,
+            "width": 103,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:41.0555556",
+                "start": "0:00:37",
+                "end": "0:00:41.0555556"
+              }
+            ]
+          },
+          {
+            "id": 97,
+            "text": "Sear",
+            "confidence": 0.902,
+            "left": 131,
+            "top": 606,
+            "width": 36,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:37.0555556",
+                "start": "0:00:37",
+                "end": "0:00:37.0555556"
+              }
+            ]
+          },
+          {
+            "id": 98,
+            "text": "Search",
+            "confidence": 0.998,
+            "left": 129,
+            "top": 549,
+            "width": 45,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:40.0555556",
+                "start": "0:00:38",
+                "end": "0:00:40.0555556"
+              },
+              {
+                "adjustedStart": "0:00:42",
+                "adjustedEnd": "0:00:45.0555556",
+                "start": "0:00:42",
+                "end": "0:00:45.0555556"
+              }
+            ]
+          },
+          {
+            "id": 99,
+            "text": "left.",
+            "confidence": 0.988,
+            "left": 113,
+            "top": 213,
+            "width": 24,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:48.0555556",
+                "start": "0:00:46",
+                "end": "0:00:48.0555556"
+              }
+            ]
+          },
+          {
+            "id": 100,
+            "text": "ocial",
+            "confidence": 0.969,
+            "left": 360,
+            "top": 285,
+            "width": 31,
+            "height": 14,
+            "angle": 2,
+            "language": "pt-PT",
+            "instances": [
+              {
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:48.0555556",
+                "start": "0:00:46",
+                "end": "0:00:48.0555556"
+              }
+            ]
+          },
+          {
+            "id": 101,
+            "text": "Facebook",
+            "confidence": 0.998,
+            "left": 136,
+            "top": 380,
+            "width": 54,
+            "height": 13,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:46.0555556",
+                "start": "0:00:46",
+                "end": "0:00:46.0555556"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "text": "Connect to your Google Photos Account,",
+            "confidence": 0.9867,
+            "left": 100,
+            "top": 426,
+            "width": 303,
+            "height": 20,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:48.0555556",
+                "start": "0:00:46",
+                "end": "0:00:48.0555556"
+              }
+            ]
+          },
+          {
+            "id": 103,
+            "text": "and you'll be able to use your Google",
+            "confidence": 0.9974,
+            "left": 110,
+            "top": 449,
+            "width": 280,
+            "height": 21,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:48.0555556",
+                "start": "0:00:46",
+                "end": "0:00:48.0555556"
+              }
+            ]
+          },
+          {
+            "id": 104,
+            "text": "Photos.",
+            "confidence": 0.995,
+            "left": 225,
+            "top": 475,
+            "width": 58,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:48.0555556",
+                "start": "0:00:46",
+                "end": "0:00:48.0555556"
+              }
+            ]
+          },
+          {
+            "id": 105,
+            "text": "Connect",
+            "confidence": 0.998,
+            "left": 220,
+            "top": 525,
+            "width": 63,
+            "height": 17,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:48.0555556",
+                "start": "0:00:46",
+                "end": "0:00:48.0555556"
+              }
+            ]
+          },
+          {
+            "id": 106,
+            "text": "Google Photos",
+            "confidence": 0.977,
+            "left": 178,
+            "top": 390,
+            "width": 153,
+            "height": 23,
+            "angle": 1,
+            "language": "fr-FR",
+            "instances": [
+              {
+                "adjustedStart": "0:00:47",
+                "adjustedEnd": "0:00:48.0555556",
+                "start": "0:00:47",
+                "end": "0:00:48.0555556"
+              }
+            ]
+          },
+          {
+            "id": 107,
+            "text": "Dropbox",
+            "confidence": 0.997,
+            "left": 310,
+            "top": 379,
+            "width": 58,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:48.0555556",
+                "start": "0:00:48",
+                "end": "0:00:48.0555556"
+              }
+            ]
+          },
+          {
+            "id": 108,
+            "text": "Teacher",
+            "confidence": 0.976,
+            "left": 179,
+            "top": 404,
+            "width": 53,
+            "height": 16,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:49",
+                "adjustedEnd": "0:00:50.0555556",
+                "start": "0:00:49",
+                "end": "0:00:50.0555556"
+              }
+            ]
+          },
+          {
+            "id": 109,
+            "text": "ducati",
+            "confidence": 0.965,
+            "left": 45,
+            "top": 387,
+            "width": 37,
+            "height": 12,
+            "angle": -2,
+            "language": "it-IT",
+            "instances": [
+              {
+                "adjustedStart": "0:00:50",
+                "adjustedEnd": "0:00:50.0555556",
+                "start": "0:00:50",
+                "end": "0:00:50.0555556"
+              }
+            ]
+          },
+          {
+            "id": 110,
+            "text": "Agriculture_black_2-01_030211122",
+            "confidence": 0.93,
+            "left": 193,
+            "top": 481,
+            "width": 182,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:51",
+                "adjustedEnd": "0:00:51.0555556",
+                "start": "0:00:51",
+                "end": "0:00:51.0555556"
+              }
+            ]
+          },
+          {
+            "id": 111,
+            "text": "Shapes",
+            "confidence": 0.998,
+            "left": 111,
+            "top": 150,
+            "width": 47,
+            "height": 12,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53",
+                "adjustedEnd": "0:00:54.0555556",
+                "start": "0:00:53",
+                "end": "0:00:54.0555556"
+              }
+            ]
+          },
+          {
+            "id": 112,
+            "text": "Signs",
+            "confidence": 0.998,
+            "left": 110,
+            "top": 177,
+            "width": 35,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53",
+                "adjustedEnd": "0:00:54.0555556",
+                "start": "0:00:53",
+                "end": "0:00:54.0555556"
+              }
+            ]
+          },
+          {
+            "id": 113,
+            "text": "Contact Icons",
+            "confidence": 0.9645,
+            "left": 110,
+            "top": 203,
+            "width": 86,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53",
+                "adjustedEnd": "0:00:54.0555556",
+                "start": "0:00:53",
+                "end": "0:00:54.0555556"
+              }
+            ]
+          },
+          {
+            "id": 114,
+            "text": "Social Media Icons",
+            "confidence": 0.9837,
+            "left": 110,
+            "top": 230,
+            "width": 114,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53",
+                "adjustedEnd": "0:00:54.0555556",
+                "start": "0:00:53",
+                "end": "0:00:54.0555556"
+              }
+            ]
+          },
+          {
+            "id": 115,
+            "text": "Easter",
+            "confidence": 0.998,
+            "left": 112,
+            "top": 259,
+            "width": 36,
+            "height": 11,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53",
+                "adjustedEnd": "0:00:54.0555556",
+                "start": "0:00:53",
+                "end": "0:00:54.0555556"
+              }
+            ]
+          },
+          {
+            "id": 116,
+            "text": "Agriculture",
+            "confidence": 0.994,
+            "left": 112,
+            "top": 284,
+            "width": 67,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53",
+                "adjustedEnd": "0:00:54.0555556",
+                "start": "0:00:53",
+                "end": "0:00:54.0555556"
+              }
+            ]
+          },
+          {
+            "id": 117,
+            "text": "Christmas",
+            "confidence": 0.996,
+            "left": 114,
+            "top": 312,
+            "width": 58,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53",
+                "adjustedEnd": "0:00:54.0555556",
+                "start": "0:00:53",
+                "end": "0:00:54.0555556"
+              }
+            ]
+          },
+          {
+            "id": 118,
+            "text": "Education",
+            "confidence": 0.997,
+            "left": 113,
+            "top": 341,
+            "width": 61,
+            "height": 11,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53",
+                "adjustedEnd": "0:00:54.0555556",
+                "start": "0:00:53",
+                "end": "0:00:54.0555556"
+              }
+            ]
+          },
+          {
+            "id": 119,
+            "text": "PRINTING",
+            "confidence": 0.978,
+            "left": 110,
+            "top": 252,
+            "width": 38,
+            "height": 15,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:00:59.0555556",
+                "start": "0:00:59",
+                "end": "0:00:59.0555556"
+              }
+            ]
+          },
+          {
+            "id": 120,
+            "text": "OUTSIDE",
+            "confidence": 0.995,
+            "left": 214,
+            "top": 260,
+            "width": 47,
+            "height": 14,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:00:59",
+                "end": "0:01:01.0555556"
+              }
+            ]
+          },
+          {
+            "id": 121,
+            "text": "THE BOX",
+            "confidence": 0.996,
+            "left": 210,
+            "top": 277,
+            "width": 49,
+            "height": 12,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:00:59",
+                "end": "0:01:01.0555556"
+              }
+            ]
+          },
+          {
+            "id": 122,
+            "text": "ROOSEVELT N. STAM",
+            "confidence": 0.9393,
+            "left": 108,
+            "top": 456,
+            "width": 64,
+            "height": 10,
+            "angle": 0,
+            "language": "nl-NL",
+            "instances": [
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:00:59",
+                "end": "0:01:01.0555556"
+              }
+            ]
+          },
+          {
+            "id": 123,
+            "text": "Thomas Smith",
+            "confidence": 0.93,
+            "left": 298,
+            "top": 450,
+            "width": 49,
+            "height": 10,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:00:59",
+                "end": "0:01:01.0555556"
+              }
+            ]
+          },
+          {
+            "id": 124,
+            "text": "MICHA SMITH",
+            "confidence": 0.9905,
+            "left": 202,
+            "top": 473,
+            "width": 54,
+            "height": 8,
+            "angle": 1,
+            "language": "de-DE",
+            "instances": [
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:00:59.0555556",
+                "start": "0:00:59",
+                "end": "0:00:59.0555556"
+              },
+              {
+                "adjustedStart": "0:01:01",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:01:01",
+                "end": "0:01:01.0555556"
+              }
+            ]
+          },
+          {
+            "id": 125,
+            "text": "GRAND",
+            "confidence": 0.94,
+            "left": 114,
+            "top": 573,
+            "width": 49,
+            "height": 11,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:00:59.0555556",
+                "start": "0:00:59",
+                "end": "0:00:59.0555556"
+              }
+            ]
+          },
+          {
+            "id": 126,
+            "text": "OPENING",
+            "confidence": 0.998,
+            "left": 113,
+            "top": 578,
+            "width": 52,
+            "height": 12,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:00:59",
+                "end": "0:01:01.0555556"
+              }
+            ]
+          },
+          {
+            "id": 127,
+            "text": "FATHER'S",
+            "confidence": 0.976,
+            "left": 112,
+            "top": 679,
+            "width": 60,
+            "height": 17,
+            "angle": 6,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:00:59",
+                "end": "0:01:01.0555556"
+              }
+            ]
+          },
+          {
+            "id": 128,
+            "text": "SAVE",
+            "confidence": 0.996,
+            "left": 312,
+            "top": 673,
+            "width": 40,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:00:59",
+                "end": "0:01:01.0555556"
+              }
+            ]
+          },
+          {
+            "id": 129,
+            "text": "DATE",
+            "confidence": 0.969,
+            "left": 312,
+            "top": 690,
+            "width": 41,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:00:59",
+                "end": "0:01:01.0555556"
+              }
+            ]
+          },
+          {
+            "id": 130,
+            "text": "ADMISSION OPEN",
+            "confidence": 0.996,
+            "left": 198,
+            "top": 789,
+            "width": 74,
+            "height": 11,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:00:59",
+                "end": "0:01:01.0555556"
+              }
+            ]
+          },
+          {
+            "id": 131,
+            "text": "GET",
+            "confidence": 0.996,
+            "left": 308,
+            "top": 793,
+            "width": 37,
+            "height": 12,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:00:59",
+                "end": "0:01:01.0555556"
+              }
+            ]
+          },
+          {
+            "id": 132,
+            "text": "FREE",
+            "confidence": 0.994,
+            "left": 306,
+            "top": 804,
+            "width": 42,
+            "height": 11,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:00:59",
+                "end": "0:01:01.0555556"
+              }
+            ]
+          },
+          {
+            "id": 133,
+            "text": "HUGE",
+            "confidence": 0.996,
+            "left": 115,
+            "top": 887,
+            "width": 47,
+            "height": 16,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:00:59",
+                "end": "0:01:01.0555556"
+              }
+            ]
+          },
+          {
+            "id": 134,
+            "text": "WordArt_10",
+            "confidence": 0.979,
+            "left": 106,
+            "top": 636,
+            "width": 67,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:00",
+                "adjustedEnd": "0:01:00.0555556",
+                "start": "0:01:00",
+                "end": "0:01:00.0555556"
+              }
+            ]
+          },
+          {
+            "id": 135,
+            "text": "Laura",
+            "confidence": 0.907,
+            "left": 219,
+            "top": 362,
+            "width": 32,
+            "height": 13,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:01",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:01:01",
+                "end": "0:01:01.0555556"
+              }
+            ]
+          },
+          {
+            "id": 136,
+            "text": "The universe works in crazy ways. Your",
+            "confidence": 0.9969,
+            "left": 112,
+            "top": 264,
+            "width": 232,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 137,
+            "text": "good luck will come in waves, and so",
+            "confidence": 0.988,
+            "left": 109,
+            "top": 281,
+            "width": 227,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 138,
+            "text": "does your bad, so you have to take the",
+            "confidence": 0.9963,
+            "left": 110,
+            "top": 298,
+            "width": 232,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 139,
+            "text": "good with the bad and press forward.",
+            "confidence": 0.996,
+            "left": 108,
+            "top": 315,
+            "width": 230,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 140,
+            "text": "Apply",
+            "confidence": 0.988,
+            "left": 324,
+            "top": 346,
+            "width": 32,
+            "height": 11,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 141,
+            "text": "Keep your best wishes close to your heart",
+            "confidence": 0.9971,
+            "left": 112,
+            "top": 389,
+            "width": 249,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 142,
+            "text": "and watch what happens.",
+            "confidence": 0.9803,
+            "left": 111,
+            "top": 406,
+            "width": 152,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 143,
+            "text": "May the sun always shine on your",
+            "confidence": 0.9973,
+            "left": 111,
+            "top": 480,
+            "width": 204,
+            "height": 12,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 144,
+            "text": "window pane; may a rainbow be certain",
+            "confidence": 0.9916,
+            "left": 111,
+            "top": 496,
+            "width": 241,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 145,
+            "text": "to follow each rain.",
+            "confidence": 0.9975,
+            "left": 111,
+            "top": 511,
+            "width": 114,
+            "height": 14,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 146,
+            "text": "I wish you for all your dreams of",
+            "confidence": 0.9728,
+            "left": 112,
+            "top": 586,
+            "width": 195,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 147,
+            "text": "tomorrow. I wish your having faith they",
+            "confidence": 0.9923,
+            "left": 111,
+            "top": 601,
+            "width": 234,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 148,
+            "text": "all come true. I wish you all these things,",
+            "confidence": 0.9831,
+            "left": 114,
+            "top": 618,
+            "width": 238,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 149,
+            "text": "but remember sometimes wishes and",
+            "confidence": 0.9966,
+            "left": 111,
+            "top": 633,
+            "width": 230,
+            "height": 12,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 150,
+            "text": "dreams are all up to you!",
+            "confidence": 0.997,
+            "left": 111,
+            "top": 650,
+            "width": 150,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 151,
+            "text": "Good luck is a residue of preparation.",
+            "confidence": 0.9899,
+            "left": 111,
+            "top": 722,
+            "width": 223,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 152,
+            "text": "A successful marriage requires falling in",
+            "confidence": 0.9928,
+            "left": 113,
+            "top": 797,
+            "width": 237,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 153,
+            "text": "love many times, always with the same",
+            "confidence": 0.9903,
+            "left": 110,
+            "top": 814,
+            "width": 235,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "text": "person.",
+            "confidence": 0.997,
+            "left": 112,
+            "top": 831,
+            "width": 47,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 155,
+            "text": "Love is composed of a single soul",
+            "confidence": 0.9961,
+            "left": 111,
+            "top": 905,
+            "width": 201,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 156,
+            "text": "inhabiting two bodies.",
+            "confidence": 0.9957,
+            "left": 111,
+            "top": 920,
+            "width": 134,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 157,
+            "text": "Edit",
+            "confidence": 0.995,
+            "left": 445,
+            "top": 78,
+            "width": 34,
+            "height": 14,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:08",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:08",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 158,
+            "text": "AladinRegular",
+            "confidence": 0.992,
+            "left": 545,
+            "top": 78,
+            "width": 88,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:08",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:08",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 159,
+            "text": "I Curve Text",
+            "confidence": 0.9353,
+            "left": 1051,
+            "top": 76,
+            "width": 101,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:08",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:08",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 160,
+            "text": "T Effect",
+            "confidence": 0.9585,
+            "left": 1161,
+            "top": 75,
+            "width": 63,
+            "height": 18,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:08",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:08",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 161,
+            "text": "Opacity",
+            "confidence": 0.993,
+            "left": 1349,
+            "top": 75,
+            "width": 78,
+            "height": 19,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:08",
+                "adjustedEnd": "0:01:09.0555556",
+                "start": "0:01:08",
+                "end": "0:01:09.0555556"
+              },
+              {
+                "adjustedStart": "0:01:12",
+                "adjustedEnd": "0:01:14.0555556",
+                "start": "0:01:12",
+                "end": "0:01:14.0555556"
+              },
+              {
+                "adjustedStart": "0:01:16",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:16",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 162,
+            "text": "Position",
+            "confidence": 0.994,
+            "left": 1426,
+            "top": 75,
+            "width": 84,
+            "height": 17,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:08",
+                "adjustedEnd": "0:01:09.0555556",
+                "start": "0:01:08",
+                "end": "0:01:09.0555556"
+              },
+              {
+                "adjustedStart": "0:01:12",
+                "adjustedEnd": "0:01:14.0555556",
+                "start": "0:01:12",
+                "end": "0:01:14.0555556"
+              },
+              {
+                "adjustedStart": "0:01:16",
+                "adjustedEnd": "0:01:19.0555556",
+                "start": "0:01:16",
+                "end": "0:01:19.0555556"
+              },
+              {
+                "adjustedStart": "0:01:22",
+                "adjustedEnd": "0:01:26.0555556",
+                "start": "0:01:22",
+                "end": "0:01:26.0555556"
+              }
+            ]
+          },
+          {
+            "id": 163,
+            "text": "Opacity Position",
+            "confidence": 0.987,
+            "left": 1346,
+            "top": 75,
+            "width": 162,
+            "height": 19,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:10",
+                "adjustedEnd": "0:01:11.0555556",
+                "start": "0:01:10",
+                "end": "0:01:11.0555556"
+              },
+              {
+                "adjustedStart": "0:01:15",
+                "adjustedEnd": "0:01:15.0555556",
+                "start": "0:01:15",
+                "end": "0:01:15.0555556"
+              },
+              {
+                "adjustedStart": "0:01:27",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:27",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 164,
+            "text": "AMATICSCREGULAR",
+            "confidence": 0.972,
+            "left": 553,
+            "top": 110,
+            "width": 78,
+            "height": 16,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:15",
+                "adjustedEnd": "0:01:15.0555556",
+                "start": "0:01:15",
+                "end": "0:01:15.0555556"
+              }
+            ]
+          },
+          {
+            "id": 165,
+            "text": "Arapey",
+            "confidence": 0.997,
+            "left": 553,
+            "top": 151,
+            "width": 34,
+            "height": 10,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:15",
+                "adjustedEnd": "0:01:15.0555556",
+                "start": "0:01:15",
+                "end": "0:01:15.0555556"
+              }
+            ]
+          },
+          {
+            "id": 166,
+            "text": "ArchivoBlack",
+            "confidence": 0.992,
+            "left": 743,
+            "top": 147,
+            "width": 120,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:15",
+                "adjustedEnd": "0:01:15.0555556",
+                "start": "0:01:15",
+                "end": "0:01:15.0555556"
+              }
+            ]
+          },
+          {
+            "id": 167,
+            "text": "ArchivoBold",
+            "confidence": 0.994,
+            "left": 554,
+            "top": 181,
+            "width": 97,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:15",
+                "adjustedEnd": "0:01:15.0555556",
+                "start": "0:01:15",
+                "end": "0:01:15.0555556"
+              }
+            ]
+          },
+          {
+            "id": 168,
+            "text": "Arial",
+            "confidence": 0.962,
+            "left": 552,
+            "top": 219,
+            "width": 27,
+            "height": 12,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:15",
+                "adjustedEnd": "0:01:15.0555556",
+                "start": "0:01:15",
+                "end": "0:01:15.0555556"
+              }
+            ]
+          },
+          {
+            "id": 169,
+            "text": "Arimo ArchivoNarrow",
+            "confidence": 0.9935,
+            "left": 743,
+            "top": 219,
+            "width": 122,
+            "height": 14,
+            "angle": 1,
+            "language": "es-ES",
+            "instances": [
+              {
+                "adjustedStart": "0:01:15",
+                "adjustedEnd": "0:01:15.0555556",
+                "start": "0:01:15",
+                "end": "0:01:15.0555556"
+              }
+            ]
+          },
+          {
+            "id": 170,
+            "text": "Arvo",
+            "confidence": 0.995,
+            "left": 553,
+            "top": 255,
+            "width": 34,
+            "height": 12,
+            "angle": 2,
+            "language": "fi-FI",
+            "instances": [
+              {
+                "adjustedStart": "0:01:15",
+                "adjustedEnd": "0:01:15.0555556",
+                "start": "0:01:15",
+                "end": "0:01:15.0555556"
+              }
+            ]
+          },
+          {
+            "id": 171,
+            "text": "Asap",
+            "confidence": 0.995,
+            "left": 743,
+            "top": 256,
+            "width": 30,
+            "height": 11,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:15",
+                "adjustedEnd": "0:01:15.0555556",
+                "start": "0:01:15",
+                "end": "0:01:15.0555556"
+              }
+            ]
+          },
+          {
+            "id": 172,
+            "text": "Text Left",
+            "confidence": 0.9525,
+            "left": 918,
+            "top": 113,
+            "width": 180,
+            "height": 19,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:17",
+                "adjustedEnd": "0:01:17.0555556",
+                "start": "0:01:17",
+                "end": "0:01:17.0555556"
+              }
+            ]
+          },
+          {
+            "id": 173,
+            "text": "Effect",
+            "confidence": 0.998,
+            "left": 92,
+            "top": 74,
+            "width": 48,
+            "height": 17,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:18",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 174,
+            "text": "Aa",
+            "confidence": 0.998,
+            "left": 109,
+            "top": 133,
+            "width": 58,
+            "height": 31,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:21.0555556",
+                "start": "0:01:18",
+                "end": "0:01:21.0555556"
+              },
+              {
+                "adjustedStart": "0:01:26",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:26",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 175,
+            "text": "Aa Aa Aa Aa",
+            "confidence": 0.998,
+            "left": 107,
+            "top": 133,
+            "width": 290,
+            "height": 32,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:18",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 176,
+            "text": "None",
+            "confidence": 0.993,
+            "left": 117,
+            "top": 177,
+            "width": 34,
+            "height": 11,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:18",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 177,
+            "text": "Shadow",
+            "confidence": 0.998,
+            "left": 188,
+            "top": 176,
+            "width": 52,
+            "height": 13,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:18",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 178,
+            "text": "Hollow",
+            "confidence": 0.998,
+            "left": 271,
+            "top": 174,
+            "width": 48,
+            "height": 15,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:18",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 179,
+            "text": "Splice",
+            "confidence": 0.961,
+            "left": 356,
+            "top": 178,
+            "width": 36,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:18",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 180,
+            "text": "Offset X",
+            "confidence": 0.9445,
+            "left": 97,
+            "top": 240,
+            "width": 46,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:18",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 181,
+            "text": "Offset Y",
+            "confidence": 0.989,
+            "left": 171,
+            "top": 238,
+            "width": 50,
+            "height": 17,
+            "angle": 0,
+            "language": "to-TO",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:18",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 182,
+            "text": "Color",
+            "confidence": 0.998,
+            "left": 323,
+            "top": 242,
+            "width": 33,
+            "height": 12,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:18",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 183,
+            "text": "0.5 v",
+            "confidence": 0.9745,
+            "left": 253,
+            "top": 262,
+            "width": 52,
+            "height": 15,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:18",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 184,
+            "text": "Strok",
+            "confidence": 0.998,
+            "left": 93,
+            "top": 346,
+            "width": 34,
+            "height": 15,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:18",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 185,
+            "text": "Text Box",
+            "confidence": 0.9955,
+            "left": 92,
+            "top": 397,
+            "width": 63,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:18",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 186,
+            "text": "Border",
+            "confidence": 0.998,
+            "left": 94,
+            "top": 432,
+            "width": 43,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:18",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 187,
+            "text": "Spacing",
+            "confidence": 0.998,
+            "left": 92,
+            "top": 479,
+            "width": 56,
+            "height": 16,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:18",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 188,
+            "text": "4 -",
+            "confidence": 0.9775,
+            "left": 427,
+            "top": 412,
+            "width": 29,
+            "height": 11,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:27",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:27",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 1,
+            "text": "clip art",
+            "confidence": 0.964,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.84",
+                "adjustedEnd": "0:00:20.2",
+                "start": "0:00:08.84",
+                "end": "0:00:20.2"
+              },
+              {
+                "adjustedStart": "0:00:48.52",
+                "adjustedEnd": "0:00:52.28",
+                "start": "0:00:48.52",
+                "end": "0:00:52.28"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "good luck",
+            "confidence": 0.942,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              },
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "move image",
+            "confidence": 0.9331,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:12.0555556",
+                "start": "0:00:12",
+                "end": "0:00:12.0555556"
+              },
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:48.0555556",
+                "start": "0:00:37",
+                "end": "0:00:48.0555556"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "body text",
+            "confidence": 0.9193,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "templates",
+            "confidence": 0.6734,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.84",
+                "adjustedEnd": "0:00:20.2",
+                "start": "0:00:08.84",
+                "end": "0:00:20.2"
+              },
+              {
+                "adjustedStart": "0:00:27.4",
+                "adjustedEnd": "0:00:34.2",
+                "start": "0:00:27.4",
+                "end": "0:00:34.2"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:09.0555556",
+                "start": "0:00:00",
+                "end": "0:00:09.0555556"
+              },
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:34.0555556",
+                "start": "0:00:31",
+                "end": "0:00:34.0555556"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "shine",
+            "confidence": 0.6734,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:23.12",
+                "adjustedEnd": "0:01:26.28",
+                "start": "0:01:23.12",
+                "end": "0:01:26.28"
+              },
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "good",
+            "confidence": 0.6564,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              },
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              },
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "wishes",
+            "confidence": 0.6564,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              },
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:07.0555556",
+                "start": "0:01:02",
+                "end": "0:01:07.0555556"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "drag",
+            "confidence": 0.6515,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.84",
+                "adjustedEnd": "0:00:20.2",
+                "start": "0:00:08.84",
+                "end": "0:00:20.2"
+              },
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:12.0555556",
+                "start": "0:00:12",
+                "end": "0:00:12.0555556"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "click",
+            "confidence": 0.6477,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.84",
+                "adjustedEnd": "0:00:20.2",
+                "start": "0:00:08.84",
+                "end": "0:00:20.2"
+              },
+              {
+                "adjustedStart": "0:01:07.32",
+                "adjustedEnd": "0:01:19.76",
+                "start": "0:01:07.32",
+                "end": "0:01:19.76"
+              },
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:12.0555556",
+                "start": "0:00:12",
+                "end": "0:00:12.0555556"
+              },
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:12.0555556",
+                "start": "0:00:12",
+                "end": "0:00:12.0555556"
+              },
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:48.0555556",
+                "start": "0:00:37",
+                "end": "0:00:48.0555556"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "text",
+            "confidence": 0.6321,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.84",
+                "adjustedEnd": "0:00:20.2",
+                "start": "0:00:08.84",
+                "end": "0:00:20.2"
+              },
+              {
+                "adjustedStart": "0:00:52.28",
+                "adjustedEnd": "0:01:03",
+                "start": "0:00:52.28",
+                "end": "0:01:03"
+              },
+              {
+                "adjustedStart": "0:01:07.32",
+                "adjustedEnd": "0:01:19.76",
+                "start": "0:01:07.32",
+                "end": "0:01:19.76"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:54.0555556",
+                "start": "0:00:00",
+                "end": "0:00:54.0555556"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:01:08",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:08",
+                "end": "0:01:27.0555556"
+              },
+              {
+                "adjustedStart": "0:01:17",
+                "adjustedEnd": "0:01:17.0555556",
+                "start": "0:01:17",
+                "end": "0:01:17.0555556"
+              },
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:01:18",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "heading",
+            "confidence": 0.6279,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "open",
+            "confidence": 0.6271,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.0555556",
+                "start": "0:00:00",
+                "end": "0:00:08.0555556"
+              },
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:10.0555556",
+                "start": "0:00:07",
+                "end": "0:00:10.0555556"
+              },
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:00:59",
+                "end": "0:01:01.0555556"
+              },
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:01:01.0555556",
+                "start": "0:00:59",
+                "end": "0:01:01.0555556"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "images",
+            "confidence": 0.6263,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.84",
+                "adjustedEnd": "0:00:20.2",
+                "start": "0:00:08.84",
+                "end": "0:00:20.2"
+              },
+              {
+                "adjustedStart": "0:00:36.44",
+                "adjustedEnd": "0:00:47.84",
+                "start": "0:00:36.44",
+                "end": "0:00:47.84"
+              },
+              {
+                "adjustedStart": "0:01:07.32",
+                "adjustedEnd": "0:01:19.76",
+                "start": "0:01:07.32",
+                "end": "0:01:19.76"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:00",
+                "end": "0:01:27.0555556"
+              },
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:12.0555556",
+                "start": "0:00:12",
+                "end": "0:00:12.0555556"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "design",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.04",
+                "adjustedEnd": "0:00:08.52",
+                "start": "0:00:03.04",
+                "end": "0:00:08.52"
+              },
+              {
+                "adjustedStart": "0:00:08.84",
+                "adjustedEnd": "0:00:20.2",
+                "start": "0:00:08.84",
+                "end": "0:00:20.2"
+              },
+              {
+                "adjustedStart": "0:00:20.48",
+                "adjustedEnd": "0:00:27",
+                "start": "0:00:20.48",
+                "end": "0:00:27"
+              },
+              {
+                "adjustedStart": "0:00:27.4",
+                "adjustedEnd": "0:00:34.2",
+                "start": "0:00:27.4",
+                "end": "0:00:34.2"
+              },
+              {
+                "adjustedStart": "0:00:52.28",
+                "adjustedEnd": "0:01:03",
+                "start": "0:00:52.28",
+                "end": "0:01:03"
+              },
+              {
+                "adjustedStart": "0:01:04.76",
+                "adjustedEnd": "0:01:06.96",
+                "start": "0:01:04.76",
+                "end": "0:01:06.96"
+              },
+              {
+                "adjustedStart": "0:01:07.32",
+                "adjustedEnd": "0:01:19.76",
+                "start": "0:01:07.32",
+                "end": "0:01:19.76"
+              },
+              {
+                "adjustedStart": "0:01:19.88",
+                "adjustedEnd": "0:01:22.84",
+                "start": "0:01:19.88",
+                "end": "0:01:22.84"
+              },
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:34.0555556",
+                "start": "0:00:31",
+                "end": "0:00:34.0555556"
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 1,
+            "name": "Graphic Design",
+            "referenceId": "Design/Communication Design/Graphic Design",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/visual arts/design (visual arts)",
+            "confidence": 0.9851,
+            "iabName": "Fine Art",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.84",
+                "adjustedEnd": "0:00:34.2",
+                "start": "0:00:08.84",
+                "end": "0:00:34.2"
+              },
+              {
+                "adjustedStart": "0:00:48.52",
+                "adjustedEnd": "0:01:26.28",
+                "start": "0:00:48.52",
+                "end": "0:01:26.28"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Design",
+            "referenceId": "Design",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/construction and property/design and engineering",
+            "confidence": 0.9841,
+            "iabName": "Fine Art",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.68",
+                "adjustedEnd": "0:00:34.2",
+                "start": "0:00:00.68",
+                "end": "0:00:34.2"
+              },
+              {
+                "adjustedStart": "0:00:48.52",
+                "adjustedEnd": "0:01:26.28",
+                "start": "0:00:48.52",
+                "end": "0:01:26.28"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "User Interface Design",
+            "referenceId": "Design/User Experience/User Interface Design",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/construction and property/design and engineering",
+            "confidence": 0.93,
+            "iabName": "Fine Art",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.84",
+                "adjustedEnd": "0:00:34.2",
+                "start": "0:00:08.84",
+                "end": "0:00:34.2"
+              },
+              {
+                "adjustedStart": "0:00:48.52",
+                "adjustedEnd": "0:01:26.28",
+                "start": "0:00:48.52",
+                "end": "0:01:26.28"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Adobe Illustrator",
+            "referenceId": "Design/User Experience/Adobe Illustrator",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/computing and information technology/software",
+            "confidence": 0.9161,
+            "iabName": "Fine Art",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.84",
+                "adjustedEnd": "0:00:34.2",
+                "start": "0:00:08.84",
+                "end": "0:00:34.2"
+              },
+              {
+                "adjustedStart": "0:00:48.52",
+                "adjustedEnd": "0:01:26.28",
+                "start": "0:00:48.52",
+                "end": "0:01:26.28"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "User Experience Design",
+            "referenceId": "Design/Interaction Design/User Experience Design",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/visual arts/design (visual arts)",
+            "confidence": 0.9018,
+            "iabName": "Fine Art",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.68",
+                "adjustedEnd": "0:00:34.2",
+                "start": "0:00:00.68",
+                "end": "0:00:34.2"
+              },
+              {
+                "adjustedStart": "0:00:48.52",
+                "adjustedEnd": "0:01:26.28",
+                "start": "0:00:48.52",
+                "end": "0:01:26.28"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Product Design Software",
+            "referenceId": "Product Development/Product Design Software",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/computing and information technology/software",
+            "confidence": 0.7843,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.84",
+                "adjustedEnd": "0:00:34.2",
+                "start": "0:00:08.84",
+                "end": "0:00:34.2"
+              },
+              {
+                "adjustedStart": "0:00:48.52",
+                "adjustedEnd": "0:01:26.28",
+                "start": "0:00:48.52",
+                "end": "0:01:26.28"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Graphics",
+            "referenceId": "Design/Graphics",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/visual arts",
+            "confidence": 0.7583,
+            "iabName": "Fine Art",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.84",
+                "adjustedEnd": "0:01:26.28",
+                "start": "0:00:08.84",
+                "end": "0:01:26.28"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Adobe Photoshop",
+            "referenceId": "Design/Communication Design/Adobe Photoshop",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/computing and information technology/software",
+            "confidence": 0.6055,
+            "iabName": "Fine Art",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.84",
+                "adjustedEnd": "0:01:26.28",
+                "start": "0:00:08.84",
+                "end": "0:01:26.28"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Typography",
+            "referenceId": "Design/Communication Design/Typography",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/construction and property/design and engineering",
+            "confidence": 0.5284,
+            "iabName": "Fine Art",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:27.4",
+                "adjustedEnd": "0:00:34.2",
+                "start": "0:00:27.4",
+                "end": "0:00:34.2"
+              },
+              {
+                "adjustedStart": "0:00:48.52",
+                "adjustedEnd": "0:01:03",
+                "start": "0:00:48.52",
+                "end": "0:01:03"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "text",
+            "referenceId": "communication/writing/text",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9999,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.0555556",
+                "start": "0:00:00",
+                "end": "0:01:27.0555556"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.4444444",
+                "start": "0:00:00",
+                "end": "0:01:27.4444444"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "08038b87-c0b2-4d4c-8ebf-7147b0dc7e0a",
+                    "adjustedStart": "0:00:00.2777778",
+                    "adjustedEnd": "0:00:00.3333333",
+                    "start": "0:00:00.2777778",
+                    "end": "0:00:00.3333333"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "f4b2dfb6-988b-4a92-9b5c-eac2c6c3fa6c",
+                    "adjustedStart": "0:00:00.3888889",
+                    "adjustedEnd": "0:00:00.4444444",
+                    "start": "0:00:00.3888889",
+                    "end": "0:00:00.4444444"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:27.4444444",
+                "start": "0:00:00",
+                "end": "0:01:27.4444444"
+              }
+            ]
+          }
+        ],
+        "brands": [
+          {
+            "id": 1,
+            "referenceType": "Wiki",
+            "name": "Dropbox (service)",
+            "referenceId": "Dropbox_(service)",
+            "referenceUrl": "http://en.wikipedia.org/wiki/Dropbox_(service)",
+            "description": "Dropbox is a file hosting service operated by Dropbox, Inc., headquartered in San Francisco, California, that offers cloud storage, file synchronization, personal cloud, and client software.",
+            "tags": [],
+            "confidence": 1,
+            "isCustom": false,
+            "instances": [
+              {
+                "brandType": "Ocr",
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:48.0555556",
+                "start": "0:00:48",
+                "end": "0:00:48.0555556"
+              },
+              {
+                "brandType": "Ocr",
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:48.0555556",
+                "start": "0:00:48",
+                "end": "0:00:48.0555556"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "referenceType": "Wiki",
+            "name": "Ducati",
+            "referenceId": "Ducati",
+            "referenceUrl": "http://en.wikipedia.org/wiki/Ducati",
+            "description": "Ducati Motor Holding S.p.A. is an Italian company that designs and manufactures motorcycles. Headquartered in Bologna, Italy, Ducati is owned by German automotive manufacturer Audi through its Italian subsidiary Lamborghini, which is all owned by the Volkswagen Group.",
+            "tags": [],
+            "confidence": 1,
+            "isCustom": false,
+            "instances": [
+              {
+                "brandType": "Ocr",
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:00:50",
+                "adjustedEnd": "0:00:50.0555556",
+                "start": "0:00:50",
+                "end": "0:00:50.0555556"
+              }
+            ]
+          }
+        ],
+        "namedLocations": [
+          {
+            "id": 1,
+            "name": "Arial",
+            "referenceId": "Arial",
+            "referenceUrl": "https://en.wikipedia.org/wiki/Arial",
+            "description": "Arial, sometimes marketed as Arial MT, is a sans-serif typeface and computer font packaged with Microsoft Windows, other Microsoft software applications, Apple Mac OS X, and many PostScript computer printers. The typeface was designed in 1982 by Robin Nicholas and Patricia Saunders for Monotype Typography. Arial is also a typeface family comprising standard Arial (Arial Std) and variants, including Arial Black, Bold, Extra Bold, Condensed, Italic, Light, Medium, Monospaced, Narrow, and Rounded.",
+            "tags": [],
+            "confidence": 0.45,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:01:15",
+                "adjustedEnd": "0:01:15.0555556",
+                "start": "0:01:15",
+                "end": "0:01:15.0555556"
+              }
+            ]
+          }
+        ],
+        "audioEffects": [
+          {
+            "id": 0,
+            "type": "Silence",
+            "instances": [
+              {
+                "confidence": 1,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.5",
+                "start": "0:00:00",
+                "end": "0:00:01.5"
+              },
+              {
+                "confidence": 1,
+                "adjustedStart": "0:00:47.84",
+                "adjustedEnd": "0:00:49.34",
+                "start": "0:00:47.84",
+                "end": "0:00:49.34"
+              },
+              {
+                "confidence": 1,
+                "adjustedStart": "0:01:26.28",
+                "adjustedEnd": "0:01:27.446",
+                "start": "0:01:26.28",
+                "end": "0:01:27.446"
+              }
+            ]
+          }
+        ],
+        "detectedObjects": [
+          {
+            "id": 1,
+            "type": "Cup",
+            "thumbnailId": "9033ef11-c540-46ad-86ff-021f5e184d80",
+            "displayName": "cup",
+            "wikiDataId": "Q81727",
+            "instances": [
+              {
+                "confidence": 0.306,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:07.277778",
+                "start": "0:00:00",
+                "end": "0:01:07.277778"
+              }
+            ]
+          }
+        ],
+        "sentiments": [
+          {
+            "id": 1,
+            "averageScore": 0.5,
+            "sentimentType": "Neutral",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:23.12",
+                "start": "0:00:00",
+                "end": "0:01:23.12"
+              },
+              {
+                "adjustedStart": "0:01:26.28",
+                "adjustedEnd": "0:01:27.446",
+                "start": "0:01:26.28",
+                "end": "0:01:27.446"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "averageScore": 0.94,
+            "sentimentType": "Positive",
+            "instances": [
+              {
+                "adjustedStart": "0:01:23.12",
+                "adjustedEnd": "0:01:26.28",
+                "start": "0:01:23.12",
+                "end": "0:01:26.28"
+              }
+            ]
+          }
+        ],
+        "emotions": [
+          {
+            "id": 1,
+            "type": "Joy",
+            "instances": [
+              {
+                "confidence": 0.5998,
+                "adjustedStart": "0:01:23.12",
+                "adjustedEnd": "0:01:26.28",
+                "start": "0:01:23.12",
+                "end": "0:01:26.28"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:34.2",
+                "start": "0:00:00",
+                "end": "0:00:34.2"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:34.2",
+                "adjustedEnd": "0:01:04.44",
+                "start": "0:00:34.2",
+                "end": "0:01:04.44"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:01:04.44",
+                "adjustedEnd": "0:01:27.446",
+                "start": "0:01:04.44",
+                "end": "0:01:27.446"
+              }
+            ]
+          }
+        ],
+        "speakers": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.68",
+                "adjustedEnd": "0:00:02.64",
+                "start": "0:00:00.68",
+                "end": "0:00:02.64"
+              },
+              {
+                "adjustedStart": "0:00:03.04",
+                "adjustedEnd": "0:00:08.52",
+                "start": "0:00:03.04",
+                "end": "0:00:08.52"
+              },
+              {
+                "adjustedStart": "0:00:08.84",
+                "adjustedEnd": "0:00:20.2",
+                "start": "0:00:08.84",
+                "end": "0:00:20.2"
+              },
+              {
+                "adjustedStart": "0:00:20.48",
+                "adjustedEnd": "0:00:27",
+                "start": "0:00:20.48",
+                "end": "0:00:27"
+              },
+              {
+                "adjustedStart": "0:00:27.4",
+                "adjustedEnd": "0:00:34.2",
+                "start": "0:00:27.4",
+                "end": "0:00:34.2"
+              },
+              {
+                "adjustedStart": "0:00:34.52",
+                "adjustedEnd": "0:00:36.08",
+                "start": "0:00:34.52",
+                "end": "0:00:36.08"
+              },
+              {
+                "adjustedStart": "0:00:36.44",
+                "adjustedEnd": "0:00:47.84",
+                "start": "0:00:36.44",
+                "end": "0:00:47.84"
+              },
+              {
+                "adjustedStart": "0:00:48.52",
+                "adjustedEnd": "0:00:52.28",
+                "start": "0:00:48.52",
+                "end": "0:00:52.28"
+              },
+              {
+                "adjustedStart": "0:00:52.28",
+                "adjustedEnd": "0:01:03",
+                "start": "0:00:52.28",
+                "end": "0:01:03"
+              },
+              {
+                "adjustedStart": "0:01:03.48",
+                "adjustedEnd": "0:01:04.44",
+                "start": "0:01:03.48",
+                "end": "0:01:04.44"
+              },
+              {
+                "adjustedStart": "0:01:04.76",
+                "adjustedEnd": "0:01:06.96",
+                "start": "0:01:04.76",
+                "end": "0:01:06.96"
+              },
+              {
+                "adjustedStart": "0:01:07.32",
+                "adjustedEnd": "0:01:19.76",
+                "start": "0:01:07.32",
+                "end": "0:01:19.76"
+              },
+              {
+                "adjustedStart": "0:01:19.88",
+                "adjustedEnd": "0:01:22.84",
+                "start": "0:01:19.88",
+                "end": "0:01:22.84"
+              },
+              {
+                "adjustedStart": "0:01:23.12",
+                "adjustedEnd": "0:01:26.28",
+                "start": "0:01:23.12",
+                "end": "0:01:26.28"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 0,
+          "speakerTalkToListenRatio": {
+            "1": 1
+          },
+          "speakerLongestMonolog": {
+            "1": 81
+          },
+          "speakerNumberOfFragments": {
+            "1": 13
+          },
+          "speakerWordCount": {
+            "1": 200
+          }
+        }
+      },
+      "thumbnailId": "a6d415d1-3fc8-493a-a9e7-f48dd5e1743a",
+      "width": 1920,
+      "height": 952,
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [
+        "en-US"
+      ],
+      "language": "en-US",
+      "languages": [
+        "en-US"
+      ],
+      "indexingPreset": "Default",
+      "streamingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "logoGroupId": null,
+      "isAdult": false,
+      "excludedAIs": [],
+      "isSearchable": true,
+      "publishedUrl": "https://api.videoindexer.ai/internals/eastus/Accounts/fbafe9ff-1c94-40bd-987e-a4e4dfe52365/Videos/fkyxfsmpip/streaming-manifest/manifest.m3u8",
+      "publishedProxyUrl": null,
+      "viewToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJWZXJzaW9uIjoiMi4wLjAuMCIsIktleVZlcnNpb24iOiI1YmZmYWI1MTUwZWI0NGM4ODMzNzE2NzVhNzcwYzU4YSIsIkFjY291bnRJZCI6ImZiYWZlOWZmLTFjOTQtNDBiZC05ODdlLWE0ZTRkZmU1MjM2NSIsIkFjY291bnRUeXBlIjoiQ2xhc3NpYyIsIlZpZGVvSWQiOiJma3l4ZnNtcGlwIiwiUGVybWlzc2lvbiI6IlJlc3RyaWN0ZWRWaWV3ZXIiLCJFeHRlcm5hbFVzZXJJZCI6IjYxMzM3QzI2RUFCQjRGNEU5MjA3NURBNjAyQ0IyQTQzIiwiVXNlclR5cGUiOiJNaWNyb3NvZnRDb3JwQWFkIiwiSXNzdWVyTG9jYXRpb24iOiJlYXN0dXMiLCJuYmYiOjE3NjE5NzQ2NjEsImV4cCI6MTc2MTk3ODU2MSwiaXNzIjoiaHR0cHM6Ly9hcGkudmlkZW9pbmRleGVyLmFpLyIsImF1ZCI6Imh0dHBzOi8vYXBpLnZpZGVvaW5kZXhlci5haS8ifQ.TWSuSv6kZ0XcOj1W5K7bugg3MTqTq27QKqHBOD3tXWp7xoZwHihZJsH7boLbsCbWSH4G--fTLyeIWHODW58xaXOrLN9CIOFbi7m0fTMEQ9yLNVWeGKOgH77Y51O81PSAeeQQn7xAlOFet29t5PC8xiZCPaeJkaJFOUCa-jkiBPXiqQBQQRSGR2zkykTNa3JBxTv3QEhUjerFF1UQh3nk5G3Rdqzdn3P96mg0pvCeHdUNERnoBSKzRYedA7Xo1_rfO9NmLzMDDftPJhujr4sCO39xizd-jD9PCzQCKvIMpFKien7fCyUIESvFoYt-YpV1QhzE5_YzA-ccWK9QxAFoxQ"
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "fkyxfsmpip",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:01:27.446"
+      }
+    }
+  ]
+}

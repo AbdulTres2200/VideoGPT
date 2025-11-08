@@ -1,0 +1,21 @@
+{
+  "id": "txt_570502",
+  "name": "setup-klaviyo",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDigital Marketing\nSetup Klaviyo\n\n5 min\noverview & purpose klaviyo is a powerful email marketing platform that empowers businesses to create and manage targeted email campaigns with ease it offers advanced segmentation capabilities, automation features, and detailed analytics to help businesses personalize their marketing efforts and drive engagement and conversions integrating klaviyo with your store amplifies the impact of email marketing endeavors by facilitating personalized communication, automation, segmentation, data driven insights, and refined customer retention strategies how to integrate read the below systematic guide to integrate klaviyo with your onprintshop website 1 login to your klaviyo account 1 login to your klaviyo account visit the klaviyo site and log in to your account 2 configuration in admin panel 2 configuration in admin panel on your admin panel, go to the store configurations >> external service settings >> digital marketing tab >> klaviyo >> \u2018\u2018edit\u2019 option go to the account >> settings >> api keys to get the public key and api key copy and paste the public key and api key from your klaviyo account, you can find the list id from the audience >> lists & segments >> click on the three dot icon against the list >> list settings >> list name copy the list id from the statement and paste it into the admin panel list id field from the klaviyo events list, assign the events that you want to track and take further action once done with filling in all the details, save the changes to manage your marketing campaigns, you can generate a klaviyo feed from the integration interface and implement the generated feeds in the data feeds section of your klaviyo dashboard after the successful integration, you can track various site activity details through klaviyo such as \u2013 website activity when customers visit your website viewed activity when customers view products checkout activity when visitors start the checkout process (used to trigger abandoned cart emails) orders and order items activity purchase events and the items that comprise those purchases\nDid this page help you?\n\n\nPREVIOUS\nMailchimp Ecommerce Integration\nNEXT\nGenerative AI\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

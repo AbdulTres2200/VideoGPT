@@ -1,0 +1,3481 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+  "id": "w8gsxb590r",
+  "name": "Uploads from OnPrintShop Web-to-Print Storefront - 223 - SME Print Companies Red",
+  "userName": "Abdul Moiz",
+  "created": "2025-11-01T06:28:57.8+00:00",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 92,
+  "duration": "0:01:32.346",
+  "summarizedInsights": {
+    "name": "Uploads from OnPrintShop Web-to-Print Storefront - 223 - SME Print Companies Red",
+    "id": "w8gsxb590r",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:01:32.346",
+      "seconds": 92.3
+    },
+    "thumbnailVideoId": "w8gsxb590r",
+    "thumbnailId": "e62f8518-cf05-4ad8-b210-250915a107e6",
+    "faces": [
+      {
+        "videoId": "w8gsxb590r",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "a5334330-3521-49df-9c32-bf3daf5fa269",
+        "seenDuration": 4.7,
+        "seenDurationRatio": 0.0509,
+        "id": 1038,
+        "name": "Unknown #1",
+        "appearances": [
+          {
+            "startTime": "0:01:07.6",
+            "endTime": "0:01:12.32",
+            "startSeconds": 67.6,
+            "endSeconds": 72.3
+          }
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "isTranscript": true,
+        "id": 1,
+        "name": "production team",
+        "appearances": [
+          {
+            "startTime": "0:00:47.68",
+            "endTime": "0:01:28.32",
+            "startSeconds": 47.7,
+            "endSeconds": 88.3
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 2,
+        "name": "order update",
+        "appearances": [
+          {
+            "startTime": "0:00:00.2",
+            "endTime": "0:00:06.36",
+            "startSeconds": 0.2,
+            "endSeconds": 6.4
+          },
+          {
+            "startTime": "0:00:15.76",
+            "endTime": "0:00:40.64",
+            "startSeconds": 15.8,
+            "endSeconds": 40.6
+          },
+          {
+            "startTime": "0:00:47.68",
+            "endTime": "0:01:28.32",
+            "startSeconds": 47.7,
+            "endSeconds": 88.3
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 4,
+        "name": "offering amazon",
+        "appearances": [
+          {
+            "startTime": "0:00:00.2",
+            "endTime": "0:00:06.36",
+            "startSeconds": 0.2,
+            "endSeconds": 6.4
+          },
+          {
+            "startTime": "0:00:33.16",
+            "endTime": "0:00:47.68",
+            "startSeconds": 33.2,
+            "endSeconds": 47.7
+          },
+          {
+            "startTime": "0:01:13.28",
+            "endTime": "0:01:28.32",
+            "startSeconds": 73.3,
+            "endSeconds": 88.3
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 6,
+        "name": "order status",
+        "appearances": [
+          {
+            "startTime": "0:00:00.2",
+            "endTime": "0:00:06.36",
+            "startSeconds": 0.2,
+            "endSeconds": 6.4
+          },
+          {
+            "startTime": "0:00:15.76",
+            "endTime": "0:00:27.16",
+            "startSeconds": 15.8,
+            "endSeconds": 27.2
+          },
+          {
+            "startTime": "0:00:33.16",
+            "endTime": "0:00:40.64",
+            "startSeconds": 33.2,
+            "endSeconds": 40.6
+          },
+          {
+            "startTime": "0:00:47.68",
+            "endTime": "0:01:28.32",
+            "startSeconds": 47.7,
+            "endSeconds": 88.3
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 7,
+        "name": "team",
+        "appearances": [
+          {
+            "startTime": "0:00:47.68",
+            "endTime": "0:01:28.32",
+            "startSeconds": 47.7,
+            "endSeconds": 88.3
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 8,
+        "name": "phone",
+        "appearances": [
+          {
+            "startTime": "0:00:15.76",
+            "endTime": "0:00:20.08",
+            "startSeconds": 15.8,
+            "endSeconds": 20.1
+          },
+          {
+            "startTime": "0:00:47.68",
+            "endTime": "0:00:57.72",
+            "startSeconds": 47.7,
+            "endSeconds": 57.7
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 9,
+        "name": "order",
+        "appearances": [
+          {
+            "startTime": "0:00:00.2",
+            "endTime": "0:00:06.36",
+            "startSeconds": 0.2,
+            "endSeconds": 6.4
+          },
+          {
+            "startTime": "0:00:15.76",
+            "endTime": "0:00:27.16",
+            "startSeconds": 15.8,
+            "endSeconds": 27.2
+          },
+          {
+            "startTime": "0:00:33.16",
+            "endTime": "0:00:40.64",
+            "startSeconds": 33.2,
+            "endSeconds": 40.6
+          },
+          {
+            "startTime": "0:00:47.68",
+            "endTime": "0:01:28.32",
+            "startSeconds": 47.7,
+            "endSeconds": 88.3
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 10,
+        "name": "amazon",
+        "appearances": [
+          {
+            "startTime": "0:00:00.2",
+            "endTime": "0:00:06.36",
+            "startSeconds": 0.2,
+            "endSeconds": 6.4
+          },
+          {
+            "startTime": "0:00:33.16",
+            "endTime": "0:00:47.68",
+            "startSeconds": 33.2,
+            "endSeconds": 47.7
+          },
+          {
+            "startTime": "0:01:13.28",
+            "endTime": "0:01:28.32",
+            "startSeconds": 73.3,
+            "endSeconds": 88.3
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 11,
+        "name": "orders",
+        "appearances": [
+          {
+            "startTime": "0:00:15.76",
+            "endTime": "0:00:20.08",
+            "startSeconds": 15.8,
+            "endSeconds": 20.1
+          },
+          {
+            "startTime": "0:00:47.68",
+            "endTime": "0:00:57.72",
+            "startSeconds": 47.7,
+            "endSeconds": 57.7
+          },
+          {
+            "startTime": "0:01:05.04",
+            "endTime": "0:01:28.32",
+            "startSeconds": 65,
+            "endSeconds": 88.3
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 12,
+        "name": "updates",
+        "appearances": [
+          {
+            "startTime": "0:00:20.8",
+            "endTime": "0:00:32.4",
+            "startSeconds": 20.8,
+            "endSeconds": 32.4
+          },
+          {
+            "startTime": "0:01:02",
+            "endTime": "0:01:12.56",
+            "startSeconds": 62,
+            "endSeconds": 72.6
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 13,
+        "name": "experience",
+        "appearances": [
+          {
+            "startTime": "0:00:00.2",
+            "endTime": "0:00:11.48",
+            "startSeconds": 0.2,
+            "endSeconds": 11.5
+          },
+          {
+            "startTime": "0:00:33.16",
+            "endTime": "0:00:47.68",
+            "startSeconds": 33.2,
+            "endSeconds": 47.7
+          },
+          {
+            "startTime": "0:01:13.28",
+            "endTime": "0:01:28.32",
+            "startSeconds": 73.3,
+            "endSeconds": 88.3
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 14,
+        "name": "customers",
+        "appearances": [
+          {
+            "startTime": "0:00:06.96",
+            "endTime": "0:00:20.08",
+            "startSeconds": 7,
+            "endSeconds": 20.1
+          },
+          {
+            "startTime": "0:00:27.68",
+            "endTime": "0:00:47.68",
+            "startSeconds": 27.7,
+            "endSeconds": 47.7
+          },
+          {
+            "startTime": "0:00:57.72",
+            "endTime": "0:01:04.88",
+            "startSeconds": 57.7,
+            "endSeconds": 64.9
+          },
+          {
+            "startTime": "0:01:21",
+            "endTime": "0:01:22.04",
+            "startSeconds": 81,
+            "endSeconds": 82
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 15,
+        "name": "walk",
+        "appearances": [
+          {
+            "startTime": "0:00:15.76",
+            "endTime": "0:00:20.08",
+            "startSeconds": 15.8,
+            "endSeconds": 20.1
+          },
+          {
+            "startTime": "0:00:47.68",
+            "endTime": "0:00:57.72",
+            "startSeconds": 47.7,
+            "endSeconds": 57.7
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 3,
+        "name": "print shop",
+        "appearances": [
+          {
+            "startTime": "0:00:00.2",
+            "endTime": "0:00:06.36",
+            "startSeconds": 0.2,
+            "endSeconds": 6.4
+          },
+          {
+            "startTime": "0:00:12",
+            "endTime": "0:00:20.08",
+            "startSeconds": 12,
+            "endSeconds": 20.1
+          },
+          {
+            "startTime": "0:00:41",
+            "endTime": "0:00:57.72",
+            "startSeconds": 41,
+            "endSeconds": 57.7
+          },
+          {
+            "startTime": "0:01:10",
+            "endTime": "0:01:32.16",
+            "startSeconds": 70,
+            "endSeconds": 92.2
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 5,
+        "name": "repeat sales",
+        "appearances": [
+          {
+            "startTime": "0:00:06.96",
+            "endTime": "0:00:11.48",
+            "startSeconds": 7,
+            "endSeconds": 11.5
+          },
+          {
+            "startTime": "0:00:27.68",
+            "endTime": "0:00:32.4",
+            "startSeconds": 27.7,
+            "endSeconds": 32.4
+          },
+          {
+            "startTime": "0:00:41",
+            "endTime": "0:00:56.04",
+            "startSeconds": 41,
+            "endSeconds": 56
+          }
+        ]
+      }
+    ],
+    "sentiments": [
+      {
+        "sentimentKey": "Neutral",
+        "seenDurationRatio": 0.9995,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:32.346",
+            "startSeconds": 0,
+            "endSeconds": 92.3
+          }
+        ]
+      }
+    ],
+    "emotions": [],
+    "audioEffects": [
+      {
+        "audioEffectKey": "Silence",
+        "seenDurationRatio": 0.0325,
+        "seenDuration": 3,
+        "appearances": [
+          {
+            "confidence": 0.7616,
+            "startTime": "0:00:06.86",
+            "endTime": "0:00:07.86",
+            "startSeconds": 6.9,
+            "endSeconds": 7.9
+          },
+          {
+            "confidence": 0.7929,
+            "startTime": "0:00:11.98",
+            "endTime": "0:00:12.98",
+            "startSeconds": 12,
+            "endSeconds": 13
+          },
+          {
+            "confidence": 0.7905,
+            "startTime": "0:00:27.66",
+            "endTime": "0:00:28.66",
+            "startSeconds": 27.7,
+            "endSeconds": 28.7
+          }
+        ]
+      }
+    ],
+    "labels": [
+      {
+        "id": 1,
+        "name": "text",
+        "appearances": [
+          {
+            "confidence": 0.968,
+            "startTime": "0:00:01",
+            "endTime": "0:00:15.04",
+            "startSeconds": 1,
+            "endSeconds": 15
+          },
+          {
+            "confidence": 0.9536,
+            "startTime": "0:00:19",
+            "endTime": "0:00:26.04",
+            "startSeconds": 19,
+            "endSeconds": 26
+          },
+          {
+            "confidence": 0.9951,
+            "startTime": "0:00:34",
+            "endTime": "0:00:39.04",
+            "startSeconds": 34,
+            "endSeconds": 39
+          },
+          {
+            "confidence": 0.983,
+            "startTime": "0:00:47",
+            "endTime": "0:01:03.04",
+            "startSeconds": 47,
+            "endSeconds": 63
+          },
+          {
+            "confidence": 0.999,
+            "startTime": "0:01:08",
+            "endTime": "0:01:15.04",
+            "startSeconds": 68,
+            "endSeconds": 75
+          },
+          {
+            "confidence": 0.9856,
+            "startTime": "0:01:21",
+            "endTime": "0:01:22.04",
+            "startSeconds": 81,
+            "endSeconds": 82
+          },
+          {
+            "confidence": 0.9983,
+            "startTime": "0:01:30",
+            "endTime": "0:01:32.04",
+            "startSeconds": 90,
+            "endSeconds": 92
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "clothing",
+        "appearances": [
+          {
+            "confidence": 0.99,
+            "startTime": "0:00:28",
+            "endTime": "0:00:32.04",
+            "startSeconds": 28,
+            "endSeconds": 32
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "diagram",
+        "appearances": [
+          {
+            "confidence": 0.9569,
+            "startTime": "0:00:58",
+            "endTime": "0:01:00.04",
+            "startSeconds": 58,
+            "endSeconds": 60
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "cartoon",
+        "appearances": [
+          {
+            "confidence": 0.9526,
+            "startTime": "0:00:35",
+            "endTime": "0:00:36.04",
+            "startSeconds": 35,
+            "endSeconds": 36
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "human face",
+        "appearances": [
+          {
+            "confidence": 0.9749,
+            "startTime": "0:01:11",
+            "endTime": "0:01:12.04",
+            "startSeconds": 71,
+            "endSeconds": 72
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "colorfulness",
+        "appearances": [
+          {
+            "confidence": 0.9621,
+            "startTime": "0:00:20",
+            "endTime": "0:00:20.04",
+            "startSeconds": 20,
+            "endSeconds": 20
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "graphics",
+        "appearances": [
+          {
+            "confidence": 0.9513,
+            "startTime": "0:01:17",
+            "endTime": "0:01:17.04",
+            "startSeconds": 77,
+            "endSeconds": 77
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "font",
+        "appearances": [
+          {
+            "confidence": 0.9514,
+            "startTime": "0:01:21",
+            "endTime": "0:01:21.04",
+            "startSeconds": 81,
+            "endSeconds": 81
+          }
+        ]
+      }
+    ],
+    "framePatterns": [],
+    "brands": [],
+    "namedLocations": [
+      {
+        "referenceId": null,
+        "referenceUrl": null,
+        "confidence": 0.64,
+        "description": null,
+        "seenDuration": 3.2,
+        "id": 1,
+        "name": "print shop",
+        "appearances": [
+          {
+            "startTime": "0:00:12",
+            "endTime": "0:00:15.24",
+            "startSeconds": 12,
+            "endSeconds": 15.2
+          }
+        ]
+      }
+    ],
+    "namedPeople": [],
+    "statistics": {
+      "correspondenceCount": 0,
+      "speakerTalkToListenRatio": {
+        "1": 1
+      },
+      "speakerLongestMonolog": {
+        "1": 86
+      },
+      "speakerNumberOfFragments": {
+        "1": 11
+      },
+      "speakerWordCount": {
+        "1": 253
+      }
+    },
+    "topics": [
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/financial and business service/client relationship management",
+        "iabName": "Business and Finance",
+        "confidence": 0.9039,
+        "id": 1,
+        "name": "Business/Business Practices/Customer Experience",
+        "appearances": [
+          {
+            "startTime": "0:00:00.2",
+            "endTime": "0:00:47.68",
+            "startSeconds": 0.2,
+            "endSeconds": 47.7
+          },
+          {
+            "startTime": "0:00:57.72",
+            "endTime": "0:01:12.56",
+            "startSeconds": 57.7,
+            "endSeconds": 72.6
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economy/macro economics/consumers",
+        "iabName": "Business and Finance",
+        "confidence": 0.8386,
+        "id": 2,
+        "name": "Business/Customers/Customer Service",
+        "appearances": [
+          {
+            "startTime": "0:00:00.2",
+            "endTime": "0:00:47.68",
+            "startSeconds": 0.2,
+            "endSeconds": 47.7
+          },
+          {
+            "startTime": "0:00:57.72",
+            "endTime": "0:01:12.56",
+            "startSeconds": 57.7,
+            "endSeconds": 72.6
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/business information/strategy and marketing/business governance",
+        "iabName": "Business and Finance",
+        "confidence": 0.8322,
+        "id": 3,
+        "name": "Business",
+        "appearances": [
+          {
+            "startTime": "0:00:00.2",
+            "endTime": "0:01:28.32",
+            "startSeconds": 0.2,
+            "endSeconds": 88.3
+          }
+        ]
+      },
+      {
+        "referenceUrl": "https://en.wikipedia.org/wiki/Category:Sales",
+        "iptcName": null,
+        "iabName": null,
+        "confidence": 0.5902,
+        "id": 4,
+        "name": "Sales",
+        "appearances": [
+          {
+            "startTime": "0:00:08",
+            "endTime": "0:00:11.04",
+            "startSeconds": 8,
+            "endSeconds": 11
+          },
+          {
+            "startTime": "0:00:48",
+            "endTime": "0:00:56.04",
+            "startSeconds": 48,
+            "endSeconds": 56
+          }
+        ]
+      },
+      {
+        "referenceUrl": "https://en.wikipedia.org/wiki/Category:Business_process",
+        "iptcName": null,
+        "iabName": null,
+        "confidence": 0.5556,
+        "id": 5,
+        "name": "Business process",
+        "appearances": [
+          {
+            "startTime": "0:00:01",
+            "endTime": "0:00:06.04",
+            "startSeconds": 1,
+            "endSeconds": 6
+          }
+        ]
+      }
+    ]
+  },
+  "videos": [
+    {
+      "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+      "id": "w8gsxb590r",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:01:32.346",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [
+          "en-US"
+        ],
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "transcript": [
+          {
+            "id": 1,
+            "text": "SME Print Company reduces 60% of the order processing cost by offering Amazon like experience.",
+            "confidence": 0.9192,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.2",
+                "adjustedEnd": "0:00:06.36",
+                "start": "0:00:00.2",
+                "end": "0:00:06.36"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "86% of customers says repeat sales depend on post purchase experience.",
+            "confidence": 0.9506,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.96",
+                "adjustedEnd": "0:00:11.48",
+                "start": "0:00:06.96",
+                "end": "0:00:11.48"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "One of our customers has been an established print shop for 20 years.",
+            "confidence": 0.9581,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:15.24",
+                "start": "0:00:12",
+                "end": "0:00:15.24"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "Earlier his customers were placing print orders via walk in e-mail and phone.",
+            "confidence": 0.8516,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.76",
+                "adjustedEnd": "0:00:20.08",
+                "start": "0:00:15.76",
+                "end": "0:00:20.08"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "One of the significant challenge was that one person was continuously busy answering customer calls to give order updates.",
+            "confidence": 0.9557,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20.8",
+                "adjustedEnd": "0:00:27.16",
+                "start": "0:00:20.8",
+                "end": "0:00:27.16"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "They were losing repeat customers as many clients were frustrated for not getting proactive updates.",
+            "confidence": 0.9539,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:27.68",
+                "adjustedEnd": "0:00:32.4",
+                "start": "0:00:27.68",
+                "end": "0:00:32.4"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "Owner while ordering on Amazon realized that his customers were looking for a similar experience as he got an instant thank you e-mail and order update.",
+            "confidence": 0.9364,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.16",
+                "adjustedEnd": "0:00:40.64",
+                "start": "0:00:33.16",
+                "end": "0:00:40.64"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "Suppose he could achieve Amazon experience which means happier customers and more repeat business on print shop.",
+            "confidence": 0.8956,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:47.68",
+                "start": "0:00:41",
+                "end": "0:00:47.68"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "Order management solution helped him achieve the same and now his team enters all orders into on print shop whether they get from e-mail, phone call, WhatsApp or walk in solution.",
+            "confidence": 0.8428,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:47.68",
+                "adjustedEnd": "0:00:57.72",
+                "start": "0:00:47.68",
+                "end": "0:00:57.72"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "Auto sends job tickets with design file to the production team and auto sends order status, e-mail and SMS to customers.",
+            "confidence": 0.8737,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:57.72",
+                "adjustedEnd": "0:01:04.88",
+                "start": "0:00:57.72",
+                "end": "0:01:04.88"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "As production team updates the same, the client can track orders online and through my account sections can quickly reorder in the future.",
+            "confidence": 0.9366,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:05.04",
+                "adjustedEnd": "0:01:12.56",
+                "start": "0:01:05.04",
+                "end": "0:01:12.56"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "On print shop order management solution helps printer reduce 60% of the workforce needed to process orders and 90% reduction in the questions while customer places an order now easily offer Amazon like experience without an IT team and at an affordable cost.",
+            "confidence": 0.8985,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:13.28",
+                "adjustedEnd": "0:01:28.32",
+                "start": "0:01:13.28",
+                "end": "0:01:28.32"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "Check out WWW dot on printshop.com.",
+            "confidence": 0.6434,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:29.04",
+                "adjustedEnd": "0:01:32.16",
+                "start": "0:01:29.04",
+                "end": "0:01:32.16"
+              }
+            ]
+          }
+        ],
+        "ocr": [
+          {
+            "id": 1,
+            "text": "86%",
+            "confidence": 0.996,
+            "left": 749,
+            "top": 337,
+            "width": 405,
+            "height": 174,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:11.04",
+                "start": "0:00:07",
+                "end": "0:00:11.04"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "$48.53",
+            "confidence": 0.998,
+            "left": 1032,
+            "top": 681,
+            "width": 140,
+            "height": 45,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:34",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:34",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "01",
+            "confidence": 0.997,
+            "left": 584,
+            "top": 195,
+            "width": 23,
+            "height": 19,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:10",
+                "adjustedEnd": "0:01:12.04",
+                "start": "0:01:10",
+                "end": "0:01:12.04"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "02",
+            "confidence": 0.998,
+            "left": 1502,
+            "top": 197,
+            "width": 29,
+            "height": 21,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:10",
+                "adjustedEnd": "0:01:12.04",
+                "start": "0:01:10",
+                "end": "0:01:12.04"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "03",
+            "confidence": 0.998,
+            "left": 577,
+            "top": 728,
+            "width": 29,
+            "height": 25,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:10",
+                "adjustedEnd": "0:01:12.04",
+                "start": "0:01:10",
+                "end": "0:01:12.04"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "90%",
+            "confidence": 0.997,
+            "left": 662,
+            "top": 345,
+            "width": 612,
+            "height": 270,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:20",
+                "adjustedEnd": "0:01:20.04",
+                "start": "0:01:20",
+                "end": "0:01:20.04"
+              },
+              {
+                "adjustedStart": "0:01:23",
+                "adjustedEnd": "0:01:23.04",
+                "start": "0:01:23",
+                "end": "0:01:23.04"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "OnPrintShop",
+            "confidence": 0.995,
+            "left": 191,
+            "top": 81,
+            "width": 316,
+            "height": 58,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:06.04",
+                "start": "0:00:01",
+                "end": "0:00:06.04"
+              },
+              {
+                "adjustedStart": "0:00:47",
+                "adjustedEnd": "0:00:52.04",
+                "start": "0:00:47",
+                "end": "0:00:52.04"
+              },
+              {
+                "adjustedStart": "0:01:14",
+                "adjustedEnd": "0:01:15.04",
+                "start": "0:01:14",
+                "end": "0:01:15.04"
+              },
+              {
+                "adjustedStart": "0:01:30",
+                "adjustedEnd": "0:01:32.04",
+                "start": "0:01:30",
+                "end": "0:01:32.04"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "TM",
+            "confidence": 0.998,
+            "left": 1391,
+            "top": 255,
+            "width": 43,
+            "height": 27,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:06.04",
+                "start": "0:00:01",
+                "end": "0:00:06.04"
+              },
+              {
+                "adjustedStart": "0:00:47",
+                "adjustedEnd": "0:00:52.04",
+                "start": "0:00:47",
+                "end": "0:00:52.04"
+              },
+              {
+                "adjustedStart": "0:01:14",
+                "adjustedEnd": "0:01:15.04",
+                "start": "0:01:14",
+                "end": "0:01:15.04"
+              },
+              {
+                "adjustedStart": "0:01:31",
+                "adjustedEnd": "0:01:32.04",
+                "start": "0:01:31",
+                "end": "0:01:32.04"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "SME Print Company Reduces",
+            "confidence": 0.9968,
+            "left": 1023,
+            "top": 84,
+            "width": 795,
+            "height": 62,
+            "angle": 0,
+            "language": "sk-SK",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:06.04",
+                "start": "0:00:01",
+                "end": "0:00:06.04"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "Web-to-Print Storefront",
+            "confidence": 0.995,
+            "left": 781,
+            "top": 567,
+            "width": 596,
+            "height": 51,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:06.04",
+                "start": "0:00:01",
+                "end": "0:00:06.04"
+              },
+              {
+                "adjustedStart": "0:00:47",
+                "adjustedEnd": "0:00:52.04",
+                "start": "0:00:47",
+                "end": "0:00:52.04"
+              },
+              {
+                "adjustedStart": "0:01:14",
+                "adjustedEnd": "0:01:15.04",
+                "start": "0:01:14",
+                "end": "0:01:15.04"
+              },
+              {
+                "adjustedStart": "0:01:30",
+                "adjustedEnd": "0:01:32.04",
+                "start": "0:01:30",
+                "end": "0:01:32.04"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "60% of the Order Processing Cost",
+            "confidence": 0.9968,
+            "left": 749,
+            "top": 149,
+            "width": 1072,
+            "height": 64,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:06.04",
+                "start": "0:00:01",
+                "end": "0:00:06.04"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "by Offering Amazon-like Experience",
+            "confidence": 0.9965,
+            "left": 842,
+            "top": 239,
+            "width": 979,
+            "height": 63,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:02",
+                "adjustedEnd": "0:00:06.04",
+                "start": "0:00:02",
+                "end": "0:00:06.04"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "of Customers, Says Repeat sales",
+            "confidence": 0.9958,
+            "left": 749,
+            "top": 534,
+            "width": 899,
+            "height": 62,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:11.04",
+                "start": "0:00:08",
+                "end": "0:00:11.04"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "depend on Post Purchase Experience",
+            "confidence": 0.997,
+            "left": 748,
+            "top": 605,
+            "width": 1015,
+            "height": 64,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:11.04",
+                "start": "0:00:08",
+                "end": "0:00:11.04"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "Source: Voxco",
+            "confidence": 0.998,
+            "left": 103,
+            "top": 996,
+            "width": 154,
+            "height": 25,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:11.04",
+                "start": "0:00:08",
+                "end": "0:00:11.04"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "Print Shop",
+            "confidence": 0.997,
+            "left": 1057,
+            "top": 339,
+            "width": 370,
+            "height": 66,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:18",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:18",
+                "end": "0:00:19.04"
+              },
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:06.04",
+                "start": "0:01:03",
+                "end": "0:01:06.04"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "Open",
+            "confidence": 0.995,
+            "left": 1390,
+            "top": 741,
+            "width": 69,
+            "height": 22,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:18",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:18",
+                "end": "0:00:19.04"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "amazon",
+            "confidence": 0.993,
+            "left": 993,
+            "top": 245,
+            "width": 222,
+            "height": 48,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:34",
+                "adjustedEnd": "0:00:39.04",
+                "start": "0:00:34",
+                "end": "0:00:39.04"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "ORDER NOW",
+            "confidence": 0.9975,
+            "left": 1002,
+            "top": 805,
+            "width": 203,
+            "height": 35,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:34",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:34",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "Confirm",
+            "confidence": 0.979,
+            "left": 1037,
+            "top": 677,
+            "width": 135,
+            "height": 34,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:36",
+                "adjustedEnd": "0:00:39.04",
+                "start": "0:00:36",
+                "end": "0:00:39.04"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "text": "Thank",
+            "confidence": 0.991,
+            "left": 1391,
+            "top": 612,
+            "width": 177,
+            "height": 55,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:39.04",
+                "start": "0:00:38",
+                "end": "0:00:39.04"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "text": "you",
+            "confidence": 0.997,
+            "left": 1427,
+            "top": 668,
+            "width": 111,
+            "height": 52,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:39.04",
+                "start": "0:00:38",
+                "end": "0:00:39.04"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "text": "Dashboard",
+            "confidence": 0.998,
+            "left": 475,
+            "top": 430,
+            "width": 276,
+            "height": 45,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:53.04",
+                "start": "0:00:48",
+                "end": "0:00:53.04"
+              },
+              {
+                "adjustedStart": "0:00:56",
+                "adjustedEnd": "0:00:56.04",
+                "start": "0:00:56",
+                "end": "0:00:56.04"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "text": "$ Sales Statistic",
+            "confidence": 0.9287,
+            "left": 682,
+            "top": 530,
+            "width": 254,
+            "height": 34,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:56.04",
+                "start": "0:00:48",
+                "end": "0:00:56.04"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "text": "Job Board",
+            "confidence": 0.997,
+            "left": 1102,
+            "top": 532,
+            "width": 152,
+            "height": 32,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:01:00.04",
+                "start": "0:00:48",
+                "end": "0:01:00.04"
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "text": "Sales Orders",
+            "confidence": 0.988,
+            "left": 685,
+            "top": 766,
+            "width": 231,
+            "height": 33,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:56.04",
+                "start": "0:00:48",
+                "end": "0:00:56.04"
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "text": ".ill Hot Selling 10 Products",
+            "confidence": 0.903,
+            "left": 1046,
+            "top": 768,
+            "width": 396,
+            "height": 33,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:56.04",
+                "start": "0:00:48",
+                "end": "0:00:56.04"
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "text": "tistic",
+            "confidence": 0.998,
+            "left": 2,
+            "top": 326,
+            "width": 73,
+            "height": 27,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:57",
+                "adjustedEnd": "0:01:00.04",
+                "start": "0:00:57",
+                "end": "0:01:00.04"
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "text": "Business Card",
+            "confidence": 0.976,
+            "left": 310,
+            "top": 605,
+            "width": 76,
+            "height": 13,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:58",
+                "adjustedEnd": "0:01:00.04",
+                "start": "0:00:58",
+                "end": "0:01:00.04"
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "text": "Gallery",
+            "confidence": 0.994,
+            "left": 337,
+            "top": 651,
+            "width": 37,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:58",
+                "adjustedEnd": "0:01:00.04",
+                "start": "0:00:58",
+                "end": "0:01:00.04"
+              }
+            ]
+          },
+          {
+            "id": 31,
+            "text": "Uploa",
+            "confidence": 0.957,
+            "left": 335,
+            "top": 678,
+            "width": 33,
+            "height": 11,
+            "angle": 2,
+            "language": "nl-NL",
+            "instances": [
+              {
+                "adjustedStart": "0:00:58",
+                "adjustedEnd": "0:01:00.04",
+                "start": "0:00:58",
+                "end": "0:01:00.04"
+              }
+            ]
+          },
+          {
+            "id": 32,
+            "text": "JONATHAN SMITH",
+            "confidence": 0.9905,
+            "left": 579,
+            "top": 678,
+            "width": 112,
+            "height": 16,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:58",
+                "adjustedEnd": "0:01:00.04",
+                "start": "0:00:58",
+                "end": "0:01:00.04"
+              }
+            ]
+          },
+          {
+            "id": 33,
+            "text": "Drop File Here",
+            "confidence": 0.9883,
+            "left": 321,
+            "top": 722,
+            "width": 68,
+            "height": 11,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:58",
+                "adjustedEnd": "0:01:00.04",
+                "start": "0:00:58",
+                "end": "0:01:00.04"
+              }
+            ]
+          },
+          {
+            "id": 34,
+            "text": "Recently Uploaded",
+            "confidence": 0.992,
+            "left": 313,
+            "top": 755,
+            "width": 80,
+            "height": 10,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:58",
+                "adjustedEnd": "0:01:00.04",
+                "start": "0:00:58",
+                "end": "0:01:00.04"
+              }
+            ]
+          },
+          {
+            "id": 35,
+            "text": "COMPANY",
+            "confidence": 0.998,
+            "left": 460,
+            "top": 758,
+            "width": 74,
+            "height": 13,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:58",
+                "adjustedEnd": "0:01:00.04",
+                "start": "0:00:58",
+                "end": "0:01:00.04"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "text": "SLOGAN GOES HERE",
+            "confidence": 0.9637,
+            "left": 459,
+            "top": 770,
+            "width": 73,
+            "height": 8,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:58",
+                "adjustedEnd": "0:01:00.04",
+                "start": "0:00:58",
+                "end": "0:01:00.04"
+              }
+            ]
+          },
+          {
+            "id": 37,
+            "text": "MANAGING DIRECTOR",
+            "confidence": 0.9425,
+            "left": 599,
+            "top": 689,
+            "width": 77,
+            "height": 11,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:59",
+                "adjustedEnd": "0:01:00.04",
+                "start": "0:00:59",
+                "end": "0:01:00.04"
+              }
+            ]
+          },
+          {
+            "id": 38,
+            "text": "ORDER STATUS",
+            "confidence": 0.998,
+            "left": 697,
+            "top": 624,
+            "width": 522,
+            "height": 61,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:06.04",
+                "start": "0:01:02",
+                "end": "0:01:06.04"
+              }
+            ]
+          },
+          {
+            "id": 39,
+            "text": "UPDATES",
+            "confidence": 0.998,
+            "left": 801,
+            "top": 703,
+            "width": 323,
+            "height": 58,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:06.04",
+                "start": "0:01:02",
+                "end": "0:01:06.04"
+              }
+            ]
+          },
+          {
+            "id": 40,
+            "text": "TRACK ONLINE",
+            "confidence": 0.998,
+            "left": 1120,
+            "top": 264,
+            "width": 373,
+            "height": 50,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:08",
+                "adjustedEnd": "0:01:08.04",
+                "start": "0:01:08",
+                "end": "0:01:08.04"
+              },
+              {
+                "adjustedStart": "0:01:10",
+                "adjustedEnd": "0:01:12.04",
+                "start": "0:01:10",
+                "end": "0:01:12.04"
+              }
+            ]
+          },
+          {
+            "id": 41,
+            "text": "IN PRINTING",
+            "confidence": 0.998,
+            "left": 578,
+            "top": 393,
+            "width": 138,
+            "height": 24,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:10",
+                "adjustedEnd": "0:01:12.04",
+                "start": "0:01:10",
+                "end": "0:01:12.04"
+              }
+            ]
+          },
+          {
+            "id": 42,
+            "text": "PRINTING DONE",
+            "confidence": 0.997,
+            "left": 1481,
+            "top": 394,
+            "width": 186,
+            "height": 24,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:10",
+                "adjustedEnd": "0:01:12.04",
+                "start": "0:01:10",
+                "end": "0:01:12.04"
+              }
+            ]
+          },
+          {
+            "id": 43,
+            "text": "IN DELIVERY",
+            "confidence": 0.9955,
+            "left": 567,
+            "top": 927,
+            "width": 142,
+            "height": 27,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:10",
+                "adjustedEnd": "0:01:12.04",
+                "start": "0:01:10",
+                "end": "0:01:12.04"
+              }
+            ]
+          },
+          {
+            "id": 44,
+            "text": "RE-ORDER AGAIN",
+            "confidence": 0.9975,
+            "left": 1507,
+            "top": 929,
+            "width": 138,
+            "height": 19,
+            "angle": 6,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:11",
+                "adjustedEnd": "0:01:12.04",
+                "start": "0:01:11",
+                "end": "0:01:12.04"
+              }
+            ]
+          },
+          {
+            "id": 45,
+            "text": "60 %",
+            "confidence": 0.9935,
+            "left": 717,
+            "top": 391,
+            "width": 487,
+            "height": 177,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:16",
+                "adjustedEnd": "0:01:16.04",
+                "start": "0:01:16",
+                "end": "0:01:16.04"
+              }
+            ]
+          },
+          {
+            "id": 46,
+            "text": "reduce",
+            "confidence": 0.993,
+            "left": 819,
+            "top": 276,
+            "width": 282,
+            "height": 71,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:17",
+                "adjustedEnd": "0:01:18.04",
+                "start": "0:01:17",
+                "end": "0:01:18.04"
+              },
+              {
+                "adjustedStart": "0:01:21",
+                "adjustedEnd": "0:01:21.04",
+                "start": "0:01:21",
+                "end": "0:01:21.04"
+              }
+            ]
+          },
+          {
+            "id": 47,
+            "text": "workforce",
+            "confidence": 0.998,
+            "left": 764,
+            "top": 599,
+            "width": 413,
+            "height": 78,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:17",
+                "adjustedEnd": "0:01:18.04",
+                "start": "0:01:17",
+                "end": "0:01:18.04"
+              }
+            ]
+          },
+          {
+            "id": 48,
+            "text": "customers'",
+            "confidence": 0.955,
+            "left": 732,
+            "top": 604,
+            "width": 450,
+            "height": 83,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:21",
+                "adjustedEnd": "0:01:22.04",
+                "start": "0:01:21",
+                "end": "0:01:22.04"
+              }
+            ]
+          },
+          {
+            "id": 49,
+            "text": "? questions",
+            "confidence": 0.982,
+            "left": 675,
+            "top": 678,
+            "width": 488,
+            "height": 101,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:21",
+                "adjustedEnd": "0:01:22.04",
+                "start": "0:01:21",
+                "end": "0:01:22.04"
+              }
+            ]
+          },
+          {
+            "id": 50,
+            "text": "World class Buying Experience",
+            "confidence": 0.9978,
+            "left": 336,
+            "top": 482,
+            "width": 1247,
+            "height": 93,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:24",
+                "adjustedEnd": "0:01:26.04",
+                "start": "0:01:24",
+                "end": "0:01:26.04"
+              }
+            ]
+          },
+          {
+            "id": 51,
+            "text": "Visit us@",
+            "confidence": 0.95,
+            "left": 858,
+            "top": 660,
+            "width": 201,
+            "height": 54,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:30",
+                "adjustedEnd": "0:01:32.04",
+                "start": "0:01:30",
+                "end": "0:01:32.04"
+              }
+            ]
+          },
+          {
+            "id": 52,
+            "text": "www.OnPrintshop.com",
+            "confidence": 0.963,
+            "left": 620,
+            "top": 725,
+            "width": 683,
+            "height": 72,
+            "angle": 0,
+            "language": "fi-FI",
+            "instances": [
+              {
+                "adjustedStart": "0:01:30",
+                "adjustedEnd": "0:01:32.04",
+                "start": "0:01:30",
+                "end": "0:01:32.04"
+              }
+            ]
+          },
+          {
+            "id": 53,
+            "text": "Powered by:",
+            "confidence": 0.9945,
+            "left": 826,
+            "top": 925,
+            "width": 131,
+            "height": 25,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:31",
+                "adjustedEnd": "0:01:32.04",
+                "start": "0:01:31",
+                "end": "0:01:32.04"
+              }
+            ]
+          },
+          {
+            "id": 54,
+            "text": "RADIX",
+            "confidence": 0.998,
+            "left": 1008,
+            "top": 922,
+            "width": 168,
+            "height": 33,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:31",
+                "adjustedEnd": "0:01:32.04",
+                "start": "0:01:31",
+                "end": "0:01:32.04"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 1,
+            "text": "production team",
+            "confidence": 0.9793,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:57.72",
+                "adjustedEnd": "0:01:04.88",
+                "start": "0:00:57.72",
+                "end": "0:01:04.88"
+              },
+              {
+                "adjustedStart": "0:01:05.04",
+                "adjustedEnd": "0:01:12.56",
+                "start": "0:01:05.04",
+                "end": "0:01:12.56"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "order update",
+            "confidence": 0.9748,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20.8",
+                "adjustedEnd": "0:00:27.16",
+                "start": "0:00:20.8",
+                "end": "0:00:27.16"
+              },
+              {
+                "adjustedStart": "0:00:33.16",
+                "adjustedEnd": "0:00:40.64",
+                "start": "0:00:33.16",
+                "end": "0:00:40.64"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "print shop",
+            "confidence": 0.9657,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:15.24",
+                "start": "0:00:12",
+                "end": "0:00:15.24"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:47.68",
+                "start": "0:00:41",
+                "end": "0:00:47.68"
+              },
+              {
+                "adjustedStart": "0:00:47.68",
+                "adjustedEnd": "0:00:57.72",
+                "start": "0:00:47.68",
+                "end": "0:00:57.72"
+              },
+              {
+                "adjustedStart": "0:01:13.28",
+                "adjustedEnd": "0:01:28.32",
+                "start": "0:01:13.28",
+                "end": "0:01:28.32"
+              },
+              {
+                "adjustedStart": "0:00:18",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:18",
+                "end": "0:00:19.04"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "offering amazon",
+            "confidence": 0.9616,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.2",
+                "adjustedEnd": "0:00:06.36",
+                "start": "0:00:00.2",
+                "end": "0:00:06.36"
+              },
+              {
+                "adjustedStart": "0:00:02",
+                "adjustedEnd": "0:00:06.04",
+                "start": "0:00:02",
+                "end": "0:00:06.04"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "repeat sales",
+            "confidence": 0.9605,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.96",
+                "adjustedEnd": "0:00:11.48",
+                "start": "0:00:06.96",
+                "end": "0:00:11.48"
+              },
+              {
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:11.04",
+                "start": "0:00:08",
+                "end": "0:00:11.04"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "order status",
+            "confidence": 0.9571,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:57.72",
+                "adjustedEnd": "0:01:04.88",
+                "start": "0:00:57.72",
+                "end": "0:01:04.88"
+              },
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:06.04",
+                "start": "0:01:02",
+                "end": "0:01:06.04"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "team",
+            "confidence": 0.7514,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:47.68",
+                "adjustedEnd": "0:00:57.72",
+                "start": "0:00:47.68",
+                "end": "0:00:57.72"
+              },
+              {
+                "adjustedStart": "0:00:57.72",
+                "adjustedEnd": "0:01:04.88",
+                "start": "0:00:57.72",
+                "end": "0:01:04.88"
+              },
+              {
+                "adjustedStart": "0:01:05.04",
+                "adjustedEnd": "0:01:12.56",
+                "start": "0:01:05.04",
+                "end": "0:01:12.56"
+              },
+              {
+                "adjustedStart": "0:01:13.28",
+                "adjustedEnd": "0:01:28.32",
+                "start": "0:01:13.28",
+                "end": "0:01:28.32"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "phone",
+            "confidence": 0.7217,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.76",
+                "adjustedEnd": "0:00:20.08",
+                "start": "0:00:15.76",
+                "end": "0:00:20.08"
+              },
+              {
+                "adjustedStart": "0:00:47.68",
+                "adjustedEnd": "0:00:57.72",
+                "start": "0:00:47.68",
+                "end": "0:00:57.72"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "order",
+            "confidence": 0.7114,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.2",
+                "adjustedEnd": "0:00:06.36",
+                "start": "0:00:00.2",
+                "end": "0:00:06.36"
+              },
+              {
+                "adjustedStart": "0:00:15.76",
+                "adjustedEnd": "0:00:20.08",
+                "start": "0:00:15.76",
+                "end": "0:00:20.08"
+              },
+              {
+                "adjustedStart": "0:00:20.8",
+                "adjustedEnd": "0:00:27.16",
+                "start": "0:00:20.8",
+                "end": "0:00:27.16"
+              },
+              {
+                "adjustedStart": "0:00:33.16",
+                "adjustedEnd": "0:00:40.64",
+                "start": "0:00:33.16",
+                "end": "0:00:40.64"
+              },
+              {
+                "adjustedStart": "0:00:47.68",
+                "adjustedEnd": "0:00:57.72",
+                "start": "0:00:47.68",
+                "end": "0:00:57.72"
+              },
+              {
+                "adjustedStart": "0:00:57.72",
+                "adjustedEnd": "0:01:04.88",
+                "start": "0:00:57.72",
+                "end": "0:01:04.88"
+              },
+              {
+                "adjustedStart": "0:01:05.04",
+                "adjustedEnd": "0:01:12.56",
+                "start": "0:01:05.04",
+                "end": "0:01:12.56"
+              },
+              {
+                "adjustedStart": "0:01:13.28",
+                "adjustedEnd": "0:01:28.32",
+                "start": "0:01:13.28",
+                "end": "0:01:28.32"
+              },
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:06.04",
+                "start": "0:00:01",
+                "end": "0:00:06.04"
+              },
+              {
+                "adjustedStart": "0:00:34",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:34",
+                "end": "0:00:35.04"
+              },
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:56.04",
+                "start": "0:00:48",
+                "end": "0:00:56.04"
+              },
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:06.04",
+                "start": "0:01:02",
+                "end": "0:01:06.04"
+              },
+              {
+                "adjustedStart": "0:01:11",
+                "adjustedEnd": "0:01:12.04",
+                "start": "0:01:11",
+                "end": "0:01:12.04"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "amazon",
+            "confidence": 0.7029,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.2",
+                "adjustedEnd": "0:00:06.36",
+                "start": "0:00:00.2",
+                "end": "0:00:06.36"
+              },
+              {
+                "adjustedStart": "0:00:33.16",
+                "adjustedEnd": "0:00:40.64",
+                "start": "0:00:33.16",
+                "end": "0:00:40.64"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:47.68",
+                "start": "0:00:41",
+                "end": "0:00:47.68"
+              },
+              {
+                "adjustedStart": "0:01:13.28",
+                "adjustedEnd": "0:01:28.32",
+                "start": "0:01:13.28",
+                "end": "0:01:28.32"
+              },
+              {
+                "adjustedStart": "0:00:02",
+                "adjustedEnd": "0:00:06.04",
+                "start": "0:00:02",
+                "end": "0:00:06.04"
+              },
+              {
+                "adjustedStart": "0:00:34",
+                "adjustedEnd": "0:00:39.04",
+                "start": "0:00:34",
+                "end": "0:00:39.04"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "orders",
+            "confidence": 0.685,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.76",
+                "adjustedEnd": "0:00:20.08",
+                "start": "0:00:15.76",
+                "end": "0:00:20.08"
+              },
+              {
+                "adjustedStart": "0:00:47.68",
+                "adjustedEnd": "0:00:57.72",
+                "start": "0:00:47.68",
+                "end": "0:00:57.72"
+              },
+              {
+                "adjustedStart": "0:01:05.04",
+                "adjustedEnd": "0:01:12.56",
+                "start": "0:01:05.04",
+                "end": "0:01:12.56"
+              },
+              {
+                "adjustedStart": "0:01:13.28",
+                "adjustedEnd": "0:01:28.32",
+                "start": "0:01:13.28",
+                "end": "0:01:28.32"
+              },
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:56.04",
+                "start": "0:00:48",
+                "end": "0:00:56.04"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "updates",
+            "confidence": 0.6806,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20.8",
+                "adjustedEnd": "0:00:27.16",
+                "start": "0:00:20.8",
+                "end": "0:00:27.16"
+              },
+              {
+                "adjustedStart": "0:00:27.68",
+                "adjustedEnd": "0:00:32.4",
+                "start": "0:00:27.68",
+                "end": "0:00:32.4"
+              },
+              {
+                "adjustedStart": "0:01:05.04",
+                "adjustedEnd": "0:01:12.56",
+                "start": "0:01:05.04",
+                "end": "0:01:12.56"
+              },
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:06.04",
+                "start": "0:01:02",
+                "end": "0:01:06.04"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "experience",
+            "confidence": 0.6595,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.2",
+                "adjustedEnd": "0:00:06.36",
+                "start": "0:00:00.2",
+                "end": "0:00:06.36"
+              },
+              {
+                "adjustedStart": "0:00:06.96",
+                "adjustedEnd": "0:00:11.48",
+                "start": "0:00:06.96",
+                "end": "0:00:11.48"
+              },
+              {
+                "adjustedStart": "0:00:33.16",
+                "adjustedEnd": "0:00:40.64",
+                "start": "0:00:33.16",
+                "end": "0:00:40.64"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:47.68",
+                "start": "0:00:41",
+                "end": "0:00:47.68"
+              },
+              {
+                "adjustedStart": "0:01:13.28",
+                "adjustedEnd": "0:01:28.32",
+                "start": "0:01:13.28",
+                "end": "0:01:28.32"
+              },
+              {
+                "adjustedStart": "0:00:02",
+                "adjustedEnd": "0:00:06.04",
+                "start": "0:00:02",
+                "end": "0:00:06.04"
+              },
+              {
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:11.04",
+                "start": "0:00:08",
+                "end": "0:00:11.04"
+              },
+              {
+                "adjustedStart": "0:01:24",
+                "adjustedEnd": "0:01:26.04",
+                "start": "0:01:24",
+                "end": "0:01:26.04"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "customers",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.96",
+                "adjustedEnd": "0:00:11.48",
+                "start": "0:00:06.96",
+                "end": "0:00:11.48"
+              },
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:15.24",
+                "start": "0:00:12",
+                "end": "0:00:15.24"
+              },
+              {
+                "adjustedStart": "0:00:15.76",
+                "adjustedEnd": "0:00:20.08",
+                "start": "0:00:15.76",
+                "end": "0:00:20.08"
+              },
+              {
+                "adjustedStart": "0:00:27.68",
+                "adjustedEnd": "0:00:32.4",
+                "start": "0:00:27.68",
+                "end": "0:00:32.4"
+              },
+              {
+                "adjustedStart": "0:00:33.16",
+                "adjustedEnd": "0:00:40.64",
+                "start": "0:00:33.16",
+                "end": "0:00:40.64"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:47.68",
+                "start": "0:00:41",
+                "end": "0:00:47.68"
+              },
+              {
+                "adjustedStart": "0:00:57.72",
+                "adjustedEnd": "0:01:04.88",
+                "start": "0:00:57.72",
+                "end": "0:01:04.88"
+              },
+              {
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:11.04",
+                "start": "0:00:08",
+                "end": "0:00:11.04"
+              },
+              {
+                "adjustedStart": "0:01:21",
+                "adjustedEnd": "0:01:22.04",
+                "start": "0:01:21",
+                "end": "0:01:22.04"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "walk",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.76",
+                "adjustedEnd": "0:00:20.08",
+                "start": "0:00:15.76",
+                "end": "0:00:20.08"
+              },
+              {
+                "adjustedStart": "0:00:47.68",
+                "adjustedEnd": "0:00:57.72",
+                "start": "0:00:47.68",
+                "end": "0:00:57.72"
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 1,
+            "name": "Customer Experience",
+            "referenceId": "Business/Business Practices/Customer Experience",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/financial and business service/client relationship management",
+            "confidence": 0.9039,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.2",
+                "adjustedEnd": "0:00:47.68",
+                "start": "0:00:00.2",
+                "end": "0:00:47.68"
+              },
+              {
+                "adjustedStart": "0:00:57.72",
+                "adjustedEnd": "0:01:12.56",
+                "start": "0:00:57.72",
+                "end": "0:01:12.56"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Customer Service",
+            "referenceId": "Business/Customers/Customer Service",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economy/macro economics/consumers",
+            "confidence": 0.8386,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.2",
+                "adjustedEnd": "0:00:47.68",
+                "start": "0:00:00.2",
+                "end": "0:00:47.68"
+              },
+              {
+                "adjustedStart": "0:00:57.72",
+                "adjustedEnd": "0:01:12.56",
+                "start": "0:00:57.72",
+                "end": "0:01:12.56"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Business",
+            "referenceId": "Business",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/business information/strategy and marketing/business governance",
+            "confidence": 0.8322,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.2",
+                "adjustedEnd": "0:01:28.32",
+                "start": "0:00:00.2",
+                "end": "0:01:28.32"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Sales",
+            "referenceId": "Category:Sales",
+            "referenceUrl": "https://en.wikipedia.org/wiki/Category:Sales",
+            "referenceType": "Wikipedia",
+            "confidence": 0.5902,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:11.04",
+                "start": "0:00:08",
+                "end": "0:00:11.04"
+              },
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:56.04",
+                "start": "0:00:48",
+                "end": "0:00:56.04"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Business process",
+            "referenceId": "Category:Business_process",
+            "referenceUrl": "https://en.wikipedia.org/wiki/Category:Business_process",
+            "referenceType": "Wikipedia",
+            "confidence": 0.5556,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:06.04",
+                "start": "0:00:01",
+                "end": "0:00:06.04"
+              }
+            ]
+          }
+        ],
+        "faces": [
+          {
+            "id": 1038,
+            "name": "Unknown #1",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "a5334330-3521-49df-9c32-bf3daf5fa269",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "9f7891dd-0631-4c39-a770-5f9cba20bbb2",
+                "fileName": "FaceInstanceThumbnail_9f7891dd-0631-4c39-a770-5f9cba20bbb2.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:07.68",
+                    "adjustedEnd": "0:01:07.72",
+                    "start": "0:01:07.68",
+                    "end": "0:01:07.72"
+                  }
+                ]
+              },
+              {
+                "id": "92a5d128-b314-41c3-be48-c306da3259db",
+                "fileName": "FaceInstanceThumbnail_92a5d128-b314-41c3-be48-c306da3259db.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:08.64",
+                    "adjustedEnd": "0:01:08.68",
+                    "start": "0:01:08.64",
+                    "end": "0:01:08.68"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "92a5d128-b314-41c3-be48-c306da3259db",
+                  "9f7891dd-0631-4c39-a770-5f9cba20bbb2"
+                ],
+                "adjustedStart": "0:01:07.6",
+                "adjustedEnd": "0:01:12.32",
+                "start": "0:01:07.6",
+                "end": "0:01:12.32"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "text",
+            "referenceId": "communication/writing/text",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.997,
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:06.04",
+                "start": "0:00:01",
+                "end": "0:00:06.04"
+              },
+              {
+                "confidence": 0.9967,
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:12.04",
+                "start": "0:00:08",
+                "end": "0:00:12.04"
+              },
+              {
+                "confidence": 0.968,
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:15.04",
+                "start": "0:00:15",
+                "end": "0:00:15.04"
+              },
+              {
+                "confidence": 0.979,
+                "adjustedStart": "0:00:19",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:19",
+                "end": "0:00:19.04"
+              },
+              {
+                "confidence": 0.955,
+                "adjustedStart": "0:00:22",
+                "adjustedEnd": "0:00:22.04",
+                "start": "0:00:22",
+                "end": "0:00:22.04"
+              },
+              {
+                "confidence": 0.9536,
+                "adjustedStart": "0:00:24",
+                "adjustedEnd": "0:00:26.04",
+                "start": "0:00:24",
+                "end": "0:00:26.04"
+              },
+              {
+                "confidence": 0.9951,
+                "adjustedStart": "0:00:34",
+                "adjustedEnd": "0:00:39.04",
+                "start": "0:00:34",
+                "end": "0:00:39.04"
+              },
+              {
+                "confidence": 0.9991,
+                "adjustedStart": "0:00:47",
+                "adjustedEnd": "0:01:00.04",
+                "start": "0:00:47",
+                "end": "0:01:00.04"
+              },
+              {
+                "confidence": 0.983,
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:03.04",
+                "start": "0:01:02",
+                "end": "0:01:03.04"
+              },
+              {
+                "confidence": 0.9728,
+                "adjustedStart": "0:01:08",
+                "adjustedEnd": "0:01:08.04",
+                "start": "0:01:08",
+                "end": "0:01:08.04"
+              },
+              {
+                "confidence": 0.999,
+                "adjustedStart": "0:01:10",
+                "adjustedEnd": "0:01:15.04",
+                "start": "0:01:10",
+                "end": "0:01:15.04"
+              },
+              {
+                "confidence": 0.9856,
+                "adjustedStart": "0:01:21",
+                "adjustedEnd": "0:01:22.04",
+                "start": "0:01:21",
+                "end": "0:01:22.04"
+              },
+              {
+                "confidence": 0.9983,
+                "adjustedStart": "0:01:30",
+                "adjustedEnd": "0:01:32.04",
+                "start": "0:01:30",
+                "end": "0:01:32.04"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "colorfulness",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9621,
+                "adjustedStart": "0:00:20",
+                "adjustedEnd": "0:00:20.04",
+                "start": "0:00:20",
+                "end": "0:00:20.04"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "clothing",
+            "referenceId": "consumer goods/clothing",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.99,
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:32.04",
+                "start": "0:00:28",
+                "end": "0:00:32.04"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "cartoon",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9526,
+                "adjustedStart": "0:00:35",
+                "adjustedEnd": "0:00:36.04",
+                "start": "0:00:35",
+                "end": "0:00:36.04"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "diagram",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9569,
+                "adjustedStart": "0:00:58",
+                "adjustedEnd": "0:01:00.04",
+                "start": "0:00:58",
+                "end": "0:01:00.04"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "human face",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9749,
+                "adjustedStart": "0:01:11",
+                "adjustedEnd": "0:01:12.04",
+                "start": "0:01:11",
+                "end": "0:01:12.04"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "graphics",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9513,
+                "adjustedStart": "0:01:17",
+                "adjustedEnd": "0:01:17.04",
+                "start": "0:01:17",
+                "end": "0:01:17.04"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "font",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9514,
+                "adjustedStart": "0:01:21",
+                "adjustedEnd": "0:01:21.04",
+                "start": "0:01:21",
+                "end": "0:01:21.04"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:11",
+                "start": "0:00:00",
+                "end": "0:00:11"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.24",
+                "adjustedEnd": "0:00:19.92",
+                "start": "0:00:11.24",
+                "end": "0:00:19.92"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "instances": [
+              {
+                "adjustedStart": "0:00:19.92",
+                "adjustedEnd": "0:00:32.36",
+                "start": "0:00:19.92",
+                "end": "0:00:32.36"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "instances": [
+              {
+                "adjustedStart": "0:00:32.36",
+                "adjustedEnd": "0:01:12.36",
+                "start": "0:00:32.36",
+                "end": "0:01:12.36"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "instances": [
+              {
+                "adjustedStart": "0:01:12.36",
+                "adjustedEnd": "0:01:32.28",
+                "start": "0:01:12.36",
+                "end": "0:01:32.28"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "ba7a8f8c-5808-4e80-848d-bbe849e6d11c",
+                    "adjustedStart": "0:00:00.24",
+                    "adjustedEnd": "0:00:00.28",
+                    "start": "0:00:00.24",
+                    "end": "0:00:00.28"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "a87482dc-ab16-4b62-b06c-fa9fd10bc578",
+                    "adjustedStart": "0:00:06.32",
+                    "adjustedEnd": "0:00:06.36",
+                    "start": "0:00:06.32",
+                    "end": "0:00:06.36"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:11",
+                "start": "0:00:00",
+                "end": "0:00:11"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "keyFrames": [
+              {
+                "id": 3,
+                "instances": [
+                  {
+                    "thumbnailId": "4f60ece5-711c-4d03-948c-099d7ea787d9",
+                    "adjustedStart": "0:00:11.88",
+                    "adjustedEnd": "0:00:11.92",
+                    "start": "0:00:11.88",
+                    "end": "0:00:11.92"
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "instances": [
+                  {
+                    "thumbnailId": "4a0e0719-198a-4da8-a0fa-1705d0542c05",
+                    "adjustedStart": "0:00:15.04",
+                    "adjustedEnd": "0:00:15.08",
+                    "start": "0:00:15.04",
+                    "end": "0:00:15.08"
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "instances": [
+                  {
+                    "thumbnailId": "00d58395-1f2d-4aae-8a05-2ca7d7a98ba5",
+                    "adjustedStart": "0:00:18.56",
+                    "adjustedEnd": "0:00:18.6",
+                    "start": "0:00:18.56",
+                    "end": "0:00:18.6"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.24",
+                "adjustedEnd": "0:00:19.92",
+                "start": "0:00:11.24",
+                "end": "0:00:19.92"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "keyFrames": [
+              {
+                "id": 6,
+                "instances": [
+                  {
+                    "thumbnailId": "cc3d69a9-8a2f-4bd7-9f9f-43c96fd8c016",
+                    "adjustedStart": "0:00:20.08",
+                    "adjustedEnd": "0:00:20.12",
+                    "start": "0:00:20.08",
+                    "end": "0:00:20.12"
+                  }
+                ]
+              },
+              {
+                "id": 7,
+                "instances": [
+                  {
+                    "thumbnailId": "ab9580a7-0b1d-41db-9af3-e8a934d8a92d",
+                    "adjustedStart": "0:00:27.04",
+                    "adjustedEnd": "0:00:27.08",
+                    "start": "0:00:27.04",
+                    "end": "0:00:27.08"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:19.92",
+                "adjustedEnd": "0:00:32.36",
+                "start": "0:00:19.92",
+                "end": "0:00:32.36"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "tags": [
+              "Wide",
+              "RightFace"
+            ],
+            "keyFrames": [
+              {
+                "id": 8,
+                "instances": [
+                  {
+                    "thumbnailId": "deb136b4-7c01-42f8-9f35-6a5e2bb67917",
+                    "adjustedStart": "0:00:41.04",
+                    "adjustedEnd": "0:00:41.08",
+                    "start": "0:00:41.04",
+                    "end": "0:00:41.08"
+                  }
+                ]
+              },
+              {
+                "id": 9,
+                "instances": [
+                  {
+                    "thumbnailId": "6c381044-66e5-4f8a-b6ba-6a52942d2edc",
+                    "adjustedStart": "0:00:53.6",
+                    "adjustedEnd": "0:00:53.64",
+                    "start": "0:00:53.6",
+                    "end": "0:00:53.64"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:32.36",
+                "adjustedEnd": "0:01:12.36",
+                "start": "0:00:32.36",
+                "end": "0:01:12.36"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "keyFrames": [
+              {
+                "id": 10,
+                "instances": [
+                  {
+                    "thumbnailId": "f7af6d1d-66dc-47bd-b645-01315a53b9a1",
+                    "adjustedStart": "0:01:12.44",
+                    "adjustedEnd": "0:01:12.48",
+                    "start": "0:01:12.44",
+                    "end": "0:01:12.48"
+                  }
+                ]
+              },
+              {
+                "id": 11,
+                "instances": [
+                  {
+                    "thumbnailId": "b030667e-c8c9-4e2d-be6e-a00205277f78",
+                    "adjustedStart": "0:01:27",
+                    "adjustedEnd": "0:01:27.04",
+                    "start": "0:01:27",
+                    "end": "0:01:27.04"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:12.36",
+                "adjustedEnd": "0:01:32.28",
+                "start": "0:01:12.36",
+                "end": "0:01:32.28"
+              }
+            ]
+          }
+        ],
+        "namedLocations": [
+          {
+            "id": 1,
+            "name": "print shop",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 0.64,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:15.24",
+                "start": "0:00:12",
+                "end": "0:00:15.24"
+              }
+            ]
+          }
+        ],
+        "audioEffects": [
+          {
+            "id": 0,
+            "type": "Silence",
+            "instances": [
+              {
+                "confidence": 0.7616,
+                "adjustedStart": "0:00:06.86",
+                "adjustedEnd": "0:00:07.86",
+                "start": "0:00:06.86",
+                "end": "0:00:07.86"
+              },
+              {
+                "confidence": 0.7929,
+                "adjustedStart": "0:00:11.98",
+                "adjustedEnd": "0:00:12.98",
+                "start": "0:00:11.98",
+                "end": "0:00:12.98"
+              },
+              {
+                "confidence": 0.7905,
+                "adjustedStart": "0:00:27.66",
+                "adjustedEnd": "0:00:28.66",
+                "start": "0:00:27.66",
+                "end": "0:00:28.66"
+              }
+            ]
+          }
+        ],
+        "detectedObjects": [
+          {
+            "id": 1,
+            "type": "Necktie",
+            "thumbnailId": "01d83885-99d6-4d75-9ab1-d47a9e37b690",
+            "displayName": "necktie",
+            "wikiDataId": "Q44416",
+            "instances": [
+              {
+                "confidence": 0.711,
+                "adjustedStart": "0:00:27.84",
+                "adjustedEnd": "0:00:32.36",
+                "start": "0:00:27.84",
+                "end": "0:00:32.36"
+              }
+            ]
+          }
+        ],
+        "sentiments": [
+          {
+            "id": 1,
+            "averageScore": 0.5,
+            "sentimentType": "Neutral",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:32.346",
+                "start": "0:00:00",
+                "end": "0:01:32.346"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:32.4",
+                "start": "0:00:00",
+                "end": "0:00:32.4"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:32.4",
+                "adjustedEnd": "0:01:04.88",
+                "start": "0:00:32.4",
+                "end": "0:01:04.88"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:01:04.88",
+                "adjustedEnd": "0:01:32.346",
+                "start": "0:01:04.88",
+                "end": "0:01:32.346"
+              }
+            ]
+          }
+        ],
+        "speakers": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.2",
+                "adjustedEnd": "0:00:06.36",
+                "start": "0:00:00.2",
+                "end": "0:00:06.36"
+              },
+              {
+                "adjustedStart": "0:00:06.96",
+                "adjustedEnd": "0:00:11.48",
+                "start": "0:00:06.96",
+                "end": "0:00:11.48"
+              },
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:15.24",
+                "start": "0:00:12",
+                "end": "0:00:15.24"
+              },
+              {
+                "adjustedStart": "0:00:15.76",
+                "adjustedEnd": "0:00:20.08",
+                "start": "0:00:15.76",
+                "end": "0:00:20.08"
+              },
+              {
+                "adjustedStart": "0:00:20.8",
+                "adjustedEnd": "0:00:27.16",
+                "start": "0:00:20.8",
+                "end": "0:00:27.16"
+              },
+              {
+                "adjustedStart": "0:00:27.68",
+                "adjustedEnd": "0:00:32.4",
+                "start": "0:00:27.68",
+                "end": "0:00:32.4"
+              },
+              {
+                "adjustedStart": "0:00:33.16",
+                "adjustedEnd": "0:00:40.64",
+                "start": "0:00:33.16",
+                "end": "0:00:40.64"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:47.68",
+                "start": "0:00:41",
+                "end": "0:00:47.68"
+              },
+              {
+                "adjustedStart": "0:00:47.68",
+                "adjustedEnd": "0:00:57.72",
+                "start": "0:00:47.68",
+                "end": "0:00:57.72"
+              },
+              {
+                "adjustedStart": "0:00:57.72",
+                "adjustedEnd": "0:01:04.88",
+                "start": "0:00:57.72",
+                "end": "0:01:04.88"
+              },
+              {
+                "adjustedStart": "0:01:05.04",
+                "adjustedEnd": "0:01:12.56",
+                "start": "0:01:05.04",
+                "end": "0:01:12.56"
+              },
+              {
+                "adjustedStart": "0:01:13.28",
+                "adjustedEnd": "0:01:28.32",
+                "start": "0:01:13.28",
+                "end": "0:01:28.32"
+              },
+              {
+                "adjustedStart": "0:01:29.04",
+                "adjustedEnd": "0:01:32.16",
+                "start": "0:01:29.04",
+                "end": "0:01:32.16"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 0,
+          "speakerTalkToListenRatio": {
+            "1": 1
+          },
+          "speakerLongestMonolog": {
+            "1": 86
+          },
+          "speakerNumberOfFragments": {
+            "1": 11
+          },
+          "speakerWordCount": {
+            "1": 253
+          }
+        }
+      },
+      "thumbnailId": "e62f8518-cf05-4ad8-b210-250915a107e6",
+      "width": 1920,
+      "height": 1080,
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [
+        "en-US"
+      ],
+      "language": "en-US",
+      "languages": [
+        "en-US"
+      ],
+      "indexingPreset": "Default",
+      "streamingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "logoGroupId": null,
+      "isAdult": false,
+      "excludedAIs": [],
+      "isSearchable": true,
+      "publishedUrl": "https://api.videoindexer.ai/internals/eastus/Accounts/fbafe9ff-1c94-40bd-987e-a4e4dfe52365/Videos/w8gsxb590r/streaming-manifest/manifest.m3u8",
+      "publishedProxyUrl": null,
+      "viewToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJWZXJzaW9uIjoiMi4wLjAuMCIsIktleVZlcnNpb24iOiI1YmZmYWI1MTUwZWI0NGM4ODMzNzE2NzVhNzcwYzU4YSIsIkFjY291bnRJZCI6ImZiYWZlOWZmLTFjOTQtNDBiZC05ODdlLWE0ZTRkZmU1MjM2NSIsIkFjY291bnRUeXBlIjoiQ2xhc3NpYyIsIlZpZGVvSWQiOiJ3OGdzeGI1OTByIiwiUGVybWlzc2lvbiI6IlJlc3RyaWN0ZWRWaWV3ZXIiLCJFeHRlcm5hbFVzZXJJZCI6IjYxMzM3QzI2RUFCQjRGNEU5MjA3NURBNjAyQ0IyQTQzIiwiVXNlclR5cGUiOiJNaWNyb3NvZnRDb3JwQWFkIiwiSXNzdWVyTG9jYXRpb24iOiJlYXN0dXMiLCJuYmYiOjE3NjE5NzgzMDUsImV4cCI6MTc2MTk4MjIwNSwiaXNzIjoiaHR0cHM6Ly9hcGkudmlkZW9pbmRleGVyLmFpLyIsImF1ZCI6Imh0dHBzOi8vYXBpLnZpZGVvaW5kZXhlci5haS8ifQ.c8SG1WWt_FOOSdaGP0LRzr3X3OC0XfD5zCFSN2vhgc1fcWTqPW0K6ycYS8XbTzd7djgZHSnUbOG1bt5EGlrrbB4Apol4U9_kjdAAy331TLCMKfcEmRtaSSXwc9DfojB7X0VAlhlhCAsxbu9z7Mw_wSGPfMp-OWB5x7HSmcPMG_6Q6Ymr6ijnHsupYI5CZCppo1vQ6OyXi3QkP87N21XHdFe5ZMNfOucSPwENcpQYCwBGj2xyN1q5ZII2dsTdB2-rVMYWswcyxyuP4jsfA8tk7X_p84LzAERCdCvTh5yVuuTG77GEE6EF8x4PiXZ5jsUI9eawrGVtQw-ba-ojZF_EgA"
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "w8gsxb590r",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:01:32.346"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5462 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+  "id": "5t86o2cylh",
+  "name": "Uploads from OnPrintShop Web-to-Print Storefront - 126 - Grow Your Reseller Netw",
+  "userName": "Abdul Moiz",
+  "created": "2025-11-01T06:32:05.0066667+00:00",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 140,
+  "duration": "0:02:20",
+  "summarizedInsights": {
+    "name": "Uploads from OnPrintShop Web-to-Print Storefront - 126 - Grow Your Reseller Netw",
+    "id": "5t86o2cylh",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:02:20",
+      "seconds": 140
+    },
+    "thumbnailVideoId": "5t86o2cylh",
+    "thumbnailId": "4342cc21-2196-472a-8e86-f87cd54c6b14",
+    "faces": [
+      {
+        "videoId": "5t86o2cylh",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "59b2cd79-5ebd-4772-bbff-f24568bd1ab8",
+        "seenDuration": 11.7,
+        "seenDurationRatio": 0.0836,
+        "id": 1134,
+        "name": "Unknown #1",
+        "appearances": [
+          {
+            "startTime": "0:01:35.6666667",
+            "endTime": "0:01:47.3666667",
+            "startSeconds": 95.7,
+            "endSeconds": 107.4
+          }
+        ]
+      },
+      {
+        "videoId": "5t86o2cylh",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "be78eedc-de95-4627-a4c2-c85edee0bd5c",
+        "seenDuration": 10.8,
+        "seenDurationRatio": 0.0771,
+        "id": 1024,
+        "name": "Unknown #2",
+        "appearances": [
+          {
+            "startTime": "0:00:18.2333333",
+            "endTime": "0:00:28.9666667",
+            "startSeconds": 18.2,
+            "endSeconds": 29
+          }
+        ]
+      },
+      {
+        "videoId": "5t86o2cylh",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "200118d1-b12f-4c78-8af4-f690de4ea987",
+        "seenDuration": 10.7,
+        "seenDurationRatio": 0.0764,
+        "id": 1000,
+        "name": "Unknown #3",
+        "appearances": [
+          {
+            "startTime": "0:00:08.4666667",
+            "endTime": "0:00:19.1666667",
+            "startSeconds": 8.5,
+            "endSeconds": 19.2
+          }
+        ]
+      },
+      {
+        "videoId": "5t86o2cylh",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "d5fe61f2-8d7a-41ef-8fc7-177439b47a90",
+        "seenDuration": 10.3,
+        "seenDurationRatio": 0.0736,
+        "id": 1021,
+        "name": "Unknown #4",
+        "appearances": [
+          {
+            "startTime": "0:00:18.2",
+            "endTime": "0:00:28.5",
+            "startSeconds": 18.2,
+            "endSeconds": 28.5
+          }
+        ]
+      },
+      {
+        "videoId": "5t86o2cylh",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "58490813-73c5-4539-a016-98941754ff58",
+        "seenDuration": 10,
+        "seenDurationRatio": 0.0714,
+        "id": 1022,
+        "name": "Unknown #5",
+        "appearances": [
+          {
+            "startTime": "0:00:18.2",
+            "endTime": "0:00:28.2333333",
+            "startSeconds": 18.2,
+            "endSeconds": 28.2
+          }
+        ]
+      },
+      {
+        "videoId": "5t86o2cylh",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "78ff84bb-3abe-473c-8e85-72b305837f38",
+        "seenDuration": 10,
+        "seenDurationRatio": 0.0714,
+        "id": 1023,
+        "name": "Unknown #6",
+        "appearances": [
+          {
+            "startTime": "0:00:18.2",
+            "endTime": "0:00:28.1666667",
+            "startSeconds": 18.2,
+            "endSeconds": 28.2
+          }
+        ]
+      },
+      {
+        "videoId": "5t86o2cylh",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "935eb26c-1378-49a3-87bd-be2294c2117e",
+        "seenDuration": 8.9,
+        "seenDurationRatio": 0.0636,
+        "id": 1117,
+        "name": "Unknown #7",
+        "appearances": [
+          {
+            "startTime": "0:01:17.9333333",
+            "endTime": "0:01:26.8333333",
+            "startSeconds": 77.9,
+            "endSeconds": 86.8
+          }
+        ]
+      },
+      {
+        "videoId": "5t86o2cylh",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "79eac1e4-de11-4084-b4e9-fedb33b71060",
+        "seenDuration": 7.5,
+        "seenDurationRatio": 0.0536,
+        "id": 1103,
+        "name": "Unknown #8",
+        "appearances": [
+          {
+            "startTime": "0:00:45.2666667",
+            "endTime": "0:00:52.7666667",
+            "startSeconds": 45.3,
+            "endSeconds": 52.8
+          }
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "isTranscript": false,
+        "id": 1,
+        "name": "gene hemzhie",
+        "appearances": [
+          {
+            "startTime": "0:02:06",
+            "endTime": "0:02:15.0333333",
+            "startSeconds": 126,
+            "endSeconds": 135
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 2,
+        "name": "trade printer",
+        "appearances": [
+          {
+            "startTime": "0:00:09",
+            "endTime": "0:00:28.0333333",
+            "startSeconds": 9,
+            "endSeconds": 28
+          },
+          {
+            "startTime": "0:00:52",
+            "endTime": "0:01:36.0333333",
+            "startSeconds": 52,
+            "endSeconds": 96
+          },
+          {
+            "startTime": "0:02:07",
+            "endTime": "0:02:15.0333333",
+            "startSeconds": 127,
+            "endSeconds": 135
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 3,
+        "name": "order management",
+        "appearances": [
+          {
+            "startTime": "0:00:09",
+            "endTime": "0:00:28.0333333",
+            "startSeconds": 9,
+            "endSeconds": 28
+          },
+          {
+            "startTime": "0:01:03",
+            "endTime": "0:01:46.0333333",
+            "startSeconds": 63,
+            "endSeconds": 106
+          },
+          {
+            "startTime": "0:02:16",
+            "endTime": "0:02:19.0333333",
+            "startSeconds": 136,
+            "endSeconds": 139
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 4,
+        "name": "print order",
+        "appearances": [
+          {
+            "startTime": "0:00:01",
+            "endTime": "0:00:28.0333333",
+            "startSeconds": 1,
+            "endSeconds": 28
+          },
+          {
+            "startTime": "0:00:52",
+            "endTime": "0:02:19.0333333",
+            "startSeconds": 52,
+            "endSeconds": 139
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 5,
+        "name": "print",
+        "appearances": [
+          {
+            "startTime": "0:00:01",
+            "endTime": "0:00:28.0333333",
+            "startSeconds": 1,
+            "endSeconds": 28
+          },
+          {
+            "startTime": "0:00:52",
+            "endTime": "0:02:19.0333333",
+            "startSeconds": 52,
+            "endSeconds": 139
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 6,
+        "name": "trade",
+        "appearances": [
+          {
+            "startTime": "0:00:09",
+            "endTime": "0:00:28.0333333",
+            "startSeconds": 9,
+            "endSeconds": 28
+          },
+          {
+            "startTime": "0:00:52",
+            "endTime": "0:01:36.0333333",
+            "startSeconds": 52,
+            "endSeconds": 96
+          },
+          {
+            "startTime": "0:02:07",
+            "endTime": "0:02:15.0333333",
+            "startSeconds": 127,
+            "endSeconds": 135
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 7,
+        "name": "partner",
+        "appearances": [
+          {
+            "startTime": "0:00:01",
+            "endTime": "0:00:09.0333333",
+            "startSeconds": 1,
+            "endSeconds": 9
+          },
+          {
+            "startTime": "0:00:38",
+            "endTime": "0:00:45.0333333",
+            "startSeconds": 38,
+            "endSeconds": 45
+          },
+          {
+            "startTime": "0:00:52",
+            "endTime": "0:01:03.0333333",
+            "startSeconds": 52,
+            "endSeconds": 63
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 8,
+        "name": "website",
+        "appearances": [
+          {
+            "startTime": "0:01:18",
+            "endTime": "0:01:26.0333333",
+            "startSeconds": 78,
+            "endSeconds": 86
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 9,
+        "name": "resellers",
+        "appearances": [
+          {
+            "startTime": "0:00:19",
+            "endTime": "0:00:28.0333333",
+            "startSeconds": 19,
+            "endSeconds": 28
+          },
+          {
+            "startTime": "0:01:18",
+            "endTime": "0:01:26.0333333",
+            "startSeconds": 78,
+            "endSeconds": 86
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 10,
+        "name": "easy",
+        "appearances": [
+          {
+            "startTime": "0:01:18",
+            "endTime": "0:01:26.0333333",
+            "startSeconds": 78,
+            "endSeconds": 86
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 11,
+        "name": "brokers",
+        "appearances": [
+          {
+            "startTime": "0:01:18",
+            "endTime": "0:01:26.0333333",
+            "startSeconds": 78,
+            "endSeconds": 86
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 12,
+        "name": "web2printit",
+        "appearances": [
+          {
+            "startTime": "0:01:18",
+            "endTime": "0:01:26.0333333",
+            "startSeconds": 78,
+            "endSeconds": 86
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 13,
+        "name": "support",
+        "appearances": [
+          {
+            "startTime": "0:01:18",
+            "endTime": "0:01:26.0333333",
+            "startSeconds": 78,
+            "endSeconds": 86
+          },
+          {
+            "startTime": "0:01:47",
+            "endTime": "0:02:06.0333333",
+            "startSeconds": 107,
+            "endSeconds": 126
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 14,
+        "name": "business",
+        "appearances": [
+          {
+            "startTime": "0:00:01",
+            "endTime": "0:00:08.0333333",
+            "startSeconds": 1,
+            "endSeconds": 8
+          },
+          {
+            "startTime": "0:00:19",
+            "endTime": "0:00:28.0333333",
+            "startSeconds": 19,
+            "endSeconds": 28
+          },
+          {
+            "startTime": "0:00:38",
+            "endTime": "0:00:45.0333333",
+            "startSeconds": 38,
+            "endSeconds": 45
+          },
+          {
+            "startTime": "0:01:47",
+            "endTime": "0:02:06.0333333",
+            "startSeconds": 107,
+            "endSeconds": 126
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 15,
+        "name": "personalized",
+        "appearances": [
+          {
+            "startTime": "0:01:04",
+            "endTime": "0:01:18.0333333",
+            "startSeconds": 64,
+            "endSeconds": 78
+          },
+          {
+            "startTime": "0:01:26",
+            "endTime": "0:01:36.0333333",
+            "startSeconds": 86,
+            "endSeconds": 96
+          },
+          {
+            "startTime": "0:01:47",
+            "endTime": "0:02:06.0333333",
+            "startSeconds": 107,
+            "endSeconds": 126
+          },
+          {
+            "startTime": "0:02:16",
+            "endTime": "0:02:19.0333333",
+            "startSeconds": 136,
+            "endSeconds": 139
+          }
+        ]
+      }
+    ],
+    "sentiments": [
+      {
+        "sentimentKey": "Neutral",
+        "seenDurationRatio": 1,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:02:20",
+            "startSeconds": 0,
+            "endSeconds": 140
+          }
+        ]
+      }
+    ],
+    "emotions": [],
+    "audioEffects": [],
+    "labels": [
+      {
+        "id": 1,
+        "name": "text",
+        "appearances": [
+          {
+            "confidence": 0.9998,
+            "startTime": "0:00:01",
+            "endTime": "0:02:19.0333333",
+            "startSeconds": 1,
+            "endSeconds": 139
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "man",
+        "appearances": [
+          {
+            "confidence": 0.9748,
+            "startTime": "0:00:09",
+            "endTime": "0:00:27.0333333",
+            "startSeconds": 9,
+            "endSeconds": 27
+          },
+          {
+            "confidence": 0.959,
+            "startTime": "0:00:46",
+            "endTime": "0:00:47.0333333",
+            "startSeconds": 46,
+            "endSeconds": 47
+          },
+          {
+            "confidence": 0.9691,
+            "startTime": "0:01:37",
+            "endTime": "0:01:46.0333333",
+            "startSeconds": 97,
+            "endSeconds": 106
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "person",
+        "appearances": [
+          {
+            "confidence": 0.9781,
+            "startTime": "0:00:09",
+            "endTime": "0:00:27.0333333",
+            "startSeconds": 9,
+            "endSeconds": 27
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "clothing",
+        "appearances": [
+          {
+            "confidence": 0.9979,
+            "startTime": "0:00:09",
+            "endTime": "0:00:18.0333333",
+            "startSeconds": 9,
+            "endSeconds": 18
+          },
+          {
+            "confidence": 0.9944,
+            "startTime": "0:00:46",
+            "endTime": "0:00:51.0333333",
+            "startSeconds": 46,
+            "endSeconds": 51
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "human face",
+        "appearances": [
+          {
+            "confidence": 0.9889,
+            "startTime": "0:00:19",
+            "endTime": "0:00:27.0333333",
+            "startSeconds": 19,
+            "endSeconds": 27
+          },
+          {
+            "confidence": 0.9917,
+            "startTime": "0:00:46",
+            "endTime": "0:00:51.0333333",
+            "startSeconds": 46,
+            "endSeconds": 51
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "font",
+        "appearances": [
+          {
+            "confidence": 0.9711,
+            "startTime": "0:00:29",
+            "endTime": "0:00:37.0333333",
+            "startSeconds": 29,
+            "endSeconds": 37
+          },
+          {
+            "confidence": 0.9633,
+            "startTime": "0:02:16",
+            "endTime": "0:02:19.0333333",
+            "startSeconds": 136,
+            "endSeconds": 139
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "electronics",
+        "appearances": [
+          {
+            "confidence": 0.997,
+            "startTime": "0:01:18",
+            "endTime": "0:01:26.0333333",
+            "startSeconds": 78,
+            "endSeconds": 86
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "glasses",
+        "appearances": [
+          {
+            "confidence": 0.9734,
+            "startTime": "0:00:46",
+            "endTime": "0:00:51.0333333",
+            "startSeconds": 46,
+            "endSeconds": 51
+          }
+        ]
+      }
+    ],
+    "framePatterns": [
+      {
+        "displayName": null,
+        "id": 1,
+        "name": "Black",
+        "appearances": [
+          {
+            "confidence": 0,
+            "startTime": "0:00:00",
+            "endTime": "0:00:00.1333333",
+            "startSeconds": 0,
+            "endSeconds": 0.1
+          }
+        ]
+      }
+    ],
+    "brands": [],
+    "namedLocations": [],
+    "namedPeople": [],
+    "statistics": {
+      "correspondenceCount": 1,
+      "speakerTalkToListenRatio": {
+        "1": 0.375,
+        "2": 0.625
+      },
+      "speakerLongestMonolog": {
+        "1": 0,
+        "2": 0
+      },
+      "speakerNumberOfFragments": {
+        "1": 1,
+        "2": 3
+      },
+      "speakerWordCount": {
+        "1": 1,
+        "2": 3
+      }
+    },
+    "topics": [
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music",
+        "iabName": "Music and Audio",
+        "confidence": 0.9997,
+        "id": 1,
+        "name": "Music",
+        "appearances": [
+          {
+            "startTime": "0:00:22.36",
+            "endTime": "0:02:02.56",
+            "startSeconds": 22.4,
+            "endSeconds": 122.6
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/media/music industry",
+        "iabName": "Movies",
+        "confidence": 0.9888,
+        "id": 2,
+        "name": "Movies, Tv and Entertainment/Entertainment/Music Industry",
+        "appearances": [
+          {
+            "startTime": "0:00:22.36",
+            "endTime": "0:02:02.56",
+            "startSeconds": 22.4,
+            "endSeconds": 122.6
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/movies",
+        "iabName": "Movies",
+        "confidence": 0.8298,
+        "id": 3,
+        "name": "Movies, Tv and Entertainment/Entertainment",
+        "appearances": [
+          {
+            "startTime": "0:00:22.36",
+            "endTime": "0:02:02.56",
+            "startSeconds": 22.4,
+            "endSeconds": 122.6
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance",
+        "iabName": "Business and Finance",
+        "confidence": 0.7979,
+        "id": 4,
+        "name": "Business/Companies/Spotify Company",
+        "appearances": [
+          {
+            "startTime": "0:00:22.36",
+            "endTime": "0:02:02.56",
+            "startSeconds": 22.4,
+            "endSeconds": 122.6
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "society/communities/social networking",
+        "iabName": "Business and Finance",
+        "confidence": 0.7788,
+        "id": 5,
+        "name": "Business/Startups/Social and Online Music Startups",
+        "appearances": [
+          {
+            "startTime": "0:00:22.36",
+            "endTime": "0:02:02.56",
+            "startSeconds": 22.4,
+            "endSeconds": 122.6
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/electronic dance music",
+        "iabName": "Music and Audio",
+        "confidence": 0.6991,
+        "id": 6,
+        "name": "Music/Techno Music",
+        "appearances": [
+          {
+            "startTime": "0:00:22.36",
+            "endTime": "0:02:02.56",
+            "startSeconds": 22.4,
+            "endSeconds": 122.6
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/electronic dance music",
+        "iabName": "Music and Audio",
+        "confidence": 0.6802,
+        "id": 7,
+        "name": "Music/Electronic Music",
+        "appearances": [
+          {
+            "startTime": "0:00:22.36",
+            "endTime": "0:02:02.56",
+            "startSeconds": 22.4,
+            "endSeconds": 122.6
+          }
+        ]
+      }
+    ]
+  },
+  "videos": [
+    {
+      "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+      "id": "5t86o2cylh",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:02:20",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [
+          "en-US"
+        ],
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "transcript": [
+          {
+            "id": 1,
+            "text": "Music.",
+            "confidence": 0.1962,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.36",
+                "adjustedEnd": "0:00:22.6",
+                "start": "0:00:22.36",
+                "end": "0:00:22.6"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "The.",
+            "confidence": 0.3602,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:04.42",
+                "adjustedEnd": "0:01:04.5",
+                "start": "0:01:04.42",
+                "end": "0:01:04.5"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "The.",
+            "confidence": 0.1435,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:31.6",
+                "adjustedEnd": "0:01:31.68",
+                "start": "0:01:31.6",
+                "end": "0:01:31.68"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "Music.",
+            "confidence": 0.0452,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:02.32",
+                "adjustedEnd": "0:02:02.56",
+                "start": "0:02:02.32",
+                "end": "0:02:02.56"
+              }
+            ]
+          }
+        ],
+        "ocr": [
+          {
+            "id": 1,
+            "text": "20%",
+            "confidence": 0.986,
+            "left": 953,
+            "top": 384,
+            "width": 63,
+            "height": 30,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:17.0333333",
+                "start": "0:01:03",
+                "end": "0:01:17.0333333"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "25%",
+            "confidence": 0.997,
+            "left": 1289,
+            "top": 364,
+            "width": 54,
+            "height": 24,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:13.0333333",
+                "start": "0:01:03",
+                "end": "0:01:13.0333333"
+              },
+              {
+                "adjustedStart": "0:01:16",
+                "adjustedEnd": "0:01:17.0333333",
+                "start": "0:01:16",
+                "end": "0:01:17.0333333"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "5%",
+            "confidence": 0.977,
+            "left": 1317,
+            "top": 366,
+            "width": 25,
+            "height": 17,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:14",
+                "adjustedEnd": "0:01:15.0333333",
+                "start": "0:01:14",
+                "end": "0:01:15.0333333"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "123456",
+            "confidence": 0.969,
+            "left": 690,
+            "top": 345,
+            "width": 164,
+            "height": 30,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "20",
+            "confidence": 0.996,
+            "left": 951,
+            "top": 381,
+            "width": 63,
+            "height": 33,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:18.0333333",
+                "start": "0:01:18",
+                "end": "0:01:18.0333333"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "48%",
+            "confidence": 0.997,
+            "left": 207,
+            "top": 478,
+            "width": 328,
+            "height": 137,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:07",
+                "adjustedEnd": "0:02:15.0333333",
+                "start": "0:02:07",
+                "end": "0:02:15.0333333"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "17",
+            "confidence": 0.997,
+            "left": 423,
+            "top": 956,
+            "width": 33,
+            "height": 18,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "OnPrintShop",
+            "confidence": 0.994,
+            "left": 817,
+            "top": 140,
+            "width": 513,
+            "height": 71,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:08.0333333",
+                "start": "0:00:01",
+                "end": "0:00:08.0333333"
+              },
+              {
+                "adjustedStart": "0:02:15",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:15",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "TM",
+            "confidence": 0.992,
+            "left": 1326,
+            "top": 145,
+            "width": 26,
+            "height": 21,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:08.0333333",
+                "start": "0:00:01",
+                "end": "0:00:08.0333333"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "Web-to-Print Storefront",
+            "confidence": 0.995,
+            "left": 813,
+            "top": 232,
+            "width": 522,
+            "height": 43,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:08.0333333",
+                "start": "0:00:01",
+                "end": "0:00:08.0333333"
+              },
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "Solution to grow Reseller Network",
+            "confidence": 0.9976,
+            "left": 168,
+            "top": 516,
+            "width": 1577,
+            "height": 97,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:08.0333333",
+                "start": "0:00:01",
+                "end": "0:00:08.0333333"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "IT Partner for your Print Business",
+            "confidence": 0.995,
+            "left": 518,
+            "top": 947,
+            "width": 879,
+            "height": 58,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:08.0333333",
+                "start": "0:00:01",
+                "end": "0:00:08.0333333"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "Trade Printers Major Challenges",
+            "confidence": 0.997,
+            "left": 116,
+            "top": 109,
+            "width": 1197,
+            "height": 85,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:28.0333333",
+                "start": "0:00:09",
+                "end": "0:00:28.0333333"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "Unable to manage time due to",
+            "confidence": 0.9973,
+            "left": 133,
+            "top": 334,
+            "width": 601,
+            "height": 46,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:18.0333333",
+                "start": "0:00:09",
+                "end": "0:00:18.0333333"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "Order Management vs. Sales",
+            "confidence": 0.997,
+            "left": 135,
+            "top": 393,
+            "width": 561,
+            "height": 44,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:18.0333333",
+                "start": "0:00:09",
+                "end": "0:00:18.0333333"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "Want to offer Online Ordering to",
+            "confidence": 0.9975,
+            "left": 136,
+            "top": 526,
+            "width": 636,
+            "height": 63,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:18.0333333",
+                "start": "0:00:09",
+                "end": "0:00:18.0333333"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "end customers",
+            "confidence": 0.9955,
+            "left": 133,
+            "top": 599,
+            "width": 289,
+            "height": 37,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:18.0333333",
+                "start": "0:00:09",
+                "end": "0:00:18.0333333"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "Expand into New Markets",
+            "confidence": 0.997,
+            "left": 134,
+            "top": 716,
+            "width": 502,
+            "height": 45,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:18.0333333",
+                "start": "0:00:09",
+                "end": "0:00:18.0333333"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "IT Partner",
+            "confidence": 0.939,
+            "left": 515,
+            "top": 950,
+            "width": 301,
+            "height": 47,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:09.0333333",
+                "start": "0:00:09",
+                "end": "0:00:09.0333333"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "Increase Sales simplifying ordering",
+            "confidence": 0.9868,
+            "left": 120,
+            "top": 348,
+            "width": 678,
+            "height": 51,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:19",
+                "adjustedEnd": "0:00:28.0333333",
+                "start": "0:00:19",
+                "end": "0:00:28.0333333"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "text": "for the Resellers",
+            "confidence": 0.996,
+            "left": 120,
+            "top": 407,
+            "width": 321,
+            "height": 44,
+            "angle": 0,
+            "language": "es-ES",
+            "instances": [
+              {
+                "adjustedStart": "0:00:19",
+                "adjustedEnd": "0:00:28.0333333",
+                "start": "0:00:19",
+                "end": "0:00:28.0333333"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "text": "Offer Highly competitive Pricing",
+            "confidence": 0.9973,
+            "left": 121,
+            "top": 531,
+            "width": 622,
+            "height": 46,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:19",
+                "adjustedEnd": "0:00:28.0333333",
+                "start": "0:00:19",
+                "end": "0:00:28.0333333"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "text": "Overlook Resellers' Business to grow",
+            "confidence": 0.9968,
+            "left": 119,
+            "top": 656,
+            "width": 715,
+            "height": 45,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:19",
+                "adjustedEnd": "0:00:28.0333333",
+                "start": "0:00:19",
+                "end": "0:00:28.0333333"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "text": "So, what's the",
+            "confidence": 0.9967,
+            "left": 239,
+            "top": 276,
+            "width": 1050,
+            "height": 124,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:37.0333333",
+                "start": "0:00:29",
+                "end": "0:00:37.0333333"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "text": "NEED?",
+            "confidence": 0.998,
+            "left": 545,
+            "top": 465,
+            "width": 1154,
+            "height": 297,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:37.0333333",
+                "start": "0:00:29",
+                "end": "0:00:37.0333333"
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "text": "ton that helps to:",
+            "confidence": 0.9108,
+            "left": 810,
+            "top": 108,
+            "width": 683,
+            "height": 87,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:37.0333333",
+                "start": "0:00:37",
+                "end": "0:00:37.0333333"
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "text": "IT partner & a Solution that helps to:",
+            "confidence": 0.9944,
+            "left": 120,
+            "top": 111,
+            "width": 1369,
+            "height": 91,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:45.0333333",
+                "start": "0:00:38",
+                "end": "0:00:45.0333333"
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "text": "Increase Reseller Sales",
+            "confidence": 0.964,
+            "left": 286,
+            "top": 346,
+            "width": 476,
+            "height": 47,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:45.0333333",
+                "start": "0:00:38",
+                "end": "0:00:45.0333333"
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "text": "Reduce Costs & Delivery Time",
+            "confidence": 0.996,
+            "left": 288,
+            "top": 533,
+            "width": 630,
+            "height": 45,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:45.0333333",
+                "start": "0:00:38",
+                "end": "0:00:45.0333333"
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "text": "Flexibility to launch New Business Strategies",
+            "confidence": 0.9967,
+            "left": 285,
+            "top": 719,
+            "width": 934,
+            "height": 50,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:45.0333333",
+                "start": "0:00:38",
+                "end": "0:00:45.0333333"
+              }
+            ]
+          },
+          {
+            "id": 31,
+            "text": "THE",
+            "confidence": 0.997,
+            "left": 521,
+            "top": 275,
+            "width": 224,
+            "height": 97,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:46",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 32,
+            "text": "Increase Res",
+            "confidence": 0.9565,
+            "left": 286,
+            "top": 348,
+            "width": 273,
+            "height": 41,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:46.0333333",
+                "start": "0:00:46",
+                "end": "0:00:46.0333333"
+              }
+            ]
+          },
+          {
+            "id": 33,
+            "text": "SOLUTION?",
+            "confidence": 0.992,
+            "left": 296,
+            "top": 441,
+            "width": 672,
+            "height": 106,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:51.0333333",
+                "start": "0:00:46",
+                "end": "0:00:51.0333333"
+              }
+            ]
+          },
+          {
+            "id": 34,
+            "text": "OnPrintShop's Trade Printer Solution",
+            "confidence": 0.9965,
+            "left": 76,
+            "top": 80,
+            "width": 1370,
+            "height": 82,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:52",
+                "adjustedEnd": "0:01:17.0333333",
+                "start": "0:00:52",
+                "end": "0:01:17.0333333"
+              }
+            ]
+          },
+          {
+            "id": 35,
+            "text": "establish win-win",
+            "confidence": 0.998,
+            "left": 145,
+            "top": 550,
+            "width": 467,
+            "height": 57,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:52",
+                "adjustedEnd": "0:01:03.0333333",
+                "start": "0:00:52",
+                "end": "0:01:03.0333333"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "text": "'partnerships\" between end",
+            "confidence": 0.9683,
+            "left": 158,
+            "top": 628,
+            "width": 742,
+            "height": 65,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:52",
+                "adjustedEnd": "0:01:03.0333333",
+                "start": "0:00:52",
+                "end": "0:01:03.0333333"
+              }
+            ]
+          },
+          {
+            "id": 37,
+            "text": "user, reseller & suppliers",
+            "confidence": 0.995,
+            "left": 144,
+            "top": 702,
+            "width": 659,
+            "height": 63,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:52",
+                "adjustedEnd": "0:01:03.0333333",
+                "start": "0:00:52",
+                "end": "0:01:03.0333333"
+              }
+            ]
+          },
+          {
+            "id": 38,
+            "text": "Specially designed to",
+            "confidence": 0.998,
+            "left": 141,
+            "top": 472,
+            "width": 563,
+            "height": 65,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53",
+                "adjustedEnd": "0:01:03.0333333",
+                "start": "0:00:53",
+                "end": "0:01:03.0333333"
+              }
+            ]
+          },
+          {
+            "id": 39,
+            "text": "UNLIMITED PRIVATE STORES",
+            "confidence": 0.9937,
+            "left": 1130,
+            "top": 254,
+            "width": 286,
+            "height": 22,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:17.0333333",
+                "start": "0:01:03",
+                "end": "0:01:17.0333333"
+              }
+            ]
+          },
+          {
+            "id": 40,
+            "text": "TORES WITH ADMIN",
+            "confidence": 0.9947,
+            "left": 910,
+            "top": 631,
+            "width": 340,
+            "height": 38,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:03.0333333",
+                "start": "0:01:03",
+                "end": "0:01:03.0333333"
+              }
+            ]
+          },
+          {
+            "id": 41,
+            "text": "PRINT ORDER",
+            "confidence": 0.9815,
+            "left": 1564,
+            "top": 682,
+            "width": 87,
+            "height": 18,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:17.0333333",
+                "start": "0:01:03",
+                "end": "0:01:17.0333333"
+              }
+            ]
+          },
+          {
+            "id": 42,
+            "text": "PRODUCTION",
+            "confidence": 0.992,
+            "left": 1301,
+            "top": 834,
+            "width": 230,
+            "height": 32,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:17.0333333",
+                "start": "0:01:03",
+                "end": "0:01:17.0333333"
+              }
+            ]
+          },
+          {
+            "id": 43,
+            "text": "Workflow Automation",
+            "confidence": 0.9975,
+            "left": 1312,
+            "top": 896,
+            "width": 224,
+            "height": 21,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:17.0333333",
+                "start": "0:01:03",
+                "end": "0:01:17.0333333"
+              }
+            ]
+          },
+          {
+            "id": 44,
+            "text": "(XML & Hot Folder)",
+            "confidence": 0.9778,
+            "left": 1310,
+            "top": 924,
+            "width": 194,
+            "height": 25,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:17.0333333",
+                "start": "0:01:03",
+                "end": "0:01:17.0333333"
+              }
+            ]
+          },
+          {
+            "id": 45,
+            "text": "Customization",
+            "confidence": 0.992,
+            "left": 1671,
+            "top": 913,
+            "width": 149,
+            "height": 21,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:17.0333333",
+                "start": "0:01:03",
+                "end": "0:01:17.0333333"
+              }
+            ]
+          },
+          {
+            "id": 46,
+            "text": "Third Party Integration",
+            "confidence": 0.989,
+            "left": 1473,
+            "top": 977,
+            "width": 232,
+            "height": 24,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:17.0333333",
+                "start": "0:01:03",
+                "end": "0:01:17.0333333"
+              }
+            ]
+          },
+          {
+            "id": 47,
+            "text": "(MIS, CRM, Accounting)",
+            "confidence": 0.9937,
+            "left": 1468,
+            "top": 1007,
+            "width": 246,
+            "height": 26,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:17.0333333",
+                "start": "0:01:03",
+                "end": "0:01:17.0333333"
+              }
+            ]
+          },
+          {
+            "id": 48,
+            "text": "B2C",
+            "confidence": 0.995,
+            "left": 482,
+            "top": 227,
+            "width": 50,
+            "height": 21,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:04",
+                "adjustedEnd": "0:01:18.0333333",
+                "start": "0:01:04",
+                "end": "0:01:18.0333333"
+              }
+            ]
+          },
+          {
+            "id": 49,
+            "text": "B2B",
+            "confidence": 0.995,
+            "left": 977,
+            "top": 229,
+            "width": 51,
+            "height": 21,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:04",
+                "adjustedEnd": "0:01:17.0333333",
+                "start": "0:01:04",
+                "end": "0:01:17.0333333"
+              }
+            ]
+          },
+          {
+            "id": 50,
+            "text": "RESELLER PUBLIC STORES",
+            "confidence": 0.997,
+            "left": 627,
+            "top": 254,
+            "width": 253,
+            "height": 22,
+            "angle": 0,
+            "language": "es-ES",
+            "instances": [
+              {
+                "adjustedStart": "0:01:04",
+                "adjustedEnd": "0:01:18.0333333",
+                "start": "0:01:04",
+                "end": "0:01:18.0333333"
+              }
+            ]
+          },
+          {
+            "id": 51,
+            "text": "Design your personalized",
+            "confidence": 0.9557,
+            "left": 431,
+            "top": 373,
+            "width": 95,
+            "height": 10,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:04",
+                "adjustedEnd": "0:01:18.0333333",
+                "start": "0:01:04",
+                "end": "0:01:18.0333333"
+              }
+            ]
+          },
+          {
+            "id": 52,
+            "text": "BRANDING MATERIAL",
+            "confidence": 0.9975,
+            "left": 413,
+            "top": 387,
+            "width": 108,
+            "height": 10,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:04",
+                "adjustedEnd": "0:01:18.0333333",
+                "start": "0:01:04",
+                "end": "0:01:18.0333333"
+              }
+            ]
+          },
+          {
+            "id": 53,
+            "text": "RESELLER W2P STORES WITH ADMIN",
+            "confidence": 0.9972,
+            "left": 640,
+            "top": 631,
+            "width": 613,
+            "height": 36,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:04",
+                "adjustedEnd": "0:01:17.0333333",
+                "start": "0:01:04",
+                "end": "0:01:17.0333333"
+              }
+            ]
+          },
+          {
+            "id": 54,
+            "text": "TRADE PRINTER ADMIN",
+            "confidence": 0.998,
+            "left": 745,
+            "top": 979,
+            "width": 395,
+            "height": 32,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:04",
+                "adjustedEnd": "0:01:18.0333333",
+                "start": "0:01:04",
+                "end": "0:01:18.0333333"
+              }
+            ]
+          },
+          {
+            "id": 55,
+            "text": "OnPrintShAter Marketing Website",
+            "confidence": 0.942,
+            "left": 78,
+            "top": 74,
+            "width": 1269,
+            "height": 99,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:18.0333333",
+                "start": "0:01:18",
+                "end": "0:01:18.0333333"
+              }
+            ]
+          },
+          {
+            "id": 56,
+            "text": "Trade Printer",
+            "confidence": 0.9945,
+            "left": 113,
+            "top": 348,
+            "width": 258,
+            "height": 40,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 57,
+            "text": "Features",
+            "confidence": 0.993,
+            "left": 166,
+            "top": 415,
+            "width": 68,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 58,
+            "text": "Sig",
+            "confidence": 0.982,
+            "left": 248,
+            "top": 415,
+            "width": 27,
+            "height": 14,
+            "angle": 4,
+            "language": "sv-SE",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:18.0333333",
+                "start": "0:01:18",
+                "end": "0:01:18.0333333"
+              }
+            ]
+          },
+          {
+            "id": 59,
+            "text": "Live Demo",
+            "confidence": 0.9695,
+            "left": 439,
+            "top": 414,
+            "width": 73,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 60,
+            "text": "Pricing",
+            "confidence": 0.998,
+            "left": 529,
+            "top": 415,
+            "width": 45,
+            "height": 12,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 61,
+            "text": "FAQ",
+            "confidence": 0.985,
+            "left": 598,
+            "top": 416,
+            "width": 28,
+            "height": 11,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "text": "Contact Us",
+            "confidence": 0.998,
+            "left": 650,
+            "top": 414,
+            "width": 72,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 63,
+            "text": "Training",
+            "confidence": 0.963,
+            "left": 741,
+            "top": 415,
+            "width": 52,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 64,
+            "text": "The Website",
+            "confidence": 0.9975,
+            "left": 160,
+            "top": 493,
+            "width": 236,
+            "height": 48,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 65,
+            "text": "Easy to Use",
+            "confidence": 0.9953,
+            "left": 456,
+            "top": 480,
+            "width": 91,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 66,
+            "text": "Complete Online Solution",
+            "confidence": 0.9893,
+            "left": 460,
+            "top": 502,
+            "width": 167,
+            "height": 19,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 67,
+            "text": "Reseller Specific Pricing & Products",
+            "confidence": 0.9972,
+            "left": 1045,
+            "top": 502,
+            "width": 759,
+            "height": 53,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 68,
+            "text": "You Have Been",
+            "confidence": 0.9957,
+            "left": 188,
+            "top": 539,
+            "width": 171,
+            "height": 30,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 69,
+            "text": "Take Print Orders 24/7!",
+            "confidence": 0.9973,
+            "left": 460,
+            "top": 533,
+            "width": 176,
+            "height": 21,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 70,
+            "text": "Waiting For!",
+            "confidence": 0.997,
+            "left": 210,
+            "top": 565,
+            "width": 215,
+            "height": 53,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 71,
+            "text": "Top Support",
+            "confidence": 0.9965,
+            "left": 462,
+            "top": 567,
+            "width": 76,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "text": "Low Cost",
+            "confidence": 0.996,
+            "left": 460,
+            "top": 590,
+            "width": 62,
+            "height": 19,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 73,
+            "text": "Huge Profits",
+            "confidence": 0.9965,
+            "left": 459,
+            "top": 613,
+            "width": 81,
+            "height": 19,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 74,
+            "text": "ORES",
+            "confidence": 0.993,
+            "left": 926,
+            "top": 632,
+            "width": 101,
+            "height": 35,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:18.0333333",
+                "start": "0:01:18",
+                "end": "0:01:18.0333333"
+              }
+            ]
+          },
+          {
+            "id": 75,
+            "text": "Reseller Registration Form",
+            "confidence": 0.996,
+            "left": 1045,
+            "top": 598,
+            "width": 573,
+            "height": 50,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 76,
+            "text": "RESE",
+            "confidence": 0.964,
+            "left": 638,
+            "top": 638,
+            "width": 80,
+            "height": 31,
+            "angle": -3,
+            "language": "it-IT",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:18.0333333",
+                "start": "0:01:18",
+                "end": "0:01:18.0333333"
+              }
+            ]
+          },
+          {
+            "id": 77,
+            "text": "ER",
+            "confidence": 0.997,
+            "left": 753,
+            "top": 634,
+            "width": 38,
+            "height": 30,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:18.0333333",
+                "start": "0:01:18",
+                "end": "0:01:18.0333333"
+              }
+            ]
+          },
+          {
+            "id": 78,
+            "text": "Print Brokers. Resellers. Designers. Selling print online has never been so easy!",
+            "confidence": 0.9968,
+            "left": 113,
+            "top": 720,
+            "width": 720,
+            "height": 26,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 79,
+            "text": "Web2PrintiT create a COMPLETE online store front solution for print resellers, brokers and designers.",
+            "confidence": 0.946,
+            "left": 114,
+            "top": 762,
+            "width": 525,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 80,
+            "text": "Web2PrintIT gives you an extremely easy way to take online print orders. 24 hours a day. 7 days a week. You'll also have the support of Canada's",
+            "confidence": 0.9375,
+            "left": 111,
+            "top": 780,
+            "width": 749,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 81,
+            "text": "Trade Printer Marketing Website",
+            "confidence": 0.998,
+            "left": 127,
+            "top": 107,
+            "width": 1225,
+            "height": 82,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:19",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:19",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 82,
+            "text": "Signup",
+            "confidence": 0.998,
+            "left": 248,
+            "top": 415,
+            "width": 53,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:19",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:19",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 83,
+            "text": "Website themes",
+            "confidence": 0.9965,
+            "left": 318,
+            "top": 414,
+            "width": 102,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:19",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:19",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 84,
+            "text": "\u00b7 Create Personalized Reseller Stores",
+            "confidence": 0.9056,
+            "left": 910,
+            "top": 544,
+            "width": 818,
+            "height": 46,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:26",
+                "adjustedEnd": "0:01:36.0333333",
+                "start": "0:01:26",
+                "end": "0:01:36.0333333"
+              }
+            ]
+          },
+          {
+            "id": 85,
+            "text": "\u00b7 Central Order Management & Reports",
+            "confidence": 0.9183,
+            "left": 912,
+            "top": 639,
+            "width": 881,
+            "height": 46,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:26",
+                "adjustedEnd": "0:01:36.0333333",
+                "start": "0:01:26",
+                "end": "0:01:36.0333333"
+              }
+            ]
+          },
+          {
+            "id": 86,
+            "text": "Trade PrinterAdmiores",
+            "confidence": 0.91,
+            "left": 121,
+            "top": 116,
+            "width": 888,
+            "height": 68,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:27",
+                "adjustedEnd": "0:01:36.0333333",
+                "start": "0:01:27",
+                "end": "0:01:36.0333333"
+              }
+            ]
+          },
+          {
+            "id": 87,
+            "text": "Manage B2B & B2C customers",
+            "confidence": 0.9956,
+            "left": 1059,
+            "top": 374,
+            "width": 658,
+            "height": 49,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:36",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:36",
+                "end": "0:01:46.0333333"
+              }
+            ]
+          },
+          {
+            "id": 88,
+            "text": "\u00b7 Advanced Marketing Tools",
+            "confidence": 0.942,
+            "left": 1006,
+            "top": 463,
+            "width": 631,
+            "height": 55,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:36",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:36",
+                "end": "0:01:46.0333333"
+              }
+            ]
+          },
+          {
+            "id": 89,
+            "text": "Print Orders Online",
+            "confidence": 0.998,
+            "left": 314,
+            "top": 494,
+            "width": 183,
+            "height": 26,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:36",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:36",
+                "end": "0:01:46.0333333"
+              }
+            ]
+          },
+          {
+            "id": 90,
+            "text": "Web to Print Key Features",
+            "confidence": 0.9508,
+            "left": 829,
+            "top": 855,
+            "width": 95,
+            "height": 10,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:36",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:36",
+                "end": "0:01:46.0333333"
+              }
+            ]
+          },
+          {
+            "id": 91,
+            "text": "Reseller Branded Stores",
+            "confidence": 0.998,
+            "left": 121,
+            "top": 115,
+            "width": 884,
+            "height": 70,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:37",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:37",
+                "end": "0:01:46.0333333"
+              }
+            ]
+          },
+          {
+            "id": 92,
+            "text": "Managing",
+            "confidence": 0.998,
+            "left": 357,
+            "top": 464,
+            "width": 100,
+            "height": 27,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:37",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:37",
+                "end": "0:01:46.0333333"
+              }
+            ]
+          },
+          {
+            "id": 93,
+            "text": "A print e-commerce simplifying your",
+            "confidence": 0.9502,
+            "left": 330,
+            "top": 534,
+            "width": 152,
+            "height": 9,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:37",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:37",
+                "end": "0:01:46.0333333"
+              }
+            ]
+          },
+          {
+            "id": 94,
+            "text": "Order Management",
+            "confidence": 0.912,
+            "left": 359,
+            "top": 548,
+            "width": 94,
+            "height": 9,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:37",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:37",
+                "end": "0:01:46.0333333"
+              }
+            ]
+          },
+          {
+            "id": 95,
+            "text": "Know More >",
+            "confidence": 0.9263,
+            "left": 374,
+            "top": 583,
+            "width": 62,
+            "height": 10,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:37",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:37",
+                "end": "0:01:46.0333333"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "text": "PrintShop",
+            "confidence": 0.924,
+            "left": 821,
+            "top": 698,
+            "width": 66,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:37",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:37",
+                "end": "0:01:46.0333333"
+              }
+            ]
+          },
+          {
+            "id": 97,
+            "text": "Managing Print Orders Online",
+            "confidence": 0.9603,
+            "left": 827,
+            "top": 767,
+            "width": 93,
+            "height": 8,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:37",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:37",
+                "end": "0:01:46.0333333"
+              }
+            ]
+          },
+          {
+            "id": 98,
+            "text": "Why Us?",
+            "confidence": 0.997,
+            "left": 144,
+            "top": 111,
+            "width": 327,
+            "height": 82,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:47",
+                "adjustedEnd": "0:02:06.0333333",
+                "start": "0:01:47",
+                "end": "0:02:06.0333333"
+              }
+            ]
+          },
+          {
+            "id": 99,
+            "text": "Extensive Experience delivering success for",
+            "confidence": 0.9968,
+            "left": 305,
+            "top": 295,
+            "width": 858,
+            "height": 50,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:47",
+                "adjustedEnd": "0:02:05.0333333",
+                "start": "0:01:47",
+                "end": "0:02:05.0333333"
+              }
+            ]
+          },
+          {
+            "id": 100,
+            "text": "Print Companies",
+            "confidence": 0.9975,
+            "left": 300,
+            "top": 350,
+            "width": 334,
+            "height": 50,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:47",
+                "adjustedEnd": "0:02:06.0333333",
+                "start": "0:01:47",
+                "end": "0:02:06.0333333"
+              }
+            ]
+          },
+          {
+            "id": 101,
+            "text": "Highly Customizable and Scalable for your",
+            "confidence": 0.9965,
+            "left": 305,
+            "top": 543,
+            "width": 835,
+            "height": 48,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:47",
+                "adjustedEnd": "0:02:06.0333333",
+                "start": "0:01:47",
+                "end": "0:02:06.0333333"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "text": "evolving business",
+            "confidence": 0.9975,
+            "left": 307,
+            "top": 602,
+            "width": 346,
+            "height": 46,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:47",
+                "adjustedEnd": "0:02:06.0333333",
+                "start": "0:01:47",
+                "end": "0:02:06.0333333"
+              }
+            ]
+          },
+          {
+            "id": 103,
+            "text": "Personalized Support & Training for uninterrupted",
+            "confidence": 0.9947,
+            "left": 299,
+            "top": 793,
+            "width": 1015,
+            "height": 49,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:47",
+                "adjustedEnd": "0:02:06.0333333",
+                "start": "0:01:47",
+                "end": "0:02:06.0333333"
+              }
+            ]
+          },
+          {
+            "id": 104,
+            "text": "growth of your business",
+            "confidence": 0.9975,
+            "left": 300,
+            "top": 851,
+            "width": 487,
+            "height": 51,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:47",
+                "adjustedEnd": "0:02:06.0333333",
+                "start": "0:01:47",
+                "end": "0:02:06.0333333"
+              }
+            ]
+          },
+          {
+            "id": 105,
+            "text": "Extensive Experience delivering success forter since 2007 from",
+            "confidence": 0.9789,
+            "left": 305,
+            "top": 294,
+            "width": 1335,
+            "height": 51,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:06",
+                "adjustedEnd": "0:02:06.0333333",
+                "start": "0:02:06",
+                "end": "0:02:06.0333333"
+              }
+            ]
+          },
+          {
+            "id": 106,
+            "text": "OnPrintShop is one of the best decisions",
+            "confidence": 0.953,
+            "left": 1108,
+            "top": 524,
+            "width": 640,
+            "height": 40,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:06",
+                "adjustedEnd": "0:02:06.0333333",
+                "start": "0:02:06",
+                "end": "0:02:06.0333333"
+              }
+            ]
+          },
+          {
+            "id": 107,
+            "text": "that we have made & we have been growing 20-40% per year",
+            "confidence": 0.9962,
+            "left": 745,
+            "top": 597,
+            "width": 1005,
+            "height": 39,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:06",
+                "adjustedEnd": "0:02:15.0333333",
+                "start": "0:02:06",
+                "end": "0:02:15.0333333"
+              }
+            ]
+          },
+          {
+            "id": 108,
+            "text": "consistently since our start.",
+            "confidence": 0.992,
+            "left": 1018,
+            "top": 672,
+            "width": 445,
+            "height": 35,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:06",
+                "adjustedEnd": "0:02:15.0333333",
+                "start": "0:02:06",
+                "end": "0:02:15.0333333"
+              }
+            ]
+          },
+          {
+            "id": 109,
+            "text": "- GENE HEMZHIE",
+            "confidence": 0.9903,
+            "left": 1334,
+            "top": 814,
+            "width": 284,
+            "height": 34,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:06",
+                "adjustedEnd": "0:02:14.0333333",
+                "start": "0:02:06",
+                "end": "0:02:14.0333333"
+              }
+            ]
+          },
+          {
+            "id": 110,
+            "text": "President",
+            "confidence": 0.998,
+            "left": 1338,
+            "top": 859,
+            "width": 130,
+            "height": 31,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:06",
+                "adjustedEnd": "0:02:15.0333333",
+                "start": "0:02:06",
+                "end": "0:02:15.0333333"
+              }
+            ]
+          },
+          {
+            "id": 111,
+            "text": "FireSprint",
+            "confidence": 0.994,
+            "left": 1346,
+            "top": 917,
+            "width": 310,
+            "height": 61,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:06",
+                "adjustedEnd": "0:02:15.0333333",
+                "start": "0:02:06",
+                "end": "0:02:15.0333333"
+              }
+            ]
+          },
+          {
+            "id": 112,
+            "text": "USA",
+            "confidence": 0.996,
+            "left": 1680,
+            "top": 936,
+            "width": 62,
+            "height": 34,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:06",
+                "adjustedEnd": "0:02:15.0333333",
+                "start": "0:02:06",
+                "end": "0:02:15.0333333"
+              }
+            ]
+          },
+          {
+            "id": 113,
+            "text": "Success Story",
+            "confidence": 0.998,
+            "left": 119,
+            "top": 116,
+            "width": 506,
+            "height": 70,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:07",
+                "adjustedEnd": "0:02:15.0333333",
+                "start": "0:02:07",
+                "end": "0:02:15.0333333"
+              }
+            ]
+          },
+          {
+            "id": 114,
+            "text": "Trade Only Wholesale Signage Printer since 2007 from",
+            "confidence": 0.997,
+            "left": 292,
+            "top": 270,
+            "width": 1348,
+            "height": 63,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:07",
+                "adjustedEnd": "0:02:15.0333333",
+                "start": "0:02:07",
+                "end": "0:02:15.0333333"
+              }
+            ]
+          },
+          {
+            "id": 115,
+            "text": "Omaha serving entire USA",
+            "confidence": 0.9975,
+            "left": 639,
+            "top": 343,
+            "width": 661,
+            "height": 59,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:07",
+                "adjustedEnd": "0:02:15.0333333",
+                "start": "0:02:07",
+                "end": "0:02:15.0333333"
+              }
+            ]
+          },
+          {
+            "id": 116,
+            "text": "Being associated with OnPrintShop is one of the best decisions",
+            "confidence": 0.9968,
+            "left": 741,
+            "top": 525,
+            "width": 1008,
+            "height": 41,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:07",
+                "adjustedEnd": "0:02:15.0333333",
+                "start": "0:02:07",
+                "end": "0:02:15.0333333"
+              }
+            ]
+          },
+          {
+            "id": 117,
+            "text": "increase",
+            "confidence": 0.998,
+            "left": 214,
+            "top": 632,
+            "width": 312,
+            "height": 67,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:07",
+                "adjustedEnd": "0:02:15.0333333",
+                "start": "0:02:07",
+                "end": "0:02:15.0333333"
+              }
+            ]
+          },
+          {
+            "id": 118,
+            "text": "in revenue",
+            "confidence": 0.9975,
+            "left": 278,
+            "top": 716,
+            "width": 183,
+            "height": 33,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:07",
+                "adjustedEnd": "0:02:15.0333333",
+                "start": "0:02:07",
+                "end": "0:02:15.0333333"
+              }
+            ]
+          },
+          {
+            "id": 119,
+            "text": "- GENE HEMZHIE t Storefront",
+            "confidence": 0.9126,
+            "left": 1337,
+            "top": 815,
+            "width": 436,
+            "height": 32,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:15",
+                "adjustedEnd": "0:02:15.0333333",
+                "start": "0:02:15",
+                "end": "0:02:15.0333333"
+              }
+            ]
+          },
+          {
+            "id": 120,
+            "text": "Thank you",
+            "confidence": 0.9855,
+            "left": 576,
+            "top": 202,
+            "width": 821,
+            "height": 203,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 121,
+            "text": "Sales & Management",
+            "confidence": 0.9943,
+            "left": 84,
+            "top": 768,
+            "width": 144,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 122,
+            "text": "Systems",
+            "confidence": 0.998,
+            "left": 129,
+            "top": 787,
+            "width": 57,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 123,
+            "text": "Sales & Order Entry",
+            "confidence": 0.9965,
+            "left": 316,
+            "top": 782,
+            "width": 132,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 124,
+            "text": "Personalized Photo",
+            "confidence": 0.995,
+            "left": 98,
+            "top": 809,
+            "width": 120,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 125,
+            "text": "Wide Format",
+            "confidence": 0.9965,
+            "left": 342,
+            "top": 808,
+            "width": 79,
+            "height": 12,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 126,
+            "text": "Unified-W2P Advanced",
+            "confidence": 0.9665,
+            "left": 541,
+            "top": 809,
+            "width": 132,
+            "height": 13,
+            "angle": 0,
+            "language": "pl-PL",
+            "instances": [
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 127,
+            "text": "Products W2P Solution",
+            "confidence": 0.9953,
+            "left": 91,
+            "top": 825,
+            "width": 131,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 128,
+            "text": "Module",
+            "confidence": 0.998,
+            "left": 357,
+            "top": 825,
+            "width": 49,
+            "height": 11,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 129,
+            "text": "B2B nConnect",
+            "confidence": 0.9745,
+            "left": 565,
+            "top": 825,
+            "width": 85,
+            "height": 13,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 130,
+            "text": "RED",
+            "confidence": 0.964,
+            "left": 108,
+            "top": 857,
+            "width": 115,
+            "height": 40,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 131,
+            "text": "MUST",
+            "confidence": 0.996,
+            "left": 314,
+            "top": 861,
+            "width": 140,
+            "height": 38,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 132,
+            "text": "Technology",
+            "confidence": 0.976,
+            "left": 85,
+            "top": 903,
+            "width": 143,
+            "height": 33,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 133,
+            "text": "SEE 'EMS",
+            "confidence": 0.9895,
+            "left": 315,
+            "top": 902,
+            "width": 138,
+            "height": 26,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 134,
+            "text": "www.onprintshop.com",
+            "confidence": 0.983,
+            "left": 1400,
+            "top": 920,
+            "width": 337,
+            "height": 34,
+            "angle": 0,
+            "language": "fi-FI",
+            "instances": [
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 135,
+            "text": "PRINT 18",
+            "confidence": 0.9935,
+            "left": 109,
+            "top": 943,
+            "width": 96,
+            "height": 22,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 136,
+            "text": "PRINT",
+            "confidence": 0.998,
+            "left": 302,
+            "top": 955,
+            "width": 110,
+            "height": 20,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 137,
+            "text": "GRAPH EXPO 16",
+            "confidence": 0.9967,
+            "left": 528,
+            "top": 960,
+            "width": 161,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 1,
+            "text": "gene hemzhie",
+            "confidence": 0.9392,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:06",
+                "adjustedEnd": "0:02:14.0333333",
+                "start": "0:02:06",
+                "end": "0:02:14.0333333"
+              },
+              {
+                "adjustedStart": "0:02:15",
+                "adjustedEnd": "0:02:15.0333333",
+                "start": "0:02:15",
+                "end": "0:02:15.0333333"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "trade printer",
+            "confidence": 0.9349,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:28.0333333",
+                "start": "0:00:09",
+                "end": "0:00:28.0333333"
+              },
+              {
+                "adjustedStart": "0:00:52",
+                "adjustedEnd": "0:01:17.0333333",
+                "start": "0:00:52",
+                "end": "0:01:17.0333333"
+              },
+              {
+                "adjustedStart": "0:01:04",
+                "adjustedEnd": "0:01:18.0333333",
+                "start": "0:01:04",
+                "end": "0:01:18.0333333"
+              },
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:19",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:19",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:27",
+                "adjustedEnd": "0:01:36.0333333",
+                "start": "0:01:27",
+                "end": "0:01:36.0333333"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "order management",
+            "confidence": 0.9346,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:18.0333333",
+                "start": "0:00:09",
+                "end": "0:00:18.0333333"
+              },
+              {
+                "adjustedStart": "0:01:26",
+                "adjustedEnd": "0:01:36.0333333",
+                "start": "0:01:26",
+                "end": "0:01:36.0333333"
+              },
+              {
+                "adjustedStart": "0:01:37",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:37",
+                "end": "0:01:46.0333333"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "print order",
+            "confidence": 0.9316,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:17.0333333",
+                "start": "0:01:03",
+                "end": "0:01:17.0333333"
+              },
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:36",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:36",
+                "end": "0:01:46.0333333"
+              },
+              {
+                "adjustedStart": "0:01:37",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:37",
+                "end": "0:01:46.0333333"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "print",
+            "confidence": 0.6526,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:08.0333333",
+                "start": "0:00:01",
+                "end": "0:00:08.0333333"
+              },
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:08.0333333",
+                "start": "0:00:01",
+                "end": "0:00:08.0333333"
+              },
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:08.0333333",
+                "start": "0:00:01",
+                "end": "0:00:08.0333333"
+              },
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:28.0333333",
+                "start": "0:00:09",
+                "end": "0:00:28.0333333"
+              },
+              {
+                "adjustedStart": "0:00:52",
+                "adjustedEnd": "0:01:17.0333333",
+                "start": "0:00:52",
+                "end": "0:01:17.0333333"
+              },
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:17.0333333",
+                "start": "0:01:03",
+                "end": "0:01:17.0333333"
+              },
+              {
+                "adjustedStart": "0:01:04",
+                "adjustedEnd": "0:01:18.0333333",
+                "start": "0:01:04",
+                "end": "0:01:18.0333333"
+              },
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:18.0333333",
+                "start": "0:01:18",
+                "end": "0:01:18.0333333"
+              },
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:19",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:19",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:27",
+                "adjustedEnd": "0:01:36.0333333",
+                "start": "0:01:27",
+                "end": "0:01:36.0333333"
+              },
+              {
+                "adjustedStart": "0:01:36",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:36",
+                "end": "0:01:46.0333333"
+              },
+              {
+                "adjustedStart": "0:01:36",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:36",
+                "end": "0:01:46.0333333"
+              },
+              {
+                "adjustedStart": "0:01:37",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:37",
+                "end": "0:01:46.0333333"
+              },
+              {
+                "adjustedStart": "0:01:37",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:37",
+                "end": "0:01:46.0333333"
+              },
+              {
+                "adjustedStart": "0:01:37",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:37",
+                "end": "0:01:46.0333333"
+              },
+              {
+                "adjustedStart": "0:01:47",
+                "adjustedEnd": "0:02:06.0333333",
+                "start": "0:01:47",
+                "end": "0:02:06.0333333"
+              },
+              {
+                "adjustedStart": "0:02:06",
+                "adjustedEnd": "0:02:06.0333333",
+                "start": "0:02:06",
+                "end": "0:02:06.0333333"
+              },
+              {
+                "adjustedStart": "0:02:06",
+                "adjustedEnd": "0:02:15.0333333",
+                "start": "0:02:06",
+                "end": "0:02:15.0333333"
+              },
+              {
+                "adjustedStart": "0:02:07",
+                "adjustedEnd": "0:02:15.0333333",
+                "start": "0:02:07",
+                "end": "0:02:15.0333333"
+              },
+              {
+                "adjustedStart": "0:02:07",
+                "adjustedEnd": "0:02:15.0333333",
+                "start": "0:02:07",
+                "end": "0:02:15.0333333"
+              },
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              },
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              },
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "trade",
+            "confidence": 0.6515,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:28.0333333",
+                "start": "0:00:09",
+                "end": "0:00:28.0333333"
+              },
+              {
+                "adjustedStart": "0:00:52",
+                "adjustedEnd": "0:01:17.0333333",
+                "start": "0:00:52",
+                "end": "0:01:17.0333333"
+              },
+              {
+                "adjustedStart": "0:01:04",
+                "adjustedEnd": "0:01:18.0333333",
+                "start": "0:01:04",
+                "end": "0:01:18.0333333"
+              },
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:19",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:19",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:27",
+                "adjustedEnd": "0:01:36.0333333",
+                "start": "0:01:27",
+                "end": "0:01:36.0333333"
+              },
+              {
+                "adjustedStart": "0:02:07",
+                "adjustedEnd": "0:02:15.0333333",
+                "start": "0:02:07",
+                "end": "0:02:15.0333333"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "partner",
+            "confidence": 0.6477,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:08.0333333",
+                "start": "0:00:01",
+                "end": "0:00:08.0333333"
+              },
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:09.0333333",
+                "start": "0:00:09",
+                "end": "0:00:09.0333333"
+              },
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:45.0333333",
+                "start": "0:00:38",
+                "end": "0:00:45.0333333"
+              },
+              {
+                "adjustedStart": "0:00:52",
+                "adjustedEnd": "0:01:03.0333333",
+                "start": "0:00:52",
+                "end": "0:01:03.0333333"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "website",
+            "confidence": 0.6462,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:18.0333333",
+                "start": "0:01:18",
+                "end": "0:01:18.0333333"
+              },
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:19",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:19",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:19",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:19",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "resellers",
+            "confidence": 0.6448,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:19",
+                "adjustedEnd": "0:00:28.0333333",
+                "start": "0:00:19",
+                "end": "0:00:28.0333333"
+              },
+              {
+                "adjustedStart": "0:00:19",
+                "adjustedEnd": "0:00:28.0333333",
+                "start": "0:00:19",
+                "end": "0:00:28.0333333"
+              },
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "easy",
+            "confidence": 0.6448,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "brokers",
+            "confidence": 0.6448,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "web2printit",
+            "confidence": 0.6448,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "support",
+            "confidence": 0.6448,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              },
+              {
+                "adjustedStart": "0:01:47",
+                "adjustedEnd": "0:02:06.0333333",
+                "start": "0:01:47",
+                "end": "0:02:06.0333333"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "business",
+            "confidence": 0.644,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:08.0333333",
+                "start": "0:00:01",
+                "end": "0:00:08.0333333"
+              },
+              {
+                "adjustedStart": "0:00:19",
+                "adjustedEnd": "0:00:28.0333333",
+                "start": "0:00:19",
+                "end": "0:00:28.0333333"
+              },
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:45.0333333",
+                "start": "0:00:38",
+                "end": "0:00:45.0333333"
+              },
+              {
+                "adjustedStart": "0:01:47",
+                "adjustedEnd": "0:02:06.0333333",
+                "start": "0:01:47",
+                "end": "0:02:06.0333333"
+              },
+              {
+                "adjustedStart": "0:01:47",
+                "adjustedEnd": "0:02:06.0333333",
+                "start": "0:01:47",
+                "end": "0:02:06.0333333"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "personalized",
+            "confidence": 0.6436,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:04",
+                "adjustedEnd": "0:01:18.0333333",
+                "start": "0:01:04",
+                "end": "0:01:18.0333333"
+              },
+              {
+                "adjustedStart": "0:01:26",
+                "adjustedEnd": "0:01:36.0333333",
+                "start": "0:01:26",
+                "end": "0:01:36.0333333"
+              },
+              {
+                "adjustedStart": "0:01:47",
+                "adjustedEnd": "0:02:06.0333333",
+                "start": "0:01:47",
+                "end": "0:02:06.0333333"
+              },
+              {
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 1,
+            "name": "Music",
+            "referenceId": "Music",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music",
+            "confidence": 0.9997,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.36",
+                "adjustedEnd": "0:02:02.56",
+                "start": "0:00:22.36",
+                "end": "0:02:02.56"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Music Industry",
+            "referenceId": "Movies, Tv and Entertainment/Entertainment/Music Industry",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/media/music industry",
+            "confidence": 0.9888,
+            "iabName": "Movies",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.36",
+                "adjustedEnd": "0:02:02.56",
+                "start": "0:00:22.36",
+                "end": "0:02:02.56"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Entertainment",
+            "referenceId": "Movies, Tv and Entertainment/Entertainment",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/movies",
+            "confidence": 0.8298,
+            "iabName": "Movies",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.36",
+                "adjustedEnd": "0:02:02.56",
+                "start": "0:00:22.36",
+                "end": "0:02:02.56"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Spotify Company",
+            "referenceId": "Business/Companies/Spotify Company",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance",
+            "confidence": 0.7979,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.36",
+                "adjustedEnd": "0:02:02.56",
+                "start": "0:00:22.36",
+                "end": "0:02:02.56"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Social and Online Music Startups",
+            "referenceId": "Business/Startups/Social and Online Music Startups",
+            "referenceType": "VideoIndexer",
+            "iptcName": "society/communities/social networking",
+            "confidence": 0.7788,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.36",
+                "adjustedEnd": "0:02:02.56",
+                "start": "0:00:22.36",
+                "end": "0:02:02.56"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Techno Music",
+            "referenceId": "Music/Techno Music",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/electronic dance music",
+            "confidence": 0.6991,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.36",
+                "adjustedEnd": "0:02:02.56",
+                "start": "0:00:22.36",
+                "end": "0:02:02.56"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Electronic Music",
+            "referenceId": "Music/Electronic Music",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/electronic dance music",
+            "confidence": 0.6802,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.36",
+                "adjustedEnd": "0:02:02.56",
+                "start": "0:00:22.36",
+                "end": "0:02:02.56"
+              }
+            ]
+          }
+        ],
+        "faces": [
+          {
+            "id": 1134,
+            "name": "Unknown #1",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "59b2cd79-5ebd-4772-bbff-f24568bd1ab8",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "6c20c04b-675e-427e-b6f0-389ce33cf37a",
+                "fileName": "FaceInstanceThumbnail_6c20c04b-675e-427e-b6f0-389ce33cf37a.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:36.1333333",
+                    "adjustedEnd": "0:01:36.1666666",
+                    "start": "0:01:36.1333333",
+                    "end": "0:01:36.1666666"
+                  }
+                ]
+              },
+              {
+                "id": "88e034e6-f9ee-44ef-adb5-9b4239861c94",
+                "fileName": "FaceInstanceThumbnail_88e034e6-f9ee-44ef-adb5-9b4239861c94.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:41.2666666",
+                    "adjustedEnd": "0:01:41.2999999",
+                    "start": "0:01:41.2666666",
+                    "end": "0:01:41.2999999"
+                  }
+                ]
+              },
+              {
+                "id": "9680aa30-5665-42c2-af75-ea6f73c27692",
+                "fileName": "FaceInstanceThumbnail_9680aa30-5665-42c2-af75-ea6f73c27692.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:46.4",
+                    "adjustedEnd": "0:01:46.4333333",
+                    "start": "0:01:46.4",
+                    "end": "0:01:46.4333333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "88e034e6-f9ee-44ef-adb5-9b4239861c94",
+                  "6c20c04b-675e-427e-b6f0-389ce33cf37a",
+                  "9680aa30-5665-42c2-af75-ea6f73c27692"
+                ],
+                "adjustedStart": "0:01:35.6666667",
+                "adjustedEnd": "0:01:47.3666667",
+                "start": "0:01:35.6666667",
+                "end": "0:01:47.3666667"
+              }
+            ]
+          },
+          {
+            "id": 1024,
+            "name": "Unknown #2",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "be78eedc-de95-4627-a4c2-c85edee0bd5c",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "a79f0fca-5c7d-487a-879a-4cdbcccbf65d",
+                "fileName": "FaceInstanceThumbnail_a79f0fca-5c7d-487a-879a-4cdbcccbf65d.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:19.1333333",
+                    "adjustedEnd": "0:00:19.1666666",
+                    "start": "0:00:19.1333333",
+                    "end": "0:00:19.1666666"
+                  }
+                ]
+              },
+              {
+                "id": "fa058240-0761-406d-a99d-c4427ce8f65b",
+                "fileName": "FaceInstanceThumbnail_fa058240-0761-406d-a99d-c4427ce8f65b.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:24.2666666",
+                    "adjustedEnd": "0:00:24.2999999",
+                    "start": "0:00:24.2666666",
+                    "end": "0:00:24.2999999"
+                  }
+                ]
+              },
+              {
+                "id": "e50fa925-f47f-4a58-b6bf-29315a88d99b",
+                "fileName": "FaceInstanceThumbnail_e50fa925-f47f-4a58-b6bf-29315a88d99b.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:25.6666666",
+                    "adjustedEnd": "0:00:25.6999999",
+                    "start": "0:00:25.6666666",
+                    "end": "0:00:25.6999999"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "fa058240-0761-406d-a99d-c4427ce8f65b",
+                  "e50fa925-f47f-4a58-b6bf-29315a88d99b",
+                  "a79f0fca-5c7d-487a-879a-4cdbcccbf65d"
+                ],
+                "adjustedStart": "0:00:18.2333333",
+                "adjustedEnd": "0:00:28.9666667",
+                "start": "0:00:18.2333333",
+                "end": "0:00:28.9666667"
+              }
+            ]
+          },
+          {
+            "id": 1000,
+            "name": "Unknown #3",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "200118d1-b12f-4c78-8af4-f690de4ea987",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "26dadc5b-c3eb-45b1-a40d-7b5709660856",
+                "fileName": "FaceInstanceThumbnail_26dadc5b-c3eb-45b1-a40d-7b5709660856.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:08.8666666",
+                    "adjustedEnd": "0:00:08.8999999",
+                    "start": "0:00:08.8666666",
+                    "end": "0:00:08.8999999"
+                  }
+                ]
+              },
+              {
+                "id": "4404f52c-d002-4d1b-b3e5-0364a4b8e444",
+                "fileName": "FaceInstanceThumbnail_4404f52c-d002-4d1b-b3e5-0364a4b8e444.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:14",
+                    "adjustedEnd": "0:00:14.0333333",
+                    "start": "0:00:14",
+                    "end": "0:00:14.0333333"
+                  }
+                ]
+              },
+              {
+                "id": "be779e91-77a5-40cd-bd61-01da9918bf1f",
+                "fileName": "FaceInstanceThumbnail_be779e91-77a5-40cd-bd61-01da9918bf1f.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:16.3333333",
+                    "adjustedEnd": "0:00:16.3666666",
+                    "start": "0:00:16.3333333",
+                    "end": "0:00:16.3666666"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "4404f52c-d002-4d1b-b3e5-0364a4b8e444",
+                  "26dadc5b-c3eb-45b1-a40d-7b5709660856",
+                  "be779e91-77a5-40cd-bd61-01da9918bf1f"
+                ],
+                "adjustedStart": "0:00:08.4666667",
+                "adjustedEnd": "0:00:19.1666667",
+                "start": "0:00:08.4666667",
+                "end": "0:00:19.1666667"
+              }
+            ]
+          },
+          {
+            "id": 1021,
+            "name": "Unknown #4",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "d5fe61f2-8d7a-41ef-8fc7-177439b47a90",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "f4f4d2ec-2dbd-4137-8af7-531ad745cb1c",
+                "fileName": "FaceInstanceThumbnail_f4f4d2ec-2dbd-4137-8af7-531ad745cb1c.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:19.1333333",
+                    "adjustedEnd": "0:00:19.1666666",
+                    "start": "0:00:19.1333333",
+                    "end": "0:00:19.1666666"
+                  }
+                ]
+              },
+              {
+                "id": "719b2726-3ee5-45b6-9326-2640f4e9c47a",
+                "fileName": "FaceInstanceThumbnail_719b2726-3ee5-45b6-9326-2640f4e9c47a.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:24.2666666",
+                    "adjustedEnd": "0:00:24.2999999",
+                    "start": "0:00:24.2666666",
+                    "end": "0:00:24.2999999"
+                  }
+                ]
+              },
+              {
+                "id": "78edbfb9-dd43-4b6d-8725-93254adc52e7",
+                "fileName": "FaceInstanceThumbnail_78edbfb9-dd43-4b6d-8725-93254adc52e7.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:27.0666666",
+                    "adjustedEnd": "0:00:27.0999999",
+                    "start": "0:00:27.0666666",
+                    "end": "0:00:27.0999999"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "f4f4d2ec-2dbd-4137-8af7-531ad745cb1c",
+                  "719b2726-3ee5-45b6-9326-2640f4e9c47a",
+                  "78edbfb9-dd43-4b6d-8725-93254adc52e7"
+                ],
+                "adjustedStart": "0:00:18.2",
+                "adjustedEnd": "0:00:28.5",
+                "start": "0:00:18.2",
+                "end": "0:00:28.5"
+              }
+            ]
+          },
+          {
+            "id": 1022,
+            "name": "Unknown #5",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "58490813-73c5-4539-a016-98941754ff58",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "2e9b3236-69e6-4d16-b225-08a3bd517991",
+                "fileName": "FaceInstanceThumbnail_2e9b3236-69e6-4d16-b225-08a3bd517991.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:19.1333333",
+                    "adjustedEnd": "0:00:19.1666666",
+                    "start": "0:00:19.1333333",
+                    "end": "0:00:19.1666666"
+                  }
+                ]
+              },
+              {
+                "id": "8f9ee81c-892b-4641-85c0-f0992619ba00",
+                "fileName": "FaceInstanceThumbnail_8f9ee81c-892b-4641-85c0-f0992619ba00.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:24.2666666",
+                    "adjustedEnd": "0:00:24.2999999",
+                    "start": "0:00:24.2666666",
+                    "end": "0:00:24.2999999"
+                  }
+                ]
+              },
+              {
+                "id": "12932f3a-392f-4404-9dcd-76a41f7299ab",
+                "fileName": "FaceInstanceThumbnail_12932f3a-392f-4404-9dcd-76a41f7299ab.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:27.0666666",
+                    "adjustedEnd": "0:00:27.0999999",
+                    "start": "0:00:27.0666666",
+                    "end": "0:00:27.0999999"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "2e9b3236-69e6-4d16-b225-08a3bd517991",
+                  "12932f3a-392f-4404-9dcd-76a41f7299ab",
+                  "8f9ee81c-892b-4641-85c0-f0992619ba00"
+                ],
+                "adjustedStart": "0:00:18.2",
+                "adjustedEnd": "0:00:28.2333333",
+                "start": "0:00:18.2",
+                "end": "0:00:28.2333333"
+              }
+            ]
+          },
+          {
+            "id": 1023,
+            "name": "Unknown #6",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "78ff84bb-3abe-473c-8e85-72b305837f38",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "a80f8564-1e2c-4a96-8ed7-ae9006219c13",
+                "fileName": "FaceInstanceThumbnail_a80f8564-1e2c-4a96-8ed7-ae9006219c13.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:19.1333333",
+                    "adjustedEnd": "0:00:19.1666666",
+                    "start": "0:00:19.1333333",
+                    "end": "0:00:19.1666666"
+                  }
+                ]
+              },
+              {
+                "id": "2698d603-1a7b-4cb8-a522-ecd377383729",
+                "fileName": "FaceInstanceThumbnail_2698d603-1a7b-4cb8-a522-ecd377383729.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:24.2666666",
+                    "adjustedEnd": "0:00:24.2999999",
+                    "start": "0:00:24.2666666",
+                    "end": "0:00:24.2999999"
+                  }
+                ]
+              },
+              {
+                "id": "712fbbb8-84dd-4df0-b90b-14fd146b5cdd",
+                "fileName": "FaceInstanceThumbnail_712fbbb8-84dd-4df0-b90b-14fd146b5cdd.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:25.6666666",
+                    "adjustedEnd": "0:00:25.6999999",
+                    "start": "0:00:25.6666666",
+                    "end": "0:00:25.6999999"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "2698d603-1a7b-4cb8-a522-ecd377383729",
+                  "712fbbb8-84dd-4df0-b90b-14fd146b5cdd",
+                  "a80f8564-1e2c-4a96-8ed7-ae9006219c13"
+                ],
+                "adjustedStart": "0:00:18.2",
+                "adjustedEnd": "0:00:28.1666667",
+                "start": "0:00:18.2",
+                "end": "0:00:28.1666667"
+              }
+            ]
+          },
+          {
+            "id": 1117,
+            "name": "Unknown #7",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "935eb26c-1378-49a3-87bd-be2294c2117e",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "8d3054fc-fdcd-4846-86cc-78e2ebb60b86",
+                "fileName": "FaceInstanceThumbnail_8d3054fc-fdcd-4846-86cc-78e2ebb60b86.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:18.4",
+                    "adjustedEnd": "0:01:18.4333333",
+                    "start": "0:01:18.4",
+                    "end": "0:01:18.4333333"
+                  }
+                ]
+              },
+              {
+                "id": "2006e696-8ecc-49f6-9cde-e3e4b40e70e9",
+                "fileName": "FaceInstanceThumbnail_2006e696-8ecc-49f6-9cde-e3e4b40e70e9.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:22.1333333",
+                    "adjustedEnd": "0:01:22.1666666",
+                    "start": "0:01:22.1333333",
+                    "end": "0:01:22.1666666"
+                  }
+                ]
+              },
+              {
+                "id": "65fc59db-6dc4-4bf6-a456-d4e15d5ebf05",
+                "fileName": "FaceInstanceThumbnail_65fc59db-6dc4-4bf6-a456-d4e15d5ebf05.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:23.5333333",
+                    "adjustedEnd": "0:01:23.5666666",
+                    "start": "0:01:23.5333333",
+                    "end": "0:01:23.5666666"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "2006e696-8ecc-49f6-9cde-e3e4b40e70e9",
+                  "8d3054fc-fdcd-4846-86cc-78e2ebb60b86",
+                  "65fc59db-6dc4-4bf6-a456-d4e15d5ebf05"
+                ],
+                "adjustedStart": "0:01:17.9333333",
+                "adjustedEnd": "0:01:26.8333333",
+                "start": "0:01:17.9333333",
+                "end": "0:01:26.8333333"
+              }
+            ]
+          },
+          {
+            "id": 1103,
+            "name": "Unknown #8",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "79eac1e4-de11-4084-b4e9-fedb33b71060",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "97c0b771-2ae9-4e4f-86f3-b4241179d44a",
+                "fileName": "FaceInstanceThumbnail_97c0b771-2ae9-4e4f-86f3-b4241179d44a.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:45.7333333",
+                    "adjustedEnd": "0:00:45.7666666",
+                    "start": "0:00:45.7333333",
+                    "end": "0:00:45.7666666"
+                  }
+                ]
+              },
+              {
+                "id": "5a886eb1-3e77-42bb-a9c9-786e625fbcf8",
+                "fileName": "FaceInstanceThumbnail_5a886eb1-3e77-42bb-a9c9-786e625fbcf8.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:50.8666666",
+                    "adjustedEnd": "0:00:50.8999999",
+                    "start": "0:00:50.8666666",
+                    "end": "0:00:50.8999999"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "97c0b771-2ae9-4e4f-86f3-b4241179d44a",
+                  "5a886eb1-3e77-42bb-a9c9-786e625fbcf8"
+                ],
+                "adjustedStart": "0:00:45.2666667",
+                "adjustedEnd": "0:00:52.7666667",
+                "start": "0:00:45.2666667",
+                "end": "0:00:52.7666667"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "text",
+            "referenceId": "communication/writing/text",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9998,
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:00:01",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "clothing",
+            "referenceId": "consumer goods/clothing",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9979,
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:18.0333333",
+                "start": "0:00:09",
+                "end": "0:00:18.0333333"
+              },
+              {
+                "confidence": 0.9944,
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:51.0333333",
+                "start": "0:00:46",
+                "end": "0:00:51.0333333"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "man",
+            "referenceId": "person/man",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9748,
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:09",
+                "end": "0:00:27.0333333"
+              },
+              {
+                "confidence": 0.959,
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:46",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "confidence": 0.9691,
+                "adjustedStart": "0:01:37",
+                "adjustedEnd": "0:01:46.0333333",
+                "start": "0:01:37",
+                "end": "0:01:46.0333333"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "person",
+            "referenceId": "person",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9781,
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:09",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "human face",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9889,
+                "adjustedStart": "0:00:19",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:19",
+                "end": "0:00:27.0333333"
+              },
+              {
+                "confidence": 0.9917,
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:51.0333333",
+                "start": "0:00:46",
+                "end": "0:00:51.0333333"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "font",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9711,
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:37.0333333",
+                "start": "0:00:29",
+                "end": "0:00:37.0333333"
+              },
+              {
+                "confidence": 0.9633,
+                "adjustedStart": "0:02:16",
+                "adjustedEnd": "0:02:19.0333333",
+                "start": "0:02:16",
+                "end": "0:02:19.0333333"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "glasses",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9734,
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:51.0333333",
+                "start": "0:00:46",
+                "end": "0:00:51.0333333"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "electronics",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.997,
+                "adjustedStart": "0:01:18",
+                "adjustedEnd": "0:01:26.0333333",
+                "start": "0:01:18",
+                "end": "0:01:26.0333333"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:28",
+                "start": "0:00:00",
+                "end": "0:00:28"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.2",
+                "adjustedEnd": "0:00:37.1333333",
+                "start": "0:00:28.2",
+                "end": "0:00:37.1333333"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "instances": [
+              {
+                "adjustedStart": "0:00:37.3333333",
+                "adjustedEnd": "0:00:45.5333333",
+                "start": "0:00:37.3333333",
+                "end": "0:00:45.5333333"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "instances": [
+              {
+                "adjustedStart": "0:00:45.7333333",
+                "adjustedEnd": "0:00:51.5666667",
+                "start": "0:00:45.7333333",
+                "end": "0:00:51.5666667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "instances": [
+              {
+                "adjustedStart": "0:00:51.7666667",
+                "adjustedEnd": "0:01:46.5333333",
+                "start": "0:00:51.7666667",
+                "end": "0:01:46.5333333"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "instances": [
+              {
+                "adjustedStart": "0:01:46.7333333",
+                "adjustedEnd": "0:02:06.4",
+                "start": "0:01:46.7333333",
+                "end": "0:02:06.4"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "instances": [
+              {
+                "adjustedStart": "0:02:06.6",
+                "adjustedEnd": "0:02:19.8666667",
+                "start": "0:02:06.6",
+                "end": "0:02:19.8666667"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "tags": [
+              "Medium",
+              "RightFace",
+              "Wide"
+            ],
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "0bcc5a18-7896-468a-8405-80d3bc40c415",
+                    "adjustedStart": "0:00:00.6666667",
+                    "adjustedEnd": "0:00:00.7",
+                    "start": "0:00:00.6666667",
+                    "end": "0:00:00.7"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "06630368-66b6-4747-b6af-6cda3a31aa60",
+                    "adjustedStart": "0:00:18.1333333",
+                    "adjustedEnd": "0:00:18.1666667",
+                    "start": "0:00:18.1333333",
+                    "end": "0:00:18.1666667"
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "instances": [
+                  {
+                    "thumbnailId": "56a72872-2881-400c-8806-84efa634619f",
+                    "adjustedStart": "0:00:27.9333333",
+                    "adjustedEnd": "0:00:27.9666667",
+                    "start": "0:00:27.9333333",
+                    "end": "0:00:27.9666667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:28",
+                "start": "0:00:00",
+                "end": "0:00:28"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "tags": [
+              "Wide"
+            ],
+            "keyFrames": [
+              {
+                "id": 4,
+                "instances": [
+                  {
+                    "thumbnailId": "023750ca-612b-443b-b59b-77db3dc479f0",
+                    "adjustedStart": "0:00:28.2333333",
+                    "adjustedEnd": "0:00:28.2666667",
+                    "start": "0:00:28.2333333",
+                    "end": "0:00:28.2666667"
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "instances": [
+                  {
+                    "thumbnailId": "1d4314ab-802e-4184-a9e1-48b19c2ea67d",
+                    "adjustedStart": "0:00:36.8666667",
+                    "adjustedEnd": "0:00:36.9",
+                    "start": "0:00:36.8666667",
+                    "end": "0:00:36.9"
+                  }
+                ]
+              },
+              {
+                "id": 6,
+                "instances": [
+                  {
+                    "thumbnailId": "533dbe50-a89f-4051-8a73-3ae8b473dc28",
+                    "adjustedStart": "0:00:37.1",
+                    "adjustedEnd": "0:00:37.1333333",
+                    "start": "0:00:37.1",
+                    "end": "0:00:37.1333333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.2",
+                "adjustedEnd": "0:00:37.1333333",
+                "start": "0:00:28.2",
+                "end": "0:00:37.1333333"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "keyFrames": [
+              {
+                "id": 7,
+                "instances": [
+                  {
+                    "thumbnailId": "a4bc3ab7-b04a-4137-bcc7-12a703715dba",
+                    "adjustedStart": "0:00:37.3666667",
+                    "adjustedEnd": "0:00:37.4",
+                    "start": "0:00:37.3666667",
+                    "end": "0:00:37.4"
+                  }
+                ]
+              },
+              {
+                "id": 8,
+                "instances": [
+                  {
+                    "thumbnailId": "c0c65fc6-9d67-4328-9d00-84de2db63379",
+                    "adjustedStart": "0:00:37.7333333",
+                    "adjustedEnd": "0:00:37.7666667",
+                    "start": "0:00:37.7333333",
+                    "end": "0:00:37.7666667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:37.3333333",
+                "adjustedEnd": "0:00:45.5333333",
+                "start": "0:00:37.3333333",
+                "end": "0:00:45.5333333"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "tags": [
+              "Medium",
+              "RightFace"
+            ],
+            "keyFrames": [
+              {
+                "id": 9,
+                "instances": [
+                  {
+                    "thumbnailId": "c6d97068-1a46-495e-8351-2b240e47f614",
+                    "adjustedStart": "0:00:45.8333333",
+                    "adjustedEnd": "0:00:45.8666667",
+                    "start": "0:00:45.8333333",
+                    "end": "0:00:45.8666667"
+                  }
+                ]
+              },
+              {
+                "id": 10,
+                "instances": [
+                  {
+                    "thumbnailId": "72829178-4771-4344-9ff8-69ef6b95151b",
+                    "adjustedStart": "0:00:46.1",
+                    "adjustedEnd": "0:00:46.1333333",
+                    "start": "0:00:46.1",
+                    "end": "0:00:46.1333333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:45.7333333",
+                "adjustedEnd": "0:00:51.5666667",
+                "start": "0:00:45.7333333",
+                "end": "0:00:51.5666667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "tags": [
+              "Medium",
+              "RightFace",
+              "Wide",
+              "CenterFace"
+            ],
+            "keyFrames": [
+              {
+                "id": 11,
+                "instances": [
+                  {
+                    "thumbnailId": "6e9b77c8-1a57-4425-8a5d-a0a7e97e6b25",
+                    "adjustedStart": "0:00:51.8",
+                    "adjustedEnd": "0:00:51.8333333",
+                    "start": "0:00:51.8",
+                    "end": "0:00:51.8333333"
+                  }
+                ]
+              },
+              {
+                "id": 12,
+                "instances": [
+                  {
+                    "thumbnailId": "ace8a3c0-52cb-4cef-8157-db817140509e",
+                    "adjustedStart": "0:00:52.1666667",
+                    "adjustedEnd": "0:00:52.2",
+                    "start": "0:00:52.1666667",
+                    "end": "0:00:52.2"
+                  }
+                ]
+              },
+              {
+                "id": 13,
+                "instances": [
+                  {
+                    "thumbnailId": "4b876475-37cc-471b-aed1-2757e2cc0c36",
+                    "adjustedStart": "0:01:46.4",
+                    "adjustedEnd": "0:01:46.4333333",
+                    "start": "0:01:46.4",
+                    "end": "0:01:46.4333333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:51.7666667",
+                "adjustedEnd": "0:01:46.5333333",
+                "start": "0:00:51.7666667",
+                "end": "0:01:46.5333333"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "tags": [
+              "Wide",
+              "CenterFace"
+            ],
+            "keyFrames": [
+              {
+                "id": 14,
+                "instances": [
+                  {
+                    "thumbnailId": "c48c08b7-5521-4a27-a749-5ddca50ceeef",
+                    "adjustedStart": "0:01:46.7666667",
+                    "adjustedEnd": "0:01:46.8",
+                    "start": "0:01:46.7666667",
+                    "end": "0:01:46.8"
+                  }
+                ]
+              },
+              {
+                "id": 15,
+                "instances": [
+                  {
+                    "thumbnailId": "45ded255-ce5a-4b13-8e5c-ff4d54c5ba5a",
+                    "adjustedStart": "0:02:05.9333333",
+                    "adjustedEnd": "0:02:05.9666667",
+                    "start": "0:02:05.9333333",
+                    "end": "0:02:05.9666667"
+                  }
+                ]
+              },
+              {
+                "id": 16,
+                "instances": [
+                  {
+                    "thumbnailId": "2f988415-08e7-4380-b65e-a9edf8548f38",
+                    "adjustedStart": "0:02:06.3333333",
+                    "adjustedEnd": "0:02:06.3666667",
+                    "start": "0:02:06.3333333",
+                    "end": "0:02:06.3666667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:46.7333333",
+                "adjustedEnd": "0:02:06.4",
+                "start": "0:01:46.7333333",
+                "end": "0:02:06.4"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "keyFrames": [
+              {
+                "id": 17,
+                "instances": [
+                  {
+                    "thumbnailId": "2088872b-5a05-4634-8b99-a18a84e4e662",
+                    "adjustedStart": "0:02:06.6",
+                    "adjustedEnd": "0:02:06.6333333",
+                    "start": "0:02:06.6",
+                    "end": "0:02:06.6333333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:02:06.6",
+                "adjustedEnd": "0:02:19.8666667",
+                "start": "0:02:06.6",
+                "end": "0:02:19.8666667"
+              }
+            ]
+          }
+        ],
+        "detectedObjects": [
+          {
+            "id": 1,
+            "type": "Book",
+            "thumbnailId": "ecd16045-e5a2-4beb-9432-d3f344057b15",
+            "displayName": "book",
+            "wikiDataId": "Q571",
+            "instances": [
+              {
+                "confidence": 0.751,
+                "adjustedStart": "0:00:08.666667",
+                "adjustedEnd": "0:00:18.2",
+                "start": "0:00:08.666667",
+                "end": "0:00:18.2"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "type": "Necktie",
+            "thumbnailId": "6f0b51b7-5f01-450c-b67f-a910fa2d0065",
+            "displayName": "necktie",
+            "wikiDataId": "Q44416",
+            "instances": [
+              {
+                "confidence": 0.671,
+                "adjustedStart": "0:00:18.333333",
+                "adjustedEnd": "0:00:27.933333",
+                "start": "0:00:18.333333",
+                "end": "0:00:27.933333"
+              }
+            ]
+          }
+        ],
+        "sentiments": [
+          {
+            "id": 1,
+            "averageScore": 0.5,
+            "sentimentType": "Neutral",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:02:20",
+                "start": "0:00:00",
+                "end": "0:02:20"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:04.5",
+                "start": "0:00:00",
+                "end": "0:01:04.5"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:01:04.5",
+                "adjustedEnd": "0:02:20",
+                "start": "0:01:04.5",
+                "end": "0:02:20"
+              }
+            ]
+          }
+        ],
+        "framePatterns": [
+          {
+            "id": 1,
+            "patternType": "Black",
+            "confidence": 1,
+            "displayName": null,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:00.1333333",
+                "start": "0:00:00",
+                "end": "0:00:00.1333333"
+              }
+            ]
+          }
+        ],
+        "speakers": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.36",
+                "adjustedEnd": "0:00:22.6",
+                "start": "0:00:22.36",
+                "end": "0:00:22.6"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Speaker #2",
+            "instances": [
+              {
+                "adjustedStart": "0:01:04.42",
+                "adjustedEnd": "0:01:04.5",
+                "start": "0:01:04.42",
+                "end": "0:01:04.5"
+              },
+              {
+                "adjustedStart": "0:01:31.6",
+                "adjustedEnd": "0:01:31.68",
+                "start": "0:01:31.6",
+                "end": "0:01:31.68"
+              },
+              {
+                "adjustedStart": "0:02:02.32",
+                "adjustedEnd": "0:02:02.56",
+                "start": "0:02:02.32",
+                "end": "0:02:02.56"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 1,
+          "speakerTalkToListenRatio": {
+            "1": 0.375,
+            "2": 0.625
+          },
+          "speakerLongestMonolog": {
+            "1": 0,
+            "2": 0
+          },
+          "speakerNumberOfFragments": {
+            "1": 1,
+            "2": 3
+          },
+          "speakerWordCount": {
+            "1": 1,
+            "2": 3
+          }
+        }
+      },
+      "thumbnailId": "4342cc21-2196-472a-8e86-f87cd54c6b14",
+      "width": 1920,
+      "height": 1080,
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [
+        "en-US"
+      ],
+      "language": "en-US",
+      "languages": [
+        "en-US"
+      ],
+      "indexingPreset": "Default",
+      "streamingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "logoGroupId": null,
+      "isAdult": false,
+      "excludedAIs": [],
+      "isSearchable": true,
+      "publishedUrl": "https://api.videoindexer.ai/internals/eastus/Accounts/fbafe9ff-1c94-40bd-987e-a4e4dfe52365/Videos/5t86o2cylh/streaming-manifest/manifest.m3u8",
+      "publishedProxyUrl": null,
+      "viewToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJWZXJzaW9uIjoiMi4wLjAuMCIsIktleVZlcnNpb24iOiI1YmZmYWI1MTUwZWI0NGM4ODMzNzE2NzVhNzcwYzU4YSIsIkFjY291bnRJZCI6ImZiYWZlOWZmLTFjOTQtNDBiZC05ODdlLWE0ZTRkZmU1MjM2NSIsIkFjY291bnRUeXBlIjoiQ2xhc3NpYyIsIlZpZGVvSWQiOiI1dDg2bzJjeWxoIiwiUGVybWlzc2lvbiI6IlJlc3RyaWN0ZWRWaWV3ZXIiLCJFeHRlcm5hbFVzZXJJZCI6IjYxMzM3QzI2RUFCQjRGNEU5MjA3NURBNjAyQ0IyQTQzIiwiVXNlclR5cGUiOiJNaWNyb3NvZnRDb3JwQWFkIiwiSXNzdWVyTG9jYXRpb24iOiJlYXN0dXMiLCJuYmYiOjE3NjE5Nzg1MTUsImV4cCI6MTc2MTk4MjQxNSwiaXNzIjoiaHR0cHM6Ly9hcGkudmlkZW9pbmRleGVyLmFpLyIsImF1ZCI6Imh0dHBzOi8vYXBpLnZpZGVvaW5kZXhlci5haS8ifQ.VKFgSWPA9NgSUcGrobx3G6yiNgILDTiy0KOhOEaG7rZjiCpI9q6L6ePtOTXGP1VEen4XtKEM4FTzO9h0evMf3bw0T8r3nI73799OF62441RMQMEFU7WYQxSLDkiubzLNK51UxyDwIszuq1-Ps91jmPboV7uLmPZxo9njW4t0SV3nArqpWkKUm5jgI2Ynck-Btm1prAya3O9SzVzZ01JksGJI6uG4wpzTbipEMzvaYYGMEg6CBMpCvY9LlEyANZExhgyKv5CEwVtBg4mouYd4XXPV9eFWwdOoUVEppgy5wW5LJt7DWPgt_Ususvik2dVZgcXcT4SrS4lPj_t8TI-Bkg"
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "5t86o2cylh",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:02:20"
+      }
+    }
+  ]
+}

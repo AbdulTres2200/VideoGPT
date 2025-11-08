@@ -1,0 +1,21 @@
+{
+  "id": "txt_404471",
+  "name": "manage-site-access",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\nStore Configurations\nManage Site Access\n\n4 min\noverview & purpose there can be some instances when as an admin you need to manage the people who can have access to your website and who cannot this can be managed by the manage site access feature using this interface, you can add the list of ips that you want to block from accessing your storefront as well as you can add the list of ips that you want to allow access to even when your site is under maintenance you may already know that ip blocking is the practice of blocking requests coming from hosts with particular ip addresses it restricts threats, safeguards consumer data, and lightens the burden on your server by blocking fraudulent ip addresses, you may produce reliable statistics on the traffic to your website (the number of visitors, bounce rate, average time on site, etc ) configuration to manage the site access, navigate to admin >> store configuration >> site settings >> manage site access tab country based ip management from here, the admin can select multiple countries to allow or block access to their website in the add section, you can add individual ips per line or even enter an ip range to block or allow website access block ip(s) this allows you to block the ip addresses from which you may be receiving spam emails or unnecessary requests just add the ip addresses in the single lines, add your comments and save once saved, it will display all the added ips in the block ip(s) tab you can get the option to edit or delete the same allow ip(s) this allows you to make your website accessible to some ip addresses (for feedback or testing purposes) when your website is under maintenance to allow ips access to your store, select allow ip(s) in the select action field, add the ip addresses in the single lines, add your comments and save once saved, it will display all the added ips in the allow ip(s) tab you can get the option to edit or delete the same\nDid this page help you?\n\n\nPREVIOUS\nCustom Forms\nNEXT\nContent Management\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

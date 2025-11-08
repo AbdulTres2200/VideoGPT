@@ -1,0 +1,21 @@
+{
+  "id": "txt_262731",
+  "name": "custom-formula-variables",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupporting Docs\nCustom Formula Variables\n\n3 min\nyou can create a custom formula or choose from the dropdown to create any custom formula, use the variables given in the help button you can anytime add a custom formula, just click on the plus icon, enter the label name for the formula, and then add the formula now, this newly added formula will be available every time you set an option based formula unfold width & unfold height the unfold width and unfold height refer to the dimensions of a product when it is completely unfolded these measurements are used primarily for items folded as part of their final form, such as package products for product options such as material, coating, or finishing, the psps need the unfolded dimensions of the product to calculate the unfolded dimensions for package product, the admin can enter the formula by navigating to the admin panel >> product listing >> package product action menu >> settings >> custom size tab as per the requirement, the admin can define the formula for calculating these dimensions if left blank then, the formula shown in the image above will be taken into consideration now, when the admin wants to utilize these dimensions in calculating pricing for any product options such as box material, coating, finishing, etc , a custom formula as displayed below can be created option key when you want to fetch any details from one product option to use for calculation in another, you can add the option key variable in the formula here, the system will find the selected attribute value and use it in the price formula if you want to define any fixed value for individual attributes, you can define it by adding the option key as {|option key 1|} the default value must be an integer for example, you are creating a product option where you have made a formula {price} {|qty set|} so, for the pricing, the system will check the product price and multiply the pricing added for the selected attribute in the quantity set product option for textbox, the system should consider what value customers have added for radio / dropdown / checkbox, the system should fetch from the attribute key e g enter attribute keys like single side|1 , double side|2 so, front sides when a single side is selected system should consider value 1, and when the double side is selected system should consider value 2\nDid this page help you?\n\n\nPREVIOUS\nCreating Custom Art - Admin\nNEXT\nDie Cut Sticker Customization\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

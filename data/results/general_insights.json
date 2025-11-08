@@ -1,0 +1,21 @@
+{
+  "id": "txt_317715",
+  "name": "general",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTemplate & Studio\n\n\nCommon Studio Settings\nGeneral\n\n10 min\noverview & purpose this section will help you personalize the general designer studio settings, which will affect the overall look and feel of the studio you can review each setting and enable/disable it for your studio according to your needs settings some of the important settings are \u2013 restrict product size drop down for changing product size in the studio this setting will enable/disable the option for customers to change their product size on the designer studio if enabled, there will be a dropdown given with all the product sizes, thus giving the customer the convenience to change the size of the product while creating the design options for design preview (jpeg/pdf) once the customer creates a design from the studio they get the option to preview their design using this setting you can allow your customers to get a jpeg or pdf preview of their designs designer studio theme (default default) we have a set of themes available for the designer studio you can check and enable the theme most suitable for your studio according to your design theme enable custom art maker this feature allows customers to choose from pre defined layouts from here customers can directly add color and text, then the system will automatically feed the details to custom art maker for more refer to the designer studio https //help onprintshop com/designer studio module71 module of version 7 1 release notes lock objects position this setting will lock the elements of all the templates throughout the system later while customizing the template the customers shall decide whether they want to unlock the object or delete it unlock/lock \u2013 easy lock/unlock of the template element delete \u2013 click to delete the element note the objects that were manually locked by the admin in the admin panel while designing the template shall remain as it is i e customers won\u2019t be able to unlock or delete them enable used colors & fonts from design this will help to maintain the consistency of the template, the customers faced difficulty in finding the exact color in the color palette we have added a separate color list in the color picker this list contains all the colors used in the design whenever, for the first time, the customers add a new text in the canvas, the font that is used the most times in the template shall be displayed, i e , the newly added font shall be the font that is used the most times in the selected template if the customers change the font type, then the next time customers add the \u2018new text\u2019 it shall have the font that was previously used, i e , the last font used low resolution/empty image placeholder warning message this will populate a warning message at various instances only image resolution \u2013 populate the warning message only when there is low image resolution only empty image placeholder populate the warning message only when there is an empty image placeholder both \u2013 populate warning messages for any of the above mentioned instances none \u2013 not to populate warning messages in any instances resize personalized template when this setting is enabled, the system automatically resizes all design elements within a template to match the dimensions of the selected product, while preserving their original aspect ratio this ensures that the overall layout remains visually consistent, regardless of size differences between products when a user selects a predefined template on a product with different dimensions than the original template, all text, images, and design elements are proportionally scaled the resized layout maintains the same structure and spacing, allowing for a seamless design transfer across various products\nDid this page help you?\n\n\nPREVIOUS\nCommon Studio Settings\nNEXT\nTop Panel\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

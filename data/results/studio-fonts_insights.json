@@ -1,0 +1,21 @@
+{
+  "id": "txt_260383",
+  "name": "studio-fonts",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTemplate & Studio\n\n\nManaging Studio\nStudio Fonts\n\n5 min\noverview & purpose font selection is one of the most important features of any designer studio the system allows you to add fonts as per your requirements and designs for this, we have different sets of fonts available read along to understand how you can upload fonts other than those provided by the system configuration default fonts your admin panel comes with 40+ pre configured fonts, which are enlisted here in this section ( admin >> designer studio >> studio fonts >> default fonts tab ) you can toggle the status to green (active) or red (inactive) on the online designer studio of your storefront, fonts marked as active will show in the font dropdown list under the text editing options (text element and text area) client font additional fonts (apart from the pre configured fonts) that are integrated into your system will be displayed here in this section ( admin >> designer studio >> studio fonts >> client fonts tab ) you can toggle the status to green (active) or red (inactive) on the online designer studio of your storefront, fonts marked as active will show in the font dropdown list under the text editing options (text element and text area) to add your own fonts click on the \u2018 add client font \u2019 button on the top right corner of the studio fonts here you will get the option to upload four types of font file \u2013 main font file, italic font file, bold font file, and the bold/italic font file every device supports the different file formats of fonts so for the fonts to work well on different devices, we advise you to upload all the mentioned file formats for a font like ttf, wof, woff2, eot, and svg files if you do not have all the file formats that then use any website for the same there are a number of websites where you can create different file formats one such website is https //transfonter org/ https //transfonter org/ shaping \u2013 this feature allows you to add regional fonts and use them perfectly in the designer studio the regional fonts added will not miss their shape and characteristics the shaping setting will help you maintain the integrity of each regional font and help your customers create a product design depending upon the shaping option (font type) chosen from the dropdown shaping options \u2013 this dropdown lists all the languages supported by the system you can select any language depending on the font files uploaded feature options pdflib supports certain groups of opentype features such as western typography, features for chinese, japanese, and korean text, features for complex script shaping and vertical text output; these are automatically evaluated subject to the shaping and script options the vert feature is controlled by the vertical font option check below images for help pdf block fonts this section allows you to view and add fonts to be used in the pdf block templates before uploading pdf blocks, you can mass upload fonts from here your system comes with some pre configured fonts which you can see in the listing all the fonts can be downloaded using the 'download font' link available add a pdf block template go to the admin > template > studio fonts > \u2018add pdf font\u2019 (top right link) upload the font file and assign it to a specific corporation (if applicable)\nDid this page help you?\n\n\nPREVIOUS\nPredefined Text\nNEXT\nImage Categories\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

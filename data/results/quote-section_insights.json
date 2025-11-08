@@ -1,0 +1,21 @@
+{
+  "id": "txt_905702",
+  "name": "quote-section",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 12.1 Release Notes\nQuote Section\n\n5 min\ncreate tailor made quotes with ease in earlier workflows, admins had to manually define custom fields and calculate prices for each quote, which was both time consuming and prone to errors to simplify the quote creation process, a new quote type\u2014 configurable product \u2014has been introduced for admins with this enhancement, admins can now select an existing product, enter the required dimensions and quantity, and choose from pre configured options that already include pricing logic the system automatically calculates the price and displays a real time price summary, making the quoting process faster and more accurate improved request quote experience we\u2019ve also made usability improvements to the quote form page previously, all fields were displayed in a single column, making the form appear long and cluttered the new design supports a two column layout, offering a more organized and user friendly interface admins can configure the layout from the settings to display one or two fields per row, and this layout applies to both the front store quote form and the offline quote form to enhance form structure, we\u2019ve introduced the ability to group fields within the quote form related fields can now be grouped under specific headers, making it easier for users to understand and fill out the form this grouping functionality is supported on both the front store and the admin panel if a product already has groups configured at the product level, they will now automatically appear in the quote form next, let\u2019s look at the enhancements made to the quote detail page previously, customer and product information were displayed in separate sections, making it harder to navigate the new layout improves the flow by aligning product details and pricing inputs more logically, making it easier to manage and update quotes we\u2019ve also added a second tab titled quote updates , which automates status changes throughout the quote lifecycle for example, sending a message to the customer now automatically updates the status to customer review pending once the customer replies, it transitions to admin review pending , streamlining the communication process to improve visibility into quote activity, we\u2019ve introduced a quote history section this log captures all changes, updates, and interactions related to a quote in one centralized place, allowing admins to track the quote\u2019s progress and history more effectively faster quote reuse with duplication admins can now quickly replicate an existing quote and assign it to another customer within the same store this is especially useful for handling similar or recurring requests without having to recreate everything from scratch\nDid this page help you?\n\n\nPREVIOUS\nOrder Section\nNEXT\nProduct Section\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

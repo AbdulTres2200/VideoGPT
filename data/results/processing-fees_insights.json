@@ -1,0 +1,21 @@
+{
+  "id": "txt_428647",
+  "name": "processing-fees",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\n\nPayment Method\nProcessing Fees\n\n3 min\noverview & purpose payment processing fees are the costs that merchants incur while processing payments from their customers this processing fee is dependent on the level of risk of the transaction, the type of card, and the pricing model preferred by the payment processors examples of high risk transactions can be e commerce transactions and over the phone transactions, they come with high processing fees whereas low risk transactions such as physical swiping at a payment terminal will have no processing fees according to your business model and risk levels of transactions, you can add multiple processing fees for different payment methods like for pay on account paypal standard, cheque, credit/debit cards, etc configuration enable/disable payment processing fees you get the facility to enable or disable the processing fees on selected payment methods from the admin >> store configuration >> site setting >> store configuration tab >> payment processing fees once you enable it, then the processing fees configuration button will appear on the payment methods page using which the payment processing fees can be configured for different payment methods fill up the form with the necessary details title enter a title for the processing fees payment method select the payment method from the drop down for which you want to charge this processing fee country the fees added can be country specific or applied to all countries processing fees the processing fees can be charged as a percentage or as a flat amount percentage \u2013 for every transaction amount you can add a percentage to be charged as payment processing fees this is also called an interchange plus pricing strategy amount \u2013 this is the amount that the payment processor will charge regardless of the transaction total min fees & max fees you can also set a minimum and maximum limit to the fees apply processing fees select if you want to always charge the processing fees for all the transactions or based on the order subtotal when you select based on order subtotal , then you will have another option of entering the amount; order total tax % you can also add the tax percentage here and it will be included in the processing fees handling cost you can set the handling cost, if you want to charge that to your customer from here the amount added here will be included in the order total amount\nDid this page help you?\n\n\nPREVIOUS\nManage Payment Status\nNEXT\nConfigure Method\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

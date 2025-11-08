@@ -1,0 +1,21 @@
+{
+  "id": "txt_844384",
+  "name": "XbxZ-product-module",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 11.0 Release Notes\nProduct Module\n\n3 min\nsetup cost for custom size products setup cost for custom size products the admin will be now able to configure the setup cost for the custom size products as well for this, we have added two new settings, \u201ccustom size setup cost\u201d and \u201capply custom size setup cost reorder\u201d to the product settings screen these settings will only appear when you enable the \u201callow custom size in price calculator\u201d in the custom size tab once configured, this setup cost will be applied to the product price when the customer selects the \u201ccustom size\u201d from the size selection and enters the dimensions skip option wise setup cost for reorder skip option wise setup cost for reorder the admin can now consider or skip adding product option wise setup costs for the reorder process suppose you don\u2019t want to charge setup costs for a reordering of the same product in that case, you can just enable the \u2018exclude setup cost for reorder\u2019 setting from the product option edit screen or assign product options screen for the individual options\nDid this page help you?\n\n\nPREVIOUS\nFront Store Features\nNEXT\nQuote Module\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

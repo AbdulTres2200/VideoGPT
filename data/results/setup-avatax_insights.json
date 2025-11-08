@@ -1,0 +1,21 @@
+{
+  "id": "txt_140354",
+  "name": "setup-avatax",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTax API\nSetup AvaTax\n\n11 min\noverview & purpose avatax is a scalable and efficient avalara solution for sales automation and tax compliance whose superior, out of the box features bring value to your onprintshop web store avatax is an expert in tax compliance and helps you with your tax obligations how to integrate read the below systematic guide to integrate avatax with your onprintshop website 1 register with avatax 1 register with avatax visit the avalara developer site and https //developer avalara com/ sign up for the free trial of avatax where you can later become the premium member on the next page, click on the build your own integration with avalara\u2019s api in our sandbox environment link as soon as you click on the link, you will receive an email to your registered email for the account activation follow the instructions and activate your account 2 activate your account 2 activate your account after completing the setup process, avatax will demand you log in to your account login into your account complete the activation process by entering your company information, taxpayer id, and business id follow the on screen instructions and complete the process of activating your company 3 get licence key and account number 3 get licence key and account number account number to get the account id, click on the account from the top right corner where you will find your account id copy the account id from here and keep at a secure place for later part of the configurations step license key to get the license key, navigate to the settings >> license and api keys the following screen will appear click on the generate license key button and then click on the yes, generate a license key button from the confirmation pop up screen the license key will be generated as displayed below copy and save the same 4 configure avatax into your onprintshop admin panel 4 configure avatax into your onprintshop admin panel tax calculation settings to use the third party for tax calculation, you need to make some settings in the admin panel >> store configurations >> site settings in the search box, type \" tax \" for the tax calculation based on setting, select \" third party api 4 \" from the drop down save the changes made enable avatax services to enable the avatax services, go to the admin panel >> store configurations >> external service settings >> tax api tab >> avatax >> \u2018action\u2019 drop down >> \u2018edit\u2019 option username enter the avatax username password enter the avatax password account number enter the account number saved in the step 3 licence key enter the license key saved in the step 3 company code you can get the company code from avatax admin console >> settings >> company details >> company code copy the code and paste it here tax code if you have a specific tax code then, you can insert it else the system will take default \"p0000000\" tax code for shipping if you have a specific tax code then, you can insert it else the system will take default \"fr020000\" environment you have to select the environment as \" production mode \" for the live website address fields you will have an option to enter the correct origin address calculate on shipping price? toggle the checkbox if you want to apply the tax on subtotal as well as on shipping price after completing the above process, your customer will get a tax on front end that will be calculated from avatax api third party\nDid this page help you?\n\n\nPREVIOUS\nSetup TaxCloud\nNEXT\nSetup TaxJar\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

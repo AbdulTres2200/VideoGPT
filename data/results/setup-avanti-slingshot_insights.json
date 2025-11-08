@@ -1,0 +1,21 @@
+{
+  "id": "txt_77483",
+  "name": "setup-avanti-slingshot",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOthers\nSetup Avanti SlingShot\n\n5 min\noverview & purpose avanti slingshot is a modern, browser based print management information system (mis) designed to automate and integrate every aspect of a print business\u2014from estimating and order entry to production, shipping, and billing it supports seamless connections with web to print platforms, accounting tools, shipping carriers, and production equipment using industry standards this enables real time job tracking, automated workflows, and accurate cost reporting, helping print providers reduce manual steps, minimize errors, and improve turnaround times the integration aims to automate data exchange, including pushing order details from onprintshop to avanti slingshot and pulling order status details from avanti slingshot to onprintshop how to integrate to initiate the integration of avanti slingshot, navigate to the admin > store configuration > external service settings > others > avanti slingshot > edit enter the details such as url, sender id, username, and token provided by avanti slingshot select the payment status and order status to sync the orders automatically to avanti slingshot from onprintshop at specified intervals note to set up automated order sync, please reach out to our technical team for assistance order status mapping of onprintshop & avantislingshot admins can now map onprintshop order statuses with avanti slingshot statuses using the new mapping fields section under configuration once mapped, incoming status updates from avanti slingshot will automatically reflect the corresponding status in onprintshop, ensuring smooth and accurate order tracking order sync functionality two separate buttons are provided for order sync \"order sync to avanti\" and \"order sync to ops\" order sync to avanti admins can access a dedicated screen to filter and view orders by date or range, with key details like order number, date, status, and pricing order sync to ops similar to syncing with avanti, this feature lets admins filter and select orders to fetch updated statuses from avanti slingshot\nDid this page help you?\n\n\nPREVIOUS\nOthers\nNEXT\nSetup Pushpad\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "txt_42105",
+  "name": "template-properties-master",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTemplate & Studio\n\n\nManaging Templates\nTemplate Properties Master\n\n6 min\noverview & purpose why add separate properties to each template when you can create master properties and assign them to as many templates as required? to reduce your effort in creating separate template properties we have provided a \u2018template master properties\u2019 section here, you can create as many as desired template properties and assign them to the template(s) as per requirements using this section, you can create, edit, and delete template properties using this interface dashboard at a glance, you can check the list of template properties created it will also show you the property details such as property title, property type, the type of customer it is assigned to, and a few template property details using the search bar, you can easily filter out the template properties concerning their types add a template property just fill out the form to create a template property use the following instructions for the same property title this will help you identify the property insights so, it is recommended to use a concise and clear name as property title user type you need to bifurcate the user type depending on the business and b2b requirements you can assign properties to default stores, b2bs (store clients), or specific b2bs type to keep it convenient, we have provided an option named \u2018type\u2019, using this you can easily create properties with different characteristics various property types include the following \u2013 fonts create separate master font properties for your templates the system lists all the designer fonts and pdf fonts you can select any and proceed to create a new property colors in the printing industry colors play a very important role depending on the printers\u2019 specifications one would be required to restrict customers from selecting a few colors so, using this property type create a color master property all you have to do is enter the hex values or the cmyk values and add colors to create a property images again for some templates, if you wish to restrict your customers from uploading any image falling outside your printer\u2019s specification then create this property upload as many as required images using the \u2018select image\u2019 button and create a property template form fields create a property that includes form fields edit a template property you can anytime edit the created properties using the \u2018edit\u2019 option\nDid this page help you?\n\n\nPREVIOUS\nTemplate Settings\nNEXT\nTemplate Categories\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

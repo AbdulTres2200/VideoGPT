@@ -1,0 +1,21 @@
+{
+  "id": "txt_191429",
+  "name": "admin-panel-order-section",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhoto Print\nAdmin Panel \u2013 Order Section\n\n3 min\nthe order screen has some modifications for the photo print product view order go to admin >> list orders >> photoprint product order >> action menu >> view / update order >> order product details here, the order product id with the additional options with total quantity and price will be displayed for every product combination, there is a view details button provided this will show all the photoprint products present in the group along with their quantities note there is no modify order button provided for photo print products print ready files every print group will have a separate print ready file created note a site setting has been provided to allow a maximum number of photos while adding the photo print product into the cart the default value for this site variable is 40 please contact the technical team for any changes in this setting\nDid this page help you?\n\n\nPREVIOUS\nFront Store\nNEXT\nProofing Tool\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

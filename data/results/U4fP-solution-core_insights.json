@@ -1,0 +1,21 @@
+{
+  "id": "txt_490465",
+  "name": "U4fP-solution-core",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 10.1 Release Notes\nSolution Core\n\n1 min\npage optimization products & shopping cart/checkout page in this version, the cart data that hasn't changed after editing the cart will be taken from cache data for a specific period, speeding up page loading price calculator we have optimized the price calculator to load using ajax base for better performance and page speed js and css we have merged and removed some unwanted js and css along with minifying the js and css for better performance optimized all the other pages we have optimized all the pages for a quick load php serialize to json now, we have converted the serialized data to json throughout the solution optimized mailing date picker the selected mailing date is now displayed in the format yyyy mm dd in the date selection except for the date picker, the mailing date will be displayed in the system defined date format email/sms notification code optimization we have optimized the email/sms notification code, as a result, the notification content will no longer be prepared if the notification flag is not enabled from this, only notifications which are enabled that content will be prepared and loaded lazy load optimization we have removed lazy load external js, and css and will use lazy load using a browser restrict direct access of pdf, xls, and csv using url currently, all of the xls, pdf, and csv files of the solution are available via a url; however, we have now restricted that access so that the files may only be accessed using a signed url optimized ajax call we have optimized or removed some ajax call from the common event to quickly load pages database storage optimization now, we have changed the studio data storage from database to file based to reduce the load from the database and the load time for all the template related pages\nDid this page help you?\n\n\nPREVIOUS\nThird-Party Features\nNEXT\nVersion 10.0 Release Notes\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}
