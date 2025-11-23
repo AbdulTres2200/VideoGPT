@@ -7,6 +7,14 @@ import './App.css'
 function App() {
   const [messages, setMessages] = useState([])
   const [isLoading, setIsLoading] = useState(false)
+  const [sessionId, setSessionId] = useState(() => {
+    // Generate or retrieve session ID from localStorage
+    const stored = localStorage.getItem('video_gpt_session_id')
+    if (stored) return stored
+    const newId = `session_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`
+    localStorage.setItem('video_gpt_session_id', newId)
+    return newId
+  })
   const messagesEndRef = useRef(null)
 
   const scrollToBottom = () => {
@@ -49,7 +57,8 @@ function App() {
         },
         body: JSON.stringify({
           question: question,
-          return_sources: true
+          return_sources: true,
+          session_id: sessionId
         })
       })
 
@@ -87,6 +96,11 @@ function App() {
                     : msg
                 ))
               } else if (data.type === 'done') {
+                // Update session ID if provided by server
+                if (data.session_id && data.session_id !== sessionId) {
+                  setSessionId(data.session_id)
+                  localStorage.setItem('video_gpt_session_id', data.session_id)
+                }
                 setMessages(prev => prev.map(msg => 
                   msg.id === aiMessageId 
                     ? { ...msg, isStreaming: false }
@@ -117,9 +131,33 @@ function App() {
     }
   }
 
+  const handleNewConversation = async () => {
+    // Clear conversation history on server for old session
+    const oldSessionId = sessionId
+    try {
+      await fetch('/api/conversation/clear', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ session_id: oldSessionId })
+      })
+    } catch (error) {
+      console.error('Error clearing conversation:', error)
+    }
+    
+    // Clear messages
+    setMessages([])
+    
+    // Generate new session ID
+    const newId = `session_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`
+    setSessionId(newId)
+    localStorage.setItem('video_gpt_session_id', newId)
+  }
+
   return (
     <div className="app">
-      <Header />
+      <Header onNewConversation={handleNewConversation} />
       <div className="chat-container">
         {messages.length === 0 ? (
           <div className="welcome-screen">

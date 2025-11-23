@@ -12,7 +12,7 @@ from embed_insights import InsightsEmbedder
 import json
 
 # File to re-embed
-TARGET_FILE = "Block PDF Path Creation Illustrator  OnPrintShop_insights.json"
+TARGET_FILE = "Create Duplicate Templates  OnPrintShop_insights.json"
 
 def re_embed_file():
     """Re-embed a specific file."""

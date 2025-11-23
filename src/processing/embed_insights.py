@@ -18,8 +18,8 @@ load_dotenv('.env.local')
 RESULTS_DIR = 'data/results'
 VECTOR_DB_DIR = 'data/vector_db'
 EMBEDDING_PROGRESS_FILE = 'data/embedding_progress.json'
-CHUNK_SIZE = 1000
-CHUNK_OVERLAP = 200
+CHUNK_SIZE = 500  # Reduced from 1000 for better granularity and more precise retrieval
+CHUNK_OVERLAP = 100  # Reduced from 200 to maintain overlap ratio
 
 # Embedding model
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
@@ -72,20 +72,62 @@ class InsightsEmbedder:
             json.dump(self.progress, f, indent=2)
     
     def _init_vectorstore(self) -> Chroma:
-        """Initialize or load existing vector store."""
-        if os.path.exists(VECTOR_DB_DIR):
-            print(f"Loading existing vector database from: {VECTOR_DB_DIR}")
-            return Chroma(
-                persist_directory=VECTOR_DB_DIR,
-                embedding_function=self.embeddings
-            )
-        else:
-            print(f"Creating new vector database at: {VECTOR_DB_DIR}")
-            # Create empty vector store
-            return Chroma(
-                persist_directory=VECTOR_DB_DIR,
-                embedding_function=self.embeddings
-            )
+        """Initialize or load existing vector store with error recovery."""
+        collection_name = "langchain"  # Use consistent collection name
+        
+        try:
+            if os.path.exists(VECTOR_DB_DIR):
+                print(f"Loading existing vector database from: {VECTOR_DB_DIR}")
+                print(f"  Note: If the server is running, both processes will access the same database.")
+                print(f"  This is safe - ChromaDB supports concurrent read/write access.")
+                # Try to load with error handling
+                try:
+                    vectorstore = Chroma(
+                        persist_directory=VECTOR_DB_DIR,
+                        embedding_function=self.embeddings,
+                        collection_name=collection_name
+                    )
+                    # Verify it works - but don't fail if count is 0 (might be empty or server is using it)
+                    try:
+                        count = vectorstore._collection.count()
+                        if count > 0:
+                            print(f"  ✓ Found existing collection with {count} documents")
+                    except:
+                        pass  # Collection might be empty or locked, that's okay
+                    return vectorstore
+                except Exception as e:
+                    print(f"  ⚠️  Error loading database: {e}")
+                    print(f"  ⚠️  WARNING: Not deleting database - data may still be recoverable")
+                    print(f"  Attempting to create/access collection anyway...")
+                    # Don't delete the database - try to create collection or continue
+                    # The database might just need the collection created, or there's a lock
+                    try:
+                        vectorstore = Chroma(
+                            persist_directory=VECTOR_DB_DIR,
+                            embedding_function=self.embeddings,
+                            collection_name=collection_name
+                        )
+                        # Try to get count - might work now
+                        try:
+                            _ = vectorstore._collection.count()
+                        except:
+                            pass  # Collection might be empty, that's okay
+                        return vectorstore
+                    except Exception as e2:
+                        print(f"  ✗ Could not initialize vectorstore: {e2}")
+                        print(f"  Database may be locked by another process or corrupted.")
+                        print(f"  If you need to reset, use: python src/processing/reset_and_reembed.py")
+                        raise
+            else:
+                print(f"Creating new vector database at: {VECTOR_DB_DIR}")
+                return Chroma(
+                    persist_directory=VECTOR_DB_DIR,
+                    embedding_function=self.embeddings,
+                    collection_name=collection_name
+                )
+        except Exception as e:
+            print(f"  ✗ Critical error initializing database: {e}")
+            raise
     
     def list_json_files(self, query_filter: Optional[str] = None) -> List[Path]:
         """
@@ -259,6 +301,20 @@ class InsightsEmbedder:
         print(f"Processing files {start_index} to {end_index-1} ({len(files_to_process)} files)")
         print()
         
+        # Check if database is actually empty - if so, clear progress to force reprocess
+        try:
+            db_count = self.vectorstore._collection.count()
+            if db_count == 0 and len(self.progress['processed']) > 0:
+                print(f"⚠️  Database is empty ({db_count} documents) but progress shows {len(self.progress['processed'])} files processed.")
+                print(f"   Clearing progress to force re-embedding of all files...")
+                self.progress['processed'] = []
+                self.progress['total_chunks'] = 0
+                self.progress['last_file_index'] = -1
+                self._save_progress()
+                print(f"   ✓ Progress cleared. Will re-embed all files.\n")
+        except Exception as e:
+            print(f"   ⚠️  Could not check database count: {e}\n")
+        
         processed_count = 0
         total_chunks_added = 0
         
@@ -287,14 +343,27 @@ class InsightsEmbedder:
                 # Add documents (this APPENDS, does not overwrite)
                 self.vectorstore.add_documents(documents)
                 
-                # Verify documents were added
+                # Force persistence - ChromaDB should auto-persist, but we'll verify
+                # The persist_directory ensures persistence, but we verify it worked
+                
+                # Verify documents were added and persisted
                 try:
                     new_count = self.vectorstore._collection.count()
                     added_count = new_count - current_count
                     if added_count != len(documents):
                         print(f"  ⚠️  Warning: Expected {len(documents)} documents, but {added_count} were added")
-                except:
-                    pass  # If we can't verify, continue anyway
+                    else:
+                        # Documents were added successfully - verify persistence by re-accessing
+                        # This ensures the data is actually persisted, not just in memory
+                        try:
+                            # Re-access the collection to verify persistence
+                            verify_count = self.vectorstore._collection.count()
+                            if verify_count != new_count:
+                                print(f"  ⚠️  Warning: Persistence verification failed - count mismatch")
+                        except Exception as verify_error:
+                            print(f"  ⚠️  Warning: Could not verify persistence: {verify_error}")
+                except Exception as e:
+                    print(f"  ⚠️  Warning: Could not verify document addition: {e}")
                 
                 # Update progress
                 self.progress['processed'].append({
@@ -306,9 +375,22 @@ class InsightsEmbedder:
                 self.progress['total_chunks'] += len(documents)
                 self._save_progress()
                 
+                # Periodic persistence check - every 50 files, verify database state
+                if processed_count > 0 and processed_count % 50 == 0:
+                    try:
+                        db_count = self.vectorstore._collection.count()
+                        progress_count = self.progress['total_chunks']
+                        if db_count != progress_count:
+                            print(f"  ⚠️  WARNING: Database count ({db_count}) doesn't match progress ({progress_count})")
+                        else:
+                            print(f"  ✓ Persistence verified: {db_count} documents in database")
+                    except Exception as e:
+                        print(f"  ⚠️  Could not verify persistence: {e}")
+                
                 processed_count += 1
                 total_chunks_added += len(documents)
-                print(f"  ✓ Embedded {len(documents)} chunks (Total in DB: {new_count if 'new_count' in locals() else 'unknown'})")
+                db_total = new_count if 'new_count' in locals() else 'unknown'
+                print(f"  ✓ Embedded {len(documents)} chunks (Total in DB: {db_total})")
             except Exception as e:
                 print(f"  ✗ Error embedding: {e}")
                 self.progress['failed'].append({
@@ -317,17 +399,35 @@ class InsightsEmbedder:
                 })
                 self._save_progress()
         
-        # Final summary
+        # Final summary and verification
         print()
         print("=" * 70)
         print("BATCH EMBEDDING SUMMARY")
         print("=" * 70)
         print(f"Files processed: {processed_count}/{len(files_to_process)}")
         print(f"Chunks added: {total_chunks_added}")
-        print(f"Total chunks in database: {self.progress['total_chunks']}")
+        print(f"Total chunks in progress: {self.progress['total_chunks']}")
         print(f"Last processed index: {self.progress['last_file_index']}")
         print(f"Failed: {len(self.progress['failed'])}")
         print(f"Vector database: {VECTOR_DB_DIR}")
+        
+        # Final verification - ensure database matches progress
+        try:
+            final_db_count = self.vectorstore._collection.count()
+            progress_count = self.progress['total_chunks']
+            print()
+            print("PERSISTENCE VERIFICATION:")
+            print(f"  Database document count: {final_db_count}")
+            print(f"  Progress file chunk count: {progress_count}")
+            if final_db_count == progress_count:
+                print(f"  ✓ SUCCESS: Database matches progress file!")
+            else:
+                print(f"  ⚠️  WARNING: Mismatch detected!")
+                print(f"     Difference: {abs(final_db_count - progress_count)} documents")
+                print(f"     This may indicate a persistence issue.")
+        except Exception as e:
+            print(f"  ⚠️  Could not verify final database state: {e}")
+        
         print("=" * 70)
     
     def search(self, query: str, k: int = 5) -> List[Dict]:

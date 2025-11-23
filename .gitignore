@@ -24,6 +24,18 @@ frontend/node_modules/
 .idea/
 .vscode/
 
-# Data files (optional - uncomment if you don't want to commit data)
-# data/vector_db/
-# data/results/
+# Data files - large binary files and generated data
+data/vector_db/
+data/results/
+data/batch_progress.json
+data/embedding_progress.json
+data/embedded_files.txt
+
+# Temporary files
+~$*
+*.tmp
+
+# Large media files (uncomment if you don't want to commit videos)
+# *.mp4
+# *.avi
+# *.mov

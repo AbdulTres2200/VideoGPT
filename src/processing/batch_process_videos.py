@@ -32,7 +32,7 @@ RESULTS_DIR = 'data/results'
 PROGRESS_FILE = 'data/batch_progress.json'
 
 # Processing parameters - Adjust these values
-START_INDEX = 250  # Start from this file index (0-based)
+START_INDEX = 0  # Start from this file index (0-based)
 VIDEO_COUNT = None  # Number of files to process (None = process all remaining)
 
 # File extensions
@@ -50,7 +50,9 @@ class VideoBatchProcessor:
         Args:
             auto_embed: If True, automatically embed processed files to vector DB
         """
-        self.dbx = dropbox.Dropbox(DROPBOX_ACCESS_TOKEN) if DROPBOX_ACCESS_TOKEN else None
+        self.dbx = dropbox.Dropbox(oauth2_refresh_token="KzDCCHHbYaoAAAAAAAAAAeTMAGOmvNK91deQlAtgQZia4agFZlP0Uk0XgMuBjqmM",
+                                   app_key="vjbmnbvv6sm9l5x",
+                                   app_secret="sxrqiv4b867u34t")
         self.video_indexer = AzureVideoIndexer()
         self.progress = self._load_progress()
         self.auto_embed = auto_embed
@@ -210,14 +212,27 @@ class VideoBatchProcessor:
         """
         local_path = os.path.join(RESULTS_DIR, local_filename)
         
-        # Skip if already downloaded
+        # Check if already downloaded and file is valid (not empty)
         if os.path.exists(local_path):
-            return local_path
+            file_size = os.path.getsize(local_path)
+            if file_size > 0:
+                return local_path
+            else:
+                # File exists but is empty, re-download
+                print(f"  ⚠️  Existing file is empty, re-downloading...")
+                os.remove(local_path)
         
         try:
             metadata, response = self.dbx.files_download(dropbox_path)
             with open(local_path, 'wb') as f:
                 f.write(response.content)
+            
+            # Verify download was successful
+            downloaded_size = os.path.getsize(local_path)
+            if downloaded_size == 0:
+                os.remove(local_path)
+                raise Exception(f"Downloaded file is empty (0 bytes)")
+            
             return local_path
         except Exception as e:
             raise Exception(f"Download failed: {e}")
@@ -235,12 +250,13 @@ class VideoBatchProcessor:
         """
         return self.download_file(dropbox_path, local_filename)
     
-    def process_video(self, video_info: Dict) -> Optional[Dict]:
+    def process_video(self, video_info: Dict, retry_count: int = 0) -> Optional[Dict]:
         """
         Process a single video: download, upload to Azure, index, and save results.
         
         Args:
             video_info: Video information dictionary
+            retry_count: Number of retries attempted (to prevent infinite loops)
         
         Returns:
             Processing result dictionary or None if failed
@@ -446,25 +462,39 @@ class VideoBatchProcessor:
             
             # Check if it's a token expiration error
             if "expired" in error_msg.lower() or "401" in error_msg or "Unauthorized" in error_msg:
-                print("\n" + "="*60)
-                print("🔄 AUTHENTICATION ERROR DETECTED")
-                print("="*60)
-                
-                # Try to reload token from .env.local
-                try:
-                    print("  Attempting to reload token from .env.local...")
-                    self.video_indexer.reload_token()
-                    print("  ✓ Token reloaded! Retrying this file...")
-                    print("="*60 + "\n")
+                # Limit retries to prevent infinite loops
+                MAX_RETRIES = 2
+                if retry_count < MAX_RETRIES:
+                    print("\n" + "="*60)
+                    print("🔄 AUTHENTICATION ERROR DETECTED")
+                    print("="*60)
                     
-                    # Retry processing this video
-                    return self.process_video(video_info)
-                except Exception as reload_error:
-                    print(f"  ✗ Token reload failed: {reload_error}")
-                    print("\n  Manual steps:")
+                    # Try to reload token from .env.local
+                    try:
+                        print("  Attempting to reload token from .env.local...")
+                        self.video_indexer.reload_token()
+                        print("  ✓ Token reloaded! Retrying this file...")
+                        print("="*60 + "\n")
+                        
+                        # Retry processing this video with incremented retry count
+                        return self.process_video(video_info, retry_count=retry_count + 1)
+                    except Exception as reload_error:
+                        print(f"  ✗ Token reload failed: {reload_error}")
+                        print("\n  Manual steps:")
+                        print("  1. Get new token: https://www.videoindexer.ai/ → Profile → API access")
+                        print("  2. Update AZURE_VIDEO_INDEXER_API_KEY in .env.local")
+                        print("  3. Resume from this video (progress is saved)")
+                        print("="*60 + "\n")
+                else:
+                    print("\n" + "="*60)
+                    print("❌ AUTHENTICATION ERROR - MAX RETRIES REACHED")
+                    print("="*60)
+                    print(f"  Failed after {MAX_RETRIES} retry attempts.")
+                    print("\n  Please verify your token:")
                     print("  1. Get new token: https://www.videoindexer.ai/ → Profile → API access")
                     print("  2. Update AZURE_VIDEO_INDEXER_API_KEY in .env.local")
-                    print("  3. Resume from this video (progress is saved)")
+                    print("  3. Make sure the token is valid and not expired")
+                    print("  4. Restart the script to continue")
                     print("="*60 + "\n")
             
             # Check if it's a connection error (499, timeout, etc.) that should be retried

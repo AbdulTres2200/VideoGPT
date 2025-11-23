@@ -511,7 +511,25 @@ class AzureVideoIndexer:
             if state == 'processed':
                 return self.get_video_index(video_id, include_insights=True)
             elif state == 'failed':
-                raise Exception(f"Video indexing failed: {index_data.get('processingResult', {}).get('errorMessage', 'Unknown error')}")
+                # Try multiple locations for error message
+                error_msg = 'Unknown error'
+                processing_result = index_data.get('processingResult', {})
+                if processing_result:
+                    error_msg = processing_result.get('errorMessage') or processing_result.get('message') or str(processing_result)
+                
+                # Also check top-level error fields
+                if error_msg == 'Unknown error':
+                    error_msg = index_data.get('errorMessage') or index_data.get('error') or index_data.get('message') or 'Unknown error'
+                
+                # Include video ID and state for debugging
+                error_details = f"Video indexing failed (Video ID: {video_id}, State: {state})"
+                if error_msg and error_msg != 'Unknown error':
+                    error_details += f": {error_msg}"
+                else:
+                    # If no error message, include the full response for debugging
+                    error_details += f". Response: {str(index_data)[:500]}"
+                
+                raise Exception(error_details)
             
             time.sleep(poll_interval)
     

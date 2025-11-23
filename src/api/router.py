@@ -3,6 +3,7 @@ FastAPI router for video insights RAG query system.
 """
 import os
 import sys
+import uuid
 from pathlib import Path
 from typing import Optional, List, Dict
 from fastapi import FastAPI, HTTPException
@@ -11,6 +12,7 @@ from fastapi.responses import StreamingResponse
 from pydantic import BaseModel, Field
 from dotenv import load_dotenv
 import json
+from collections import defaultdict
 
 # Add project root to path for imports
 project_root = Path(__file__).parent.parent.parent
@@ -39,12 +41,17 @@ app.add_middleware(
 # Global RAG instance (initialized on startup)
 rag_system: Optional[VideoRAGQuery] = None
 
+# Conversation memory: store conversation history per session
+# Format: {session_id: [{"role": "user"/"assistant", "content": "..."}, ...]}
+conversation_history: Dict[str, List[Dict[str, str]]] = defaultdict(list)
+
 
 # Pydantic models for request/response
 class QueryRequest(BaseModel):
     """Request model for query."""
     question: str = Field(..., description="The question to ask about the video content")
     return_sources: bool = Field(True, description="Whether to return source references")
+    session_id: Optional[str] = Field(None, description="Session ID for conversation memory. If not provided, a new session will be created.")
 
 
 class SourceInfo(BaseModel):
@@ -114,7 +121,7 @@ async def query_videos_stream(request: QueryRequest):
     Stream query response from the video insights RAG system.
     
     Args:
-        request: Query request with question
+        request: Query request with question and optional session_id
     
     Returns:
         StreamingResponse with Server-Sent Events (SSE)
@@ -125,10 +132,20 @@ async def query_videos_stream(request: QueryRequest):
     if not request.question or not request.question.strip():
         raise HTTPException(status_code=400, detail="Question cannot be empty")
     
+    # Get or create session ID
+    session_id = request.session_id or str(uuid.uuid4())
+    
+    # Get conversation history for this session
+    history = conversation_history[session_id]
+    
     async def generate():
         try:
-            for chunk in rag_system.query_stream(request.question):
-                if chunk["type"] == "sources" and request.return_sources:
+            full_answer = ""
+            for chunk in rag_system.query_stream(request.question, conversation_history=history):
+                if chunk["type"] == "content":
+                    full_answer += chunk.get("content", "")
+                    yield f"data: {json.dumps(chunk)}\n\n"
+                elif chunk["type"] == "sources" and request.return_sources:
                     # Map JSON filenames to original video filenames
                     sources = []
                     for src in chunk["sources"]:
@@ -141,6 +158,19 @@ async def query_videos_stream(request: QueryRequest):
                             "source_file": original_video_file
                         })
                     yield f"data: {json.dumps({'type': 'sources', 'sources': sources})}\n\n"
+                elif chunk["type"] == "done":
+                    # Store conversation history after response is complete
+                    conversation_history[session_id].append({
+                        "role": "user",
+                        "content": request.question
+                    })
+                    conversation_history[session_id].append({
+                        "role": "assistant",
+                        "content": full_answer
+                    })
+                    # Send session_id with done message
+                    chunk["session_id"] = session_id
+                    yield f"data: {json.dumps(chunk)}\n\n"
                 else:
                     yield f"data: {json.dumps(chunk)}\n\n"
         except Exception as e:
@@ -167,11 +197,28 @@ async def query_videos(request: QueryRequest):
         raise HTTPException(status_code=400, detail="Question cannot be empty")
     
     try:
+        # Get or create session ID
+        session_id = request.session_id or str(uuid.uuid4())
+        
+        # Get conversation history for this session
+        history = conversation_history[session_id]
+        
         # Query the RAG system
         response = rag_system.query(
             question=request.question,
-            return_sources=request.return_sources
+            return_sources=request.return_sources,
+            conversation_history=history
         )
+        
+        # Store conversation history
+        conversation_history[session_id].append({
+            "role": "user",
+            "content": request.question
+        })
+        conversation_history[session_id].append({
+            "role": "assistant",
+            "content": response["answer"]
+        })
         
         # Format sources if present
         sources = None
@@ -200,6 +247,20 @@ async def query_videos(request: QueryRequest):
         raise HTTPException(status_code=500, detail=f"Error processing query: {str(e)}")
 
 
+class ClearConversationRequest(BaseModel):
+    """Request model for clearing conversation."""
+    session_id: str = Field(..., description="Session ID to clear")
+
+
+@app.post("/conversation/clear")
+async def clear_conversation(request: ClearConversationRequest):
+    """Clear conversation history for a session."""
+    if request.session_id in conversation_history:
+        conversation_history[request.session_id] = []
+        return {"status": "cleared", "session_id": request.session_id}
+    return {"status": "not_found", "session_id": request.session_id}
+
+
 @app.get("/stats")
 async def get_stats():
     """Get statistics about the vector database."""
@@ -214,7 +275,8 @@ async def get_stats():
             "total_documents": count,
             "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
             "llm_model": "gpt-4o",
-            "reranking_enabled": rag_system.reranker is not None
+            "reranking_enabled": rag_system.reranker is not None,
+            "active_conversations": len(conversation_history)
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error getting stats: {str(e)}")
