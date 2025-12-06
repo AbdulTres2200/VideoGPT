@@ -1,0 +1,3055 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+  "id": "jh2uqf57c7",
+  "name": "Uploads from OnPrintShop Web-to-Print Storefront - 002 - Client shares views on ",
+  "userName": "Abdul Moiz",
+  "created": "2025-11-01T03:56:59.4066667+00:00",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 131,
+  "duration": "0:02:11.449",
+  "summarizedInsights": {
+    "name": "Uploads from OnPrintShop Web-to-Print Storefront - 002 - Client shares views on ",
+    "id": "jh2uqf57c7",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:02:11.449",
+      "seconds": 131.4
+    },
+    "thumbnailVideoId": "jh2uqf57c7",
+    "thumbnailId": "e866c059-70fa-4be3-a8f7-6cde628a0567",
+    "faces": [
+      {
+        "videoId": "jh2uqf57c7",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "b4edcd67-d717-4884-9e49-d7faf643cc8d",
+        "seenDuration": 131.4,
+        "seenDurationRatio": 0.9996,
+        "id": 1001,
+        "name": "Unknown #1",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:02:11.3979333",
+            "startSeconds": 0,
+            "endSeconds": 131.4
+          }
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "isTranscript": true,
+        "id": 2,
+        "name": "processes",
+        "appearances": [
+          {
+            "startTime": "0:00:49.6",
+            "endTime": "0:01:03.64",
+            "startSeconds": 49.6,
+            "endSeconds": 63.6
+          },
+          {
+            "startTime": "0:01:10.4",
+            "endTime": "0:01:22.68",
+            "startSeconds": 70.4,
+            "endSeconds": 82.7
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 3,
+        "name": "radix",
+        "appearances": [
+          {
+            "startTime": "0:00:30.2",
+            "endTime": "0:00:49.6",
+            "startSeconds": 30.2,
+            "endSeconds": 49.6
+          },
+          {
+            "startTime": "0:01:11.071",
+            "endTime": "0:01:27.1203667",
+            "startSeconds": 71.1,
+            "endSeconds": 87.1
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 6,
+        "name": "company",
+        "appearances": [
+          {
+            "startTime": "0:00:15.36",
+            "endTime": "0:00:22",
+            "startSeconds": 15.4,
+            "endSeconds": 22
+          },
+          {
+            "startTime": "0:00:39.68",
+            "endTime": "0:00:42",
+            "startSeconds": 39.7,
+            "endSeconds": 42
+          },
+          {
+            "startTime": "0:00:49.6",
+            "endTime": "0:01:03.64",
+            "startSeconds": 49.6,
+            "endSeconds": 63.6
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 7,
+        "name": "working",
+        "appearances": [
+          {
+            "startTime": "0:00:25.64",
+            "endTime": "0:00:29.68",
+            "startSeconds": 25.6,
+            "endSeconds": 29.7
+          },
+          {
+            "startTime": "0:00:49.6",
+            "endTime": "0:01:03.64",
+            "startSeconds": 49.6,
+            "endSeconds": 63.6
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 8,
+        "name": "india",
+        "appearances": [
+          {
+            "startTime": "0:00:25.64",
+            "endTime": "0:00:29.68",
+            "startSeconds": 25.6,
+            "endSeconds": 29.7
+          },
+          {
+            "startTime": "0:02:02.92",
+            "endTime": "0:02:07.16",
+            "startSeconds": 122.9,
+            "endSeconds": 127.2
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 9,
+        "name": "friendship",
+        "appearances": [
+          {
+            "startTime": "0:00:30.2",
+            "endTime": "0:00:39.16",
+            "startSeconds": 30.2,
+            "endSeconds": 39.2
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 10,
+        "name": "experience",
+        "appearances": [
+          {
+            "startTime": "0:01:03.64",
+            "endTime": "0:01:10",
+            "startSeconds": 63.6,
+            "endSeconds": 70
+          },
+          {
+            "startTime": "0:01:30.88",
+            "endTime": "0:01:36.72",
+            "startSeconds": 90.9,
+            "endSeconds": 96.7
+          },
+          {
+            "startTime": "0:01:52.76",
+            "endTime": "0:01:58.12",
+            "startSeconds": 112.8,
+            "endSeconds": 118.1
+          },
+          {
+            "startTime": "0:02:09.6",
+            "endTime": "0:02:10.8",
+            "startSeconds": 129.6,
+            "endSeconds": 130.8
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 11,
+        "name": "time",
+        "appearances": [
+          {
+            "startTime": "0:01:03.64",
+            "endTime": "0:01:22.68",
+            "startSeconds": 63.6,
+            "endSeconds": 82.7
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 12,
+        "name": "employees",
+        "appearances": [
+          {
+            "startTime": "0:01:22.68",
+            "endTime": "0:01:36.72",
+            "startSeconds": 82.7,
+            "endSeconds": 96.7
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 13,
+        "name": "fond",
+        "appearances": [
+          {
+            "startTime": "0:01:30.88",
+            "endTime": "0:01:36.72",
+            "startSeconds": 90.9,
+            "endSeconds": 96.7
+          },
+          {
+            "startTime": "0:01:49",
+            "endTime": "0:01:52.16",
+            "startSeconds": 109,
+            "endSeconds": 112.2
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 14,
+        "name": "experienced",
+        "appearances": [
+          {
+            "startTime": "0:01:52.76",
+            "endTime": "0:01:58.12",
+            "startSeconds": 112.8,
+            "endSeconds": 118.1
+          },
+          {
+            "startTime": "0:02:09.6",
+            "endTime": "0:02:10.8",
+            "startSeconds": 129.6,
+            "endSeconds": 130.8
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 15,
+        "name": "thing",
+        "appearances": [
+          {
+            "startTime": "0:00:49.6",
+            "endTime": "0:01:03.64",
+            "startSeconds": 49.6,
+            "endSeconds": 63.6
+          },
+          {
+            "startTime": "0:01:10.4",
+            "endTime": "0:01:22.68",
+            "startSeconds": 70.4,
+            "endSeconds": 82.7
+          },
+          {
+            "startTime": "0:01:49",
+            "endTime": "0:01:52.16",
+            "startSeconds": 109,
+            "endSeconds": 112.2
+          },
+          {
+            "startTime": "0:01:58.68",
+            "endTime": "0:02:07.16",
+            "startSeconds": 118.7,
+            "endSeconds": 127.2
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 1,
+        "name": "print shop",
+        "appearances": [
+          {
+            "startTime": "0:00:02.002",
+            "endTime": "0:02:11.1643667",
+            "startSeconds": 2,
+            "endSeconds": 131.2
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 4,
+        "name": "magnus",
+        "appearances": [
+          {
+            "startTime": "0:00:00.44",
+            "endTime": "0:02:11.1643667",
+            "startSeconds": 0.4,
+            "endSeconds": 131.2
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 5,
+        "name": "denmark",
+        "appearances": [
+          {
+            "startTime": "0:00:00.44",
+            "endTime": "0:02:11.1643667",
+            "startSeconds": 0.4,
+            "endSeconds": 131.2
+          }
+        ]
+      }
+    ],
+    "sentiments": [
+      {
+        "sentimentKey": "Neutral",
+        "seenDurationRatio": 0.7897,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:25.64",
+            "startSeconds": 0,
+            "endSeconds": 25.6
+          },
+          {
+            "startTime": "0:00:29.68",
+            "endTime": "0:00:36.4",
+            "startSeconds": 29.7,
+            "endSeconds": 36.4
+          },
+          {
+            "startTime": "0:00:42",
+            "endTime": "0:01:30.88",
+            "startSeconds": 42,
+            "endSeconds": 90.9
+          },
+          {
+            "startTime": "0:01:36.72",
+            "endTime": "0:01:44.96",
+            "startSeconds": 96.7,
+            "endSeconds": 105
+          },
+          {
+            "startTime": "0:01:48.6",
+            "endTime": "0:01:49",
+            "startSeconds": 108.6,
+            "endSeconds": 109
+          },
+          {
+            "startTime": "0:01:52.16",
+            "endTime": "0:01:52.76",
+            "startSeconds": 112.2,
+            "endSeconds": 112.8
+          },
+          {
+            "startTime": "0:01:58.12",
+            "endTime": "0:02:11.449",
+            "startSeconds": 118.1,
+            "endSeconds": 131.4
+          }
+        ]
+      },
+      {
+        "sentimentKey": "Negative",
+        "seenDurationRatio": 0.0555,
+        "appearances": [
+          {
+            "startTime": "0:00:25.64",
+            "endTime": "0:00:29.68",
+            "startSeconds": 25.6,
+            "endSeconds": 29.7
+          },
+          {
+            "startTime": "0:01:49",
+            "endTime": "0:01:52.16",
+            "startSeconds": 109,
+            "endSeconds": 112.2
+          }
+        ]
+      },
+      {
+        "sentimentKey": "Positive",
+        "seenDurationRatio": 0.1544,
+        "appearances": [
+          {
+            "startTime": "0:00:36.4",
+            "endTime": "0:00:42",
+            "startSeconds": 36.4,
+            "endSeconds": 42
+          },
+          {
+            "startTime": "0:01:30.88",
+            "endTime": "0:01:36.72",
+            "startSeconds": 90.9,
+            "endSeconds": 96.7
+          },
+          {
+            "startTime": "0:01:44.96",
+            "endTime": "0:01:48.6",
+            "startSeconds": 105,
+            "endSeconds": 108.6
+          },
+          {
+            "startTime": "0:01:52.76",
+            "endTime": "0:01:58.12",
+            "startSeconds": 112.8,
+            "endSeconds": 118.1
+          }
+        ]
+      }
+    ],
+    "emotions": [
+      {
+        "type": "Sad",
+        "seenDurationRatio": 0.0555,
+        "appearances": [
+          {
+            "startTime": "0:00:25.64",
+            "endTime": "0:00:29.68",
+            "startSeconds": 25.6,
+            "endSeconds": 29.7
+          },
+          {
+            "startTime": "0:01:49",
+            "endTime": "0:01:52.16",
+            "startSeconds": 109,
+            "endSeconds": 112.2
+          }
+        ]
+      },
+      {
+        "type": "Joy",
+        "seenDurationRatio": 0.1544,
+        "appearances": [
+          {
+            "startTime": "0:00:36.4",
+            "endTime": "0:00:42",
+            "startSeconds": 36.4,
+            "endSeconds": 42
+          },
+          {
+            "startTime": "0:01:30.88",
+            "endTime": "0:01:36.72",
+            "startSeconds": 90.9,
+            "endSeconds": 96.7
+          },
+          {
+            "startTime": "0:01:44.96",
+            "endTime": "0:01:48.6",
+            "startSeconds": 105,
+            "endSeconds": 108.6
+          },
+          {
+            "startTime": "0:01:52.76",
+            "endTime": "0:01:58.12",
+            "startSeconds": 112.8,
+            "endSeconds": 118.1
+          }
+        ]
+      }
+    ],
+    "audioEffects": [
+      {
+        "audioEffectKey": "Silence",
+        "seenDurationRatio": 0.0692,
+        "seenDuration": 9.1,
+        "appearances": [
+          {
+            "confidence": 0.7839,
+            "startTime": "0:00:15.3",
+            "endTime": "0:00:16.3",
+            "startSeconds": 15.3,
+            "endSeconds": 16.3
+          },
+          {
+            "confidence": 0.7745,
+            "startTime": "0:00:22.5",
+            "endTime": "0:00:23.5",
+            "startSeconds": 22.5,
+            "endSeconds": 23.5
+          },
+          {
+            "confidence": 0.8177,
+            "startTime": "0:00:30.18",
+            "endTime": "0:00:31.18",
+            "startSeconds": 30.2,
+            "endSeconds": 31.2
+          },
+          {
+            "confidence": 0.8486,
+            "startTime": "0:00:39.66",
+            "endTime": "0:00:40.66",
+            "startSeconds": 39.7,
+            "endSeconds": 40.7
+          },
+          {
+            "confidence": 0.8069,
+            "startTime": "0:00:42.5",
+            "endTime": "0:00:43.5",
+            "startSeconds": 42.5,
+            "endSeconds": 43.5
+          },
+          {
+            "confidence": 0.7883,
+            "startTime": "0:01:30.78",
+            "endTime": "0:01:31.78",
+            "startSeconds": 90.8,
+            "endSeconds": 91.8
+          },
+          {
+            "confidence": 0.7751,
+            "startTime": "0:01:44.82",
+            "endTime": "0:01:45.82",
+            "startSeconds": 104.8,
+            "endSeconds": 105.8
+          },
+          {
+            "confidence": 0.7744,
+            "startTime": "0:01:52.66",
+            "endTime": "0:01:53.66",
+            "startSeconds": 112.7,
+            "endSeconds": 113.7
+          },
+          {
+            "confidence": 0.8113,
+            "startTime": "0:01:58.62",
+            "endTime": "0:01:59.62",
+            "startSeconds": 118.6,
+            "endSeconds": 119.6
+          },
+          {
+            "confidence": 0.784,
+            "startTime": "0:02:11.3",
+            "endTime": "0:02:11.449",
+            "startSeconds": 131.3,
+            "endSeconds": 131.4
+          }
+        ]
+      }
+    ],
+    "labels": [
+      {
+        "id": 1,
+        "name": "human face",
+        "appearances": [
+          {
+            "confidence": 0.9982,
+            "startTime": "0:00:00",
+            "endTime": "0:02:11.1643667",
+            "startSeconds": 0,
+            "endSeconds": 131.2
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "person",
+        "appearances": [
+          {
+            "confidence": 0.9923,
+            "startTime": "0:00:00",
+            "endTime": "0:02:11.1643667",
+            "startSeconds": 0,
+            "endSeconds": 131.2
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "clothing",
+        "appearances": [
+          {
+            "confidence": 0.993,
+            "startTime": "0:00:00",
+            "endTime": "0:02:11.1643667",
+            "startSeconds": 0,
+            "endSeconds": 131.2
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "man",
+        "appearances": [
+          {
+            "confidence": 0.9727,
+            "startTime": "0:00:00",
+            "endTime": "0:02:11.1643667",
+            "startSeconds": 0,
+            "endSeconds": 131.2
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "text",
+        "appearances": [
+          {
+            "confidence": 0.9907,
+            "startTime": "0:00:02.002",
+            "endTime": "0:02:11.1643667",
+            "startSeconds": 2,
+            "endSeconds": 131.2
+          }
+        ]
+      }
+    ],
+    "framePatterns": [],
+    "brands": [],
+    "namedLocations": [
+      {
+        "referenceId": null,
+        "referenceUrl": null,
+        "confidence": 1,
+        "description": null,
+        "seenDuration": 8.4,
+        "id": 4,
+        "name": "India",
+        "appearances": [
+          {
+            "startTime": "0:00:25.64",
+            "endTime": "0:00:29.68",
+            "startSeconds": 25.6,
+            "endSeconds": 29.7
+          },
+          {
+            "startTime": "0:02:02.92",
+            "endTime": "0:02:07.16",
+            "startSeconds": 122.9,
+            "endSeconds": 127.2
+          }
+        ]
+      },
+      {
+        "referenceId": null,
+        "referenceUrl": null,
+        "confidence": 0.77,
+        "description": null,
+        "seenDuration": 6.8,
+        "id": 2,
+        "name": "print shops",
+        "appearances": [
+          {
+            "startTime": "0:00:07.96",
+            "endTime": "0:00:14.8",
+            "startSeconds": 8,
+            "endSeconds": 14.8
+          }
+        ]
+      },
+      {
+        "referenceId": null,
+        "referenceUrl": null,
+        "confidence": 0.49,
+        "description": null,
+        "seenDuration": 6.6,
+        "id": 3,
+        "name": "shop",
+        "appearances": [
+          {
+            "startTime": "0:00:15.36",
+            "endTime": "0:00:22",
+            "startSeconds": 15.4,
+            "endSeconds": 22
+          }
+        ]
+      },
+      {
+        "referenceId": null,
+        "referenceUrl": null,
+        "confidence": 0.95,
+        "description": null,
+        "seenDuration": 6.4,
+        "id": 6,
+        "name": "conference room",
+        "appearances": [
+          {
+            "startTime": "0:01:37.92",
+            "endTime": "0:01:44.32",
+            "startSeconds": 97.9,
+            "endSeconds": 104.3
+          }
+        ]
+      },
+      {
+        "referenceId": null,
+        "referenceUrl": null,
+        "confidence": 0.94,
+        "description": null,
+        "seenDuration": 5.8,
+        "id": 5,
+        "name": "office",
+        "appearances": [
+          {
+            "startTime": "0:01:30.88",
+            "endTime": "0:01:36.72",
+            "startSeconds": 90.9,
+            "endSeconds": 96.7
+          }
+        ]
+      },
+      {
+        "referenceId": null,
+        "referenceUrl": null,
+        "confidence": 1,
+        "description": null,
+        "seenDuration": 4,
+        "id": 1,
+        "name": "Denmark",
+        "appearances": [
+          {
+            "startTime": "0:00:00.44",
+            "endTime": "0:00:04.36",
+            "startSeconds": 0.4,
+            "endSeconds": 4.4
+          }
+        ]
+      },
+      {
+        "referenceId": null,
+        "referenceUrl": null,
+        "confidence": 0.66,
+        "description": null,
+        "seenDuration": 3.6,
+        "id": 7,
+        "name": "scene",
+        "appearances": [
+          {
+            "startTime": "0:01:44.96",
+            "endTime": "0:01:48.6",
+            "startSeconds": 105,
+            "endSeconds": 108.6
+          }
+        ]
+      }
+    ],
+    "namedPeople": [
+      {
+        "referenceId": null,
+        "referenceUrl": null,
+        "confidence": 1,
+        "description": null,
+        "seenDuration": 12.3,
+        "id": 4,
+        "name": "Raddatz",
+        "appearances": [
+          {
+            "startTime": "0:01:10.4",
+            "endTime": "0:01:22.68",
+            "startSeconds": 70.4,
+            "endSeconds": 82.7
+          }
+        ]
+      },
+      {
+        "referenceId": null,
+        "referenceUrl": null,
+        "confidence": 0.735,
+        "description": null,
+        "seenDuration": 9,
+        "id": 3,
+        "name": "Radix",
+        "appearances": [
+          {
+            "startTime": "0:00:30.2",
+            "endTime": "0:00:39.16",
+            "startSeconds": 30.2,
+            "endSeconds": 39.2
+          }
+        ]
+      },
+      {
+        "referenceId": null,
+        "referenceUrl": null,
+        "confidence": 1,
+        "description": null,
+        "seenDuration": 4,
+        "id": 1,
+        "name": "Magnus",
+        "appearances": [
+          {
+            "startTime": "0:00:00.44",
+            "endTime": "0:00:04.36",
+            "startSeconds": 0.4,
+            "endSeconds": 4.4
+          }
+        ]
+      },
+      {
+        "referenceId": null,
+        "referenceUrl": null,
+        "confidence": 0.7,
+        "description": null,
+        "seenDuration": 1.8,
+        "id": 2,
+        "name": "Reddicks",
+        "appearances": [
+          {
+            "startTime": "0:00:05.36",
+            "endTime": "0:00:07.2",
+            "startSeconds": 5.4,
+            "endSeconds": 7.2
+          }
+        ]
+      }
+    ],
+    "statistics": {
+      "correspondenceCount": 0,
+      "speakerTalkToListenRatio": {
+        "1": 1
+      },
+      "speakerLongestMonolog": {
+        "1": 118
+      },
+      "speakerNumberOfFragments": {
+        "1": 19
+      },
+      "speakerWordCount": {
+        "1": 384
+      }
+    },
+    "topics": [
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/business information/strategy and marketing/business governance",
+        "iabName": "Business and Finance",
+        "confidence": 0.9118,
+        "id": 1,
+        "name": "Business",
+        "appearances": [
+          {
+            "startTime": "0:00:49.6",
+            "endTime": "0:01:36.72",
+            "startSeconds": 49.6,
+            "endSeconds": 96.7
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "science and technology",
+        "iabName": "Education",
+        "confidence": 0.6865,
+        "id": 2,
+        "name": "Education/Technology",
+        "appearances": [
+          {
+            "startTime": "0:00:00.44",
+            "endTime": "0:00:49.6",
+            "startSeconds": 0.4,
+            "endSeconds": 49.6
+          },
+          {
+            "startTime": "0:01:37.92",
+            "endTime": "0:01:44.32",
+            "startSeconds": 97.9,
+            "endSeconds": 104.3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": [
+    {
+      "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+      "id": "jh2uqf57c7",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:02:11.449",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [
+          "en-US"
+        ],
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "transcript": [
+          {
+            "id": 1,
+            "text": "Hi, I'm Magnus, I'm the CTO of Church and in Denmark.",
+            "confidence": 0.6651,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.44",
+                "adjustedEnd": "0:00:04.36",
+                "start": "0:00:00.44",
+                "end": "0:00:04.36"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "I met Reddicks 3 months ago.",
+            "confidence": 0.7567,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:05.36",
+                "adjustedEnd": "0:00:07.2",
+                "start": "0:00:05.36",
+                "end": "0:00:07.2"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "By coincidence we were exploring the market for some we've enabled print shops.",
+            "confidence": 0.7587,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07.96",
+                "adjustedEnd": "0:00:14.8",
+                "start": "0:00:07.96",
+                "end": "0:00:14.8"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "We came across on print shop and the company's CEO was the one who actually found the software on the Internet.",
+            "confidence": 0.7641,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.36",
+                "adjustedEnd": "0:00:22",
+                "start": "0:00:15.36",
+                "end": "0:00:22"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "I've been into IT industry for the last 10 years now.",
+            "confidence": 0.9117,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.84",
+                "adjustedEnd": "0:00:25.64",
+                "start": "0:00:22.84",
+                "end": "0:00:25.64"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "I've been working a lot in India, faced a lot of difficulties.",
+            "confidence": 0.8578,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25.64",
+                "adjustedEnd": "0:00:29.68",
+                "start": "0:00:25.64",
+                "end": "0:00:29.68"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "So when I first met up with Radix, it was more like exploiting the on friendship.",
+            "confidence": 0.8049,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:30.2",
+                "adjustedEnd": "0:00:35.56",
+                "start": "0:00:30.2",
+                "end": "0:00:35.56"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "But it turned out that Radix is much more than just the on friendship.",
+            "confidence": 0.7773,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:36.4",
+                "adjustedEnd": "0:00:39.16",
+                "start": "0:00:36.4",
+                "end": "0:00:39.16"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "Actually Radix is a splendid IT company.",
+            "confidence": 0.7879,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39.68",
+                "adjustedEnd": "0:00:42",
+                "start": "0:00:39.68",
+                "end": "0:00:42"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "So right now we're actually placing a lot of system, a lot of development effort is done from from Radix team right now.",
+            "confidence": 0.7194,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:42.52",
+                "adjustedEnd": "0:00:49.6",
+                "start": "0:00:42.52",
+                "end": "0:00:49.6"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "And the big difference between the the past two companies that we've been working with is that this company really implements everything about structures and processes which are quite important for us in order to get our stuff done.",
+            "confidence": 0.859,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:49.6",
+                "adjustedEnd": "0:01:03.64",
+                "start": "0:00:49.6",
+                "end": "0:01:03.64"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "So we actually experience now that we get twice the quality in half the time what we got earlier.",
+            "confidence": 0.7843,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03.64",
+                "adjustedEnd": "0:01:10",
+                "start": "0:01:03.64",
+                "end": "0:01:10"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "OK, after meeting Raddatz for the first time, they told me a lot about the business processes and the way that they practice process over people compared to where I come from, that is something that I would never do.",
+            "confidence": 0.894,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:10.4",
+                "adjustedEnd": "0:01:22.68",
+                "start": "0:01:10.4",
+                "end": "0:01:22.68"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "So I thought that if they do this, they might leave out all the creativityness or all the individualism of of all their employees.",
+            "confidence": 0.7538,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:22.68",
+                "adjustedEnd": "0:01:30.28",
+                "start": "0:01:22.68",
+                "end": "0:01:30.28"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "So it was quite a experience when I came to the office to find that all the employees are very fond of what they do.",
+            "confidence": 0.9001,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:30.88",
+                "adjustedEnd": "0:01:36.72",
+                "start": "0:01:30.88",
+                "end": "0:01:36.72"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "We went to this conference room, we had a couple of developers coming up and showing what they were waiting on right now.",
+            "confidence": 0.8816,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:37.92",
+                "adjustedEnd": "0:01:44.32",
+                "start": "0:01:37.92",
+                "end": "0:01:44.32"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "And it was like they were bringing the small kids to the scene.",
+            "confidence": 0.9151,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:44.96",
+                "adjustedEnd": "0:01:48.6",
+                "start": "0:01:44.96",
+                "end": "0:01:48.6"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "They were very fond of of everything they did there.",
+            "confidence": 0.7489,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:49",
+                "adjustedEnd": "0:01:52.16",
+                "start": "0:01:49",
+                "end": "0:01:52.16"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "So I actually experienced a lot of creativeness and and a lot of a lot of dedication to what they do.",
+            "confidence": 0.7928,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:52.76",
+                "adjustedEnd": "0:01:58.12",
+                "start": "0:01:52.76",
+                "end": "0:01:58.12"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "And that is something that goes through the entire organization.",
+            "confidence": 0.9524,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:58.68",
+                "adjustedEnd": "0:02:02",
+                "start": "0:01:58.68",
+                "end": "0:02:02"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "text": "One thing to say about Radics is just the same that you would say about India.",
+            "confidence": 0.7933,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:02.92",
+                "adjustedEnd": "0:02:07.16",
+                "start": "0:02:02.92",
+                "end": "0:02:07.16"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "text": "It's quite hard to explain.",
+            "confidence": 0.9113,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:07.4",
+                "adjustedEnd": "0:02:08.84",
+                "start": "0:02:07.4",
+                "end": "0:02:08.84"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "text": "It has to be experienced.",
+            "confidence": 0.9173,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:09.6",
+                "adjustedEnd": "0:02:10.8",
+                "start": "0:02:09.6",
+                "end": "0:02:10.8"
+              }
+            ]
+          }
+        ],
+        "ocr": [
+          {
+            "id": 1,
+            "text": "Magnus Hansen, CTO, Trykcentret",
+            "confidence": 0.9588,
+            "left": 122,
+            "top": 398,
+            "width": 271,
+            "height": 26,
+            "angle": 0,
+            "language": "da-DK",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:02:11.1643667",
+                "start": "0:00:01.001",
+                "end": "0:02:11.1643667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "Denmark",
+            "confidence": 0.998,
+            "left": 485,
+            "top": 399,
+            "width": 78,
+            "height": 20,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:02:11.1643667",
+                "start": "0:00:01.001",
+                "end": "0:02:11.1643667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "TRYKCENTRET",
+            "confidence": 0.979,
+            "left": 42,
+            "top": 429,
+            "width": 57,
+            "height": 11,
+            "angle": 0,
+            "language": "da-DK",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:02:11.1643667",
+                "start": "0:00:01.001",
+                "end": "0:02:11.1643667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "Web-to-Print Storefront",
+            "confidence": 0.9485,
+            "left": 512,
+            "top": 46,
+            "width": 104,
+            "height": 10,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:02.002",
+                "adjustedEnd": "0:02:11.1643667",
+                "start": "0:00:02.002",
+                "end": "0:02:11.1643667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "OnPrintShop",
+            "confidence": 0.919,
+            "left": 510,
+            "top": 26,
+            "width": 109,
+            "height": 18,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.011",
+                "adjustedEnd": "0:00:17.0503667",
+                "start": "0:00:11.011",
+                "end": "0:00:17.0503667"
+              },
+              {
+                "adjustedStart": "0:00:37.037",
+                "adjustedEnd": "0:00:51.0843667",
+                "start": "0:00:37.037",
+                "end": "0:00:51.0843667"
+              },
+              {
+                "adjustedStart": "0:00:53.053",
+                "adjustedEnd": "0:02:11.1643667",
+                "start": "0:00:53.053",
+                "end": "0:02:11.1643667"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "RADIX",
+            "confidence": 0.93,
+            "left": 53,
+            "top": 76,
+            "width": 70,
+            "height": 11,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:11.071",
+                "adjustedEnd": "0:01:27.1203667",
+                "start": "0:01:11.071",
+                "end": "0:01:27.1203667"
+              },
+              {
+                "adjustedStart": "0:01:29.089",
+                "adjustedEnd": "0:02:11.1643667",
+                "start": "0:01:29.089",
+                "end": "0:02:11.1643667"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 1,
+            "text": "print shop",
+            "confidence": 0.9635,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07.96",
+                "adjustedEnd": "0:00:14.8",
+                "start": "0:00:07.96",
+                "end": "0:00:14.8"
+              },
+              {
+                "adjustedStart": "0:00:15.36",
+                "adjustedEnd": "0:00:22",
+                "start": "0:00:15.36",
+                "end": "0:00:22"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "processes",
+            "confidence": 0.7217,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:49.6",
+                "adjustedEnd": "0:01:03.64",
+                "start": "0:00:49.6",
+                "end": "0:01:03.64"
+              },
+              {
+                "adjustedStart": "0:01:10.4",
+                "adjustedEnd": "0:01:22.68",
+                "start": "0:01:10.4",
+                "end": "0:01:22.68"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "radix",
+            "confidence": 0.6275,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:30.2",
+                "adjustedEnd": "0:00:35.56",
+                "start": "0:00:30.2",
+                "end": "0:00:35.56"
+              },
+              {
+                "adjustedStart": "0:00:36.4",
+                "adjustedEnd": "0:00:39.16",
+                "start": "0:00:36.4",
+                "end": "0:00:39.16"
+              },
+              {
+                "adjustedStart": "0:00:39.68",
+                "adjustedEnd": "0:00:42",
+                "start": "0:00:39.68",
+                "end": "0:00:42"
+              },
+              {
+                "adjustedStart": "0:00:42.52",
+                "adjustedEnd": "0:00:49.6",
+                "start": "0:00:42.52",
+                "end": "0:00:49.6"
+              },
+              {
+                "adjustedStart": "0:01:11.071",
+                "adjustedEnd": "0:01:27.1203667",
+                "start": "0:01:11.071",
+                "end": "0:01:27.1203667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "magnus",
+            "confidence": 0.6244,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.44",
+                "adjustedEnd": "0:00:04.36",
+                "start": "0:00:00.44",
+                "end": "0:00:04.36"
+              },
+              {
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:02:11.1643667",
+                "start": "0:00:01.001",
+                "end": "0:02:11.1643667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "denmark",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.44",
+                "adjustedEnd": "0:00:04.36",
+                "start": "0:00:00.44",
+                "end": "0:00:04.36"
+              },
+              {
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:02:11.1643667",
+                "start": "0:00:01.001",
+                "end": "0:02:11.1643667"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "company",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.36",
+                "adjustedEnd": "0:00:22",
+                "start": "0:00:15.36",
+                "end": "0:00:22"
+              },
+              {
+                "adjustedStart": "0:00:39.68",
+                "adjustedEnd": "0:00:42",
+                "start": "0:00:39.68",
+                "end": "0:00:42"
+              },
+              {
+                "adjustedStart": "0:00:49.6",
+                "adjustedEnd": "0:01:03.64",
+                "start": "0:00:49.6",
+                "end": "0:01:03.64"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "working",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25.64",
+                "adjustedEnd": "0:00:29.68",
+                "start": "0:00:25.64",
+                "end": "0:00:29.68"
+              },
+              {
+                "adjustedStart": "0:00:49.6",
+                "adjustedEnd": "0:01:03.64",
+                "start": "0:00:49.6",
+                "end": "0:01:03.64"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "india",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25.64",
+                "adjustedEnd": "0:00:29.68",
+                "start": "0:00:25.64",
+                "end": "0:00:29.68"
+              },
+              {
+                "adjustedStart": "0:02:02.92",
+                "adjustedEnd": "0:02:07.16",
+                "start": "0:02:02.92",
+                "end": "0:02:07.16"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "friendship",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:30.2",
+                "adjustedEnd": "0:00:35.56",
+                "start": "0:00:30.2",
+                "end": "0:00:35.56"
+              },
+              {
+                "adjustedStart": "0:00:36.4",
+                "adjustedEnd": "0:00:39.16",
+                "start": "0:00:36.4",
+                "end": "0:00:39.16"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "experience",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03.64",
+                "adjustedEnd": "0:01:10",
+                "start": "0:01:03.64",
+                "end": "0:01:10"
+              },
+              {
+                "adjustedStart": "0:01:30.88",
+                "adjustedEnd": "0:01:36.72",
+                "start": "0:01:30.88",
+                "end": "0:01:36.72"
+              },
+              {
+                "adjustedStart": "0:01:52.76",
+                "adjustedEnd": "0:01:58.12",
+                "start": "0:01:52.76",
+                "end": "0:01:58.12"
+              },
+              {
+                "adjustedStart": "0:02:09.6",
+                "adjustedEnd": "0:02:10.8",
+                "start": "0:02:09.6",
+                "end": "0:02:10.8"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "time",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03.64",
+                "adjustedEnd": "0:01:10",
+                "start": "0:01:03.64",
+                "end": "0:01:10"
+              },
+              {
+                "adjustedStart": "0:01:10.4",
+                "adjustedEnd": "0:01:22.68",
+                "start": "0:01:10.4",
+                "end": "0:01:22.68"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "employees",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:22.68",
+                "adjustedEnd": "0:01:30.28",
+                "start": "0:01:22.68",
+                "end": "0:01:30.28"
+              },
+              {
+                "adjustedStart": "0:01:30.88",
+                "adjustedEnd": "0:01:36.72",
+                "start": "0:01:30.88",
+                "end": "0:01:36.72"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "fond",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:30.88",
+                "adjustedEnd": "0:01:36.72",
+                "start": "0:01:30.88",
+                "end": "0:01:36.72"
+              },
+              {
+                "adjustedStart": "0:01:49",
+                "adjustedEnd": "0:01:52.16",
+                "start": "0:01:49",
+                "end": "0:01:52.16"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "experienced",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:52.76",
+                "adjustedEnd": "0:01:58.12",
+                "start": "0:01:52.76",
+                "end": "0:01:58.12"
+              },
+              {
+                "adjustedStart": "0:02:09.6",
+                "adjustedEnd": "0:02:10.8",
+                "start": "0:02:09.6",
+                "end": "0:02:10.8"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "thing",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:49.6",
+                "adjustedEnd": "0:01:03.64",
+                "start": "0:00:49.6",
+                "end": "0:01:03.64"
+              },
+              {
+                "adjustedStart": "0:01:10.4",
+                "adjustedEnd": "0:01:22.68",
+                "start": "0:01:10.4",
+                "end": "0:01:22.68"
+              },
+              {
+                "adjustedStart": "0:01:49",
+                "adjustedEnd": "0:01:52.16",
+                "start": "0:01:49",
+                "end": "0:01:52.16"
+              },
+              {
+                "adjustedStart": "0:01:58.68",
+                "adjustedEnd": "0:02:02",
+                "start": "0:01:58.68",
+                "end": "0:02:02"
+              },
+              {
+                "adjustedStart": "0:02:02.92",
+                "adjustedEnd": "0:02:07.16",
+                "start": "0:02:02.92",
+                "end": "0:02:07.16"
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 1,
+            "name": "Business",
+            "referenceId": "Business",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/business information/strategy and marketing/business governance",
+            "confidence": 0.9118,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:49.6",
+                "adjustedEnd": "0:01:36.72",
+                "start": "0:00:49.6",
+                "end": "0:01:36.72"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Technology",
+            "referenceId": "Education/Technology",
+            "referenceType": "VideoIndexer",
+            "iptcName": "science and technology",
+            "confidence": 0.6865,
+            "iabName": "Education",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.44",
+                "adjustedEnd": "0:00:49.6",
+                "start": "0:00:00.44",
+                "end": "0:00:49.6"
+              },
+              {
+                "adjustedStart": "0:01:37.92",
+                "adjustedEnd": "0:01:44.32",
+                "start": "0:01:37.92",
+                "end": "0:01:44.32"
+              }
+            ]
+          }
+        ],
+        "faces": [
+          {
+            "id": 1001,
+            "name": "Unknown #1",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "b4edcd67-d717-4884-9e49-d7faf643cc8d",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "e0f2c35b-c7f4-4829-9bba-f824044cc189",
+                "fileName": "FaceInstanceThumbnail_e0f2c35b-c7f4-4829-9bba-f824044cc189.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:00",
+                    "adjustedEnd": "0:00:00.0333666",
+                    "start": "0:00:00",
+                    "end": "0:00:00.0333666"
+                  }
+                ]
+              },
+              {
+                "id": "b697bbcd-ba90-435c-943f-23ec5435687a",
+                "fileName": "FaceInstanceThumbnail_b697bbcd-ba90-435c-943f-23ec5435687a.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:05.1384666",
+                    "adjustedEnd": "0:00:05.1718332",
+                    "start": "0:00:05.1384666",
+                    "end": "0:00:05.1718332"
+                  }
+                ]
+              },
+              {
+                "id": "9d3be574-3af5-4fad-8737-94d4e8a0b905",
+                "fileName": "FaceInstanceThumbnail_9d3be574-3af5-4fad-8737-94d4e8a0b905.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:10.2769333",
+                    "adjustedEnd": "0:00:10.3102999",
+                    "start": "0:00:10.2769333",
+                    "end": "0:00:10.3102999"
+                  }
+                ]
+              },
+              {
+                "id": "f3a7b4b4-f0b7-497b-9189-c9d4dc784ed0",
+                "fileName": "FaceInstanceThumbnail_f3a7b4b4-f0b7-497b-9189-c9d4dc784ed0.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:15.4154",
+                    "adjustedEnd": "0:00:15.4487666",
+                    "start": "0:00:15.4154",
+                    "end": "0:00:15.4487666"
+                  }
+                ]
+              },
+              {
+                "id": "558b75c0-0ad5-459d-9979-5d67a21cd282",
+                "fileName": "FaceInstanceThumbnail_558b75c0-0ad5-459d-9979-5d67a21cd282.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:20.5538666",
+                    "adjustedEnd": "0:00:20.5872332",
+                    "start": "0:00:20.5538666",
+                    "end": "0:00:20.5872332"
+                  }
+                ]
+              },
+              {
+                "id": "36351162-b84b-4c4d-ae8b-f8855b2c52de",
+                "fileName": "FaceInstanceThumbnail_36351162-b84b-4c4d-ae8b-f8855b2c52de.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:25.6923333",
+                    "adjustedEnd": "0:00:25.7256999",
+                    "start": "0:00:25.6923333",
+                    "end": "0:00:25.7256999"
+                  }
+                ]
+              },
+              {
+                "id": "ab04477b-f28d-487e-9f6f-05f66c4c422e",
+                "fileName": "FaceInstanceThumbnail_ab04477b-f28d-487e-9f6f-05f66c4c422e.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:30.8308",
+                    "adjustedEnd": "0:00:30.8641666",
+                    "start": "0:00:30.8308",
+                    "end": "0:00:30.8641666"
+                  }
+                ]
+              },
+              {
+                "id": "293cafa7-dadd-45bc-823d-12fa5eaae26c",
+                "fileName": "FaceInstanceThumbnail_293cafa7-dadd-45bc-823d-12fa5eaae26c.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:35.9692666",
+                    "adjustedEnd": "0:00:36.0026332",
+                    "start": "0:00:35.9692666",
+                    "end": "0:00:36.0026332"
+                  }
+                ]
+              },
+              {
+                "id": "a704ea4b-e385-4315-a8af-87a50766b03d",
+                "fileName": "FaceInstanceThumbnail_a704ea4b-e385-4315-a8af-87a50766b03d.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:41.1077333",
+                    "adjustedEnd": "0:00:41.1410999",
+                    "start": "0:00:41.1077333",
+                    "end": "0:00:41.1410999"
+                  }
+                ]
+              },
+              {
+                "id": "5d032a0a-0518-45cc-b2e8-2154f76fc110",
+                "fileName": "FaceInstanceThumbnail_5d032a0a-0518-45cc-b2e8-2154f76fc110.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:46.2462",
+                    "adjustedEnd": "0:00:46.2795666",
+                    "start": "0:00:46.2462",
+                    "end": "0:00:46.2795666"
+                  }
+                ]
+              },
+              {
+                "id": "08402f1f-ada2-4898-bb5d-caeffcfc5b96",
+                "fileName": "FaceInstanceThumbnail_08402f1f-ada2-4898-bb5d-caeffcfc5b96.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:51.3846666",
+                    "adjustedEnd": "0:00:51.4180332",
+                    "start": "0:00:51.3846666",
+                    "end": "0:00:51.4180332"
+                  }
+                ]
+              },
+              {
+                "id": "94e0bb2d-5eef-49bc-812d-964a0edf6922",
+                "fileName": "FaceInstanceThumbnail_94e0bb2d-5eef-49bc-812d-964a0edf6922.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:56.5231333",
+                    "adjustedEnd": "0:00:56.5564999",
+                    "start": "0:00:56.5231333",
+                    "end": "0:00:56.5564999"
+                  }
+                ]
+              },
+              {
+                "id": "355ce96d-3eaf-47b4-b549-9a0f81d5398e",
+                "fileName": "FaceInstanceThumbnail_355ce96d-3eaf-47b4-b549-9a0f81d5398e.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:01.6616",
+                    "adjustedEnd": "0:01:01.6949666",
+                    "start": "0:01:01.6616",
+                    "end": "0:01:01.6949666"
+                  }
+                ]
+              },
+              {
+                "id": "9fb71bc6-c50a-406c-a32e-d34879c7a0f8",
+                "fileName": "FaceInstanceThumbnail_9fb71bc6-c50a-406c-a32e-d34879c7a0f8.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:06.8000666",
+                    "adjustedEnd": "0:01:06.8334332",
+                    "start": "0:01:06.8000666",
+                    "end": "0:01:06.8334332"
+                  }
+                ]
+              },
+              {
+                "id": "d8db7fca-2e0b-4b2c-a114-d8db9ba779a1",
+                "fileName": "FaceInstanceThumbnail_d8db7fca-2e0b-4b2c-a114-d8db9ba779a1.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:11.9385333",
+                    "adjustedEnd": "0:01:11.9718999",
+                    "start": "0:01:11.9385333",
+                    "end": "0:01:11.9718999"
+                  }
+                ]
+              },
+              {
+                "id": "4b57aae8-8019-4a6d-81cf-dbda80990bd8",
+                "fileName": "FaceInstanceThumbnail_4b57aae8-8019-4a6d-81cf-dbda80990bd8.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:17.077",
+                    "adjustedEnd": "0:01:17.1103666",
+                    "start": "0:01:17.077",
+                    "end": "0:01:17.1103666"
+                  }
+                ]
+              },
+              {
+                "id": "746a5935-0e3f-4846-b0da-32c7a8086697",
+                "fileName": "FaceInstanceThumbnail_746a5935-0e3f-4846-b0da-32c7a8086697.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:22.2154666",
+                    "adjustedEnd": "0:01:22.2488332",
+                    "start": "0:01:22.2154666",
+                    "end": "0:01:22.2488332"
+                  }
+                ]
+              },
+              {
+                "id": "5baa797e-1ec9-4e7d-882a-90d29517a841",
+                "fileName": "FaceInstanceThumbnail_5baa797e-1ec9-4e7d-882a-90d29517a841.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:27.3539333",
+                    "adjustedEnd": "0:01:27.3872999",
+                    "start": "0:01:27.3539333",
+                    "end": "0:01:27.3872999"
+                  }
+                ]
+              },
+              {
+                "id": "d2335a10-e546-4dc1-a685-60267942155d",
+                "fileName": "FaceInstanceThumbnail_d2335a10-e546-4dc1-a685-60267942155d.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:32.4924",
+                    "adjustedEnd": "0:01:32.5257666",
+                    "start": "0:01:32.4924",
+                    "end": "0:01:32.5257666"
+                  }
+                ]
+              },
+              {
+                "id": "bf84efeb-4276-488d-9558-f7a7bd42096d",
+                "fileName": "FaceInstanceThumbnail_bf84efeb-4276-488d-9558-f7a7bd42096d.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:37.6308666",
+                    "adjustedEnd": "0:01:37.6642332",
+                    "start": "0:01:37.6308666",
+                    "end": "0:01:37.6642332"
+                  }
+                ]
+              },
+              {
+                "id": "55191391-0c70-4617-90dd-5f89351e51f8",
+                "fileName": "FaceInstanceThumbnail_55191391-0c70-4617-90dd-5f89351e51f8.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:42.7693333",
+                    "adjustedEnd": "0:01:42.8026999",
+                    "start": "0:01:42.7693333",
+                    "end": "0:01:42.8026999"
+                  }
+                ]
+              },
+              {
+                "id": "b3e9c5a9-9b52-4c8e-82c4-797a2a143a8a",
+                "fileName": "FaceInstanceThumbnail_b3e9c5a9-9b52-4c8e-82c4-797a2a143a8a.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:47.9078",
+                    "adjustedEnd": "0:01:47.9411666",
+                    "start": "0:01:47.9078",
+                    "end": "0:01:47.9411666"
+                  }
+                ]
+              },
+              {
+                "id": "cd141729-54d6-4ccc-8cc2-ad70c6bc3a15",
+                "fileName": "FaceInstanceThumbnail_cd141729-54d6-4ccc-8cc2-ad70c6bc3a15.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:53.0462666",
+                    "adjustedEnd": "0:01:53.0796332",
+                    "start": "0:01:53.0462666",
+                    "end": "0:01:53.0796332"
+                  }
+                ]
+              },
+              {
+                "id": "5b2bdcd4-43b5-44aa-8ba8-99518f779b79",
+                "fileName": "FaceInstanceThumbnail_5b2bdcd4-43b5-44aa-8ba8-99518f779b79.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:58.1847333",
+                    "adjustedEnd": "0:01:58.2180999",
+                    "start": "0:01:58.1847333",
+                    "end": "0:01:58.2180999"
+                  }
+                ]
+              },
+              {
+                "id": "efe03c42-e791-47bc-bb48-4b75d570429a",
+                "fileName": "FaceInstanceThumbnail_efe03c42-e791-47bc-bb48-4b75d570429a.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:03.3232",
+                    "adjustedEnd": "0:02:03.3565666",
+                    "start": "0:02:03.3232",
+                    "end": "0:02:03.3565666"
+                  }
+                ]
+              },
+              {
+                "id": "f6c84c89-2f40-4875-b7d3-a154eaa8ed21",
+                "fileName": "FaceInstanceThumbnail_f6c84c89-2f40-4875-b7d3-a154eaa8ed21.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:08.4616666",
+                    "adjustedEnd": "0:02:08.4950332",
+                    "start": "0:02:08.4616666",
+                    "end": "0:02:08.4950332"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "293cafa7-dadd-45bc-823d-12fa5eaae26c",
+                  "08402f1f-ada2-4898-bb5d-caeffcfc5b96",
+                  "55191391-0c70-4617-90dd-5f89351e51f8",
+                  "5d032a0a-0518-45cc-b2e8-2154f76fc110",
+                  "f6c84c89-2f40-4875-b7d3-a154eaa8ed21",
+                  "5baa797e-1ec9-4e7d-882a-90d29517a841",
+                  "efe03c42-e791-47bc-bb48-4b75d570429a",
+                  "355ce96d-3eaf-47b4-b549-9a0f81d5398e",
+                  "ab04477b-f28d-487e-9f6f-05f66c4c422e",
+                  "5b2bdcd4-43b5-44aa-8ba8-99518f779b79",
+                  "9d3be574-3af5-4fad-8737-94d4e8a0b905",
+                  "94e0bb2d-5eef-49bc-812d-964a0edf6922",
+                  "bf84efeb-4276-488d-9558-f7a7bd42096d",
+                  "36351162-b84b-4c4d-ae8b-f8855b2c52de",
+                  "d8db7fca-2e0b-4b2c-a114-d8db9ba779a1",
+                  "746a5935-0e3f-4846-b0da-32c7a8086697",
+                  "d2335a10-e546-4dc1-a685-60267942155d",
+                  "b697bbcd-ba90-435c-943f-23ec5435687a",
+                  "4b57aae8-8019-4a6d-81cf-dbda80990bd8",
+                  "f3a7b4b4-f0b7-497b-9189-c9d4dc784ed0",
+                  "e0f2c35b-c7f4-4829-9bba-f824044cc189",
+                  "9fb71bc6-c50a-406c-a32e-d34879c7a0f8",
+                  "cd141729-54d6-4ccc-8cc2-ad70c6bc3a15",
+                  "b3e9c5a9-9b52-4c8e-82c4-797a2a143a8a",
+                  "a704ea4b-e385-4315-a8af-87a50766b03d",
+                  "558b75c0-0ad5-459d-9979-5d67a21cd282"
+                ],
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:02:11.3979333",
+                "start": "0:00:00",
+                "end": "0:02:11.3979333"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "human face",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9982,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:02:11.1643667",
+                "start": "0:00:00",
+                "end": "0:02:11.1643667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "person",
+            "referenceId": "person",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9923,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:02:11.1643667",
+                "start": "0:00:00",
+                "end": "0:02:11.1643667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "clothing",
+            "referenceId": "consumer goods/clothing",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.993,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:02:11.1643667",
+                "start": "0:00:00",
+                "end": "0:02:11.1643667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "man",
+            "referenceId": "person/man",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9507,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:00.0333667",
+                "start": "0:00:00",
+                "end": "0:00:00.0333667"
+              },
+              {
+                "confidence": 0.9614,
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:04.0373667",
+                "start": "0:00:03.003",
+                "end": "0:00:04.0373667"
+              },
+              {
+                "confidence": 0.9727,
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:02:11.1643667",
+                "start": "0:00:06.006",
+                "end": "0:02:11.1643667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "text",
+            "referenceId": "communication/writing/text",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9802,
+                "adjustedStart": "0:00:02.002",
+                "adjustedEnd": "0:00:15.0483667",
+                "start": "0:00:02.002",
+                "end": "0:00:15.0483667"
+              },
+              {
+                "confidence": 0.9755,
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:31.0643667",
+                "start": "0:00:17.017",
+                "end": "0:00:31.0643667"
+              },
+              {
+                "confidence": 0.9799,
+                "adjustedStart": "0:00:33.033",
+                "adjustedEnd": "0:00:47.0803667",
+                "start": "0:00:33.033",
+                "end": "0:00:47.0803667"
+              },
+              {
+                "confidence": 0.9826,
+                "adjustedStart": "0:00:49.049",
+                "adjustedEnd": "0:01:03.0963667",
+                "start": "0:00:49.049",
+                "end": "0:01:03.0963667"
+              },
+              {
+                "confidence": 0.9889,
+                "adjustedStart": "0:01:05.065",
+                "adjustedEnd": "0:01:19.1123667",
+                "start": "0:01:05.065",
+                "end": "0:01:19.1123667"
+              },
+              {
+                "confidence": 0.9889,
+                "adjustedStart": "0:01:21.081",
+                "adjustedEnd": "0:02:07.1603667",
+                "start": "0:01:21.081",
+                "end": "0:02:07.1603667"
+              },
+              {
+                "confidence": 0.9907,
+                "adjustedStart": "0:02:09.129",
+                "adjustedEnd": "0:02:11.1643667",
+                "start": "0:02:09.129",
+                "end": "0:02:11.1643667"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:02:11.3979333",
+                "start": "0:00:00",
+                "end": "0:02:11.3979333"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "tags": [
+              "CloseUp",
+              "CenterFace"
+            ],
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "a0835692-795b-4923-81c0-1ccac88657da",
+                    "adjustedStart": "0:00:00.2002",
+                    "adjustedEnd": "0:00:00.2335667",
+                    "start": "0:00:00.2002",
+                    "end": "0:00:00.2335667"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "d8cbd88e-2986-4cb8-95df-43758b4a9c2e",
+                    "adjustedStart": "0:01:10.0366333",
+                    "adjustedEnd": "0:01:10.07",
+                    "start": "0:01:10.0366333",
+                    "end": "0:01:10.07"
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "instances": [
+                  {
+                    "thumbnailId": "9a18e1e3-f25c-464d-b118-d07701e20198",
+                    "adjustedStart": "0:02:02.7893333",
+                    "adjustedEnd": "0:02:02.8227",
+                    "start": "0:02:02.7893333",
+                    "end": "0:02:02.8227"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:02:11.3979333",
+                "start": "0:00:00",
+                "end": "0:02:11.3979333"
+              }
+            ]
+          }
+        ],
+        "namedLocations": [
+          {
+            "id": 1,
+            "name": "Denmark",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 1,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:00.44",
+                "adjustedEnd": "0:00:04.36",
+                "start": "0:00:00.44",
+                "end": "0:00:04.36"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "print shops",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 0.77,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:07.96",
+                "adjustedEnd": "0:00:14.8",
+                "start": "0:00:07.96",
+                "end": "0:00:14.8"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "shop",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 0.49,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:15.36",
+                "adjustedEnd": "0:00:22",
+                "start": "0:00:15.36",
+                "end": "0:00:22"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "India",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 1,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:25.64",
+                "adjustedEnd": "0:00:29.68",
+                "start": "0:00:25.64",
+                "end": "0:00:29.68"
+              },
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:02:02.92",
+                "adjustedEnd": "0:02:07.16",
+                "start": "0:02:02.92",
+                "end": "0:02:07.16"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "office",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 0.94,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:01:30.88",
+                "adjustedEnd": "0:01:36.72",
+                "start": "0:01:30.88",
+                "end": "0:01:36.72"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "conference room",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 0.95,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:01:37.92",
+                "adjustedEnd": "0:01:44.32",
+                "start": "0:01:37.92",
+                "end": "0:01:44.32"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "scene",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 0.66,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:01:44.96",
+                "adjustedEnd": "0:01:48.6",
+                "start": "0:01:44.96",
+                "end": "0:01:48.6"
+              }
+            ]
+          }
+        ],
+        "namedPeople": [
+          {
+            "id": 1,
+            "name": "Magnus",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 1,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:00.44",
+                "adjustedEnd": "0:00:04.36",
+                "start": "0:00:00.44",
+                "end": "0:00:04.36"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Reddicks",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 0.7,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:05.36",
+                "adjustedEnd": "0:00:07.2",
+                "start": "0:00:05.36",
+                "end": "0:00:07.2"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Radix",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 0.735,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:30.2",
+                "adjustedEnd": "0:00:35.56",
+                "start": "0:00:30.2",
+                "end": "0:00:35.56"
+              },
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:36.4",
+                "adjustedEnd": "0:00:39.16",
+                "start": "0:00:36.4",
+                "end": "0:00:39.16"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Raddatz",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 1,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:01:10.4",
+                "adjustedEnd": "0:01:22.68",
+                "start": "0:01:10.4",
+                "end": "0:01:22.68"
+              }
+            ]
+          }
+        ],
+        "audioEffects": [
+          {
+            "id": 0,
+            "type": "Silence",
+            "instances": [
+              {
+                "confidence": 0.7839,
+                "adjustedStart": "0:00:15.3",
+                "adjustedEnd": "0:00:16.3",
+                "start": "0:00:15.3",
+                "end": "0:00:16.3"
+              },
+              {
+                "confidence": 0.7745,
+                "adjustedStart": "0:00:22.5",
+                "adjustedEnd": "0:00:23.5",
+                "start": "0:00:22.5",
+                "end": "0:00:23.5"
+              },
+              {
+                "confidence": 0.8177,
+                "adjustedStart": "0:00:30.18",
+                "adjustedEnd": "0:00:31.18",
+                "start": "0:00:30.18",
+                "end": "0:00:31.18"
+              },
+              {
+                "confidence": 0.8486,
+                "adjustedStart": "0:00:39.66",
+                "adjustedEnd": "0:00:40.66",
+                "start": "0:00:39.66",
+                "end": "0:00:40.66"
+              },
+              {
+                "confidence": 0.8069,
+                "adjustedStart": "0:00:42.5",
+                "adjustedEnd": "0:00:43.5",
+                "start": "0:00:42.5",
+                "end": "0:00:43.5"
+              },
+              {
+                "confidence": 0.7883,
+                "adjustedStart": "0:01:30.78",
+                "adjustedEnd": "0:01:31.78",
+                "start": "0:01:30.78",
+                "end": "0:01:31.78"
+              },
+              {
+                "confidence": 0.7751,
+                "adjustedStart": "0:01:44.82",
+                "adjustedEnd": "0:01:45.82",
+                "start": "0:01:44.82",
+                "end": "0:01:45.82"
+              },
+              {
+                "confidence": 0.7744,
+                "adjustedStart": "0:01:52.66",
+                "adjustedEnd": "0:01:53.66",
+                "start": "0:01:52.66",
+                "end": "0:01:53.66"
+              },
+              {
+                "confidence": 0.8113,
+                "adjustedStart": "0:01:58.62",
+                "adjustedEnd": "0:01:59.62",
+                "start": "0:01:58.62",
+                "end": "0:01:59.62"
+              },
+              {
+                "confidence": 0.784,
+                "adjustedStart": "0:02:11.3",
+                "adjustedEnd": "0:02:11.449",
+                "start": "0:02:11.3",
+                "end": "0:02:11.449"
+              }
+            ]
+          }
+        ],
+        "sentiments": [
+          {
+            "id": 1,
+            "averageScore": 0.5,
+            "sentimentType": "Neutral",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:25.64",
+                "start": "0:00:00",
+                "end": "0:00:25.64"
+              },
+              {
+                "adjustedStart": "0:00:29.68",
+                "adjustedEnd": "0:00:36.4",
+                "start": "0:00:29.68",
+                "end": "0:00:36.4"
+              },
+              {
+                "adjustedStart": "0:00:42",
+                "adjustedEnd": "0:01:30.88",
+                "start": "0:00:42",
+                "end": "0:01:30.88"
+              },
+              {
+                "adjustedStart": "0:01:36.72",
+                "adjustedEnd": "0:01:44.96",
+                "start": "0:01:36.72",
+                "end": "0:01:44.96"
+              },
+              {
+                "adjustedStart": "0:01:48.6",
+                "adjustedEnd": "0:01:49",
+                "start": "0:01:48.6",
+                "end": "0:01:49"
+              },
+              {
+                "adjustedStart": "0:01:52.16",
+                "adjustedEnd": "0:01:52.76",
+                "start": "0:01:52.16",
+                "end": "0:01:52.76"
+              },
+              {
+                "adjustedStart": "0:01:58.12",
+                "adjustedEnd": "0:02:11.449",
+                "start": "0:01:58.12",
+                "end": "0:02:11.449"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "averageScore": 0.1127,
+            "sentimentType": "Negative",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25.64",
+                "adjustedEnd": "0:00:29.68",
+                "start": "0:00:25.64",
+                "end": "0:00:29.68"
+              },
+              {
+                "adjustedStart": "0:01:49",
+                "adjustedEnd": "0:01:52.16",
+                "start": "0:01:49",
+                "end": "0:01:52.16"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "averageScore": 0.967,
+            "sentimentType": "Positive",
+            "instances": [
+              {
+                "adjustedStart": "0:00:36.4",
+                "adjustedEnd": "0:00:42",
+                "start": "0:00:36.4",
+                "end": "0:00:42"
+              },
+              {
+                "adjustedStart": "0:01:30.88",
+                "adjustedEnd": "0:01:36.72",
+                "start": "0:01:30.88",
+                "end": "0:01:36.72"
+              },
+              {
+                "adjustedStart": "0:01:44.96",
+                "adjustedEnd": "0:01:48.6",
+                "start": "0:01:44.96",
+                "end": "0:01:48.6"
+              },
+              {
+                "adjustedStart": "0:01:52.76",
+                "adjustedEnd": "0:01:58.12",
+                "start": "0:01:52.76",
+                "end": "0:01:58.12"
+              }
+            ]
+          }
+        ],
+        "emotions": [
+          {
+            "id": 1,
+            "type": "Sad",
+            "instances": [
+              {
+                "confidence": 0.6595,
+                "adjustedStart": "0:00:25.64",
+                "adjustedEnd": "0:00:29.68",
+                "start": "0:00:25.64",
+                "end": "0:00:29.68"
+              },
+              {
+                "confidence": 0.441,
+                "adjustedStart": "0:01:49",
+                "adjustedEnd": "0:01:52.16",
+                "start": "0:01:49",
+                "end": "0:01:52.16"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "type": "Joy",
+            "instances": [
+              {
+                "confidence": 0.8531,
+                "adjustedStart": "0:00:36.4",
+                "adjustedEnd": "0:00:42",
+                "start": "0:00:36.4",
+                "end": "0:00:42"
+              },
+              {
+                "confidence": 0.8839,
+                "adjustedStart": "0:01:30.88",
+                "adjustedEnd": "0:01:36.72",
+                "start": "0:01:30.88",
+                "end": "0:01:36.72"
+              },
+              {
+                "confidence": 0.5491,
+                "adjustedStart": "0:01:44.96",
+                "adjustedEnd": "0:01:48.6",
+                "start": "0:01:44.96",
+                "end": "0:01:48.6"
+              },
+              {
+                "confidence": 0.7461,
+                "adjustedStart": "0:01:52.76",
+                "adjustedEnd": "0:01:58.12",
+                "start": "0:01:52.76",
+                "end": "0:01:58.12"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:35.56",
+                "start": "0:00:00",
+                "end": "0:00:35.56"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:35.56",
+                "adjustedEnd": "0:01:10",
+                "start": "0:00:35.56",
+                "end": "0:01:10"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:01:10",
+                "adjustedEnd": "0:01:44.32",
+                "start": "0:01:10",
+                "end": "0:01:44.32"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "instances": [
+              {
+                "adjustedStart": "0:01:44.32",
+                "adjustedEnd": "0:02:11.449",
+                "start": "0:01:44.32",
+                "end": "0:02:11.449"
+              }
+            ]
+          }
+        ],
+        "speakers": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.44",
+                "adjustedEnd": "0:00:04.36",
+                "start": "0:00:00.44",
+                "end": "0:00:04.36"
+              },
+              {
+                "adjustedStart": "0:00:05.36",
+                "adjustedEnd": "0:00:07.2",
+                "start": "0:00:05.36",
+                "end": "0:00:07.2"
+              },
+              {
+                "adjustedStart": "0:00:07.96",
+                "adjustedEnd": "0:00:14.8",
+                "start": "0:00:07.96",
+                "end": "0:00:14.8"
+              },
+              {
+                "adjustedStart": "0:00:15.36",
+                "adjustedEnd": "0:00:22",
+                "start": "0:00:15.36",
+                "end": "0:00:22"
+              },
+              {
+                "adjustedStart": "0:00:22.84",
+                "adjustedEnd": "0:00:25.64",
+                "start": "0:00:22.84",
+                "end": "0:00:25.64"
+              },
+              {
+                "adjustedStart": "0:00:25.64",
+                "adjustedEnd": "0:00:29.68",
+                "start": "0:00:25.64",
+                "end": "0:00:29.68"
+              },
+              {
+                "adjustedStart": "0:00:30.2",
+                "adjustedEnd": "0:00:35.56",
+                "start": "0:00:30.2",
+                "end": "0:00:35.56"
+              },
+              {
+                "adjustedStart": "0:00:36.4",
+                "adjustedEnd": "0:00:39.16",
+                "start": "0:00:36.4",
+                "end": "0:00:39.16"
+              },
+              {
+                "adjustedStart": "0:00:39.68",
+                "adjustedEnd": "0:00:42",
+                "start": "0:00:39.68",
+                "end": "0:00:42"
+              },
+              {
+                "adjustedStart": "0:00:42.52",
+                "adjustedEnd": "0:00:49.6",
+                "start": "0:00:42.52",
+                "end": "0:00:49.6"
+              },
+              {
+                "adjustedStart": "0:00:49.6",
+                "adjustedEnd": "0:01:03.64",
+                "start": "0:00:49.6",
+                "end": "0:01:03.64"
+              },
+              {
+                "adjustedStart": "0:01:03.64",
+                "adjustedEnd": "0:01:10",
+                "start": "0:01:03.64",
+                "end": "0:01:10"
+              },
+              {
+                "adjustedStart": "0:01:10.4",
+                "adjustedEnd": "0:01:22.68",
+                "start": "0:01:10.4",
+                "end": "0:01:22.68"
+              },
+              {
+                "adjustedStart": "0:01:22.68",
+                "adjustedEnd": "0:01:30.28",
+                "start": "0:01:22.68",
+                "end": "0:01:30.28"
+              },
+              {
+                "adjustedStart": "0:01:30.88",
+                "adjustedEnd": "0:01:36.72",
+                "start": "0:01:30.88",
+                "end": "0:01:36.72"
+              },
+              {
+                "adjustedStart": "0:01:37.92",
+                "adjustedEnd": "0:01:44.32",
+                "start": "0:01:37.92",
+                "end": "0:01:44.32"
+              },
+              {
+                "adjustedStart": "0:01:44.96",
+                "adjustedEnd": "0:01:48.6",
+                "start": "0:01:44.96",
+                "end": "0:01:48.6"
+              },
+              {
+                "adjustedStart": "0:01:49",
+                "adjustedEnd": "0:01:52.16",
+                "start": "0:01:49",
+                "end": "0:01:52.16"
+              },
+              {
+                "adjustedStart": "0:01:52.76",
+                "adjustedEnd": "0:01:58.12",
+                "start": "0:01:52.76",
+                "end": "0:01:58.12"
+              },
+              {
+                "adjustedStart": "0:01:58.68",
+                "adjustedEnd": "0:02:02",
+                "start": "0:01:58.68",
+                "end": "0:02:02"
+              },
+              {
+                "adjustedStart": "0:02:02.92",
+                "adjustedEnd": "0:02:07.16",
+                "start": "0:02:02.92",
+                "end": "0:02:07.16"
+              },
+              {
+                "adjustedStart": "0:02:07.4",
+                "adjustedEnd": "0:02:08.84",
+                "start": "0:02:07.4",
+                "end": "0:02:08.84"
+              },
+              {
+                "adjustedStart": "0:02:09.6",
+                "adjustedEnd": "0:02:10.8",
+                "start": "0:02:09.6",
+                "end": "0:02:10.8"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 0,
+          "speakerTalkToListenRatio": {
+            "1": 1
+          },
+          "speakerLongestMonolog": {
+            "1": 118
+          },
+          "speakerNumberOfFragments": {
+            "1": 19
+          },
+          "speakerWordCount": {
+            "1": 384
+          }
+        }
+      },
+      "thumbnailId": "e866c059-70fa-4be3-a8f7-6cde628a0567",
+      "width": 640,
+      "height": 480,
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [
+        "en-US"
+      ],
+      "language": "en-US",
+      "languages": [
+        "en-US"
+      ],
+      "indexingPreset": "Default",
+      "streamingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "logoGroupId": null,
+      "isAdult": false,
+      "excludedAIs": [],
+      "isSearchable": true,
+      "publishedUrl": "https://api.videoindexer.ai/internals/eastus/Accounts/fbafe9ff-1c94-40bd-987e-a4e4dfe52365/Videos/jh2uqf57c7/streaming-manifest/manifest.m3u8",
+      "publishedProxyUrl": null,
+      "viewToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJWZXJzaW9uIjoiMi4wLjAuMCIsIktleVZlcnNpb24iOiI1YmZmYWI1MTUwZWI0NGM4ODMzNzE2NzVhNzcwYzU4YSIsIkFjY291bnRJZCI6ImZiYWZlOWZmLTFjOTQtNDBiZC05ODdlLWE0ZTRkZmU1MjM2NSIsIkFjY291bnRUeXBlIjoiQ2xhc3NpYyIsIlZpZGVvSWQiOiJqaDJ1cWY1N2M3IiwiUGVybWlzc2lvbiI6IlJlc3RyaWN0ZWRWaWV3ZXIiLCJFeHRlcm5hbFVzZXJJZCI6IjYxMzM3QzI2RUFCQjRGNEU5MjA3NURBNjAyQ0IyQTQzIiwiVXNlclR5cGUiOiJNaWNyb3NvZnRDb3JwQWFkIiwiSXNzdWVyTG9jYXRpb24iOiJlYXN0dXMiLCJuYmYiOjE3NjE5NjkyNjIsImV4cCI6MTc2MTk3MzE2MiwiaXNzIjoiaHR0cHM6Ly9hcGkudmlkZW9pbmRleGVyLmFpLyIsImF1ZCI6Imh0dHBzOi8vYXBpLnZpZGVvaW5kZXhlci5haS8ifQ.u1qPqI-gVwn2wexJ4ZF2UC2dNgY1nKcohm3mt76iGL8hUDsnzpYEHJ78ZL4rCZOFy8lgGvPmgP1kFLa58BwRT3hB_IS2sBWBHaZTB2RHzCOL0EJZIDeCWtd1F5xeQ_1FDj4Cxwd6Zx3LfLWpIRBxSOtjbVcQehtzsU50jIL2nlKRlwalnczBYLRBJQXfscDCOr8F1Td5ljZrVNAeLV5lPvCiUXIyPkd3epSFapkGK9I3qndBMTuf21J-krcdvMyRC4raaaANR46w8ntT-4w0PrZBlYccJaIuxxXVSklNA9GIAbtVozAGXu2bPJ28fPl78KRFOtMubcIaO_MyGjmhDQ"
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "jh2uqf57c7",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:02:11.449"
+      }
+    }
+  ]
+}

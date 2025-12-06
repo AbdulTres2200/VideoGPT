@@ -1,0 +1,21 @@
+{
+  "id": "txt_678685",
+  "name": "hFTK-b2bstore-module",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 12.0 Release Notes\nB2B/Store Module\n\n4 min\nstore specific product size, quantity, and options override the private store will now have the provision to manage the product size, quantity, and product options for the assigned products once the store admin logs into their account and goes to the products listing page, they will be able to see the actions column with the size & quantity option in the dropdown in the size & quantity tab, the admin can now choose to define the product size, quantity, and additional options in size, the store admin can either choose to refer to the sizes same as default store or choose to overwrite the selections the quantity of the product can also be managed store wise the admin can define the minimum, maximum and default quantity from the quantity range set for the default store product when the b2b/private stores have departments, the quantities can be configured likewise for the additional options, the store admin can keep the selection as it is or select the different attributes to be displayed at the front for the store customers strengthened security with 2 factor authentication for b2b customer enhance the security of your private or b2b stores with the all new two factor authentication (2fa) feature this advanced login safeguard requires users to verify their identity with a second factor during login, adding an extra layer of protection store admins have the flexibility to configure this feature as mandatory, optional, or disabled on a store by store basis, ensuring tailored security that meets your business needs while giving customers peace of mind this setting can be accessed from the store add or edit screen under the settings section\nDid this page help you?\n\n\nPREVIOUS\nAdmin Section\nNEXT\nDesigner Studio\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

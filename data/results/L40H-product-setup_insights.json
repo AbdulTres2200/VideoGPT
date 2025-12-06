@@ -1,0 +1,21 @@
+{
+  "id": "txt_390411",
+  "name": "L40H-product-setup",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhoto Book\nProduct Setup\n\n6 min\nyou can integrate photobook products for your print store just like any other standard product follow the steps below to understand how you can add a photobook product product details to start, go to admin >> product >> +add button to add a photobook product choose the product type as \u2018photobook\u2019 select the product sub type as flipbook or hardcover hardcover \u2013 customer will not get to design the inner side of the cover pages flipbook \u2013 when this option is selected, all the pages of the photobook shall work as inner pages there will not be any differentiation of the cover page and inner page hence, every page will have the same width and height following cover configuration will not be available for flipbook cover size configuration, cover layout creation option, combine cover for photobook, spine feature, and cover pages width/height rest all the settings remain the same as explained in the add product section add description, product images, choose the color palette and other settings related to the product note for photobook products, there are only two pricing methods available \u2013 fixed quantity & price and range based with multiplication see pricing methods designer options different photobook products can have a size(s), depending upon your product offerings for more refer to designer docid\\ wx8y5clxcmpaepcwos1io in the bleed size , you get to define the height and width of the photobook's inner pages and the cover pages respectively next is to set the product pages for your photobook product set the default pages and the maximum number of pages allowed in the photobook product also, you can select the number of pages to be added at once spine spine is the photobook cover that encloses the inner pages this will help your customers view and design the front and back cover pages at the same time, along with the spine there are two types of spine possible \u2013 fixed spine and dynamic spine in the fixed spine, you'll have to just define the fixed width of the spine, while in the dynamic spine enter the thickness of the cover page and inner page the system will then calculate the spine width dynamically next, is to set the product and cover page margins here you find these two entities separate as the photobook may have inner pages and cover pages of the photobook in two different sizes product price the price docid\\ rd5b42uxjebm8fagiaxez fields remain the same as the standard product there are two additional columns available vendor price per additional page, admin markup per additional page % and extra page price you can define prices for extra pages, this price will be added as a summation in the total price of the product the rest of the configuration remains the same as other products\nDid this page help you?\n\n\nPREVIOUS\nPhoto Book\nNEXT\nCreate Layouts\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

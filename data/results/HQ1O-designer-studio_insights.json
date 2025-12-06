@@ -1,0 +1,21 @@
+{
+  "id": "txt_361398",
+  "name": "HQ1O-designer-studio",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 11.1 Release Notes\nDesigner Studio\n\n7 min\ndesigner studio with a new look to enhance the performance and to give you and your customers a great user experience, the designer studio tool has been upgraded to angular v14 0 0 along with changing the ui/ux content position for pdf blocks in v11 1, the alignment rules have been enhanced to manage the position of blocks in the pdf block templates in the alignment rules screen, a new field \"content position\" has been added for you to adjust the content position of the blocks in the center of the page or center of the block/area while managing the alignment rules for pdf blocks, the admin will now have the provision to choose the starting position of the selected text or image block should be from the center of the page or the center of the blocks/area minor enhancements flip tool for pdf block templates in the pdf block templates, you can now flip the images using the image flip tool new margin ui in designer studio canvas for better visibility and designing experience, we have enhanced the ui and labelling of cut margin, bleed margin and safe margin in the designer studio border for printable area in promotional products to highlight the printable area in the promotional products, the admin can now manage the border color of the printable area for this a new setting \"printable area border color for promotional product\" has been added in the studio settings by default, the color will be black and it will be displayed as dashed line (black and white) in the studio once the admin has changed the color preference for the border, it will be reflected as shown below font size restriction in designer studio in the designer studio, you can now restrict the users from entering font sizes between a range based on the settings you have made in the studio settings to restict the user from entering or selecting a size out of this range (minimum 8 and maximum 72), you can now enable the font size restriction setting once enabled, the customers will not be able to enter or select a font size out of the defined range and one warning message will be displayed\nDid this page help you?\n\n\nPREVIOUS\nB2B/Store Module\nNEXT\nChange Log\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "txt_169682",
+  "name": "customer-quote-status",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders, Quotes & Customers\n\n\nQuote Status\nCustomer Quote Status\n\n1 min\nthe quote statuses mentioned in the customer quote status are mainly related to the customer and admin for certain quote status where email notifications can be sent to the customer, you can edit the email template using the email description help given there quotation (pending) \u2013 as soon as you or your customer places a quotation, the by default status applied to it is the quotation (pending) customer review pending \u2013 at times, it becomes difficult for you to fulfill the exact same order as described by the customer in the quote in such situations when you post a message for the customer then the quote is updated with \u2018customer review pending\u2019 status admin review pending \u2013 this status indicated that the customer has left some message for the admin to review quotation \u2013 after the admin sends the price to customer for their quoted products the status of the quote changes to \u2018quotation\u2019 quote rejected \u2013 if the price quoted by you doesn\u2019t meet the requirements of the customer then the customer can \u2018reject\u2019 your quote this will update the quote status to \u2018quote rejected\u2019 quotation approved \u2013 after sending the order quote if the customer approves the quoted amount then the status changes to \u2018quotation approved\u2019 quotation completed \u2013 after quote approval if the customer places an order for the same then the status is changed to \u2018quotation completed\u2019 quote cancelled \u2013 if the admin cancels the quote or the system cancels it due to the expiration of the quote then the quote is termed as cancelled quotation partially completed \u2013 if the \u2018allow partial quote\u2019 is enabled, and if the customer places an order of partial products from the quote then the quote status is \u2018quote partially completed\u2019\nDid this page help you?\n\n\nPREVIOUS\nQuote Status\nNEXT\nPrinter Quote Status\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "txt_46161",
+  "name": "product-mask-image-creation",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesigner Studio\nProduct Mask Image Creation\n\n10 min\ncreate mask image for printable products such as cds, door hangers, etc mask images use the mask to hide portions of the layer and reveal the layers below this feature will help your customers to edit their photos and designs in a more enhanced way for the die cut products follow the systematic guideline to create a mask image of cd product using adobe illustrator note the main aim of creating a mask image is to differentiate between the printable & non printable area make the printable area transparent such that a customer can superimpose its design on it also make the non printable area semi transparent by filling it with a color (grey and red color are used in the below example), by using opacity 1 create a new file 1 create a new file start the mask image creation; create a new file in adobe illustrator set the height and width as per your product requirements example shows a canvas of 62mm 62mm set the units click on the ok this will create your canvas 2 create a rectangle 2 create a rectangle on the canvas created above, create a rectangle of the same size as the canvas the example shows a rectangle of size 62mm 62mm, the same size as that of canvas fill color in the rectangle as grey give opacity to the rectangle as 35% 3 create an ellipse 3 create an ellipse in your design area, create a ellipse shape enter the desired width and height this will create an ellipse as follows similarly, create an ellipse of smaller size to create a hole in cd product design now, you have an image created for a die cut product cd label the opaque area in the image is the non printable area design done in that area will be non printable the white area is printable i e a design made on this area will be only printed thus, you require making it transparent 4 make the \u2018white\u2019 area printable i e transparent 4 make the \u2018white\u2019 area printable i e transparent press ctrl + a to select all the shapes click on the shape builder tool select the \u2018 shape builder tool\u2019 and hold alt key + right mouse button in the \u2018white area\u2019 to make it transparent 5 export mask 5 export mask image the above step will create a mask image for cd product here, you can change the color of the non printable area now, \u2018 export \u2019 your canvas as png/pdf/svg file note the size parameters used above are just for reference your size parameter may vary as per needs in addition, this is only an example of one die cut product \u2013 cd using similar steps create mask image of other die cut products check below the examples of mask images of other die cut products\nDid this page help you?\n\n\nPREVIOUS\nPDFlib TET Plugin Usage\nNEXT\nImage/Photo Mask Creation\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

@@ -1,0 +1,2435 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+  "id": "65t0g4nqta",
+  "name": "Uploads from OnPrintShop Web-to-Print Storefront - 121 - PrintPack India 2019 | ",
+  "userName": "Abdul Moiz",
+  "created": "2025-11-01T04:01:35.42+00:00",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 29,
+  "duration": "0:00:29.142",
+  "summarizedInsights": {
+    "name": "Uploads from OnPrintShop Web-to-Print Storefront - 121 - PrintPack India 2019 | ",
+    "id": "65t0g4nqta",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:00:29.142",
+      "seconds": 29.1
+    },
+    "thumbnailVideoId": "65t0g4nqta",
+    "thumbnailId": "9364aac5-5e8a-4cf9-8455-4cb4f7db9030",
+    "faces": [
+      {
+        "videoId": "65t0g4nqta",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "88ab1d19-be5f-4818-a18a-c8f591043dee",
+        "seenDuration": 10.9,
+        "seenDurationRatio": 0.374,
+        "id": 1068,
+        "name": "Unknown #2",
+        "appearances": [
+          {
+            "startTime": "0:00:18.0847333",
+            "endTime": "0:00:29.029",
+            "startSeconds": 18.1,
+            "endSeconds": 29
+          }
+        ]
+      },
+      {
+        "videoId": "65t0g4nqta",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "f7f53e63-f3fc-4eab-8175-35fe24d42c54",
+        "seenDuration": 10.3,
+        "seenDurationRatio": 0.3534,
+        "id": 1074,
+        "name": "Unknown #1",
+        "appearances": [
+          {
+            "startTime": "0:00:18.6853333",
+            "endTime": "0:00:29.029",
+            "startSeconds": 18.7,
+            "endSeconds": 29
+          }
+        ]
+      },
+      {
+        "videoId": "65t0g4nqta",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "a01b7879-faa3-4e50-866e-844d487b1baa",
+        "seenDuration": 8.4,
+        "seenDurationRatio": 0.2882,
+        "id": 1092,
+        "name": "Unknown #3",
+        "appearances": [
+          {
+            "startTime": "0:00:20.5538667",
+            "endTime": "0:00:29.029",
+            "startSeconds": 20.6,
+            "endSeconds": 29
+          }
+        ]
+      },
+      {
+        "videoId": "65t0g4nqta",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "02520241-a61c-49c5-ba4c-3781ef7b1ccb",
+        "seenDuration": 4.7,
+        "seenDurationRatio": 0.1613,
+        "id": 1015,
+        "name": "Unknown #5",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:04.6713333",
+            "startSeconds": 0,
+            "endSeconds": 4.7
+          }
+        ]
+      },
+      {
+        "videoId": "65t0g4nqta",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "778b5ec7-1677-40e1-ba2a-f7e7a4909b38",
+        "seenDuration": 3.9,
+        "seenDurationRatio": 0.1338,
+        "id": 1021,
+        "name": "Unknown #4",
+        "appearances": [
+          {
+            "startTime": "0:00:04.9716333",
+            "endTime": "0:00:08.8755333",
+            "startSeconds": 5,
+            "endSeconds": 8.9
+          }
+        ]
+      },
+      {
+        "videoId": "65t0g4nqta",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "ecce1de7-2aaf-4252-aa05-bb083b229ce5",
+        "seenDuration": 3.3,
+        "seenDurationRatio": 0.1132,
+        "id": 1022,
+        "name": "Unknown #6",
+        "appearances": [
+          {
+            "startTime": "0:00:04.6713333",
+            "endTime": "0:00:07.9746333",
+            "startSeconds": 4.7,
+            "endSeconds": 8
+          }
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "isTranscript": false,
+        "id": 1,
+        "name": "command",
+        "appearances": [
+          {
+            "startTime": "0:00:19.019",
+            "endTime": "0:00:21.0543667",
+            "startSeconds": 19,
+            "endSeconds": 21.1
+          }
+        ]
+      }
+    ],
+    "sentiments": [
+      {
+        "sentimentKey": "Neutral",
+        "seenDurationRatio": 0.9986,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:29.142",
+            "startSeconds": 0,
+            "endSeconds": 29.1
+          }
+        ]
+      }
+    ],
+    "emotions": [],
+    "audioEffects": [],
+    "labels": [
+      {
+        "id": 1,
+        "name": "text",
+        "appearances": [
+          {
+            "confidence": 0.9842,
+            "startTime": "0:00:00",
+            "endTime": "0:00:28.0613667",
+            "startSeconds": 0,
+            "endSeconds": 28.1
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "clothing",
+        "appearances": [
+          {
+            "confidence": 0.9797,
+            "startTime": "0:00:00",
+            "endTime": "0:00:28.0613667",
+            "startSeconds": 0,
+            "endSeconds": 28.1
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "person",
+        "appearances": [
+          {
+            "confidence": 0.9908,
+            "startTime": "0:00:00",
+            "endTime": "0:00:15.0483667",
+            "startSeconds": 0,
+            "endSeconds": 15
+          },
+          {
+            "confidence": 0.9646,
+            "startTime": "0:00:19.019",
+            "endTime": "0:00:27.0603667",
+            "startSeconds": 19,
+            "endSeconds": 27.1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "indoor",
+        "appearances": [
+          {
+            "confidence": 0.9768,
+            "startTime": "0:00:00",
+            "endTime": "0:00:06.0393667",
+            "startSeconds": 0,
+            "endSeconds": 6
+          },
+          {
+            "confidence": 0.9518,
+            "startTime": "0:00:13.013",
+            "endTime": "0:00:19.0523667",
+            "startSeconds": 13,
+            "endSeconds": 19.1
+          },
+          {
+            "confidence": 0.9764,
+            "startTime": "0:00:23.023",
+            "endTime": "0:00:28.0613667",
+            "startSeconds": 23,
+            "endSeconds": 28.1
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "man",
+        "appearances": [
+          {
+            "confidence": 0.9758,
+            "startTime": "0:00:06.006",
+            "endTime": "0:00:15.0483667",
+            "startSeconds": 6,
+            "endSeconds": 15
+          },
+          {
+            "confidence": 0.9697,
+            "startTime": "0:00:19.019",
+            "endTime": "0:00:24.0573667",
+            "startSeconds": 19,
+            "endSeconds": 24.1
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "computer",
+        "appearances": [
+          {
+            "confidence": 0.9651,
+            "startTime": "0:00:00",
+            "endTime": "0:00:02.0353667",
+            "startSeconds": 0,
+            "endSeconds": 2
+          },
+          {
+            "confidence": 0.957,
+            "startTime": "0:00:06.006",
+            "endTime": "0:00:06.0393667",
+            "startSeconds": 6,
+            "endSeconds": 6
+          },
+          {
+            "confidence": 0.9864,
+            "startTime": "0:00:10.01",
+            "endTime": "0:00:13.0463667",
+            "startSeconds": 10,
+            "endSeconds": 13
+          },
+          {
+            "confidence": 0.9877,
+            "startTime": "0:00:20.02",
+            "endTime": "0:00:28.0613667",
+            "startSeconds": 20,
+            "endSeconds": 28.1
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "table",
+        "appearances": [
+          {
+            "confidence": 0.9516,
+            "startTime": "0:00:00",
+            "endTime": "0:00:03.0363667",
+            "startSeconds": 0,
+            "endSeconds": 3
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "chair",
+        "appearances": [
+          {
+            "confidence": 0.9615,
+            "startTime": "0:00:00",
+            "endTime": "0:00:03.0363667",
+            "startSeconds": 0,
+            "endSeconds": 3
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "human face",
+        "appearances": [
+          {
+            "confidence": 0.977,
+            "startTime": "0:00:06.006",
+            "endTime": "0:00:07.0403667",
+            "startSeconds": 6,
+            "endSeconds": 7
+          },
+          {
+            "confidence": 0.9637,
+            "startTime": "0:00:15.015",
+            "endTime": "0:00:15.0483667",
+            "startSeconds": 15,
+            "endSeconds": 15
+          },
+          {
+            "confidence": 0.9792,
+            "startTime": "0:00:21.021",
+            "endTime": "0:00:22.0553667",
+            "startSeconds": 21,
+            "endSeconds": 22.1
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "furniture",
+        "appearances": [
+          {
+            "confidence": 0.9541,
+            "startTime": "0:00:01.001",
+            "endTime": "0:00:02.0353667",
+            "startSeconds": 1,
+            "endSeconds": 2
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "job",
+        "appearances": [
+          {
+            "confidence": 0.9591,
+            "startTime": "0:00:06.006",
+            "endTime": "0:00:06.0393667",
+            "startSeconds": 6,
+            "endSeconds": 6
+          },
+          {
+            "confidence": 0.9511,
+            "startTime": "0:00:23.023",
+            "endTime": "0:00:23.0563667",
+            "startSeconds": 23,
+            "endSeconds": 23.1
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "woman",
+        "appearances": [
+          {
+            "confidence": 0.9518,
+            "startTime": "0:00:22.022",
+            "endTime": "0:00:22.0553667",
+            "startSeconds": 22,
+            "endSeconds": 22.1
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "wall",
+        "appearances": [
+          {
+            "confidence": 0.955,
+            "startTime": "0:00:00",
+            "endTime": "0:00:00.0333667",
+            "startSeconds": 0,
+            "endSeconds": 0
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "office building",
+        "appearances": [
+          {
+            "confidence": 0.9511,
+            "startTime": "0:00:00",
+            "endTime": "0:00:00.0333667",
+            "startSeconds": 0,
+            "endSeconds": 0
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "laptop",
+        "appearances": [
+          {
+            "confidence": 0.9589,
+            "startTime": "0:00:12.012",
+            "endTime": "0:00:12.0453667",
+            "startSeconds": 12,
+            "endSeconds": 12
+          }
+        ]
+      }
+    ],
+    "framePatterns": [],
+    "brands": [],
+    "namedLocations": [],
+    "namedPeople": [],
+    "statistics": {
+      "correspondenceCount": 0,
+      "speakerTalkToListenRatio": {
+        "1": 1
+      },
+      "speakerLongestMonolog": {
+        "1": 0
+      },
+      "speakerNumberOfFragments": {
+        "1": 1
+      },
+      "speakerWordCount": {
+        "1": 1
+      }
+    },
+    "topics": [
+      {
+        "referenceUrl": null,
+        "iptcName": "science and technology",
+        "iabName": "Education",
+        "confidence": 0.7553,
+        "id": 1,
+        "name": "Education/Technology",
+        "appearances": [
+          {
+            "startTime": "0:00:26",
+            "endTime": "0:00:26.12",
+            "startSeconds": 26,
+            "endSeconds": 26.1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": [
+    {
+      "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+      "id": "65t0g4nqta",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:00:29.142",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [
+          "en-US"
+        ],
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "transcript": [
+          {
+            "id": 1,
+            "text": "None.",
+            "confidence": 0.1058,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:26.12",
+                "start": "0:00:26",
+                "end": "0:00:26.12"
+              }
+            ]
+          }
+        ],
+        "ocr": [
+          {
+            "id": 1,
+            "text": "200%",
+            "confidence": 0.999,
+            "left": 585,
+            "top": 152,
+            "width": 30,
+            "height": 12,
+            "angle": 8,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:06.0393667",
+                "start": "0:00:06.006",
+                "end": "0:00:06.0393667"
+              },
+              {
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:17.0503667",
+                "start": "0:00:17.017",
+                "end": "0:00:17.0503667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "1000%",
+            "confidence": 0.951,
+            "left": 549,
+            "top": 68,
+            "width": 42,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:17.0503667",
+                "start": "0:00:17.017",
+                "end": "0:00:17.0503667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "90%",
+            "confidence": 0.979,
+            "left": 48,
+            "top": 75,
+            "width": 23,
+            "height": 10,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.028",
+                "adjustedEnd": "0:00:28.0613667",
+                "start": "0:00:28.028",
+                "end": "0:00:28.0613667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "Increase Sales",
+            "confidence": 0.9685,
+            "left": 223,
+            "top": 30,
+            "width": 147,
+            "height": 24,
+            "angle": -3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:00",
+                "end": "0:00:02.0353667"
+              },
+              {
+                "adjustedStart": "0:00:04.004",
+                "adjustedEnd": "0:00:04.0373667",
+                "start": "0:00:04.004",
+                "end": "0:00:04.0373667"
+              },
+              {
+                "adjustedStart": "0:00:12.012",
+                "adjustedEnd": "0:00:12.0453667",
+                "start": "0:00:12.012",
+                "end": "0:00:12.0453667"
+              },
+              {
+                "adjustedStart": "0:00:16.016",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:16.016",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "by Automating your Print Order Management",
+            "confidence": 0.997,
+            "left": 224,
+            "top": 58,
+            "width": 304,
+            "height": 18,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:00",
+                "end": "0:00:02.0353667"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "Mobile Responsive Retail & Corporate Stores",
+            "confidence": 0.9582,
+            "left": 226,
+            "top": 87,
+            "width": 193,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:00",
+                "end": "0:00:02.0353667"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "rations - CRM, A",
+            "confidence": 0.985,
+            "left": 267,
+            "top": 173,
+            "width": 61,
+            "height": 12,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:00",
+                "end": "0:00:03.0363667"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "ease Sales",
+            "confidence": 0.9955,
+            "left": 0,
+            "top": 53,
+            "width": 130,
+            "height": 28,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:03.003",
+                "end": "0:00:03.0363667"
+              },
+              {
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:17.0503667",
+                "start": "0:00:17.017",
+                "end": "0:00:17.0503667"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "mating your Print Order Management",
+            "confidence": 0.9974,
+            "left": 0,
+            "top": 53,
+            "width": 259,
+            "height": 16,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:03.003",
+                "end": "0:00:03.0363667"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "Store Manager",
+            "confidence": 0.9495,
+            "left": 572,
+            "top": 94,
+            "width": 66,
+            "height": 12,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:03.003",
+                "end": "0:00:03.0363667"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "e Responsive Retail & Corporate Stores",
+            "confidence": 0.9693,
+            "left": 0,
+            "top": 83,
+            "width": 165,
+            "height": 15,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:03.003",
+                "end": "0:00:03.0363667"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "Control Panel",
+            "confidence": 0.9835,
+            "left": 570,
+            "top": 107,
+            "width": 63,
+            "height": 12,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:03.003",
+                "end": "0:00:03.0363667"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "Online Estimation",
+            "confidence": 0.9405,
+            "left": 1,
+            "top": 112,
+            "width": 79,
+            "height": 14,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:03.003",
+                "end": "0:00:03.0363667"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "Mobile Responsive",
+            "confidence": 0.944,
+            "left": 516,
+            "top": 167,
+            "width": 83,
+            "height": 13,
+            "angle": 5,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:03.003",
+                "end": "0:00:03.0363667"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "Storefront",
+            "confidence": 0.971,
+            "left": 515,
+            "top": 182,
+            "width": 47,
+            "height": 11,
+            "angle": 4,
+            "language": "to-TO",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:03.003",
+                "end": "0:00:03.0363667"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "Incre",
+            "confidence": 0.956,
+            "left": 589,
+            "top": 29,
+            "width": 49,
+            "height": 17,
+            "angle": 0,
+            "language": "fr-FR",
+            "instances": [
+              {
+                "adjustedStart": "0:00:05.005",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:05.005",
+                "end": "0:00:05.0383667"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "Case Study",
+            "confidence": 0.909,
+            "left": 584,
+            "top": 122,
+            "width": 54,
+            "height": 13,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:06.0393667",
+                "start": "0:00:06.006",
+                "end": "0:00:06.0393667"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "C&T MATRI",
+            "confidence": 0.962,
+            "left": 414,
+            "top": 43,
+            "width": 76,
+            "height": 14,
+            "angle": -3,
+            "language": "fr-FR",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09.009",
+                "adjustedEnd": "0:00:09.0423667",
+                "start": "0:00:09.009",
+                "end": "0:00:09.0423667"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "C&T MATRIX",
+            "confidence": 0.996,
+            "left": 233,
+            "top": 118,
+            "width": 92,
+            "height": 13,
+            "angle": -91,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:10.01",
+                "adjustedEnd": "0:00:11.0443667",
+                "start": "0:00:10.01",
+                "end": "0:00:11.0443667"
+              },
+              {
+                "adjustedStart": "0:00:14.014",
+                "adjustedEnd": "0:00:14.0473667",
+                "start": "0:00:14.014",
+                "end": "0:00:14.0473667"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "Increase",
+            "confidence": 0.927,
+            "left": 524,
+            "top": 66,
+            "width": 104,
+            "height": 22,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.011",
+                "adjustedEnd": "0:00:11.0443667",
+                "start": "0:00:11.011",
+                "end": "0:00:11.0443667"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "text": "Command",
+            "confidence": 0.97,
+            "left": 562,
+            "top": 89,
+            "width": 51,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:19.0523667",
+                "start": "0:00:19.019",
+                "end": "0:00:19.0523667"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "text": "Your Wish is",
+            "confidence": 0.9043,
+            "left": 141,
+            "top": 15,
+            "width": 50,
+            "height": 11,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20.02",
+                "adjustedEnd": "0:00:24.0573667",
+                "start": "0:00:20.02",
+                "end": "0:00:24.0573667"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "text": "My Command",
+            "confidence": 0.994,
+            "left": 543,
+            "top": 41,
+            "width": 51,
+            "height": 10,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:21.021",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:21.021",
+                "end": "0:00:21.0543667"
+              },
+              {
+                "adjustedStart": "0:00:23.023",
+                "adjustedEnd": "0:00:25.0583667",
+                "start": "0:00:23.023",
+                "end": "0:00:25.0583667"
+              },
+              {
+                "adjustedStart": "0:00:28.028",
+                "adjustedEnd": "0:00:28.0613667",
+                "start": "0:00:28.028",
+                "end": "0:00:28.0613667"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "text": "OnPrintShop",
+            "confidence": 0.992,
+            "left": 310,
+            "top": 318,
+            "width": 148,
+            "height": 23,
+            "angle": -5,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:27.027",
+                "adjustedEnd": "0:00:28.0613667",
+                "start": "0:00:27.027",
+                "end": "0:00:28.0613667"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "text": "Web-to-Print Storefront",
+            "confidence": 0.9525,
+            "left": 249,
+            "top": 338,
+            "width": 147,
+            "height": 13,
+            "angle": -8,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.028",
+                "adjustedEnd": "0:00:28.0613667",
+                "start": "0:00:28.028",
+                "end": "0:00:28.0613667"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 1,
+            "text": "command",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:19.0523667",
+                "start": "0:00:19.019",
+                "end": "0:00:19.0523667"
+              },
+              {
+                "adjustedStart": "0:00:21.021",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:21.021",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 1,
+            "name": "Technology",
+            "referenceId": "Education/Technology",
+            "referenceType": "VideoIndexer",
+            "iptcName": "science and technology",
+            "confidence": 0.7553,
+            "iabName": "Education",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:26.12",
+                "start": "0:00:26",
+                "end": "0:00:26.12"
+              }
+            ]
+          }
+        ],
+        "faces": [
+          {
+            "id": 1074,
+            "name": "Unknown #1",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "f7f53e63-f3fc-4eab-8175-35fe24d42c54",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "c95cd512-30b1-4cb9-ac70-05a603cacc9b",
+                "fileName": "FaceInstanceThumbnail_c95cd512-30b1-4cb9-ac70-05a603cacc9b.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:19.1524666",
+                    "adjustedEnd": "0:00:19.1858332",
+                    "start": "0:00:19.1524666",
+                    "end": "0:00:19.1858332"
+                  }
+                ]
+              },
+              {
+                "id": "bef434f3-d341-4eaa-b801-01fdc1d3009e",
+                "fileName": "FaceInstanceThumbnail_bef434f3-d341-4eaa-b801-01fdc1d3009e.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:21.9552666",
+                    "adjustedEnd": "0:00:21.9886332",
+                    "start": "0:00:21.9552666",
+                    "end": "0:00:21.9886332"
+                  }
+                ]
+              },
+              {
+                "id": "5b715142-802d-4166-8c5b-5d476648ec80",
+                "fileName": "FaceInstanceThumbnail_5b715142-802d-4166-8c5b-5d476648ec80.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:27.0937333",
+                    "adjustedEnd": "0:00:27.1270999",
+                    "start": "0:00:27.0937333",
+                    "end": "0:00:27.1270999"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "c95cd512-30b1-4cb9-ac70-05a603cacc9b",
+                  "bef434f3-d341-4eaa-b801-01fdc1d3009e"
+                ],
+                "adjustedStart": "0:00:18.6853333",
+                "adjustedEnd": "0:00:25.4254",
+                "start": "0:00:18.6853333",
+                "end": "0:00:25.4254"
+              },
+              {
+                "thumbnailsIds": [
+                  "5b715142-802d-4166-8c5b-5d476648ec80"
+                ],
+                "adjustedStart": "0:00:26.7267",
+                "adjustedEnd": "0:00:29.029",
+                "start": "0:00:26.7267",
+                "end": "0:00:29.029"
+              }
+            ]
+          },
+          {
+            "id": 1068,
+            "name": "Unknown #2",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "88ab1d19-be5f-4818-a18a-c8f591043dee",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "4445f332-2682-494f-b94a-cd965e9eee0c",
+                "fileName": "FaceInstanceThumbnail_4445f332-2682-494f-b94a-cd965e9eee0c.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:18.6853333",
+                    "adjustedEnd": "0:00:18.7186999",
+                    "start": "0:00:18.6853333",
+                    "end": "0:00:18.7186999"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "4445f332-2682-494f-b94a-cd965e9eee0c"
+                ],
+                "adjustedStart": "0:00:18.0847333",
+                "adjustedEnd": "0:00:20.4537667",
+                "start": "0:00:18.0847333",
+                "end": "0:00:20.4537667"
+              },
+              {
+                "adjustedStart": "0:00:22.4557667",
+                "adjustedEnd": "0:00:25.1918333",
+                "start": "0:00:22.4557667",
+                "end": "0:00:25.1918333"
+              },
+              {
+                "adjustedStart": "0:00:27.1271",
+                "adjustedEnd": "0:00:29.029",
+                "start": "0:00:27.1271",
+                "end": "0:00:29.029"
+              }
+            ]
+          },
+          {
+            "id": 1092,
+            "name": "Unknown #3",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "a01b7879-faa3-4e50-866e-844d487b1baa",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "65ec8ec5-1225-46be-98b8-5673bb150507",
+                "fileName": "FaceInstanceThumbnail_65ec8ec5-1225-46be-98b8-5673bb150507.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:21.9552666",
+                    "adjustedEnd": "0:00:21.9886332",
+                    "start": "0:00:21.9552666",
+                    "end": "0:00:21.9886332"
+                  }
+                ]
+              },
+              {
+                "id": "d8954269-e65d-4c36-abbf-4464af938eb1",
+                "fileName": "FaceInstanceThumbnail_d8954269-e65d-4c36-abbf-4464af938eb1.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:23.3566666",
+                    "adjustedEnd": "0:00:23.3900332",
+                    "start": "0:00:23.3566666",
+                    "end": "0:00:23.3900332"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "65ec8ec5-1225-46be-98b8-5673bb150507",
+                  "d8954269-e65d-4c36-abbf-4464af938eb1"
+                ],
+                "adjustedStart": "0:00:20.5538667",
+                "adjustedEnd": "0:00:24.9249",
+                "start": "0:00:20.5538667",
+                "end": "0:00:24.9249"
+              },
+              {
+                "adjustedStart": "0:00:28.4951333",
+                "adjustedEnd": "0:00:29.029",
+                "start": "0:00:28.4951333",
+                "end": "0:00:29.029"
+              }
+            ]
+          },
+          {
+            "id": 1021,
+            "name": "Unknown #4",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "778b5ec7-1677-40e1-ba2a-f7e7a4909b38",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "f91c3088-fc28-432e-9dfd-83acf46f78a7",
+                "fileName": "FaceInstanceThumbnail_f91c3088-fc28-432e-9dfd-83acf46f78a7.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:05.1384666",
+                    "adjustedEnd": "0:00:05.1718332",
+                    "start": "0:00:05.1384666",
+                    "end": "0:00:05.1718332"
+                  }
+                ]
+              },
+              {
+                "id": "ea30a247-c303-4241-8ddd-49143c7b84a5",
+                "fileName": "FaceInstanceThumbnail_ea30a247-c303-4241-8ddd-49143c7b84a5.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:07.007",
+                    "adjustedEnd": "0:00:07.0403666",
+                    "start": "0:00:07.007",
+                    "end": "0:00:07.0403666"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "f91c3088-fc28-432e-9dfd-83acf46f78a7",
+                  "ea30a247-c303-4241-8ddd-49143c7b84a5"
+                ],
+                "adjustedStart": "0:00:04.9716333",
+                "adjustedEnd": "0:00:08.8755333",
+                "start": "0:00:04.9716333",
+                "end": "0:00:08.8755333"
+              }
+            ]
+          },
+          {
+            "id": 1015,
+            "name": "Unknown #5",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "02520241-a61c-49c5-ba4c-3781ef7b1ccb",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "015e811a-42cd-4729-b16d-14d4367b1c05",
+                "fileName": "FaceInstanceThumbnail_015e811a-42cd-4729-b16d-14d4367b1c05.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:00",
+                    "adjustedEnd": "0:00:00.0333666",
+                    "start": "0:00:00",
+                    "end": "0:00:00.0333666"
+                  }
+                ]
+              },
+              {
+                "id": "4a80cf44-3354-4efc-851b-e9d4d22f2128",
+                "fileName": "FaceInstanceThumbnail_4a80cf44-3354-4efc-851b-e9d4d22f2128.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:02.8028",
+                    "adjustedEnd": "0:00:02.8361666",
+                    "start": "0:00:02.8028",
+                    "end": "0:00:02.8361666"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "015e811a-42cd-4729-b16d-14d4367b1c05"
+                ],
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:00.9676333",
+                "start": "0:00:00",
+                "end": "0:00:00.9676333"
+              },
+              {
+                "thumbnailsIds": [
+                  "4a80cf44-3354-4efc-851b-e9d4d22f2128"
+                ],
+                "adjustedStart": "0:00:01.8685333",
+                "adjustedEnd": "0:00:04.6713333",
+                "start": "0:00:01.8685333",
+                "end": "0:00:04.6713333"
+              }
+            ]
+          },
+          {
+            "id": 1022,
+            "name": "Unknown #6",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "ecce1de7-2aaf-4252-aa05-bb083b229ce5",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "b4f5a739-2485-4b6e-b0fb-ffa86c374cf3",
+                "fileName": "FaceInstanceThumbnail_b4f5a739-2485-4b6e-b0fb-ffa86c374cf3.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:05.1384666",
+                    "adjustedEnd": "0:00:05.1718332",
+                    "start": "0:00:05.1384666",
+                    "end": "0:00:05.1718332"
+                  }
+                ]
+              },
+              {
+                "id": "94c4d172-dd98-421e-8f81-5f5341fbe43b",
+                "fileName": "FaceInstanceThumbnail_94c4d172-dd98-421e-8f81-5f5341fbe43b.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:07.4741333",
+                    "adjustedEnd": "0:00:07.5074999",
+                    "start": "0:00:07.4741333",
+                    "end": "0:00:07.5074999"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "b4f5a739-2485-4b6e-b0fb-ffa86c374cf3",
+                  "94c4d172-dd98-421e-8f81-5f5341fbe43b"
+                ],
+                "adjustedStart": "0:00:04.6713333",
+                "adjustedEnd": "0:00:07.9746333",
+                "start": "0:00:04.6713333",
+                "end": "0:00:07.9746333"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "text",
+            "referenceId": "communication/writing/text",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9969,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:06.0393667",
+                "start": "0:00:00",
+                "end": "0:00:06.0393667"
+              },
+              {
+                "confidence": 0.9937,
+                "adjustedStart": "0:00:09.009",
+                "adjustedEnd": "0:00:13.0463667",
+                "start": "0:00:09.009",
+                "end": "0:00:13.0463667"
+              },
+              {
+                "confidence": 0.9995,
+                "adjustedStart": "0:00:16.016",
+                "adjustedEnd": "0:00:20.0533667",
+                "start": "0:00:16.016",
+                "end": "0:00:20.0533667"
+              },
+              {
+                "confidence": 0.9842,
+                "adjustedStart": "0:00:23.023",
+                "adjustedEnd": "0:00:28.0613667",
+                "start": "0:00:23.023",
+                "end": "0:00:28.0613667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "indoor",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9768,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:06.0393667",
+                "start": "0:00:00",
+                "end": "0:00:06.0393667"
+              },
+              {
+                "confidence": 0.977,
+                "adjustedStart": "0:00:13.013",
+                "adjustedEnd": "0:00:13.0463667",
+                "start": "0:00:13.013",
+                "end": "0:00:13.0463667"
+              },
+              {
+                "confidence": 0.9719,
+                "adjustedStart": "0:00:16.016",
+                "adjustedEnd": "0:00:17.0503667",
+                "start": "0:00:16.016",
+                "end": "0:00:17.0503667"
+              },
+              {
+                "confidence": 0.9518,
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:19.0523667",
+                "start": "0:00:19.019",
+                "end": "0:00:19.0523667"
+              },
+              {
+                "confidence": 0.9764,
+                "adjustedStart": "0:00:23.023",
+                "adjustedEnd": "0:00:28.0613667",
+                "start": "0:00:23.023",
+                "end": "0:00:28.0613667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "clothing",
+            "referenceId": "consumer goods/clothing",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9809,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:00",
+                "end": "0:00:02.0353667"
+              },
+              {
+                "confidence": 0.9937,
+                "adjustedStart": "0:00:05.005",
+                "adjustedEnd": "0:00:15.0483667",
+                "start": "0:00:05.005",
+                "end": "0:00:15.0483667"
+              },
+              {
+                "confidence": 0.9779,
+                "adjustedStart": "0:00:18.018",
+                "adjustedEnd": "0:00:25.0583667",
+                "start": "0:00:18.018",
+                "end": "0:00:25.0583667"
+              },
+              {
+                "confidence": 0.9797,
+                "adjustedStart": "0:00:27.027",
+                "adjustedEnd": "0:00:28.0613667",
+                "start": "0:00:27.027",
+                "end": "0:00:28.0613667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "computer",
+            "referenceId": "device/machine/computer",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9651,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:00",
+                "end": "0:00:02.0353667"
+              },
+              {
+                "confidence": 0.957,
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:06.0393667",
+                "start": "0:00:06.006",
+                "end": "0:00:06.0393667"
+              },
+              {
+                "confidence": 0.9587,
+                "adjustedStart": "0:00:10.01",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:10.01",
+                "end": "0:00:10.0433667"
+              },
+              {
+                "confidence": 0.9864,
+                "adjustedStart": "0:00:13.013",
+                "adjustedEnd": "0:00:13.0463667",
+                "start": "0:00:13.013",
+                "end": "0:00:13.0463667"
+              },
+              {
+                "confidence": 0.9801,
+                "adjustedStart": "0:00:20.02",
+                "adjustedEnd": "0:00:20.0533667",
+                "start": "0:00:20.02",
+                "end": "0:00:20.0533667"
+              },
+              {
+                "confidence": 0.9877,
+                "adjustedStart": "0:00:23.023",
+                "adjustedEnd": "0:00:28.0613667",
+                "start": "0:00:23.023",
+                "end": "0:00:28.0613667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "person",
+            "referenceId": "person",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9714,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:00",
+                "end": "0:00:02.0353667"
+              },
+              {
+                "confidence": 0.9908,
+                "adjustedStart": "0:00:05.005",
+                "adjustedEnd": "0:00:15.0483667",
+                "start": "0:00:05.005",
+                "end": "0:00:15.0483667"
+              },
+              {
+                "confidence": 0.9787,
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:24.0573667",
+                "start": "0:00:19.019",
+                "end": "0:00:24.0573667"
+              },
+              {
+                "confidence": 0.9646,
+                "adjustedStart": "0:00:27.027",
+                "adjustedEnd": "0:00:27.0603667",
+                "start": "0:00:27.027",
+                "end": "0:00:27.0603667"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "table",
+            "referenceId": "furniture/table",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9686,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.0343667",
+                "start": "0:00:00",
+                "end": "0:00:01.0343667"
+              },
+              {
+                "confidence": 0.9516,
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:03.003",
+                "end": "0:00:03.0363667"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "chair",
+            "referenceId": "instrumentality/furnishing/furniture/seat/chair",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9615,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:00",
+                "end": "0:00:03.0363667"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "wall",
+            "referenceId": "structure/wall",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.955,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:00.0333667",
+                "start": "0:00:00",
+                "end": "0:00:00.0333667"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "office building",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9511,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:00.0333667",
+                "start": "0:00:00",
+                "end": "0:00:00.0333667"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "furniture",
+            "referenceId": "furniture",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9541,
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:01.001",
+                "end": "0:00:02.0353667"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "man",
+            "referenceId": "person/man",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9754,
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:08.0413667",
+                "start": "0:00:06.006",
+                "end": "0:00:08.0413667"
+              },
+              {
+                "confidence": 0.9694,
+                "adjustedStart": "0:00:10.01",
+                "adjustedEnd": "0:00:11.0443667",
+                "start": "0:00:10.01",
+                "end": "0:00:11.0443667"
+              },
+              {
+                "confidence": 0.9758,
+                "adjustedStart": "0:00:14.014",
+                "adjustedEnd": "0:00:15.0483667",
+                "start": "0:00:14.014",
+                "end": "0:00:15.0483667"
+              },
+              {
+                "confidence": 0.9697,
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:24.0573667",
+                "start": "0:00:19.019",
+                "end": "0:00:24.0573667"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "human face",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.977,
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:07.0403667",
+                "start": "0:00:06.006",
+                "end": "0:00:07.0403667"
+              },
+              {
+                "confidence": 0.9637,
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:15.0483667",
+                "start": "0:00:15.015",
+                "end": "0:00:15.0483667"
+              },
+              {
+                "confidence": 0.9792,
+                "adjustedStart": "0:00:21.021",
+                "adjustedEnd": "0:00:22.0553667",
+                "start": "0:00:21.021",
+                "end": "0:00:22.0553667"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "job",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9591,
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:06.0393667",
+                "start": "0:00:06.006",
+                "end": "0:00:06.0393667"
+              },
+              {
+                "confidence": 0.9511,
+                "adjustedStart": "0:00:23.023",
+                "adjustedEnd": "0:00:23.0563667",
+                "start": "0:00:23.023",
+                "end": "0:00:23.0563667"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "laptop",
+            "referenceId": "computer/portable computer/laptop",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9589,
+                "adjustedStart": "0:00:12.012",
+                "adjustedEnd": "0:00:12.0453667",
+                "start": "0:00:12.012",
+                "end": "0:00:12.0453667"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "woman",
+            "referenceId": "person/woman",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9518,
+                "adjustedStart": "0:00:22.022",
+                "adjustedEnd": "0:00:22.0553667",
+                "start": "0:00:22.022",
+                "end": "0:00:22.0553667"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:14.9816333",
+                "start": "0:00:00",
+                "end": "0:00:14.9816333"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.1818333",
+                "adjustedEnd": "0:00:29.029",
+                "start": "0:00:15.1818333",
+                "end": "0:00:29.029"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "tags": [
+              "Wide",
+              "Medium"
+            ],
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "fe0e8e4c-1f50-4eb3-894f-2db38eed757f",
+                    "adjustedStart": "0:00:03.9706333",
+                    "adjustedEnd": "0:00:04.004",
+                    "start": "0:00:03.9706333",
+                    "end": "0:00:04.004"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "67bfca2e-c544-4600-9504-9c3de43ed8f7",
+                    "adjustedStart": "0:00:07.5742333",
+                    "adjustedEnd": "0:00:07.6076",
+                    "start": "0:00:07.5742333",
+                    "end": "0:00:07.6076"
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "instances": [
+                  {
+                    "thumbnailId": "4621baa2-ab32-4aa7-9510-9187227f9025",
+                    "adjustedStart": "0:00:12.0787333",
+                    "adjustedEnd": "0:00:12.1121",
+                    "start": "0:00:12.0787333",
+                    "end": "0:00:12.1121"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:14.9816333",
+                "start": "0:00:00",
+                "end": "0:00:14.9816333"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "tags": [
+              "Wide",
+              "LeftFace",
+              "Medium",
+              "RightFace"
+            ],
+            "keyFrames": [
+              {
+                "id": 4,
+                "instances": [
+                  {
+                    "thumbnailId": "c0b0884c-fcad-4c36-8189-4068be82e3a4",
+                    "adjustedStart": "0:00:17.1838333",
+                    "adjustedEnd": "0:00:17.2172",
+                    "start": "0:00:17.1838333",
+                    "end": "0:00:17.2172"
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "instances": [
+                  {
+                    "thumbnailId": "30b5b6c8-5031-4480-8da0-c93499e7b088",
+                    "adjustedStart": "0:00:21.7884333",
+                    "adjustedEnd": "0:00:21.8218",
+                    "start": "0:00:21.7884333",
+                    "end": "0:00:21.8218"
+                  }
+                ]
+              },
+              {
+                "id": 6,
+                "instances": [
+                  {
+                    "thumbnailId": "a514de4f-be85-423b-84c3-fca72d801596",
+                    "adjustedStart": "0:00:25.5922333",
+                    "adjustedEnd": "0:00:25.6256",
+                    "start": "0:00:25.5922333",
+                    "end": "0:00:25.6256"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.1818333",
+                "adjustedEnd": "0:00:29.029",
+                "start": "0:00:15.1818333",
+                "end": "0:00:29.029"
+              }
+            ]
+          }
+        ],
+        "detectedObjects": [
+          {
+            "id": 1,
+            "type": "Chair",
+            "thumbnailId": "1c26d7eb-5112-4fe4-a42b-4a006d4bdd5f",
+            "displayName": "chair",
+            "wikiDataId": "Q15026",
+            "instances": [
+              {
+                "confidence": 0.41,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:03.870533",
+                "start": "0:00:00",
+                "end": "0:00:03.870533"
+              },
+              {
+                "confidence": 0.556,
+                "adjustedStart": "0:00:04.337667",
+                "adjustedEnd": "0:00:04.371033",
+                "start": "0:00:04.337667",
+                "end": "0:00:04.371033"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "type": "Chair",
+            "thumbnailId": "a2d71efd-3ee2-473e-a90c-197bd543030f",
+            "displayName": "chair",
+            "wikiDataId": "Q15026",
+            "instances": [
+              {
+                "confidence": 0.507,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.868533",
+                "start": "0:00:00",
+                "end": "0:00:01.868533"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "type": "Laptop",
+            "thumbnailId": "482e37d2-216f-4e99-a313-cbf53cd8f08a",
+            "displayName": "laptop",
+            "wikiDataId": "Q3962",
+            "instances": [
+              {
+                "confidence": 0.613,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:04.7047",
+                "start": "0:00:00",
+                "end": "0:00:04.7047"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "type": "DiningTable",
+            "thumbnailId": "6a5cbf73-3d79-42c4-ab20-0ce6650a98e8",
+            "displayName": "dining table",
+            "wikiDataId": "Q10552108",
+            "instances": [
+              {
+                "confidence": 0.356,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:03.536867",
+                "start": "0:00:00",
+                "end": "0:00:03.536867"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "type": "PottedPlant",
+            "thumbnailId": "4eb766c5-f65a-41c6-bdbc-eb6044262e03",
+            "displayName": "potted plant",
+            "wikiDataId": "Q27993793",
+            "instances": [
+              {
+                "confidence": 0.627,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:02.2022",
+                "start": "0:00:00",
+                "end": "0:00:02.2022"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "type": "Chair",
+            "thumbnailId": "55ef9169-09ba-4229-8f0a-1d55d2f656ff",
+            "displayName": "chair",
+            "wikiDataId": "Q15026",
+            "instances": [
+              {
+                "confidence": 0.597,
+                "adjustedStart": "0:00:02.669333",
+                "adjustedEnd": "0:00:03.370033",
+                "start": "0:00:02.669333",
+                "end": "0:00:03.370033"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "type": "Chair",
+            "thumbnailId": "fcc8524e-363b-4f36-88db-ff6f7e3737e8",
+            "displayName": "chair",
+            "wikiDataId": "Q15026",
+            "instances": [
+              {
+                "confidence": 0.522,
+                "adjustedStart": "0:00:03.670333",
+                "adjustedEnd": "0:00:04.2042",
+                "start": "0:00:03.670333",
+                "end": "0:00:04.2042"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "type": "Handbag",
+            "thumbnailId": "a1ae31b6-7c98-4519-b58e-3c114515aa47",
+            "displayName": "handbag",
+            "wikiDataId": "Q467505",
+            "instances": [
+              {
+                "confidence": 0.453,
+                "adjustedStart": "0:00:08.174833",
+                "adjustedEnd": "0:00:09.2092",
+                "start": "0:00:08.174833",
+                "end": "0:00:09.2092"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "type": "Laptop",
+            "thumbnailId": "9d802661-27fe-44e4-9837-e6046c82dfb5",
+            "displayName": "laptop",
+            "wikiDataId": "Q3962",
+            "instances": [
+              {
+                "confidence": 0.809,
+                "adjustedStart": "0:00:09.676333",
+                "adjustedEnd": "0:00:10.377033",
+                "start": "0:00:09.676333",
+                "end": "0:00:10.377033"
+              },
+              {
+                "confidence": 0.75,
+                "adjustedStart": "0:00:11.478133",
+                "adjustedEnd": "0:00:12.379033",
+                "start": "0:00:11.478133",
+                "end": "0:00:12.379033"
+              },
+              {
+                "confidence": 0.6,
+                "adjustedStart": "0:00:15.5155",
+                "adjustedEnd": "0:00:15.882533",
+                "start": "0:00:15.5155",
+                "end": "0:00:15.882533"
+              },
+              {
+                "confidence": 0.902,
+                "adjustedStart": "0:00:19.686333",
+                "adjustedEnd": "0:00:20.387033",
+                "start": "0:00:19.686333",
+                "end": "0:00:20.387033"
+              },
+              {
+                "confidence": 0.853,
+                "adjustedStart": "0:00:23.189833",
+                "adjustedEnd": "0:00:24.057367",
+                "start": "0:00:23.189833",
+                "end": "0:00:24.057367"
+              },
+              {
+                "confidence": 0.551,
+                "adjustedStart": "0:00:25.5255",
+                "adjustedEnd": "0:00:26.059367",
+                "start": "0:00:25.5255",
+                "end": "0:00:26.059367"
+              },
+              {
+                "confidence": 0.579,
+                "adjustedStart": "0:00:26.693333",
+                "adjustedEnd": "0:00:28.395033",
+                "start": "0:00:26.693333",
+                "end": "0:00:28.395033"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "type": "PottedPlant",
+            "thumbnailId": "24c929fc-32b0-4d1f-be4b-ad569f5fba95",
+            "displayName": "potted plant",
+            "wikiDataId": "Q27993793",
+            "instances": [
+              {
+                "confidence": 0.622,
+                "adjustedStart": "0:00:12.679333",
+                "adjustedEnd": "0:00:15.3153",
+                "start": "0:00:12.679333",
+                "end": "0:00:15.3153"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "type": "PottedPlant",
+            "thumbnailId": "4b290754-0034-4dfb-b710-40ad2da653ec",
+            "displayName": "potted plant",
+            "wikiDataId": "Q27993793",
+            "instances": [
+              {
+                "confidence": 0.752,
+                "adjustedStart": "0:00:15.382033",
+                "adjustedEnd": "0:00:15.7157",
+                "start": "0:00:15.382033",
+                "end": "0:00:15.7157"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "type": "Chair",
+            "thumbnailId": "9648e75d-fea3-4367-b2dd-1109e28ae3f6",
+            "displayName": "chair",
+            "wikiDataId": "Q15026",
+            "instances": [
+              {
+                "confidence": 0.848,
+                "adjustedStart": "0:00:16.182833",
+                "adjustedEnd": "0:00:17.550867",
+                "start": "0:00:16.182833",
+                "end": "0:00:17.550867"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "type": "Chair",
+            "thumbnailId": "a9f2729a-4360-4e46-bba5-ae37a58e1749",
+            "displayName": "chair",
+            "wikiDataId": "Q15026",
+            "instances": [
+              {
+                "confidence": 0.534,
+                "adjustedStart": "0:00:16.349667",
+                "adjustedEnd": "0:00:17.384033",
+                "start": "0:00:16.349667",
+                "end": "0:00:17.384033"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "type": "Chair",
+            "thumbnailId": "bcec853e-2a63-4672-8c31-b8f3cd03d66b",
+            "displayName": "chair",
+            "wikiDataId": "Q15026",
+            "instances": [
+              {
+                "confidence": 0.445,
+                "adjustedStart": "0:00:16.850167",
+                "adjustedEnd": "0:00:17.550867",
+                "start": "0:00:16.850167",
+                "end": "0:00:17.550867"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "type": "Laptop",
+            "thumbnailId": "6c8069f5-2845-4f66-ac23-a071e3e42e44",
+            "displayName": "laptop",
+            "wikiDataId": "Q3962",
+            "instances": [
+              {
+                "confidence": 0.701,
+                "adjustedStart": "0:00:17.684333",
+                "adjustedEnd": "0:00:19.552867",
+                "start": "0:00:17.684333",
+                "end": "0:00:19.552867"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "type": "Backpack",
+            "thumbnailId": "9d846dc5-67fd-4833-b71a-88be2cd2bd63",
+            "displayName": "backpack",
+            "wikiDataId": "Q5843",
+            "instances": [
+              {
+                "confidence": 0.335,
+                "adjustedStart": "0:00:20.186833",
+                "adjustedEnd": "0:00:24.557867",
+                "start": "0:00:20.186833",
+                "end": "0:00:24.557867"
+              },
+              {
+                "confidence": 0.361,
+                "adjustedStart": "0:00:25.025",
+                "adjustedEnd": "0:00:25.058367",
+                "start": "0:00:25.025",
+                "end": "0:00:25.058367"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "type": "Chair",
+            "thumbnailId": "19799def-4d7e-4d3e-a39c-a862d9441b39",
+            "displayName": "chair",
+            "wikiDataId": "Q15026",
+            "instances": [
+              {
+                "confidence": 0.842,
+                "adjustedStart": "0:00:25.191833",
+                "adjustedEnd": "0:00:25.7257",
+                "start": "0:00:25.191833",
+                "end": "0:00:25.7257"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "type": "Chair",
+            "thumbnailId": "1ffa0e04-60d6-403d-b3aa-e9d71796eba1",
+            "displayName": "chair",
+            "wikiDataId": "Q15026",
+            "instances": [
+              {
+                "confidence": 0.798,
+                "adjustedStart": "0:00:25.5255",
+                "adjustedEnd": "0:00:28.2282",
+                "start": "0:00:25.5255",
+                "end": "0:00:28.2282"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "type": "Chair",
+            "thumbnailId": "765c5b4e-d4ff-4c13-90ef-467b710280a0",
+            "displayName": "chair",
+            "wikiDataId": "Q15026",
+            "instances": [
+              {
+                "confidence": 0.739,
+                "adjustedStart": "0:00:25.859167",
+                "adjustedEnd": "0:00:26.7267",
+                "start": "0:00:25.859167",
+                "end": "0:00:26.7267"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "type": "Chair",
+            "thumbnailId": "26bc8276-fae4-486f-815d-738634ae5617",
+            "displayName": "chair",
+            "wikiDataId": "Q15026",
+            "instances": [
+              {
+                "confidence": 0.467,
+                "adjustedStart": "0:00:26.026",
+                "adjustedEnd": "0:00:26.393033",
+                "start": "0:00:26.026",
+                "end": "0:00:26.393033"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "type": "Chair",
+            "thumbnailId": "45d75431-1802-4619-8b3f-48cd8cde9112",
+            "displayName": "chair",
+            "wikiDataId": "Q15026",
+            "instances": [
+              {
+                "confidence": 0.574,
+                "adjustedStart": "0:00:26.860167",
+                "adjustedEnd": "0:00:27.2272",
+                "start": "0:00:26.860167",
+                "end": "0:00:27.2272"
+              }
+            ]
+          }
+        ],
+        "sentiments": [
+          {
+            "id": 1,
+            "averageScore": 0.5,
+            "sentimentType": "Neutral",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:29.142",
+                "start": "0:00:00",
+                "end": "0:00:29.142"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:29.142",
+                "start": "0:00:00",
+                "end": "0:00:29.142"
+              }
+            ]
+          }
+        ],
+        "speakers": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:26.12",
+                "start": "0:00:26",
+                "end": "0:00:26.12"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 0,
+          "speakerTalkToListenRatio": {
+            "1": 1
+          },
+          "speakerLongestMonolog": {
+            "1": 0
+          },
+          "speakerNumberOfFragments": {
+            "1": 1
+          },
+          "speakerWordCount": {
+            "1": 1
+          }
+        }
+      },
+      "thumbnailId": "9364aac5-5e8a-4cf9-8455-4cb4f7db9030",
+      "width": 640,
+      "height": 352,
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [
+        "en-US"
+      ],
+      "language": "en-US",
+      "languages": [
+        "en-US"
+      ],
+      "indexingPreset": "Default",
+      "streamingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "logoGroupId": null,
+      "isAdult": false,
+      "excludedAIs": [],
+      "isSearchable": true,
+      "publishedUrl": "https://api.videoindexer.ai/internals/eastus/Accounts/fbafe9ff-1c94-40bd-987e-a4e4dfe52365/Videos/65t0g4nqta/streaming-manifest/manifest.m3u8",
+      "publishedProxyUrl": null,
+      "viewToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJWZXJzaW9uIjoiMi4wLjAuMCIsIktleVZlcnNpb24iOiI1YmZmYWI1MTUwZWI0NGM4ODMzNzE2NzVhNzcwYzU4YSIsIkFjY291bnRJZCI6ImZiYWZlOWZmLTFjOTQtNDBiZC05ODdlLWE0ZTRkZmU1MjM2NSIsIkFjY291bnRUeXBlIjoiQ2xhc3NpYyIsIlZpZGVvSWQiOiI2NXQwZzRucXRhIiwiUGVybWlzc2lvbiI6IlJlc3RyaWN0ZWRWaWV3ZXIiLCJFeHRlcm5hbFVzZXJJZCI6IjYxMzM3QzI2RUFCQjRGNEU5MjA3NURBNjAyQ0IyQTQzIiwiVXNlclR5cGUiOiJNaWNyb3NvZnRDb3JwQWFkIiwiSXNzdWVyTG9jYXRpb24iOiJlYXN0dXMiLCJuYmYiOjE3NjE5Njk0MzAsImV4cCI6MTc2MTk3MzMzMCwiaXNzIjoiaHR0cHM6Ly9hcGkudmlkZW9pbmRleGVyLmFpLyIsImF1ZCI6Imh0dHBzOi8vYXBpLnZpZGVvaW5kZXhlci5haS8ifQ.ULiIFrVQHicY6wYEe72VzmyBid6qxgXK6L56llcnqaVf0j2H66cA7FpcLDq6YAABFMAXvR5wZDxsTFYjir1m-MaKTBssbvEXO4171OQaBskd44aDWxDQvQYkdsVeEqnRLDdSL7u4CJT2eCA4pw4wz2VXdrtjQZdy2kn1RL6YcDtu-De5WJBWwfpLz3MVmPIiewDolUJBRYjOdjWXy7mBgcpn5tom9ChiGFZChpvdfwcsjlPcZpN3-ERb4yFAqCP7R1pU5L0ZOo3x7TD4J49bW5ayyznHMebypcfleMLHKBObLJH1XBv5Ya7dIXAFH-A8AZpok4bpghOkECUD-lqUQw"
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "65t0g4nqta",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:00:29.142"
+      }
+    }
+  ]
+}

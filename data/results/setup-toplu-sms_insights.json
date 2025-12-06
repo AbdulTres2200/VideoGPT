@@ -1,0 +1,21 @@
+{
+  "id": "txt_224100",
+  "name": "setup-toplu-sms",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSMS Notification\nSetup TOPLU SMS\n\n8 min\noverview communication with your customers is made easy with toplu sms purpose with this third party application communicate with your customers, send and receive sms to enhance your productivity how to integrate read the below systematic guide to integrate toplu sms with your onprintshop website 1 register with toplu sms 1 register with toplu sms visit the toplu sms site and create a new account fill in the required details to create a new account 2 login to the toplu sms 2 login to the toplu sms login to toplu sms and you will land on your dashboard 3 create sender id 3 create sender id on the toplu sms dashboard go to, settings > my titles here, you can create new sms headers once you add titles, they will be sent for approval to toplu sms service 4 configuration into admin panel 4 configuration into admin panel on your admin panel go to, admin panel > store configurations > external services > sms integration > toplu sms > \u2018action\u2019 drop down > \u2018edit\u2019 option here, enter the username and password of your toplu sms account in the sender\u2019s name block, enter the approved title select the country and save the changes made set the mode as \" live \" enter the email address and save the details note toplu sms api supports turkey gsm numbers only so, select turkey in the select country block\nDid this page help you?\n\n\nPREVIOUS\nSetup Twilio\nNEXT\nSetup Uptown SMS\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

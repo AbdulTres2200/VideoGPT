@@ -1,0 +1,21 @@
+{
+  "id": "txt_501012",
+  "name": "create-mailing-products",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMailing & Fulfilment\nCreate Mailing Products\n\n7 min\nif you wish to offer any product with mailing services, then to show them right at the front store you\u2019ll need to configure it carefully from the admin panel the most common types of products offered in mailing services are brochures, letters, flyers, newsletters, catalogs, postcards, coupon envelopes, and packages set product service to add a mailing product to your system, navigate to the admin>> products >> printing products >> \u2018+add\u2019 button (top right corner) under the configuration section, select the product service type printing \u2013 this will be considered a normal product without any mailing service printing & mailing \u2013 adding a product as printing & mailing will allow a customer to place a print order of the product and opt for the mailing services simultaneously mailing only \u2013 if any product is print ready and ready to mail, then use this option customers will get to enter the product quantity and they opt for the mass mailing service to get the product delivered to their desired addresses (mailing list) printing & mailing (optional) \u2013 here, a customer can avail of the printing service but the mailing service will be kept optional, and the customer can skip the service if not required set mailing price once, the product service type is set as a mailing product, there\u2019ll be a new tab available in the product to set mailing prices in the mailing prices section set the prices depending upon the product quantity range you can define the prices for mailing service click on the +add price button to add ranges, we\u2019ve kept the price range open, thus allowing you to add prices as per your business model note this is the per quantity price of the mailing product set postage class the postal service divides mail into different services, called \"classes \" each class of mail has different features, service levels, postage prices, and pre sort requirements for most of the mailings, the content of the material and postage will determine the class of mail your customers select different classes include different things like what can be mailed, the minimum and maximum weights and sizes, and the number of pieces needed for commercial prices some examples of postage classes are priority mail express, priority mail, first class mail, periodicals, etc in our system, you can add a postage class from the admin >> products >> print products >> mailing price >> postage class tab click on the add new postage class button to add various classes note these postage classes will be available for all mailing products, depending on your product offering you can determine the prices of each class for different products mailing setting there are several settings for the mailing module which will enable you to manage and customize the mailing service for your customers common printing and mailing quantity if this toggle is enabled then the printing quantity will be considered as the mailing quantity customers will not get an extra textbox to define a mailing quantity mailing date this is the date when the ordered product will get mailed from your store by default, the system will display, and an auto calculated date however, customers can anytime change the date by clicking on the calendar note some dates are disabled depending on your store\u2019s holidays and non business days upload mailing list instead of buying any mail list if the customer wishes to upload their mail list, then this setting will allow them to do so\nDid this page help you?\n\n\nPREVIOUS\nEnable Mailing List Services\nNEXT\nFront End - Printing and Mailing\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

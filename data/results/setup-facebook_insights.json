@@ -1,0 +1,21 @@
+{
+  "id": "txt_716245",
+  "name": "setup-facebook",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSocial Logins and Sharing\nSetup Facebook\n\n19 min\noverview & purpose a fast, secure, and convenient way for users to log into your application facebook login makes it easy for your apps to ask for permission to access data facebook login improves login rates and gives an enhanced customer experience note the facebook login feature works only for the ssl verified websites if your website does not hold an ssl certificate, then it is recommended to get the ssl certification how to integrate read the below systematic guide to integrate facebook login into your onprintshop website 1 login into facebook 1 login into facebook login to your facebook account with your email id and password otherwise, create a new account on facebook (you will need a developer's account ) 2 create a new app for facebook developers 2 create a new app for facebook developers visit the facebook developer's site click on \"my apps\" from top right corner and then create a new app, using the create app button on the create an app, confirm the business portfolio and click on the next button in the next screen, select the use case as other and then click on the next button now, select the app type as \"consumer\" and then click on the next button this will take you to the provide basic information page enter the app name and contact email select the business account, if you have any complete the security check and click on the create app to continue 3 3 add a product add a product from the add product page, locate the facebook login and click on the setup button select the platform as the \"web\" now, enter your website url click on the save then, on the continue button submit the further setup process 4 fill up the basic app details 4 fill up the basic app details from the left navigation panel, go to app settings>> basic here, you\u2019ll have to fill in details such as app domain , contact email , privacy policy url , terms of services url , logo image , user data deletion , and category of your business in app domain url , enter your website link in terms of services url , add the link as http //www yourwebsite com/terms of use html http //www yourwebsite com/terms of use html in privacy policy url , add the link as http //www yourwebsite com/privacy policy html http //www yourwebsite com/privacy policy html in the user data deletion , keep the selection as it is and add the url of your domain in the below space upload app icon note the links shown above are just for example enter all the links related to your store else, you will get an error in the configuration select the business use of the facebook tool as \u2013 support my own business the next section is the data protection officer contact information fill in the form click on the save changes button 5 5 get app id and app secret id get app id and app secret id copy your app id and secret key from the app settings >> basics use the app id and secret to integrate the facebook login functionality follow the further steps 6 6 e e enter redirect uri enter redirect uri from the left side panel, click on the facebook login >> settings enter the link for your user registration page in valid oauth redirect urls as http //www yourwebsite com/user registration php http //www yourwebsite com/user registration php click on the save changes 7 configuration in admin panel 7 configuration in admin panel navigate to the admin >> store configuration >> external service settings >> social sharing tab >> facebook >> \u2018action\u2019 dropdown >> \u2018edit\u2019 option enter the saved app id and application secret key enable the login status and sharing status save the details after entering the app id and secret key, the facebook login functionality will start working a user will be able to login to your store through facebook\nDid this page help you?\n\n\nPREVIOUS\nSetup AddShoppers\nNEXT\nSetup Google Login and Photos\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

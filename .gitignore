@@ -26,16 +26,34 @@ frontend/node_modules/
 
 # Data files - large binary files and generated data
 data/vector_db/
-data/results/
+# data/results/ - Keep in git so users can regenerate chroma_index locally
 data/batch_progress.json
 data/embedding_progress.json
 data/embedded_files.txt
+data/all_dropbox_files.json
+data/all_dropbox_files.txt
+data/missing_indexes.json
+
+# Generated vector database - users will regenerate this from data/results/
+chroma_index/
 
 # Temporary files
 ~$*
 *.tmp
 
-# Large media files (uncomment if you don't want to commit videos)
-# *.mp4
-# *.avi
-# *.mov
+# Large media files - exclude videos and large documents
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv
+*.docx
+*.doc
+*.xlsx
+*.xls
+*.pptx
+*.ppt
+
+# Note: chroma_index/ is excluded - users should regenerate it from data/results/
+# Run: python src/processing/embedding_chroma.py

@@ -1,0 +1,21 @@
+{
+  "id": "txt_448937",
+  "name": "order-shipment",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders, Quotes & Customers\n\n\nManaging Orders\nOrder Shipment\n\n4 min\nshipping is one of the most important aspects of print e commerce following this, we have recently introduced a new shipment generation process into onprintshop in this article, we will explain to you how to generate a shipment label for your packages we have provided the flexibility to create multiple shipments and edit the dimensions of the package you can add a tracking number to your order using this feature, select a shipping method and shipping type, and update the order status what activities should one perform in ship item action? create shipment either product wise or order wise adjust the weight of the package according to quantity enter the package dimensions add a tracking number choose a shipping method bifurcate the method with a shipping type update the order status to 'ready for pickup' in the end, notify the customer why multiple shipments are required? multiple shipments are helpful when the customer wants its packages to be in different locations, or the order is too large to be shipped at once, thus requiring multiple shipments also, there can be a case when certain products in the order are in the back process and must be delivered later how to create a shipment via the onprintshop admin panel? to create shipment, navigate to the orders >> list orders >> \u2018order shipment\u2019 (top left corner) enter the order number into a text box and select your order from the dropdown select shipping method at the order shipment screen, admin can change/update the shipping method from the dropdown provided the dropdown will list all the shipping methods listed in the system irrespective of their active status shipping type depending upon the method chosen admin can change/update the shipping type of the shipping method all the types added in the shipping method will be listed down in a dropdown label generation via api enable this setting to generate the shipping label through the selected third party shipping method update order status as soon as the admin updates the order shipping details, they can update the order status from the dropdown provided and select whether to notify the customer or not package configuration the package configuration button allows the admin to create the package either order wise or product wise enter the package weight and dimensions to generate a label you can generate dynamic labels (if required) using the the +add button after the package configuration, the admin will have the option to either edit the details or generate the shipment label by clicking on the submit button once you have generated the label, a download label button will appear as shown below\nDid this page help you?\n\n\nPREVIOUS\nExport/API Orders\nNEXT\nMessages & Notes\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

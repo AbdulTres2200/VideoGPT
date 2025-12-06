@@ -1,0 +1,21 @@
+{
+  "id": "txt_217646",
+  "name": "setup-brevo",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAccounting\nSetup Brevo\n\n9 min\noverview & purpose brevo (formerly sendinblue) is a marketing automation platform that will allow your print website to take flight with a complete sales and marketing toolbox with brevo, you can reach out to your customers via email marketing, sms marketing, and live chat you can also use various marketing automation tool tools, set up email messages, and keep all your customers' details in one place using facebook ads, signup forms, retargeting, and landing pages, you can convert your visitors into customers integrating brevo (ex sedinblue) on your onprintshop website is quite simple how to integrate follow the schematic guide to integrate brevo on your onprintshop website 1 login into brevo 1 login into brevo go to the sendinblue website and login into your account or create a new account 2 get the api details 2 get the api details to get the api key, go to the profile >> smtp & api as displayed below copy and save the api key to configure into the admin panel 3 configuration into admin panel 3 configuration into admin panel for the integration in the admin panel, go to the admin >> store configuration >> external service settings >> accounting tab >> brevo enable the toggle and click on the edit button here, enter the api key and enable auto synchronize (optional) save the changes made 4 create attributes for synchronization 4 create attributes for synchronization next, is to create fields to map the customer data to create a \u2018contact\u2019 attributes, go to the contacts >> settings >> contact attributes here, under the normal attributes tab, click on the + add a new attribute to create a new attribute with its attribute type in the attribute setting form, enter the attribute name and select the attribute type the next step is to do the sendinblue field mapping (created in this step) in the admin panel 5 field mapping in admin panel 5 field mapping in admin panel after you enable the sendinblue service our technical team will share with you a link where you can perform this mapping the mapping fields on the below screen will auto populate whenever a \u2018contact attribute\u2019 is created in sendinblue sendinblue field mappings are used to bind customer fields with sendinblue customer fields if you cannot set or change any field mappings then it takes default field mappings you can select the respective dropdown field that you want to bind with the given left sided sendinblue attributes field 6 sync summary 6 sync summary you can anytime check the sync summary of brevo and check the log sync manually you can anytime sync the customer data into brevo to start the synchronization select the customer type i e website customer or subscriber next, select the date range and start your search you can select the customers and click on the sync button to complete the synchronize button these sync data will appear under the contacts section of the sendinblue dashboard sendinblue log this log shows all the synced customers with the details such as the sync action, date, and status i e success or pending\nDid this page help you?\n\n\nPREVIOUS\nSetup Xero\nNEXT\nSetup ZOHO CRM Plus\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

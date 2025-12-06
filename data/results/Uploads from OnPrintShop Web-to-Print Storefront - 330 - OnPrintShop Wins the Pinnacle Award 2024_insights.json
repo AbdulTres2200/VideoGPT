@@ -1,0 +1,1790 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "a9696e33-fd7a-4070-83f6-fc8d2e06633a",
+  "id": "c2mbttbiwd",
+  "name": "Uploads from OnPrintShop Web-to-Print Storefront - 330 - OnPrintShop Wins the Pi",
+  "userName": "Abdul Moiz",
+  "created": "2025-11-01T09:32:55.81+00:00",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 45,
+  "duration": "0:00:45.14",
+  "summarizedInsights": {
+    "name": "Uploads from OnPrintShop Web-to-Print Storefront - 330 - OnPrintShop Wins the Pi",
+    "id": "c2mbttbiwd",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:00:45.14",
+      "seconds": 45.1
+    },
+    "thumbnailVideoId": "c2mbttbiwd",
+    "thumbnailId": "33137cee-e726-4910-bbdb-b0299b52eb0a",
+    "faces": [],
+    "keywords": [
+      {
+        "isTranscript": false,
+        "id": 1,
+        "name": "award",
+        "appearances": [
+          {
+            "startTime": "0:00:19.019",
+            "endTime": "0:00:21.0543667",
+            "startSeconds": 19,
+            "endSeconds": 21.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 2,
+        "name": "join",
+        "appearances": [
+          {
+            "startTime": "0:00:22.022",
+            "endTime": "0:00:25.0583667",
+            "startSeconds": 22,
+            "endSeconds": 25.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 3,
+        "name": "businesses",
+        "appearances": [
+          {
+            "startTime": "0:00:12.012",
+            "endTime": "0:00:13.0463667",
+            "startSeconds": 12,
+            "endSeconds": 13
+          },
+          {
+            "startTime": "0:00:23.023",
+            "endTime": "0:00:25.0583667",
+            "startSeconds": 23,
+            "endSeconds": 25.1
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 4,
+        "name": "onprintshop",
+        "appearances": [
+          {
+            "startTime": "0:00:06.006",
+            "endTime": "0:00:07.0403667",
+            "startSeconds": 6,
+            "endSeconds": 7
+          },
+          {
+            "startTime": "0:00:26.026",
+            "endTime": "0:00:27.0603667",
+            "startSeconds": 26,
+            "endSeconds": 27.1
+          },
+          {
+            "startTime": "0:00:31.031",
+            "endTime": "0:00:32.0653667",
+            "startSeconds": 31,
+            "endSeconds": 32.1
+          },
+          {
+            "startTime": "0:00:40.04",
+            "endTime": "0:00:45.0783667",
+            "startSeconds": 40,
+            "endSeconds": 45.1
+          }
+        ]
+      }
+    ],
+    "sentiments": [
+      {
+        "sentimentKey": "Neutral",
+        "seenDurationRatio": 0.9991,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:45.14",
+            "startSeconds": 0,
+            "endSeconds": 45.1
+          }
+        ]
+      }
+    ],
+    "emotions": [],
+    "audioEffects": [],
+    "labels": [
+      {
+        "id": 1,
+        "name": "text",
+        "appearances": [
+          {
+            "confidence": 0.9735,
+            "startTime": "0:00:02.002",
+            "endTime": "0:00:02.0353667",
+            "startSeconds": 2,
+            "endSeconds": 2
+          },
+          {
+            "confidence": 0.9694,
+            "startTime": "0:00:06.006",
+            "endTime": "0:00:21.0543667",
+            "startSeconds": 6,
+            "endSeconds": 21.1
+          },
+          {
+            "confidence": 0.9903,
+            "startTime": "0:00:29.029",
+            "endTime": "0:00:35.0683667",
+            "startSeconds": 29,
+            "endSeconds": 35.1
+          },
+          {
+            "confidence": 0.9974,
+            "startTime": "0:00:39.039",
+            "endTime": "0:00:45.0783667",
+            "startSeconds": 39,
+            "endSeconds": 45.1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "graphics",
+        "appearances": [
+          {
+            "confidence": 0.9517,
+            "startTime": "0:00:12.012",
+            "endTime": "0:00:17.0503667",
+            "startSeconds": 12,
+            "endSeconds": 17.1
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "colorfulness",
+        "appearances": [
+          {
+            "confidence": 0.9583,
+            "startTime": "0:00:36.036",
+            "endTime": "0:00:37.0703667",
+            "startSeconds": 36,
+            "endSeconds": 37.1
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "font",
+        "appearances": [
+          {
+            "confidence": 0.9682,
+            "startTime": "0:00:21.021",
+            "endTime": "0:00:21.0543667",
+            "startSeconds": 21,
+            "endSeconds": 21.1
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "graphic design",
+        "appearances": [
+          {
+            "confidence": 0.9563,
+            "startTime": "0:00:12.012",
+            "endTime": "0:00:12.0453667",
+            "startSeconds": 12,
+            "endSeconds": 12
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "logo",
+        "appearances": [
+          {
+            "confidence": 0.954,
+            "startTime": "0:00:15.015",
+            "endTime": "0:00:15.0483667",
+            "startSeconds": 15,
+            "endSeconds": 15
+          }
+        ]
+      }
+    ],
+    "framePatterns": [],
+    "brands": [],
+    "namedLocations": [],
+    "namedPeople": [],
+    "statistics": {
+      "correspondenceCount": 0,
+      "speakerTalkToListenRatio": {
+        "1": 1
+      },
+      "speakerLongestMonolog": {
+        "1": 0
+      },
+      "speakerNumberOfFragments": {
+        "1": 1
+      },
+      "speakerWordCount": {
+        "1": 1
+      }
+    },
+    "topics": [
+      {
+        "referenceUrl": null,
+        "iptcName": "science and technology",
+        "iabName": "Education",
+        "confidence": 0.5211,
+        "id": 1,
+        "name": "Education/Technology",
+        "appearances": [
+          {
+            "startTime": "0:00:33.3",
+            "endTime": "0:00:33.38",
+            "startSeconds": 33.3,
+            "endSeconds": 33.4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": [
+    {
+      "accountId": "a9696e33-fd7a-4070-83f6-fc8d2e06633a",
+      "id": "c2mbttbiwd",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:00:45.14",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [
+          "en-US"
+        ],
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "transcript": [
+          {
+            "id": 1,
+            "text": "The.",
+            "confidence": 0.1158,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.3",
+                "adjustedEnd": "0:00:33.38",
+                "start": "0:00:33.3",
+                "end": "0:00:33.38"
+              }
+            ]
+          }
+        ],
+        "ocr": [
+          {
+            "id": 1,
+            "text": "20",
+            "confidence": 0.998,
+            "left": 905,
+            "top": 217,
+            "width": 104,
+            "height": 65,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:19.019",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "24",
+            "confidence": 0.998,
+            "left": 902,
+            "top": 546,
+            "width": 110,
+            "height": 74,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:19.019",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "No",
+            "confidence": 0.971,
+            "left": 764,
+            "top": 410,
+            "width": 287,
+            "height": 244,
+            "angle": 4,
+            "language": "es-ES",
+            "instances": [
+              {
+                "adjustedStart": "0:00:02.002",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:02.002",
+                "end": "0:00:02.0353667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "Web to Print",
+            "confidence": 0.9973,
+            "left": 422,
+            "top": 378,
+            "width": 1069,
+            "height": 140,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:04.0373667",
+                "start": "0:00:03.003",
+                "end": "0:00:04.0373667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "Solution Provider",
+            "confidence": 0.998,
+            "left": 193,
+            "top": 565,
+            "width": 1515,
+            "height": 152,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:04.0373667",
+                "start": "0:00:03.003",
+                "end": "0:00:04.0373667"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "for a Reason",
+            "confidence": 0.9943,
+            "left": 493,
+            "top": 496,
+            "width": 936,
+            "height": 120,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:05.005",
+                "adjustedEnd": "0:00:05.0383667",
+                "start": "0:00:05.005",
+                "end": "0:00:05.0383667"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "At OnPrintShop,",
+            "confidence": 0.9645,
+            "left": 488,
+            "top": 597,
+            "width": 931,
+            "height": 116,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:07.0403667",
+                "start": "0:00:06.006",
+                "end": "0:00:07.0403667"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "our",
+            "confidence": 0.994,
+            "left": 266,
+            "top": 766,
+            "width": 220,
+            "height": 71,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:06.0393667",
+                "start": "0:00:06.006",
+                "end": "0:00:06.0393667"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "Our Journey Starts with",
+            "confidence": 0.9973,
+            "left": 259,
+            "top": 739,
+            "width": 1396,
+            "height": 119,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07.007",
+                "adjustedEnd": "0:00:07.0403667",
+                "start": "0:00:07.007",
+                "end": "0:00:07.0403667"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "Delivering Unmatched",
+            "confidence": 0.9975,
+            "left": 293,
+            "top": 594,
+            "width": 1338,
+            "height": 122,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.008",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:08.008",
+                "end": "0:00:10.0433667"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "Customer Experiences",
+            "confidence": 0.996,
+            "left": 284,
+            "top": 734,
+            "width": 1347,
+            "height": 119,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09.009",
+                "adjustedEnd": "0:00:10.0433667",
+                "start": "0:00:09.009",
+                "end": "0:00:10.0433667"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "and Continues with",
+            "confidence": 0.997,
+            "left": 377,
+            "top": 497,
+            "width": 1166,
+            "height": 107,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.011",
+                "adjustedEnd": "0:00:11.0443667",
+                "start": "0:00:11.011",
+                "end": "0:00:11.0443667"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "Empowering",
+            "confidence": 0.997,
+            "left": 582,
+            "top": 637,
+            "width": 750,
+            "height": 134,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12.012",
+                "adjustedEnd": "0:00:13.0463667",
+                "start": "0:00:12.012",
+                "end": "0:00:13.0463667"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "Print Businesses",
+            "confidence": 0.997,
+            "left": 436,
+            "top": 777,
+            "width": 1051,
+            "height": 100,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12.012",
+                "adjustedEnd": "0:00:13.0463667",
+                "start": "0:00:12.012",
+                "end": "0:00:13.0463667"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "Through Innovative,",
+            "confidence": 0.9815,
+            "left": 359,
+            "top": 633,
+            "width": 1193,
+            "height": 133,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:14.014",
+                "adjustedEnd": "0:00:15.0483667",
+                "start": "0:00:14.014",
+                "end": "0:00:15.0483667"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "Tailored Solutions",
+            "confidence": 0.998,
+            "left": 423,
+            "top": 772,
+            "width": 1061,
+            "height": 111,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:14.014",
+                "adjustedEnd": "0:00:15.0483667",
+                "start": "0:00:14.014",
+                "end": "0:00:15.0483667"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "This Commitment to",
+            "confidence": 0.997,
+            "left": 344,
+            "top": 633,
+            "width": 1235,
+            "height": 107,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.016",
+                "adjustedEnd": "0:00:18.0513667",
+                "start": "0:00:16.016",
+                "end": "0:00:18.0513667"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "Excellence",
+            "confidence": 0.994,
+            "left": 217,
+            "top": 803,
+            "width": 618,
+            "height": 73,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.016",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:16.016",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "Excellence has Earned us",
+            "confidence": 0.9968,
+            "left": 212,
+            "top": 778,
+            "width": 1498,
+            "height": 104,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:18.0513667",
+                "start": "0:00:17.017",
+                "end": "0:00:18.0513667"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "PRODUCT",
+            "confidence": 0.928,
+            "left": 676,
+            "top": 448,
+            "width": 336,
+            "height": 55,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:19.019",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "text": "AWARD",
+            "confidence": 0.998,
+            "left": 1085,
+            "top": 450,
+            "width": 163,
+            "height": 54,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:19.019",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "text": "The Pinnacle Award",
+            "confidence": 0.9977,
+            "left": 367,
+            "top": 717,
+            "width": 1183,
+            "height": 105,
+            "angle": 0,
+            "language": "de-DE",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20.02",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:20.02",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "text": "Category",
+            "confidence": 0.916,
+            "left": 1235,
+            "top": 984,
+            "width": 572,
+            "height": 89,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20.02",
+                "adjustedEnd": "0:00:20.0533667",
+                "start": "0:00:20.02",
+                "end": "0:00:20.0533667"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "text": "in the Technology Category",
+            "confidence": 0.9973,
+            "left": 369,
+            "top": 839,
+            "width": 1179,
+            "height": 88,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:21.021",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:21.021",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "text": "Join the",
+            "confidence": 0.996,
+            "left": 206,
+            "top": 641,
+            "width": 474,
+            "height": 124,
+            "angle": 5,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.022",
+                "adjustedEnd": "0:00:22.0553667",
+                "start": "0:00:22.022",
+                "end": "0:00:22.0553667"
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "text": "Join the Growing Number",
+            "confidence": 0.9973,
+            "left": 199,
+            "top": 632,
+            "width": 1524,
+            "height": 117,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:23.023",
+                "adjustedEnd": "0:00:25.0583667",
+                "start": "0:00:23.023",
+                "end": "0:00:25.0583667"
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "text": "of Businesses who Trust",
+            "confidence": 0.9975,
+            "left": 245,
+            "top": 775,
+            "width": 1428,
+            "height": 107,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:23.023",
+                "adjustedEnd": "0:00:25.0583667",
+                "start": "0:00:23.023",
+                "end": "0:00:25.0583667"
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "text": "OnPrintShop",
+            "confidence": 0.995,
+            "left": 724,
+            "top": 411,
+            "width": 694,
+            "height": 104,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26.026",
+                "adjustedEnd": "0:00:27.0603667",
+                "start": "0:00:26.026",
+                "end": "0:00:27.0603667"
+              },
+              {
+                "adjustedStart": "0:00:39.039",
+                "adjustedEnd": "0:00:45.0783667",
+                "start": "0:00:39.039",
+                "end": "0:00:45.0783667"
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "text": "to Streamline Operations",
+            "confidence": 0.9967,
+            "left": 206,
+            "top": 606,
+            "width": 1515,
+            "height": 116,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.028",
+                "adjustedEnd": "0:00:30.0633667",
+                "start": "0:00:28.028",
+                "end": "0:00:30.0633667"
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "text": "and",
+            "confidence": 0.996,
+            "left": 441,
+            "top": 753,
+            "width": 238,
+            "height": 94,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.028",
+                "adjustedEnd": "0:00:28.0613667",
+                "start": "0:00:28.028",
+                "end": "0:00:28.0613667"
+              }
+            ]
+          },
+          {
+            "id": 31,
+            "text": "and Boost Revenue",
+            "confidence": 0.997,
+            "left": 383,
+            "top": 751,
+            "width": 1153,
+            "height": 96,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29.029",
+                "adjustedEnd": "0:00:30.0633667",
+                "start": "0:00:29.029",
+                "end": "0:00:30.0633667"
+              }
+            ]
+          },
+          {
+            "id": 32,
+            "text": "Choose onPrintShop",
+            "confidence": 0.996,
+            "left": 344,
+            "top": 524,
+            "width": 1226,
+            "height": 99,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31.031",
+                "adjustedEnd": "0:00:32.0653667",
+                "start": "0:00:31.031",
+                "end": "0:00:32.0653667"
+              }
+            ]
+          },
+          {
+            "id": 33,
+            "text": "and see the",
+            "confidence": 0.9963,
+            "left": 465,
+            "top": 592,
+            "width": 702,
+            "height": 95,
+            "angle": 4,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.033",
+                "adjustedEnd": "0:00:33.0663667",
+                "start": "0:00:33.033",
+                "end": "0:00:33.0663667"
+              }
+            ]
+          },
+          {
+            "id": 34,
+            "text": "and see the Real",
+            "confidence": 0.9965,
+            "left": 462,
+            "top": 584,
+            "width": 986,
+            "height": 105,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:34.034",
+                "adjustedEnd": "0:00:35.0683667",
+                "start": "0:00:34.034",
+                "end": "0:00:35.0683667"
+              }
+            ]
+          },
+          {
+            "id": 35,
+            "text": "Revenue Boost Yourself",
+            "confidence": 0.998,
+            "left": 264,
+            "top": 730,
+            "width": 1400,
+            "height": 100,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:34.034",
+                "adjustedEnd": "0:00:35.0683667",
+                "start": "0:00:34.034",
+                "end": "0:00:35.0683667"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "text": "TM",
+            "confidence": 0.993,
+            "left": 1417,
+            "top": 410,
+            "width": 47,
+            "height": 27,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39.039",
+                "adjustedEnd": "0:00:45.0783667",
+                "start": "0:00:39.039",
+                "end": "0:00:45.0783667"
+              }
+            ]
+          },
+          {
+            "id": 37,
+            "text": "Web-to-Print Storefront",
+            "confidence": 0.995,
+            "left": 719,
+            "top": 535,
+            "width": 700,
+            "height": 56,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39.039",
+                "adjustedEnd": "0:00:45.0783667",
+                "start": "0:00:39.039",
+                "end": "0:00:45.0783667"
+              }
+            ]
+          },
+          {
+            "id": 38,
+            "text": "www.onprintshop.com",
+            "confidence": 0.983,
+            "left": 641,
+            "top": 701,
+            "width": 632,
+            "height": 55,
+            "angle": 0,
+            "language": "fi-FI",
+            "instances": [
+              {
+                "adjustedStart": "0:00:40.04",
+                "adjustedEnd": "0:00:45.0783667",
+                "start": "0:00:40.04",
+                "end": "0:00:45.0783667"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 1,
+            "text": "award",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:19.019",
+                "end": "0:00:21.0543667"
+              },
+              {
+                "adjustedStart": "0:00:20.02",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:20.02",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "join",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.022",
+                "adjustedEnd": "0:00:22.0553667",
+                "start": "0:00:22.022",
+                "end": "0:00:22.0553667"
+              },
+              {
+                "adjustedStart": "0:00:23.023",
+                "adjustedEnd": "0:00:25.0583667",
+                "start": "0:00:23.023",
+                "end": "0:00:25.0583667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "businesses",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12.012",
+                "adjustedEnd": "0:00:13.0463667",
+                "start": "0:00:12.012",
+                "end": "0:00:13.0463667"
+              },
+              {
+                "adjustedStart": "0:00:23.023",
+                "adjustedEnd": "0:00:25.0583667",
+                "start": "0:00:23.023",
+                "end": "0:00:25.0583667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "onprintshop",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:07.0403667",
+                "start": "0:00:06.006",
+                "end": "0:00:07.0403667"
+              },
+              {
+                "adjustedStart": "0:00:26.026",
+                "adjustedEnd": "0:00:27.0603667",
+                "start": "0:00:26.026",
+                "end": "0:00:27.0603667"
+              },
+              {
+                "adjustedStart": "0:00:31.031",
+                "adjustedEnd": "0:00:32.0653667",
+                "start": "0:00:31.031",
+                "end": "0:00:32.0653667"
+              },
+              {
+                "adjustedStart": "0:00:40.04",
+                "adjustedEnd": "0:00:45.0783667",
+                "start": "0:00:40.04",
+                "end": "0:00:45.0783667"
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 1,
+            "name": "Technology",
+            "referenceId": "Education/Technology",
+            "referenceType": "VideoIndexer",
+            "iptcName": "science and technology",
+            "confidence": 0.5211,
+            "iabName": "Education",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.3",
+                "adjustedEnd": "0:00:33.38",
+                "start": "0:00:33.3",
+                "end": "0:00:33.38"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "text",
+            "referenceId": "communication/writing/text",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9735,
+                "adjustedStart": "0:00:02.002",
+                "adjustedEnd": "0:00:02.0353667",
+                "start": "0:00:02.002",
+                "end": "0:00:02.0353667"
+              },
+              {
+                "confidence": 0.9803,
+                "adjustedStart": "0:00:06.006",
+                "adjustedEnd": "0:00:07.0403667",
+                "start": "0:00:06.006",
+                "end": "0:00:07.0403667"
+              },
+              {
+                "confidence": 0.9694,
+                "adjustedStart": "0:00:09.009",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:09.009",
+                "end": "0:00:21.0543667"
+              },
+              {
+                "confidence": 0.9903,
+                "adjustedStart": "0:00:29.029",
+                "adjustedEnd": "0:00:35.0683667",
+                "start": "0:00:29.029",
+                "end": "0:00:35.0683667"
+              },
+              {
+                "confidence": 0.9974,
+                "adjustedStart": "0:00:39.039",
+                "adjustedEnd": "0:00:45.0783667",
+                "start": "0:00:39.039",
+                "end": "0:00:45.0783667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "graphics",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9633,
+                "adjustedStart": "0:00:12.012",
+                "adjustedEnd": "0:00:14.0473667",
+                "start": "0:00:12.012",
+                "end": "0:00:14.0473667"
+              },
+              {
+                "confidence": 0.9517,
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:17.0503667",
+                "start": "0:00:17.017",
+                "end": "0:00:17.0503667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "graphic design",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9563,
+                "adjustedStart": "0:00:12.012",
+                "adjustedEnd": "0:00:12.0453667",
+                "start": "0:00:12.012",
+                "end": "0:00:12.0453667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "logo",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.954,
+                "adjustedStart": "0:00:15.015",
+                "adjustedEnd": "0:00:15.0483667",
+                "start": "0:00:15.015",
+                "end": "0:00:15.0483667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "font",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9682,
+                "adjustedStart": "0:00:21.021",
+                "adjustedEnd": "0:00:21.0543667",
+                "start": "0:00:21.021",
+                "end": "0:00:21.0543667"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "colorfulness",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9583,
+                "adjustedStart": "0:00:36.036",
+                "adjustedEnd": "0:00:37.0703667",
+                "start": "0:00:36.036",
+                "end": "0:00:37.0703667"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:02.5025",
+                "start": "0:00:00",
+                "end": "0:00:02.5025"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:00:02.7027",
+                "adjustedEnd": "0:00:04.1041",
+                "start": "0:00:02.7027",
+                "end": "0:00:04.1041"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "instances": [
+              {
+                "adjustedStart": "0:00:04.1041",
+                "adjustedEnd": "0:00:05.3720333",
+                "start": "0:00:04.1041",
+                "end": "0:00:05.3720333"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "instances": [
+              {
+                "adjustedStart": "0:00:05.3720333",
+                "adjustedEnd": "0:00:10.2769333",
+                "start": "0:00:05.3720333",
+                "end": "0:00:10.2769333"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "instances": [
+              {
+                "adjustedStart": "0:00:10.2769333",
+                "adjustedEnd": "0:00:15.1818333",
+                "start": "0:00:10.2769333",
+                "end": "0:00:15.1818333"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.1818333",
+                "adjustedEnd": "0:00:21.7550667",
+                "start": "0:00:15.1818333",
+                "end": "0:00:21.7550667"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "instances": [
+              {
+                "adjustedStart": "0:00:21.7550667",
+                "adjustedEnd": "0:00:30.6306",
+                "start": "0:00:21.7550667",
+                "end": "0:00:30.6306"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "instances": [
+              {
+                "adjustedStart": "0:00:30.6306",
+                "adjustedEnd": "0:00:45.0783667",
+                "start": "0:00:30.6306",
+                "end": "0:00:45.0783667"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "f469286b-4378-42d3-ae99-bcafe250ba35",
+                    "adjustedStart": "0:00:00.2335667",
+                    "adjustedEnd": "0:00:00.2669333",
+                    "start": "0:00:00.2335667",
+                    "end": "0:00:00.2669333"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "b1491b1f-a093-406c-85ac-85bb7552666a",
+                    "adjustedStart": "0:00:01.4347667",
+                    "adjustedEnd": "0:00:01.4681333",
+                    "start": "0:00:01.4347667",
+                    "end": "0:00:01.4681333"
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "instances": [
+                  {
+                    "thumbnailId": "34ea7c4c-97d8-4c6b-b5b1-0e22d1de943c",
+                    "adjustedStart": "0:00:02.4357667",
+                    "adjustedEnd": "0:00:02.4691333",
+                    "start": "0:00:02.4357667",
+                    "end": "0:00:02.4691333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:02.5025",
+                "start": "0:00:00",
+                "end": "0:00:02.5025"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "keyFrames": [
+              {
+                "id": 4,
+                "instances": [
+                  {
+                    "thumbnailId": "cdfc179c-553a-4f88-960c-af00cd837073",
+                    "adjustedStart": "0:00:02.7360667",
+                    "adjustedEnd": "0:00:02.7694333",
+                    "start": "0:00:02.7360667",
+                    "end": "0:00:02.7694333"
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "instances": [
+                  {
+                    "thumbnailId": "990645d6-6103-4a52-9402-359e286c70ad",
+                    "adjustedStart": "0:00:03.2032",
+                    "adjustedEnd": "0:00:03.2365667",
+                    "start": "0:00:03.2032",
+                    "end": "0:00:03.2365667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:02.7027",
+                "adjustedEnd": "0:00:04.1041",
+                "start": "0:00:02.7027",
+                "end": "0:00:04.1041"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "keyFrames": [
+              {
+                "id": 6,
+                "instances": [
+                  {
+                    "thumbnailId": "c1a573ae-d3be-4b21-aa46-08a864b3c4be",
+                    "adjustedStart": "0:00:04.1708333",
+                    "adjustedEnd": "0:00:04.2042",
+                    "start": "0:00:04.1708333",
+                    "end": "0:00:04.2042"
+                  }
+                ]
+              },
+              {
+                "id": 7,
+                "instances": [
+                  {
+                    "thumbnailId": "63b2169f-636e-40ac-a738-18fea8a234da",
+                    "adjustedStart": "0:00:04.8048",
+                    "adjustedEnd": "0:00:04.8381667",
+                    "start": "0:00:04.8048",
+                    "end": "0:00:04.8381667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:04.1041",
+                "adjustedEnd": "0:00:05.3720333",
+                "start": "0:00:04.1041",
+                "end": "0:00:05.3720333"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "keyFrames": [
+              {
+                "id": 8,
+                "instances": [
+                  {
+                    "thumbnailId": "8f81d918-07bc-4616-8b26-f4547bdfbf93",
+                    "adjustedStart": "0:00:06.3730333",
+                    "adjustedEnd": "0:00:06.4064",
+                    "start": "0:00:06.3730333",
+                    "end": "0:00:06.4064"
+                  }
+                ]
+              },
+              {
+                "id": 9,
+                "instances": [
+                  {
+                    "thumbnailId": "94c86063-9557-4ad8-8375-3f41d109a9f4",
+                    "adjustedStart": "0:00:07.8745333",
+                    "adjustedEnd": "0:00:07.9079",
+                    "start": "0:00:07.8745333",
+                    "end": "0:00:07.9079"
+                  }
+                ]
+              },
+              {
+                "id": 10,
+                "instances": [
+                  {
+                    "thumbnailId": "87077893-78e8-45c8-aafa-232862ca15b0",
+                    "adjustedStart": "0:00:09.4427667",
+                    "adjustedEnd": "0:00:09.4761333",
+                    "start": "0:00:09.4427667",
+                    "end": "0:00:09.4761333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:05.3720333",
+                "adjustedEnd": "0:00:10.2769333",
+                "start": "0:00:05.3720333",
+                "end": "0:00:10.2769333"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "keyFrames": [
+              {
+                "id": 11,
+                "instances": [
+                  {
+                    "thumbnailId": "e8a7c4dd-77f0-437c-9f2f-a21cc1ed8f91",
+                    "adjustedStart": "0:00:11.1778333",
+                    "adjustedEnd": "0:00:11.2112",
+                    "start": "0:00:11.1778333",
+                    "end": "0:00:11.2112"
+                  }
+                ]
+              },
+              {
+                "id": 12,
+                "instances": [
+                  {
+                    "thumbnailId": "e276d1f1-3bb9-4839-9a60-469f49f41580",
+                    "adjustedStart": "0:00:12.6126",
+                    "adjustedEnd": "0:00:12.6459667",
+                    "start": "0:00:12.6126",
+                    "end": "0:00:12.6459667"
+                  }
+                ]
+              },
+              {
+                "id": 13,
+                "instances": [
+                  {
+                    "thumbnailId": "6500b2b4-bed6-4bc1-ba22-32cb00e42708",
+                    "adjustedStart": "0:00:14.3810333",
+                    "adjustedEnd": "0:00:14.4144",
+                    "start": "0:00:14.3810333",
+                    "end": "0:00:14.4144"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:10.2769333",
+                "adjustedEnd": "0:00:15.1818333",
+                "start": "0:00:10.2769333",
+                "end": "0:00:15.1818333"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "keyFrames": [
+              {
+                "id": 14,
+                "instances": [
+                  {
+                    "thumbnailId": "1de87228-ac3e-4e21-be31-2809eaa37e95",
+                    "adjustedStart": "0:00:15.2152",
+                    "adjustedEnd": "0:00:15.2485667",
+                    "start": "0:00:15.2152",
+                    "end": "0:00:15.2485667"
+                  }
+                ]
+              },
+              {
+                "id": 15,
+                "instances": [
+                  {
+                    "thumbnailId": "358f0914-d1ba-4179-9537-d8bb480dfbfc",
+                    "adjustedStart": "0:00:19.1858333",
+                    "adjustedEnd": "0:00:19.2192",
+                    "start": "0:00:19.1858333",
+                    "end": "0:00:19.2192"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.1818333",
+                "adjustedEnd": "0:00:21.7550667",
+                "start": "0:00:15.1818333",
+                "end": "0:00:21.7550667"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "keyFrames": [
+              {
+                "id": 16,
+                "instances": [
+                  {
+                    "thumbnailId": "29ab0936-37f2-451f-b799-3e44d4b299d8",
+                    "adjustedStart": "0:00:23.5235",
+                    "adjustedEnd": "0:00:23.5568667",
+                    "start": "0:00:23.5235",
+                    "end": "0:00:23.5568667"
+                  }
+                ]
+              },
+              {
+                "id": 17,
+                "instances": [
+                  {
+                    "thumbnailId": "42f92060-c811-465e-b34a-4616bfe9284b",
+                    "adjustedStart": "0:00:26.2929333",
+                    "adjustedEnd": "0:00:26.3263",
+                    "start": "0:00:26.2929333",
+                    "end": "0:00:26.3263"
+                  }
+                ]
+              },
+              {
+                "id": 18,
+                "instances": [
+                  {
+                    "thumbnailId": "34a27828-ca55-4cd4-8f04-f9a01709899f",
+                    "adjustedStart": "0:00:28.5285",
+                    "adjustedEnd": "0:00:28.5618667",
+                    "start": "0:00:28.5285",
+                    "end": "0:00:28.5618667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:21.7550667",
+                "adjustedEnd": "0:00:30.6306",
+                "start": "0:00:21.7550667",
+                "end": "0:00:30.6306"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "keyFrames": [
+              {
+                "id": 19,
+                "instances": [
+                  {
+                    "thumbnailId": "8aa96c78-83f6-4f60-92c9-f5aafade00f4",
+                    "adjustedStart": "0:00:30.8975333",
+                    "adjustedEnd": "0:00:30.9309",
+                    "start": "0:00:30.8975333",
+                    "end": "0:00:30.9309"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:30.6306",
+                "adjustedEnd": "0:00:45.0783667",
+                "start": "0:00:30.6306",
+                "end": "0:00:45.0783667"
+              }
+            ]
+          }
+        ],
+        "sentiments": [
+          {
+            "id": 1,
+            "averageScore": 0.5,
+            "sentimentType": "Neutral",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:45.14",
+                "start": "0:00:00",
+                "end": "0:00:45.14"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:45.14",
+                "start": "0:00:00",
+                "end": "0:00:45.14"
+              }
+            ]
+          }
+        ],
+        "speakers": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.3",
+                "adjustedEnd": "0:00:33.38",
+                "start": "0:00:33.3",
+                "end": "0:00:33.38"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 0,
+          "speakerTalkToListenRatio": {
+            "1": 1
+          },
+          "speakerLongestMonolog": {
+            "1": 0
+          },
+          "speakerNumberOfFragments": {
+            "1": 1
+          },
+          "speakerWordCount": {
+            "1": 1
+          }
+        }
+      },
+      "thumbnailId": "33137cee-e726-4910-bbdb-b0299b52eb0a",
+      "width": 1920,
+      "height": 1080,
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [
+        "en-US"
+      ],
+      "language": "en-US",
+      "languages": [
+        "en-US"
+      ],
+      "indexingPreset": "Default",
+      "streamingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "logoGroupId": null,
+      "isAdult": false,
+      "excludedAIs": [],
+      "isSearchable": true,
+      "publishedUrl": "https://api.videoindexer.ai/internals/Trial/Accounts/a9696e33-fd7a-4070-83f6-fc8d2e06633a/Videos/c2mbttbiwd/streaming-manifest/manifest.m3u8",
+      "publishedProxyUrl": null,
+      "viewToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJWZXJzaW9uIjoiMi4wLjAuMCIsIktleVZlcnNpb24iOiI1YmZmYWI1MTUwZWI0NGM4ODMzNzE2NzVhNzcwYzU4YSIsIkFjY291bnRJZCI6ImE5Njk2ZTMzLWZkN2EtNDA3MC04M2Y2LWZjOGQyZTA2NjMzYSIsIkFjY291bnRUeXBlIjoiVHJpYWwiLCJWaWRlb0lkIjoiYzJtYnR0Yml3ZCIsIlBlcm1pc3Npb24iOiJSZXN0cmljdGVkVmlld2VyIiwiRXh0ZXJuYWxVc2VySWQiOiI4YzQ5NmY2ZThlZTZlYTIyIiwiVXNlclR5cGUiOiJNaWNyb3NvZnQiLCJJc3N1ZXJMb2NhdGlvbiI6IlRyaWFsIiwibmJmIjoxNzYxOTg5Mzg3LCJleHAiOjE3NjE5OTMyODcsImlzcyI6Imh0dHBzOi8vYXBpLnZpZGVvaW5kZXhlci5haS8iLCJhdWQiOiJodHRwczovL2FwaS52aWRlb2luZGV4ZXIuYWkvIn0.XNX8bx0ZvJz8_BGgvB_AFfjWo-WjZn-vO1APfmjRb9gj65XAegkFYCedzkK_EwrO_YTtI9cu4eu9izWFgndrpVV4C1mIJ0xFmxsktmSikQEswLVY6jWSk4eekn3UJN6OBa7SPhtB8mjBQWM2ZGnL_cxGzI8AzqbEmRWBL1twcwSoggCcWuwoeRuvDM1bbuiI8c6Wh49VRqoyQhdLe88aCKWLFf_j0tjkFY5iIaGP7ee79_k4cI_qgrYB9tncZVsZ4sXevTWHBW_NqINkdPnS19ZdJAkki9AsQUm8xHwD344nmo5HpjSJWumB1V8WwEVSbjThOqDY99vVF54vwjuk-g"
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "c2mbttbiwd",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:00:45.14"
+      }
+    }
+  ]
+}

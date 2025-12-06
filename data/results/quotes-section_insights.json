@@ -1,0 +1,21 @@
+{
+  "id": "txt_315423",
+  "name": "quotes-section",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 11.1 Release Notes\nQuotes Section\n\n3 min\nmultiple files upload in quote form while placing offline quotes, the admin will now be able to upload multiple files to achieve this, the field \u201cmultiple files\u201d has been included in the quote form for placing the offline quote unit price display in quote form as per your quote flow, you can now choose to display the unit price of the quantity selected in the quote form as well as in the email add customer's company name in quote print email on the quote print form, the admin can now show their customer\u2019s company name via adding {customer company name} variable in the \u201cquote print template\u201d email assign printer directly to quote products you can now directly assign a printer to the individual product quotes once the quote is finalized and it is converted to order, then it will be directly assigned to the selected printer for the fulfillment\nDid this page help you?\n\n\nPREVIOUS\nProduct Section\nNEXT\nSolution Core\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

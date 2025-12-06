@@ -1,0 +1,21 @@
+{
+  "id": "txt_321206",
+  "name": "solution-core",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 11.2 Release Notes\nSolution Core\n\n0 min\nsecurity updates we have implemented new security related patches to improve security intl tel input version upgrade we have updated the intl tel input version from 17 1 to 23 0 for validating international telephone numbers php v8 3 compatibility in this release, we have upgraded our code and made it compatible with the php v8 3 standard for better performance and security patches on the server website accessibility upgrade we have also enhanced the system's accessibility for the customers to interact seamlessly with your website we have identified and resolved some bugs in onprintshop to enhance its performance and user experience\nDid this page help you?\n\n\nPREVIOUS\nQuote Section\nNEXT\nThird Party Integrations\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

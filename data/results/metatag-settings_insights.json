@@ -1,0 +1,21 @@
+{
+  "id": "txt_167154",
+  "name": "metatag-settings",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarketing\n\nSEO\nMetatag Settings\n\n3 min\noverview & purpose meta tag is used to provide structured metadata about a web page they are a part of the web page\u2019s \\<head> tag i e in the source code in other words, they are snippets that describe a page they are only visible to search engines there are various valid attributes that one can include in the meta tag are content, http equiv, name, scheme, and charset add metatag every attribute has its usage and benefits using the metatag setting section you manage meta tags of various pages commonly used metatag settings are added and pre configured the admin can add new metatag settings from the admin panel >> seo >> metatag settings custom meta tag \u2013 you can use custom meta tags to provide google with additional information about your pages google can use this information to create rich snippets or enable the sorting of search results you\u2019ll find a list of pages available on your website in the \u2018all pages\u2019 dropdown select any page as desired and enter the meta name and content description the meta tag will be displayed in the source code in the following manner \u2013 \\<meta name=\"author\" content=\"john doe\"> you can also refer to https //www w3schools com/tags/tag meta asp https //www w3schools com/tags/tag meta asp to know more about the meta tags and their attributes usage note it is advisable from onprintshop to contact an seo expert and take advice on the same action menu for the added metatags, you can take further actions from the admin >> seo >> metatags settings >> action column edit quick link to modify settings of existing metatags delete 2 step confirmation to delete the selected metatag and all its relevant settings\nDid this page help you?\n\n\nPREVIOUS\nSitemaps\nNEXT\nRobots\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

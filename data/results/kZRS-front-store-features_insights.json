@@ -1,0 +1,21 @@
+{
+  "id": "txt_792899",
+  "name": "kZRS-front-store-features",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 11.0 Release Notes\nFront Store Features\n\n9 min\nship to multiple address ui changes ship to multiple address ui changes we've upgraded the order flow for ship to multiple addresses to elevate your customers' ordering experience now, customers can efficiently choose the product, quantity, shipping type, and location all within a single screen, streamlining the process for added convenience settings we have modified the settings in the site settings to manage this feature from the site settings, the admin may enable or disable the ship to multiple address option, manage to display the option on the shopping cart page, and enable/disable the split quantity order placement once enabled and displayed settings, the ship to multiple address option will appear in the shopping cart depending on the site settings clicking on this, the customer can ship orders with multiple products to different addresses and even split the quantity of the products once the customer continues with the checkout and successfully places the orders, they can see the shipment details on the view details page minor enhancements minor enhancements support for tiff and tif file extensions support for tiff and tif file extensions from v11 0 onwards, the system will allow your users to upload images with tiff and tif extensions as well on the front store enhanced shipping calculator ui enhanced shipping calculator ui to create a better shopping and user experience, the shipping calculator user interface has been enhancedl here, the types (shipping and local pickup) will be displayed as radio options the customers can now select the type and then get the cost estimation based on the selection new look for product price list table new look for product price list table the product price list appearance has been enhanced to give more visibility to the quantity and pricing the list block is now designed to display only 5 rows when you have more than 5 quantity ranges these rows will appear based on the quantity selected allow customers to \"continue shopping\" allow customers to \"continue shopping\" to reduce shopping cart abandonment and allow your customers to continue to buy more things, the \u201ccontinue shopping\u201d link is introduced in the shopping cart section of the checkout process this will take the customers to the home page from where they can find and buy other products hide fields from mass personalization hide fields from mass personalization during the product purchase, when your customers choose to perform mass personalization, they can now select the fields that they want to personalize, and the rest unselected fields will be skipped from personalization in this case, the system will consider the default values for these fields while generating pdfs search feature in price calculator search feature in price calculator on the front store, when you have multiple values/attributes available for sizes and additional options, it makes it difficult for the customers to find the apt value from the dropdown with the search functionality added to the price calculator fields, the customers will now be able to search the values without much scrolling or juggling\nDid this page help you?\n\n\nPREVIOUS\nB2B/Store Module\nNEXT\nProduct Module\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

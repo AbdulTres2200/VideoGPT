@@ -1,0 +1,21 @@
+{
+  "id": "txt_496667",
+  "name": "product-section",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 12.0 Release Notes\nProduct Section\n\n9 min\ncustom design and print your own patterns in v12 0, we are introducing a new product type pattern products this innovative product type will empower the customers to craft custom patterns by uploading images and selecting from predefined options to achieve this, a new option has been added to the product type in the add/edit product screen the admin can create various products that can offer custom pattern creation for the image and background changes in the pattern products, the admin needs to create a color additional option and bind the pattern color options events to the individual attributes from the studio events section this will show the real time effects of the price calculator enhanced product gallery image generation using ai in our latest v12 0, we have extended the enhancement to the ai powered image generation feature for the product description and gallery image uploader screens while generating description or gallery images, the admin can now select the type of image, mention or modify the prompt, and then choose to generate the image all generated images are now saved for easy application, while unused images can be conveniently removed from this section, ensuring better organization and flexibility the image can be applied to the small, large, or both images in the product description screen custom formula range lookup for product options pricing the admins can now enable range lookup within the defined custom formula for product options pricing calculations, offering greater precision and flexibility minor enhancements product options selection for editing a dropdown field has been added to the add/edit product options screen, allowing an easier selection of product options for editing without returning to the main options listing page material thickness for master options the material thickness feature in the master options helps calculate shipping weight, package size, and pricing more accurately by considering the thickness of materials used in products, ensuring precise cost and weight estimations in the package calculation screen, a product option type has been added to define the material thickness along with the dynamic height of the package easy product assignment to stores the product assignment screen has been redesigned to simplify the process of assigning products to stores, reducing complications and providing a more intuitive, streamlined experience for admins promotional product configuration simplified the promotional product configuration has been revamped to bring all configuration elements into a single screen with tabs, simplifying the setup process product base price bulk modification in the percentage +/ section of the product module, the admin can now choose to modify the pricing for all or specific products date picker new option type a new \u201cdate picker\u201d option type has been introduced for the product options where the customers will be able to choose any date, past dates, or future dates based on the configuration\nDid this page help you?\n\n\nPREVIOUS\nOrder Section\nNEXT\nThird-Party Integrations\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

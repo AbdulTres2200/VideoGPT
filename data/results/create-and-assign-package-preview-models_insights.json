@@ -1,0 +1,21 @@
+{
+  "id": "txt_904789",
+  "name": "create-and-assign-package-preview-models",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3D Packaging Solution\nCreate & Assign Package Preview Models\n\n2 min\nwe have given the facility of configuring the preview of the package module in the admin >> designer studio >> studio settings >> package preview tab we will be giving package previews configured for the three package products; product box, mailer box and shipping box you can see the details of the package models for the preview by clicking on the package models button for adding a new package model, you can click on the add button from the package models screen it will take you to the next screen where you can enter the details for your new model here, you need to enter the title, package type and package area constant along with uploading the script and preview script file after filling up all the details click on the save button to add the new package model now, need to assign products to the package models created from the main package preview screen, click on the assign package model button select the product from the first drop down, choose the package model for the product and specify the status of this package preview (display or no display) and save note the 3d preview is currently applicable to three types of packages product box, mailer box and shipping box if you need packages other than the specified, connect with ops technical team based on the feasibility, the team will add the packages for you with some additional cost\nDid this page help you?\n\n\nPREVIOUS\nSetup Package Product\nNEXT\n3D Package Customization and Preview\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

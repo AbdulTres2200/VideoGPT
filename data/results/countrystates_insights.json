@@ -1,0 +1,21 @@
+{
+  "id": "txt_475484",
+  "name": "countrystates",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\n\nSettings\nCountry/States\n\n5 min\noverview & purpose this section enlists all the countries available to you to make active on your storefront and provides quick links to manage them actions you perform here will have implications on the shipping and tax calculation on your storefront configuration your admin panel comes with pre configured countries of the world you can view which country is set as default it allows you to assign your home country as default first change the status to active and then make it as default this country name will automatically move up as first on the list e g \u2013 the default country automatically shown at the registration page (front store) add country in the country list, you will find most of the countries are covered if there is any country where you want to provide your services and it is not listed in the panel, you can add it by specifying its name, iso code2, iso code3 and isd code state list this enlists all the states added in your admin panel your admin panel comes pre configured with states for the united states and canada however, you can add a state of any country using the +add button provided at the top right corner to add a state, select the country, enter state name, code and save the state make all inactive when you are serving some selective countries, we recommend you click this button to make all the countries inactive on your storefront and then activate only desired countries from the list manually on the storefront, at the time of checkout, the countries marked as active will display in a drop down menu under billing & shipping information action menu edit quick link to modify the details of the selected country add state this will take you to the add state page where you can add the state for the selected country state list this will redirect to the state list where you can view the states added for the selected country the country filter and search field allows you to quickly get to what you are looking for\nDid this page help you?\n\n\nPREVIOUS\nCurrency\nNEXT\nWeb Storage\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

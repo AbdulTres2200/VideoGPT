@@ -1,0 +1,21 @@
+{
+  "id": "txt_953726",
+  "name": "virtual-block",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesigner Studio\n\nPDF Block Template\nVirtual Block\n\n2 min\nthis feature helps you use one or more virtual blocks inside a parent block for example, the address block name can have house no, society, street no, and locality as a virtual block how to create a virtual block? how to create a virtual block? in the \u2018text in studio\u2019 row add the name of your virtual block follow virtual block pattern as {|yourblockname|} use \\<fillcolor=red>\\<fontsize=14> kind of tags to fix the styles of virtual blocks example this is the \\<fillcolor=red>{|firstname|} & {|lastname|} \\<fillcolor=black>in text area to be replaced by the user options font add the name of the font to apply to the text the font must be available in the system e g \\<font=arial> fontsize add the size of the text you want to apply e g \\<fontsize=20> fillcolor the color you want to apply to the text e g \\<fillcolor=red> fakebold true/false to make text bold/normal e g \\<fakebold=true> italicangle pass angle at which the text should be italic e g \\<italicangle= 15> underline true/false to make underline on text e g \\<underline=true> strokecolor if underline option is true pass stroke colour for the colour of underline e g \\<strokecolor=red>\nDid this page help you?\n\n\nPREVIOUS\nCentralized Personalization\nNEXT\nStore Fields Block Mapping\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

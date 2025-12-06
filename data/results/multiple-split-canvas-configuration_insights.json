@@ -1,0 +1,21 @@
+{
+  "id": "txt_379572",
+  "name": "multiple-split-canvas-configuration",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCanvas Print\nMultiple - Split Canvas Configuration\n\n8 min\nproduct details go to admin >> products >> add product to add a canvas product choose the product type as \u2018canvas\u2019 once you select the product type as canvas a \u2018product sub type\u2019 field will be populated with options \u2013 single photo canvas, multiple photo(s) canvas, and split photo canvas choose multiple photo(s) canvas or split photo canvas note all the details and configuration steps explained further in the document will be applied to both canvas product type \u2013 multiple and split also, when the product sub type is multiple or split, the product pricing method changes to \u2018size based price (dynamic size)\u2019 and you don\u2019t get to edit the price defining method prices configuration thinking about the product configuration and requirements we have omitted the designer options page the product details page will redirect you to the price configuration of the canvas as the price defining method is chosen is size based price (dynamic size), you\u2019ll get to define a range for your product however, you can always define custom sizes for your product from settings additional options next, is to define the additional options for the canvas product follow the instructions given here and create your additional options also, for the additional options of canvas product with size based price (dynamic size), the price calculation type \u2013 multiply only with perimeter will not work the option rules, metatag description, product gallery, and settings of canvas type product remain the same as the standard product for any assistance, you can anytime contact the technical team canvas events this is where you will have to bind all your additional options with the events (created by ops team) this binding will lead to the visualization of the canvas product at the frontend otherwise your canvas product will remain static to bind the additional options with pre defined events, follow the instructions given here, if you face any issues, then please contact the technical team note if there are no additional options for your product then you can use the canvas default events feature wall configuration wall size the total size in which all the sub canvases of either the multiple photo(s) canvas or the split photo canvas is called the \u2018wall size\u2019 example \u2013 the first canvas has a wall size of 36 x 42 and the second canvas has a wall size of 24 x 50 in this step, we will configure the art pieces (sub canvases) click on the add button to configure the wall and its canvases dimensions let\u2019s consider below image for reference \u2013 to configure the above wall, first, define the wall size give a suitable title as this will be visible to the customers next, define the height and width the height entered according to the example is 600 mm and the width is 1100 mm as one can easily make out from image 11, that there are 3 different sizes of layouts in the canvas as, two of them i e 250 x 200 and 400 x 200 are repeated twice, thus in their layout count we have entered 2 in the layout count column and, as the layout with dimension 500 x 200 appears only once, its layout count is 1 similarly, you can configure other wall sizes and the art pieces also, one canvas product (in this example the split canvas) can have multiple wall sizes, there is no need to add another product and define a new wall size note never miss to mention the layout count if there are more than one layouts of the same size, then rather than making new entries we advise you to enter the layout count\nDid this page help you?\n\n\nPREVIOUS\nMultiple - Split Canvas Introduction\nNEXT\nMultiple - Split Canvas Layouts\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

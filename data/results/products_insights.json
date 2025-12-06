@@ -1,0 +1,21 @@
+{
+  "id": "txt_614068",
+  "name": "products",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdmin & Reports\n\nViewing Reports\nProducts\n\n8 min\noverview & purpose this section allows the admin to see the information about product sales, template sales, inventory and stock summary of the products over time product reports product sales the product sales report shows the breakdown of total sales of different products, their total ordered quantity, and product prices, but does not include the shipping price the orders link redirects to the order details report the reports always show the original values from the time of the order you can select a date range, order status, customer type, and products from the filter provided this report contains product details such as product name and its size, number of orders, product quantity, product price, average price, and average quantity for each product with the unsold products filter, you can easily identify unsold products to support smarter inventory, marketing, and product strategy decisions products that have not been sold will be displayed with a quantity of zero and no associated sales amount, allowing you to quickly pinpoint items that may need attention template sales this report has details of sales of the different design templates the report will help you analyze the sales summary of different product templates and product master templates this will include all types of templates \u2013 customizable, non customizable, pdf blocks, print ready pdf files, and also display the template sold count in the template listing page inventory request this report provides information about the inventory requests made by various stores report information varies based on the selection of date range, request type and the store account chosen the report contains a request date, order id, customer details, product name, inventory cost, request status, and reference link to see payment detail clicking on order id will redirect to the order detail page and payment request reference link will redirect you to the payment request page inventory report this report provides information about that product detail whose inventory is remaining, completed or expired report information varies based on the selection of date range, store selected or inventory type the report contains order id, customer detail, product name, remaining quantity, printing quantity and remaining days clicking on the order id will redirect to the order detail page in the inventory tab stock summary this report provides the summary of the stock credited, debited and remaining based on the filters selection report information varies based on the selection of date range, store selected or inventory type the report contains the product name, product category, product size, product options, total credited stock, total debited stock, total remaining stock and product sku clicking on the product name will redirect to the product stock details page\nDid this page help you?\n\n\nPREVIOUS\nSales\nNEXT\nCustomers\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

@@ -18,8 +18,12 @@ load_dotenv('.env.local')
 RESULTS_DIR = 'data/results'
 VECTOR_DB_DIR = 'data/vector_db'
 EMBEDDING_PROGRESS_FILE = 'data/embedding_progress.json'
-CHUNK_SIZE = 500  # Reduced from 1000 for better granularity and more precise retrieval
-CHUNK_OVERLAP = 100  # Reduced from 200 to maintain overlap ratio
+# Optimized chunking parameters for video transcripts
+# - 800 chars: Better context per chunk while maintaining precision
+# - 150 chars overlap: Ensures continuity between chunks (~19% overlap)
+# - Prioritizes sentence boundaries to avoid mid-sentence breaks
+CHUNK_SIZE = 800  # Increased from 500 for better context preservation
+CHUNK_OVERLAP = 150  # Increased from 100 to ensure proper overlap and continuity
 
 # Embedding model
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
@@ -35,10 +39,23 @@ class InsightsEmbedder:
     
     def __init__(self):
         """Initialize the embedder."""
+        # Use RecursiveCharacterTextSplitter with sentence-aware separators
+        # This prioritizes splitting at sentence boundaries to preserve context
         self.text_splitter = RecursiveCharacterTextSplitter(
             chunk_size=CHUNK_SIZE,
             chunk_overlap=CHUNK_OVERLAP,
             length_function=len,
+            separators=[
+                "\n\n",  # Paragraph breaks (highest priority)
+                "\n",    # Line breaks
+                ". ",    # Sentence endings (with space)
+                "! ",    # Exclamation endings
+                "? ",    # Question endings
+                "; ",    # Semicolons
+                ", ",    # Commas
+                " ",     # Spaces
+                "",      # Characters (last resort)
+            ],
         )
         
         # Initialize embeddings
@@ -73,7 +90,7 @@ class InsightsEmbedder:
     
     def _init_vectorstore(self) -> Chroma:
         """Initialize or load existing vector store with error recovery."""
-        collection_name = "langchain"  # Use consistent collection name
+        collection_name = "langchain_onprintshop_chroma"  # Use consistent collection name
         
         try:
             if os.path.exists(VECTOR_DB_DIR):

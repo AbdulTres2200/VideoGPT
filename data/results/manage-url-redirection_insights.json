@@ -1,0 +1,21 @@
+{
+  "id": "txt_121484",
+  "name": "manage-url-redirection",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarketing\n\nSEO\nManage URL Redirection\n\n5 min\noverview & purpose there are times when you need to re route your website visitors to the new web pages in case the old urls are no longer useful or altogether moved to a new directory if the redirection is defined using this section then it will be given priority over any system generated default redirection you can forward your domain name to any website, web page, etc based on the status codes defined by http, url forwarding may be of two types 301 (permanent), and 302 (temporary) add url redirection if any of the urls are moved to a new address or are temporarily down, then you can easily assign those urls to a new address from admin >> seo >> manage url redirection >> add url redirection (top right link) just enter the old url and the new url select the header status to add a url redirection 301 moved permanently \u2013 this is a permanent redirection of the url that passes between 90 99% of ranking power to the new url 302 url found, temporary redirect \u2013 this is useful when the url is down for maintenance and is moved temporarily url redirection while deleting records to avoid your website from getting the 404 page not found an error especially for the pages that are seo friendly and well ranked, we have given a url redirection option this option appears when you try to delete any product category, product category group, or any cms page (example given below) while deleting any of these pages, you\u2019ll get the option to set url redirection url redirection is considered important for the records you are about to delete, because of the seo purpose since it is difficult for the search engines to keep a track of deleted urls unless you upload a sitemap of your website import url redirection if your website is undergoing some major changes and you will have to provide url redirection to multiple links in this situation, you can easily use the import url redirection feature thus, instead of updating each link individually, you can import all the urls at once to import, go to admin >> seo >> manage url redirection >> import (top right corner) in the first step download the sample file in the second step fill up the excel file using the help provided in the admin panel click on the upload file button to select the file that you have updated the system will validate the data and show you the correct and skipped records to import data in the system click on the import button and the url redirections will be imported into the system\nDid this page help you?\n\n\nPREVIOUS\nRobots\nNEXT\nImage Alt Text\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

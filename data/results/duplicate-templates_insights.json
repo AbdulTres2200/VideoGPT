@@ -1,0 +1,21 @@
+{
+  "id": "txt_822058",
+  "name": "duplicate-templates",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTemplate & Studio\n\n\nCreating Templates\nDuplicate Templates\n\n8 min\noverview & purpose according to business needs, there can be scenarios when you have multiple products with the same size and you want to assign them the same templates an example of such products will include \u2013 skinny business cards, metallic business cards, standard business cards, etc all these business cards can have the same sizes, so you can easily duplicate their templates instead of creating new ones from the scratch configuration add duplicate templates this tab will help you bulk assign templates of one product to similar products (i e products with the same sizes) based on your product choice in the \u2018select product\u2019 section, the system will display all the templates associated with the product it will display the number of pdf block templates, master templates, and product templates the \u2018duplicate product\u2019 section will display all the products with the same size as the selected product select the products for which you want to duplicate the product\u2019s templates also, tick the type of templates you want to duplicate then click on the submit remove duplicate templates suppose you have duplicated a number of templates using the above steps but now you wish to reverse the action or you have duplicated the wrong product template using this interface, you can easily remove the duplicated templates just select the product from the list available, if the system finds the duplicate templates of that product, then it will display the product list in the \u2018remove duplicate product\u2019 section select the duplicate products from the list and choose the type of videos you wish to remove i e pdf block templates, master templates, or product templates and click on the save button duplicate templates with resize this section allows you to duplicate a template from one size to another note the action of duplicating the templates cannot be undone thus, it is advised to consult the technical and support team of ops important fields are \u2013 select template type there are two types of templates given product template and master template you can update existing templates and create a new version for product templates however, you cannot create new versions of master templates note read the warnings carefully before taking any action also, check the instructions given in the admin panel update existing template \u2013 this option will resize the source product\u2019s templates to the product size selected from the \u2018select new product\u2019 dropdown on the storefront, source product\u2019s templates size will not be shown they will now appear under the new product\u2019s templates create new template \u2013 this option will create new resized templates in addition to the existing ones on the storefront, the new resized templates will show along with the existing templates of the new product select source product this is the product size from which you want to change the templates select new product you want to apply the resized templates to this product size update preview this section allows the admin to update the preview of the selected products simply, select the product size of the product from the dropdown and then click on the save button to generate the preview images as per any modifications made\nDid this page help you?\n\n\nPREVIOUS\nPDF Block Templates\nNEXT\nDesigner Studio\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

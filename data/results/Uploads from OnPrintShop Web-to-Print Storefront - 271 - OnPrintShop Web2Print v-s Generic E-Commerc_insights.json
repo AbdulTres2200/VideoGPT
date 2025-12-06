@@ -1,0 +1,2702 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+  "id": "ih8le7856j",
+  "name": "Uploads from OnPrintShop Web-to-Print Storefront - 271 - OnPrintShop Web2Print v",
+  "userName": "Abdul Moiz",
+  "created": "2025-11-01T06:39:16.3633333+00:00",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 74,
+  "duration": "0:01:14.676",
+  "summarizedInsights": {
+    "name": "Uploads from OnPrintShop Web-to-Print Storefront - 271 - OnPrintShop Web2Print v",
+    "id": "ih8le7856j",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:01:14.676",
+      "seconds": 74.7
+    },
+    "thumbnailVideoId": "ih8le7856j",
+    "thumbnailId": "fb26a475-3230-486d-b254-e00f96e75dc4",
+    "faces": [],
+    "keywords": [
+      {
+        "isTranscript": true,
+        "id": 5,
+        "name": "printer",
+        "appearances": [
+          {
+            "startTime": "0:00:17.68",
+            "endTime": "0:00:41",
+            "startSeconds": 17.7,
+            "endSeconds": 41
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 6,
+        "name": "versus",
+        "appearances": [
+          {
+            "startTime": "0:00:01.16",
+            "endTime": "0:00:41",
+            "startSeconds": 1.2,
+            "endSeconds": 41
+          },
+          {
+            "startTime": "0:00:47.16",
+            "endTime": "0:01:13.56",
+            "startSeconds": 47.2,
+            "endSeconds": 73.6
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 7,
+        "name": "commerce",
+        "appearances": [
+          {
+            "startTime": "0:00:01.16",
+            "endTime": "0:00:41",
+            "startSeconds": 1.2,
+            "endSeconds": 41
+          },
+          {
+            "startTime": "0:00:47.16",
+            "endTime": "0:01:13.56",
+            "startSeconds": 47.2,
+            "endSeconds": 73.6
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 13,
+        "name": "invest",
+        "appearances": [
+          {
+            "startTime": "0:00:01",
+            "endTime": "0:00:41",
+            "startSeconds": 1,
+            "endSeconds": 41
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 15,
+        "name": "integrations",
+        "appearances": [
+          {
+            "startTime": "0:00:41",
+            "endTime": "0:01:02",
+            "startSeconds": 41,
+            "endSeconds": 62
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 1,
+        "name": "print shop",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:14.0333333",
+            "startSeconds": 0,
+            "endSeconds": 74
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 2,
+        "name": "marketing tools",
+        "appearances": [
+          {
+            "startTime": "0:00:23",
+            "endTime": "0:00:34.0333333",
+            "startSeconds": 23,
+            "endSeconds": 34
+          },
+          {
+            "startTime": "0:00:47.16",
+            "endTime": "0:01:13.56",
+            "startSeconds": 47.2,
+            "endSeconds": 73.6
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 3,
+        "name": "specially designed",
+        "appearances": [
+          {
+            "startTime": "0:00:01.16",
+            "endTime": "0:00:20.0333333",
+            "startSeconds": 1.2,
+            "endSeconds": 20
+          },
+          {
+            "startTime": "0:00:38",
+            "endTime": "0:00:44.0333333",
+            "startSeconds": 38,
+            "endSeconds": 44
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 4,
+        "name": "order management",
+        "appearances": [
+          {
+            "startTime": "0:00:17.68",
+            "endTime": "0:00:41",
+            "startSeconds": 17.7,
+            "endSeconds": 41
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 8,
+        "name": "designed",
+        "appearances": [
+          {
+            "startTime": "0:00:01.16",
+            "endTime": "0:00:20.0333333",
+            "startSeconds": 1.2,
+            "endSeconds": 20
+          },
+          {
+            "startTime": "0:00:38",
+            "endTime": "0:00:44.0333333",
+            "startSeconds": 38,
+            "endSeconds": 44
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 9,
+        "name": "onprintshop",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:14.0333333",
+            "startSeconds": 0,
+            "endSeconds": 74
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 10,
+        "name": "specific",
+        "appearances": [
+          {
+            "startTime": "0:01:03",
+            "endTime": "0:01:13.0333333",
+            "startSeconds": 63,
+            "endSeconds": 73
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 11,
+        "name": "customers",
+        "appearances": [
+          {
+            "startTime": "0:00:23",
+            "endTime": "0:00:34.0333333",
+            "startSeconds": 23,
+            "endSeconds": 34
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 12,
+        "name": "generic",
+        "appearances": [
+          {
+            "startTime": "0:00:01.16",
+            "endTime": "0:00:44.0333333",
+            "startSeconds": 1.2,
+            "endSeconds": 44
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 14,
+        "name": "customizations",
+        "appearances": [
+          {
+            "startTime": "0:00:41",
+            "endTime": "0:01:00.0333333",
+            "startSeconds": 41,
+            "endSeconds": 60
+          }
+        ]
+      }
+    ],
+    "sentiments": [
+      {
+        "sentimentKey": "Neutral",
+        "seenDurationRatio": 1,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:14.676",
+            "startSeconds": 0,
+            "endSeconds": 74.7
+          }
+        ]
+      }
+    ],
+    "emotions": [],
+    "audioEffects": [
+      {
+        "audioEffectKey": "Silence",
+        "seenDurationRatio": 0.0335,
+        "seenDuration": 2.5,
+        "appearances": [
+          {
+            "confidence": 0.7233,
+            "startTime": "0:00:00",
+            "endTime": "0:00:01.5",
+            "startSeconds": 0,
+            "endSeconds": 1.5
+          },
+          {
+            "confidence": 0.795,
+            "startTime": "0:01:02.5",
+            "endTime": "0:01:03.5",
+            "startSeconds": 62.5,
+            "endSeconds": 63.5
+          }
+        ]
+      }
+    ],
+    "labels": [
+      {
+        "id": 1,
+        "name": "text",
+        "appearances": [
+          {
+            "confidence": 0.9982,
+            "startTime": "0:00:01",
+            "endTime": "0:01:14.0333333",
+            "startSeconds": 1,
+            "endSeconds": 74
+          }
+        ]
+      }
+    ],
+    "framePatterns": [],
+    "brands": [
+      {
+        "referenceId": "Cooper-Standard_Automotive",
+        "referenceUrl": "http://en.wikipedia.org/wiki/Cooper-Standard_Automotive",
+        "confidence": 0.76,
+        "description": "Cooper-Standard Automotive Inc., headquartered in Novi, Michigan, is an automotive supplier specializing in the manufacture and marketing of systems and components for the automotive industry. Products include body sealing systems, fluid handling systems and NVH control systems, which are represented within the company's two operating divisions: North America and International.",
+        "seenDuration": 11,
+        "id": 2,
+        "name": "Cooper-Standard Automotive",
+        "appearances": [
+          {
+            "startTime": "0:00:09",
+            "endTime": "0:00:20.0333333",
+            "startSeconds": 9,
+            "endSeconds": 20
+          }
+        ]
+      },
+      {
+        "referenceId": "P-Com",
+        "referenceUrl": "http://en.wikipedia.org/wiki/P-Com",
+        "confidence": 0.73,
+        "description": "P-Com Corporation was a manufacturer of point-to-point and point-to-multipoint radios in the late 1990s and early 2000s. The company banked on providing wireless local loop and bandwidth facilities to metropolitan and remote areas, using fixed antennas and Asynchronous Transfer Mode technology.",
+        "seenDuration": 0,
+        "id": 1,
+        "name": "P-Com",
+        "appearances": [
+          {
+            "startTime": "0:00:07",
+            "endTime": "0:00:07.0333333",
+            "startSeconds": 7,
+            "endSeconds": 7
+          }
+        ]
+      },
+      {
+        "referenceId": "Nirma",
+        "referenceUrl": "http://en.wikipedia.org/wiki/Nirma",
+        "confidence": 1,
+        "description": "Nirma is a group of companies based in the city of Ahmedabad in western India that manufactures products ranging from cosmetics, soaps, detergents, salt, soda ash, LAB and Injectables. Karsanbhai Patel, a well known entrepreneur and philanthropist of Gujarat, started Nirma as a one-man operation. Today Nirma has over 15000 employees and a turnover of over Rs. 3550 crores.",
+        "seenDuration": 0,
+        "id": 3,
+        "name": "Nirma",
+        "appearances": [
+          {
+            "startTime": "0:01:14",
+            "endTime": "0:01:14.0333333",
+            "startSeconds": 74,
+            "endSeconds": 74
+          }
+        ]
+      }
+    ],
+    "namedLocations": [],
+    "namedPeople": [],
+    "statistics": {
+      "correspondenceCount": 0,
+      "speakerTalkToListenRatio": {
+        "1": 1
+      },
+      "speakerLongestMonolog": {
+        "1": 71
+      },
+      "speakerNumberOfFragments": {
+        "1": 4
+      },
+      "speakerWordCount": {
+        "1": 177
+      }
+    },
+    "topics": [
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/consumer goods/wholesale",
+        "iabName": "Business and Finance",
+        "confidence": 0.943,
+        "id": 1,
+        "name": "Business/Business Sectors/E Commerce",
+        "appearances": [
+          {
+            "startTime": "0:00:01.16",
+            "endTime": "0:00:41",
+            "startSeconds": 1.2,
+            "endSeconds": 41
+          },
+          {
+            "startTime": "0:01:02.92",
+            "endTime": "0:01:13.56",
+            "startSeconds": 62.9,
+            "endSeconds": 73.6
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/consumer goods/wholesale",
+        "iabName": "Business and Finance",
+        "confidence": 0.9036,
+        "id": 2,
+        "name": "Business/Business Sectors/Retail",
+        "appearances": [
+          {
+            "startTime": "0:00:01.16",
+            "endTime": "0:00:41",
+            "startSeconds": 1.2,
+            "endSeconds": 41
+          },
+          {
+            "startTime": "0:01:02.92",
+            "endTime": "0:01:13.56",
+            "startSeconds": 62.9,
+            "endSeconds": 73.6
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/retail",
+        "iabName": "Shopping",
+        "confidence": 0.8678,
+        "id": 3,
+        "name": "Shopping",
+        "appearances": [
+          {
+            "startTime": "0:00:01.16",
+            "endTime": "0:00:41",
+            "startSeconds": 1.2,
+            "endSeconds": 41
+          },
+          {
+            "startTime": "0:01:02.92",
+            "endTime": "0:01:13.56",
+            "startSeconds": 62.9,
+            "endSeconds": 73.6
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/products and services/sales channel/retail/online shopping",
+        "iabName": "Business and Finance",
+        "confidence": 0.7909,
+        "id": 4,
+        "name": "Business/Business Sectors/E Commerce Companies",
+        "appearances": [
+          {
+            "startTime": "0:00:01.16",
+            "endTime": "0:00:41",
+            "startSeconds": 1.2,
+            "endSeconds": 41
+          },
+          {
+            "startTime": "0:01:02.92",
+            "endTime": "0:01:13.56",
+            "startSeconds": 62.9,
+            "endSeconds": 73.6
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/construction and property/design and engineering",
+        "iabName": "Fine Art",
+        "confidence": 0.7726,
+        "id": 5,
+        "name": "Design",
+        "appearances": [
+          {
+            "startTime": "0:00:01.16",
+            "endTime": "0:00:41",
+            "startSeconds": 1.2,
+            "endSeconds": 41
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/media/advertising",
+        "iabName": "Style & Fashion",
+        "confidence": 0.7691,
+        "id": 6,
+        "name": "Fashion/Brands and Branding",
+        "appearances": [
+          {
+            "startTime": "0:00:01.16",
+            "endTime": "0:00:41",
+            "startSeconds": 1.2,
+            "endSeconds": 41
+          },
+          {
+            "startTime": "0:01:02.92",
+            "endTime": "0:01:13.56",
+            "startSeconds": 62.9,
+            "endSeconds": 73.6
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/consumer goods/wholesale",
+        "iabName": "Business and Finance",
+        "confidence": 0.7417,
+        "id": 7,
+        "name": "Business/Business Sectors/Online Retail",
+        "appearances": [
+          {
+            "startTime": "0:00:01.16",
+            "endTime": "0:00:41",
+            "startSeconds": 1.2,
+            "endSeconds": 41
+          },
+          {
+            "startTime": "0:01:02.92",
+            "endTime": "0:01:13.56",
+            "startSeconds": 62.9,
+            "endSeconds": 73.6
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/visual arts/design (visual arts)",
+        "iabName": "Fine Art",
+        "confidence": 0.6363,
+        "id": 8,
+        "name": "Design/Communication Design/Graphic Design",
+        "appearances": [
+          {
+            "startTime": "0:00:01.16",
+            "endTime": "0:00:41",
+            "startSeconds": 1.2,
+            "endSeconds": 41
+          }
+        ]
+      },
+      {
+        "referenceUrl": "https://en.wikipedia.org/wiki/Category:Supply_chain_management",
+        "iptcName": null,
+        "iabName": null,
+        "confidence": 0.555,
+        "id": 9,
+        "name": "Supply chain management",
+        "appearances": [
+          {
+            "startTime": "0:00:01",
+            "endTime": "0:00:07.0333333",
+            "startSeconds": 1,
+            "endSeconds": 7
+          },
+          {
+            "startTime": "0:00:23",
+            "endTime": "0:00:34.0333333",
+            "startSeconds": 23,
+            "endSeconds": 34
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/visual arts/design (visual arts)",
+        "iabName": "Fine Art",
+        "confidence": 0.519,
+        "id": 10,
+        "name": "Design/Communication Design/Icon Design",
+        "appearances": [
+          {
+            "startTime": "0:00:01.16",
+            "endTime": "0:00:17.68",
+            "startSeconds": 1.2,
+            "endSeconds": 17.7
+          }
+        ]
+      }
+    ]
+  },
+  "videos": [
+    {
+      "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+      "id": "ih8le7856j",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:01:14.676",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [
+          "en-US"
+        ],
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "transcript": [
+          {
+            "id": 1,
+            "text": "Five major reasons customer invest in on print shop Web to print versus generic e-commerce print estimation e-commerce are meant more for standard stock products versus on print shop especially designed to easily set up simple to complex print products.",
+            "confidence": 0.7511,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.16",
+                "adjustedEnd": "0:00:17.68",
+                "start": "0:00:01.16",
+                "end": "0:00:17.68"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "Pricing Custom size Shipping estimator Centralized print order management e-commerce only generates order and to further process printer need to invest in other platforms or on print shop to generate job ticket, invoices, shipping label order updates solution upgrade e-commerce upgrades are generic and printer has to invest time versus on print shop upgrades.",
+            "confidence": 0.7849,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:17.68",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:17.68",
+                "end": "0:00:41"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "Best Practices and features Working with thousands of PSPS, customizations and integrations.",
+            "confidence": 0.8633,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:46.92",
+                "start": "0:00:41",
+                "end": "0:00:46.92"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "E-commerce entry cost is very high and challenging is finding right developers and explaining them the process versus on print shop team has extensive experience delivering complex developments and integrations in time marketing tools and SEO.",
+            "confidence": 0.7298,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:47.16",
+                "adjustedEnd": "0:01:02",
+                "start": "0:00:47.16",
+                "end": "0:01:02"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "Ecommerce offers third party plugins but challenge is to choose the right one versus on print shop offers library of pride and tested marketing tools and also option to add the preferred tools.",
+            "confidence": 0.7595,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02.92",
+                "adjustedEnd": "0:01:13.56",
+                "start": "0:01:02.92",
+                "end": "0:01:13.56"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "Thank you.",
+            "confidence": 0.9206,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:13.68",
+                "adjustedEnd": "0:01:14.2",
+                "start": "0:01:13.68",
+                "end": "0:01:14.2"
+              }
+            ]
+          }
+        ],
+        "ocr": [
+          {
+            "id": 1,
+            "text": "OnPrintShop",
+            "confidence": 0.993,
+            "left": 77,
+            "top": 1018,
+            "width": 140,
+            "height": 20,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:14.0333333",
+                "start": "0:00:00",
+                "end": "0:01:14.0333333"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "Web-to-Print Storefront",
+            "confidence": 0.915,
+            "left": 75,
+            "top": 1041,
+            "width": 139,
+            "height": 15,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:14.0333333",
+                "start": "0:00:00",
+                "end": "0:01:14.0333333"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "MAJOR REASONS CUSTOMER INVEST IN",
+            "confidence": 0.998,
+            "left": 215,
+            "top": 330,
+            "width": 1017,
+            "height": 48,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:07.0333333",
+                "start": "0:00:01",
+                "end": "0:00:07.0333333"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "OnPrintShop Web2print",
+            "confidence": 0.996,
+            "left": 163,
+            "top": 473,
+            "width": 866,
+            "height": 76,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:04",
+                "adjustedEnd": "0:00:07.0333333",
+                "start": "0:00:04",
+                "end": "0:00:07.0333333"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "Vs",
+            "confidence": 0.998,
+            "left": 159,
+            "top": 584,
+            "width": 67,
+            "height": 48,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:04",
+                "adjustedEnd": "0:00:07.0333333",
+                "start": "0:00:04",
+                "end": "0:00:07.0333333"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "Generic Ecommerce",
+            "confidence": 0.998,
+            "left": 187,
+            "top": 379,
+            "width": 642,
+            "height": 63,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:04",
+                "adjustedEnd": "0:00:07.0333333",
+                "start": "0:00:04",
+                "end": "0:00:07.0333333"
+              },
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:20.0333333",
+                "start": "0:00:09",
+                "end": "0:00:20.0333333"
+              },
+              {
+                "adjustedStart": "0:00:23",
+                "adjustedEnd": "0:00:34.0333333",
+                "start": "0:00:23",
+                "end": "0:00:34.0333333"
+              },
+              {
+                "adjustedStart": "0:00:36",
+                "adjustedEnd": "0:00:44.0333333",
+                "start": "0:00:36",
+                "end": "0:00:44.0333333"
+              },
+              {
+                "adjustedStart": "0:00:47",
+                "adjustedEnd": "0:01:00.0333333",
+                "start": "0:00:47",
+                "end": "0:01:00.0333333"
+              },
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:13.0333333",
+                "start": "0:01:03",
+                "end": "0:01:13.0333333"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "P.com",
+            "confidence": 0.964,
+            "left": 202,
+            "top": 1027,
+            "width": 63,
+            "height": 17,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:07.0333333",
+                "start": "0:00:07",
+                "end": "0:00:07.0333333"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "01 Print Estimation",
+            "confidence": 0.9963,
+            "left": 100,
+            "top": 97,
+            "width": 766,
+            "height": 74,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:20.0333333",
+                "start": "0:00:08",
+                "end": "0:00:20.0333333"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "www.OnPrintShop.com",
+            "confidence": 0.983,
+            "left": 53,
+            "top": 1026,
+            "width": 211,
+            "height": 23,
+            "angle": 0,
+            "language": "fi-FI",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:01:13.0333333",
+                "start": "0:00:08",
+                "end": "0:01:13.0333333"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "Only Able to Set up",
+            "confidence": 0.9962,
+            "left": 341,
+            "top": 573,
+            "width": 347,
+            "height": 41,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:20.0333333",
+                "start": "0:00:09",
+                "end": "0:00:20.0333333"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "Standard Products",
+            "confidence": 0.998,
+            "left": 345,
+            "top": 626,
+            "width": 339,
+            "height": 39,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:20.0333333",
+                "start": "0:00:09",
+                "end": "0:00:20.0333333"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "v/s",
+            "confidence": 0.969,
+            "left": 966,
+            "top": 555,
+            "width": 87,
+            "height": 38,
+            "angle": -1,
+            "language": "cs-CZ",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:18.0333333",
+                "start": "0:00:12",
+                "end": "0:00:18.0333333"
+              },
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:26",
+                "end": "0:00:32.0333333"
+              },
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:44.0333333",
+                "start": "0:00:38",
+                "end": "0:00:44.0333333"
+              },
+              {
+                "adjustedStart": "0:00:53",
+                "adjustedEnd": "0:01:00.0333333",
+                "start": "0:00:53",
+                "end": "0:01:00.0333333"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "Specially designed Standard &",
+            "confidence": 0.9948,
+            "left": 1172,
+            "top": 535,
+            "width": 549,
+            "height": 43,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:20.0333333",
+                "start": "0:00:12",
+                "end": "0:00:20.0333333"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "Custom Size Products",
+            "confidence": 0.9973,
+            "left": 1251,
+            "top": 588,
+            "width": 386,
+            "height": 40,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:20.0333333",
+                "start": "0:00:12",
+                "end": "0:00:20.0333333"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "and Shipping Engine",
+            "confidence": 0.9977,
+            "left": 1265,
+            "top": 641,
+            "width": 364,
+            "height": 44,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:20.0333333",
+                "start": "0:00:12",
+                "end": "0:00:20.0333333"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "02 Centralized Print Order Management",
+            "confidence": 0.929,
+            "left": 101,
+            "top": 190,
+            "width": 1603,
+            "height": 74,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20",
+                "adjustedEnd": "0:00:34.0333333",
+                "start": "0:00:20",
+                "end": "0:00:34.0333333"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "Customers need 3rd",
+            "confidence": 0.9943,
+            "left": 335,
+            "top": 555,
+            "width": 351,
+            "height": 38,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:23",
+                "adjustedEnd": "0:00:34.0333333",
+                "start": "0:00:23",
+                "end": "0:00:34.0333333"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "Party tools or OnPrintShop",
+            "confidence": 0.9973,
+            "left": 268,
+            "top": 605,
+            "width": 484,
+            "height": 44,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:23",
+                "adjustedEnd": "0:00:34.0333333",
+                "start": "0:00:23",
+                "end": "0:00:34.0333333"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "for Order Management",
+            "confidence": 0.9973,
+            "left": 296,
+            "top": 659,
+            "width": 430,
+            "height": 40,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:23",
+                "adjustedEnd": "0:00:34.0333333",
+                "start": "0:00:23",
+                "end": "0:00:34.0333333"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "All you need to offer",
+            "confidence": 0.9948,
+            "left": 1281,
+            "top": 536,
+            "width": 370,
+            "height": 41,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:34.0333333",
+                "start": "0:00:26",
+                "end": "0:00:34.0333333"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "text": "Amazon like Post Purchase",
+            "confidence": 0.9968,
+            "left": 1220,
+            "top": 588,
+            "width": 490,
+            "height": 39,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:34.0333333",
+                "start": "0:00:26",
+                "end": "0:00:34.0333333"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "text": "Experience to Offline",
+            "confidence": 0.9977,
+            "left": 1274,
+            "top": 640,
+            "width": 382,
+            "height": 44,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:34.0333333",
+                "start": "0:00:26",
+                "end": "0:00:34.0333333"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "text": "and Online customers",
+            "confidence": 0.9957,
+            "left": 1269,
+            "top": 695,
+            "width": 393,
+            "height": 38,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:34.0333333",
+                "start": "0:00:26",
+                "end": "0:00:34.0333333"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "text": "03 Solution Upgrade",
+            "confidence": 0.9973,
+            "left": 102,
+            "top": 98,
+            "width": 811,
+            "height": 73,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:35",
+                "adjustedEnd": "0:00:44.0333333",
+                "start": "0:00:35",
+                "end": "0:00:44.0333333"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "text": "Generic Upgrades",
+            "confidence": 0.998,
+            "left": 342,
+            "top": 600,
+            "width": 348,
+            "height": 45,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:36",
+                "adjustedEnd": "0:00:44.0333333",
+                "start": "0:00:36",
+                "end": "0:00:44.0333333"
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "text": "for Print Industry",
+            "confidence": 0.988,
+            "left": 1303,
+            "top": 656,
+            "width": 315,
+            "height": 38,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:44.0333333",
+                "start": "0:00:38",
+                "end": "0:00:44.0333333"
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "text": "Specially designed",
+            "confidence": 0.998,
+            "left": 1294,
+            "top": 602,
+            "width": 335,
+            "height": 44,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:44.0333333",
+                "start": "0:00:38",
+                "end": "0:00:44.0333333"
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "text": "Consistent Upgrades",
+            "confidence": 0.9975,
+            "left": 1280,
+            "top": 550,
+            "width": 366,
+            "height": 41,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:44.0333333",
+                "start": "0:00:38",
+                "end": "0:00:44.0333333"
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "text": "04 Customizations & Integrations",
+            "confidence": 0.9903,
+            "left": 103,
+            "top": 97,
+            "width": 1342,
+            "height": 80,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:45",
+                "adjustedEnd": "0:01:00.0333333",
+                "start": "0:00:45",
+                "end": "0:01:00.0333333"
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "text": "Challenge hiring Software",
+            "confidence": 0.998,
+            "left": 285,
+            "top": 547,
+            "width": 470,
+            "height": 43,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:47",
+                "adjustedEnd": "0:01:00.0333333",
+                "start": "0:00:47",
+                "end": "0:01:00.0333333"
+              }
+            ]
+          },
+          {
+            "id": 31,
+            "text": "development team and",
+            "confidence": 0.996,
+            "left": 308,
+            "top": 602,
+            "width": 421,
+            "height": 40,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:47",
+                "adjustedEnd": "0:01:00.0333333",
+                "start": "0:00:47",
+                "end": "0:01:00.0333333"
+              }
+            ]
+          },
+          {
+            "id": 32,
+            "text": "explaining Print Processes",
+            "confidence": 0.997,
+            "left": 284,
+            "top": 654,
+            "width": 472,
+            "height": 45,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:47",
+                "adjustedEnd": "0:01:00.0333333",
+                "start": "0:00:47",
+                "end": "0:01:00.0333333"
+              }
+            ]
+          },
+          {
+            "id": 33,
+            "text": "Quick Go to market as",
+            "confidence": 0.998,
+            "left": 1266,
+            "top": 503,
+            "width": 409,
+            "height": 41,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53",
+                "adjustedEnd": "0:01:00.0333333",
+                "start": "0:00:53",
+                "end": "0:01:00.0333333"
+              }
+            ]
+          },
+          {
+            "id": 34,
+            "text": "Team understands Print",
+            "confidence": 0.9947,
+            "left": 1255,
+            "top": 556,
+            "width": 434,
+            "height": 39,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53",
+                "adjustedEnd": "0:01:00.0333333",
+                "start": "0:00:53",
+                "end": "0:01:00.0333333"
+              }
+            ]
+          },
+          {
+            "id": 35,
+            "text": "Vocabulary and 100s of",
+            "confidence": 0.9963,
+            "left": 1261,
+            "top": 607,
+            "width": 423,
+            "height": 42,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53",
+                "adjustedEnd": "0:01:00.0333333",
+                "start": "0:00:53",
+                "end": "0:01:00.0333333"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "text": "ready Print MIS, Workflows,",
+            "confidence": 0.9923,
+            "left": 1217,
+            "top": 662,
+            "width": 503,
+            "height": 44,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53",
+                "adjustedEnd": "0:01:00.0333333",
+                "start": "0:00:53",
+                "end": "0:01:00.0333333"
+              }
+            ]
+          },
+          {
+            "id": 37,
+            "text": "accounting & lot more",
+            "confidence": 0.9913,
+            "left": 1271,
+            "top": 716,
+            "width": 403,
+            "height": 41,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53",
+                "adjustedEnd": "0:01:00.0333333",
+                "start": "0:00:53",
+                "end": "0:01:00.0333333"
+              }
+            ]
+          },
+          {
+            "id": 38,
+            "text": "05 Marketing Tools & SEO",
+            "confidence": 0.9944,
+            "left": 101,
+            "top": 96,
+            "width": 1025,
+            "height": 87,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:01",
+                "adjustedEnd": "0:01:13.0333333",
+                "start": "0:01:01",
+                "end": "0:01:13.0333333"
+              }
+            ]
+          },
+          {
+            "id": 39,
+            "text": "Offers Marketing tools,",
+            "confidence": 0.998,
+            "left": 320,
+            "top": 547,
+            "width": 412,
+            "height": 42,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:13.0333333",
+                "start": "0:01:03",
+                "end": "0:01:13.0333333"
+              }
+            ]
+          },
+          {
+            "id": 40,
+            "text": "difficult to get specific 3rd",
+            "confidence": 0.9974,
+            "left": 295,
+            "top": 600,
+            "width": 463,
+            "height": 42,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:13.0333333",
+                "start": "0:01:03",
+                "end": "0:01:13.0333333"
+              }
+            ]
+          },
+          {
+            "id": 41,
+            "text": "party tool integrated",
+            "confidence": 0.994,
+            "left": 339,
+            "top": 657,
+            "width": 372,
+            "height": 42,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:13.0333333",
+                "start": "0:01:03",
+                "end": "0:01:13.0333333"
+              }
+            ]
+          },
+          {
+            "id": 42,
+            "text": "Everything you need & flexible",
+            "confidence": 0.995,
+            "left": 1166,
+            "top": 548,
+            "width": 559,
+            "height": 44,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:07",
+                "adjustedEnd": "0:01:13.0333333",
+                "start": "0:01:07",
+                "end": "0:01:13.0333333"
+              }
+            ]
+          },
+          {
+            "id": 43,
+            "text": "to add your specific",
+            "confidence": 0.997,
+            "left": 1267,
+            "top": 602,
+            "width": 352,
+            "height": 42,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:07",
+                "adjustedEnd": "0:01:13.0333333",
+                "start": "0:01:07",
+                "end": "0:01:13.0333333"
+              }
+            ]
+          },
+          {
+            "id": 44,
+            "text": "marketing tools",
+            "confidence": 0.9975,
+            "left": 1300,
+            "top": 655,
+            "width": 282,
+            "height": 41,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:07",
+                "adjustedEnd": "0:01:13.0333333",
+                "start": "0:01:07",
+                "end": "0:01:13.0333333"
+              }
+            ]
+          },
+          {
+            "id": 45,
+            "text": "Thank You",
+            "confidence": 0.9975,
+            "left": 97,
+            "top": 274,
+            "width": 704,
+            "height": 114,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:14",
+                "adjustedEnd": "0:01:14.0333333",
+                "start": "0:01:14",
+                "end": "0:01:14.0333333"
+              }
+            ]
+          },
+          {
+            "id": 46,
+            "text": "For Your Attention",
+            "confidence": 0.997,
+            "left": 119,
+            "top": 420,
+            "width": 534,
+            "height": 57,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:14",
+                "adjustedEnd": "0:01:14.0333333",
+                "start": "0:01:14",
+                "end": "0:01:14.0333333"
+              }
+            ]
+          },
+          {
+            "id": 47,
+            "text": "RADIXWEB - Ekyarth, B/H Nirma University",
+            "confidence": 0.9958,
+            "left": 78,
+            "top": 908,
+            "width": 391,
+            "height": 23,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:14",
+                "adjustedEnd": "0:01:14.0333333",
+                "start": "0:01:14",
+                "end": "0:01:14.0333333"
+              }
+            ]
+          },
+          {
+            "id": 48,
+            "text": "Powered by",
+            "confidence": 0.998,
+            "left": 1750,
+            "top": 919,
+            "width": 85,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:14",
+                "adjustedEnd": "0:01:14.0333333",
+                "start": "0:01:14",
+                "end": "0:01:14.0333333"
+              }
+            ]
+          },
+          {
+            "id": 49,
+            "text": "Chharodi, Ahmedabad - 382481, India",
+            "confidence": 0.987,
+            "left": 80,
+            "top": 935,
+            "width": 345,
+            "height": 22,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:14",
+                "adjustedEnd": "0:01:14.0333333",
+                "start": "0:01:14",
+                "end": "0:01:14.0333333"
+              }
+            ]
+          },
+          {
+            "id": 50,
+            "text": "USA voip: +1-718-715-1551 \u00b7 Call Us: +91-9510903371",
+            "confidence": 0.9174,
+            "left": 80,
+            "top": 960,
+            "width": 501,
+            "height": 23,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:14",
+                "adjustedEnd": "0:01:14.0333333",
+                "start": "0:01:14",
+                "end": "0:01:14.0333333"
+              }
+            ]
+          },
+          {
+            "id": 51,
+            "text": "RADIX",
+            "confidence": 0.996,
+            "left": 1755,
+            "top": 1003,
+            "width": 76,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:14",
+                "adjustedEnd": "0:01:14.0333333",
+                "start": "0:01:14",
+                "end": "0:01:14.0333333"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 1,
+            "text": "print shop",
+            "confidence": 0.9655,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.16",
+                "adjustedEnd": "0:00:17.68",
+                "start": "0:00:01.16",
+                "end": "0:00:17.68"
+              },
+              {
+                "adjustedStart": "0:00:17.68",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:17.68",
+                "end": "0:00:41"
+              },
+              {
+                "adjustedStart": "0:00:47.16",
+                "adjustedEnd": "0:01:02",
+                "start": "0:00:47.16",
+                "end": "0:01:02"
+              },
+              {
+                "adjustedStart": "0:01:02.92",
+                "adjustedEnd": "0:01:13.56",
+                "start": "0:01:02.92",
+                "end": "0:01:13.56"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "marketing tools",
+            "confidence": 0.9455,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:47.16",
+                "adjustedEnd": "0:01:02",
+                "start": "0:00:47.16",
+                "end": "0:01:02"
+              },
+              {
+                "adjustedStart": "0:01:02.92",
+                "adjustedEnd": "0:01:13.56",
+                "start": "0:01:02.92",
+                "end": "0:01:13.56"
+              },
+              {
+                "adjustedStart": "0:01:01",
+                "adjustedEnd": "0:01:13.0333333",
+                "start": "0:01:01",
+                "end": "0:01:13.0333333"
+              },
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:13.0333333",
+                "start": "0:01:03",
+                "end": "0:01:13.0333333"
+              },
+              {
+                "adjustedStart": "0:01:07",
+                "adjustedEnd": "0:01:13.0333333",
+                "start": "0:01:07",
+                "end": "0:01:13.0333333"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "specially designed",
+            "confidence": 0.9424,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.16",
+                "adjustedEnd": "0:00:17.68",
+                "start": "0:00:01.16",
+                "end": "0:00:17.68"
+              },
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:20.0333333",
+                "start": "0:00:12",
+                "end": "0:00:20.0333333"
+              },
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:44.0333333",
+                "start": "0:00:38",
+                "end": "0:00:44.0333333"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "order management",
+            "confidence": 0.9396,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:17.68",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:17.68",
+                "end": "0:00:41"
+              },
+              {
+                "adjustedStart": "0:00:20",
+                "adjustedEnd": "0:00:34.0333333",
+                "start": "0:00:20",
+                "end": "0:00:34.0333333"
+              },
+              {
+                "adjustedStart": "0:00:23",
+                "adjustedEnd": "0:00:34.0333333",
+                "start": "0:00:23",
+                "end": "0:00:34.0333333"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "printer",
+            "confidence": 0.7217,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:17.68",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:17.68",
+                "end": "0:00:41"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "versus",
+            "confidence": 0.7217,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.16",
+                "adjustedEnd": "0:00:17.68",
+                "start": "0:00:01.16",
+                "end": "0:00:17.68"
+              },
+              {
+                "adjustedStart": "0:00:17.68",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:17.68",
+                "end": "0:00:41"
+              },
+              {
+                "adjustedStart": "0:00:47.16",
+                "adjustedEnd": "0:01:02",
+                "start": "0:00:47.16",
+                "end": "0:01:02"
+              },
+              {
+                "adjustedStart": "0:01:02.92",
+                "adjustedEnd": "0:01:13.56",
+                "start": "0:01:02.92",
+                "end": "0:01:13.56"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "commerce",
+            "confidence": 0.69,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.16",
+                "adjustedEnd": "0:00:17.68",
+                "start": "0:00:01.16",
+                "end": "0:00:17.68"
+              },
+              {
+                "adjustedStart": "0:00:17.68",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:17.68",
+                "end": "0:00:41"
+              },
+              {
+                "adjustedStart": "0:00:47.16",
+                "adjustedEnd": "0:01:02",
+                "start": "0:00:47.16",
+                "end": "0:01:02"
+              },
+              {
+                "adjustedStart": "0:01:02.92",
+                "adjustedEnd": "0:01:13.56",
+                "start": "0:01:02.92",
+                "end": "0:01:13.56"
+              },
+              {
+                "adjustedStart": "0:00:04",
+                "adjustedEnd": "0:00:07.0333333",
+                "start": "0:00:04",
+                "end": "0:00:07.0333333"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "designed",
+            "confidence": 0.6678,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.16",
+                "adjustedEnd": "0:00:17.68",
+                "start": "0:00:01.16",
+                "end": "0:00:17.68"
+              },
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:20.0333333",
+                "start": "0:00:12",
+                "end": "0:00:20.0333333"
+              },
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:44.0333333",
+                "start": "0:00:38",
+                "end": "0:00:44.0333333"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "onprintshop",
+            "confidence": 0.6477,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:14.0333333",
+                "start": "0:00:00",
+                "end": "0:01:14.0333333"
+              },
+              {
+                "adjustedStart": "0:00:04",
+                "adjustedEnd": "0:00:07.0333333",
+                "start": "0:00:04",
+                "end": "0:00:07.0333333"
+              },
+              {
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:01:13.0333333",
+                "start": "0:00:08",
+                "end": "0:01:13.0333333"
+              },
+              {
+                "adjustedStart": "0:00:23",
+                "adjustedEnd": "0:00:34.0333333",
+                "start": "0:00:23",
+                "end": "0:00:34.0333333"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "specific",
+            "confidence": 0.6448,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:03",
+                "adjustedEnd": "0:01:13.0333333",
+                "start": "0:01:03",
+                "end": "0:01:13.0333333"
+              },
+              {
+                "adjustedStart": "0:01:07",
+                "adjustedEnd": "0:01:13.0333333",
+                "start": "0:01:07",
+                "end": "0:01:13.0333333"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "customers",
+            "confidence": 0.6415,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:23",
+                "adjustedEnd": "0:00:34.0333333",
+                "start": "0:00:23",
+                "end": "0:00:34.0333333"
+              },
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:34.0333333",
+                "start": "0:00:26",
+                "end": "0:00:34.0333333"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "generic",
+            "confidence": 0.6329,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.16",
+                "adjustedEnd": "0:00:17.68",
+                "start": "0:00:01.16",
+                "end": "0:00:17.68"
+              },
+              {
+                "adjustedStart": "0:00:17.68",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:17.68",
+                "end": "0:00:41"
+              },
+              {
+                "adjustedStart": "0:00:04",
+                "adjustedEnd": "0:00:07.0333333",
+                "start": "0:00:04",
+                "end": "0:00:07.0333333"
+              },
+              {
+                "adjustedStart": "0:00:36",
+                "adjustedEnd": "0:00:44.0333333",
+                "start": "0:00:36",
+                "end": "0:00:44.0333333"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "invest",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.16",
+                "adjustedEnd": "0:00:17.68",
+                "start": "0:00:01.16",
+                "end": "0:00:17.68"
+              },
+              {
+                "adjustedStart": "0:00:17.68",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:17.68",
+                "end": "0:00:41"
+              },
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:07.0333333",
+                "start": "0:00:01",
+                "end": "0:00:07.0333333"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "customizations",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:46.92",
+                "start": "0:00:41",
+                "end": "0:00:46.92"
+              },
+              {
+                "adjustedStart": "0:00:45",
+                "adjustedEnd": "0:01:00.0333333",
+                "start": "0:00:45",
+                "end": "0:01:00.0333333"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "integrations",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:46.92",
+                "start": "0:00:41",
+                "end": "0:00:46.92"
+              },
+              {
+                "adjustedStart": "0:00:47.16",
+                "adjustedEnd": "0:01:02",
+                "start": "0:00:47.16",
+                "end": "0:01:02"
+              },
+              {
+                "adjustedStart": "0:00:45",
+                "adjustedEnd": "0:01:00.0333333",
+                "start": "0:00:45",
+                "end": "0:01:00.0333333"
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 1,
+            "name": "E Commerce",
+            "referenceId": "Business/Business Sectors/E Commerce",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/consumer goods/wholesale",
+            "confidence": 0.943,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.16",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:01.16",
+                "end": "0:00:41"
+              },
+              {
+                "adjustedStart": "0:01:02.92",
+                "adjustedEnd": "0:01:13.56",
+                "start": "0:01:02.92",
+                "end": "0:01:13.56"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Retail",
+            "referenceId": "Business/Business Sectors/Retail",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/consumer goods/wholesale",
+            "confidence": 0.9036,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.16",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:01.16",
+                "end": "0:00:41"
+              },
+              {
+                "adjustedStart": "0:01:02.92",
+                "adjustedEnd": "0:01:13.56",
+                "start": "0:01:02.92",
+                "end": "0:01:13.56"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Shopping",
+            "referenceId": "Shopping",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/retail",
+            "confidence": 0.8678,
+            "iabName": "Shopping",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.16",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:01.16",
+                "end": "0:00:41"
+              },
+              {
+                "adjustedStart": "0:01:02.92",
+                "adjustedEnd": "0:01:13.56",
+                "start": "0:01:02.92",
+                "end": "0:01:13.56"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "E Commerce Companies",
+            "referenceId": "Business/Business Sectors/E Commerce Companies",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/products and services/sales channel/retail/online shopping",
+            "confidence": 0.7909,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.16",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:01.16",
+                "end": "0:00:41"
+              },
+              {
+                "adjustedStart": "0:01:02.92",
+                "adjustedEnd": "0:01:13.56",
+                "start": "0:01:02.92",
+                "end": "0:01:13.56"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Design",
+            "referenceId": "Design",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/construction and property/design and engineering",
+            "confidence": 0.7726,
+            "iabName": "Fine Art",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.16",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:01.16",
+                "end": "0:00:41"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Brands and Branding",
+            "referenceId": "Fashion/Brands and Branding",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/media/advertising",
+            "confidence": 0.7691,
+            "iabName": "Style & Fashion",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.16",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:01.16",
+                "end": "0:00:41"
+              },
+              {
+                "adjustedStart": "0:01:02.92",
+                "adjustedEnd": "0:01:13.56",
+                "start": "0:01:02.92",
+                "end": "0:01:13.56"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Online Retail",
+            "referenceId": "Business/Business Sectors/Online Retail",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/consumer goods/wholesale",
+            "confidence": 0.7417,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.16",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:01.16",
+                "end": "0:00:41"
+              },
+              {
+                "adjustedStart": "0:01:02.92",
+                "adjustedEnd": "0:01:13.56",
+                "start": "0:01:02.92",
+                "end": "0:01:13.56"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Graphic Design",
+            "referenceId": "Design/Communication Design/Graphic Design",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/visual arts/design (visual arts)",
+            "confidence": 0.6363,
+            "iabName": "Fine Art",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.16",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:01.16",
+                "end": "0:00:41"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Supply chain management",
+            "referenceId": "Category:Supply_chain_management",
+            "referenceUrl": "https://en.wikipedia.org/wiki/Category:Supply_chain_management",
+            "referenceType": "Wikipedia",
+            "confidence": 0.555,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:07.0333333",
+                "start": "0:00:01",
+                "end": "0:00:07.0333333"
+              },
+              {
+                "adjustedStart": "0:00:23",
+                "adjustedEnd": "0:00:34.0333333",
+                "start": "0:00:23",
+                "end": "0:00:34.0333333"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Icon Design",
+            "referenceId": "Design/Communication Design/Icon Design",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/visual arts/design (visual arts)",
+            "confidence": 0.519,
+            "iabName": "Fine Art",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.16",
+                "adjustedEnd": "0:00:17.68",
+                "start": "0:00:01.16",
+                "end": "0:00:17.68"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "text",
+            "referenceId": "communication/writing/text",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9672,
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:02.0333333",
+                "start": "0:00:01",
+                "end": "0:00:02.0333333"
+              },
+              {
+                "confidence": 0.9982,
+                "adjustedStart": "0:00:04",
+                "adjustedEnd": "0:01:14.0333333",
+                "start": "0:00:04",
+                "end": "0:01:14.0333333"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:00.1666667",
+                "start": "0:00:00",
+                "end": "0:01:00.1666667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:01:00.3666667",
+                "adjustedEnd": "0:01:14.6",
+                "start": "0:01:00.3666667",
+                "end": "0:01:14.6"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "dd7edf5a-566c-4490-89a9-cb1f1d4bfb73",
+                    "adjustedStart": "0:00:07.0666667",
+                    "adjustedEnd": "0:00:07.1",
+                    "start": "0:00:07.0666667",
+                    "end": "0:00:07.1"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "8d377b08-1388-42c9-bf18-d33365c4fb73",
+                    "adjustedStart": "0:00:24.9333333",
+                    "adjustedEnd": "0:00:24.9666667",
+                    "start": "0:00:24.9333333",
+                    "end": "0:00:24.9666667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:00.1666667",
+                "start": "0:00:00",
+                "end": "0:01:00.1666667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "keyFrames": [
+              {
+                "id": 3,
+                "instances": [
+                  {
+                    "thumbnailId": "9d23f5be-c0ff-4cbc-966a-df8c85c0731f",
+                    "adjustedStart": "0:01:06.7",
+                    "adjustedEnd": "0:01:06.7333333",
+                    "start": "0:01:06.7",
+                    "end": "0:01:06.7333333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:00.3666667",
+                "adjustedEnd": "0:01:14.6",
+                "start": "0:01:00.3666667",
+                "end": "0:01:14.6"
+              }
+            ]
+          }
+        ],
+        "brands": [
+          {
+            "id": 1,
+            "referenceType": "Wiki",
+            "name": "P-Com",
+            "referenceId": "P-Com",
+            "referenceUrl": "http://en.wikipedia.org/wiki/P-Com",
+            "description": "P-Com Corporation was a manufacturer of point-to-point and point-to-multipoint radios in the late 1990s and early 2000s. The company banked on providing wireless local loop and bandwidth facilities to metropolitan and remote areas, using fixed antennas and Asynchronous Transfer Mode technology.",
+            "tags": [],
+            "confidence": 0.73,
+            "isCustom": false,
+            "instances": [
+              {
+                "brandType": "Ocr",
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:07.0333333",
+                "start": "0:00:07",
+                "end": "0:00:07.0333333"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "referenceType": "Wiki",
+            "name": "Cooper-Standard Automotive",
+            "referenceId": "Cooper-Standard_Automotive",
+            "referenceUrl": "http://en.wikipedia.org/wiki/Cooper-Standard_Automotive",
+            "description": "Cooper-Standard Automotive Inc., headquartered in Novi, Michigan, is an automotive supplier specializing in the manufacture and marketing of systems and components for the automotive industry. Products include body sealing systems, fluid handling systems and NVH control systems, which are represented within the company's two operating divisions: North America and International.",
+            "tags": [],
+            "confidence": 0.76,
+            "isCustom": false,
+            "instances": [
+              {
+                "brandType": "Ocr",
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:20.0333333",
+                "start": "0:00:09",
+                "end": "0:00:20.0333333"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "referenceType": "Wiki",
+            "name": "Nirma",
+            "referenceId": "Nirma",
+            "referenceUrl": "http://en.wikipedia.org/wiki/Nirma",
+            "description": "Nirma is a group of companies based in the city of Ahmedabad in western India that manufactures products ranging from cosmetics, soaps, detergents, salt, soda ash, LAB and Injectables. Karsanbhai Patel, a well known entrepreneur and philanthropist of Gujarat, started Nirma as a one-man operation. Today Nirma has over 15000 employees and a turnover of over Rs. 3550 crores.",
+            "tags": [],
+            "confidence": 1,
+            "isCustom": false,
+            "instances": [
+              {
+                "brandType": "Ocr",
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:01:14",
+                "adjustedEnd": "0:01:14.0333333",
+                "start": "0:01:14",
+                "end": "0:01:14.0333333"
+              }
+            ]
+          }
+        ],
+        "audioEffects": [
+          {
+            "id": 0,
+            "type": "Silence",
+            "instances": [
+              {
+                "confidence": 0.7233,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.5",
+                "start": "0:00:00",
+                "end": "0:00:01.5"
+              },
+              {
+                "confidence": 0.795,
+                "adjustedStart": "0:01:02.5",
+                "adjustedEnd": "0:01:03.5",
+                "start": "0:01:02.5",
+                "end": "0:01:03.5"
+              }
+            ]
+          }
+        ],
+        "sentiments": [
+          {
+            "id": 1,
+            "averageScore": 0.5,
+            "sentimentType": "Neutral",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:14.676",
+                "start": "0:00:00",
+                "end": "0:01:14.676"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:00",
+                "end": "0:00:41"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:13.56",
+                "start": "0:00:41",
+                "end": "0:01:13.56"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:01:13.56",
+                "adjustedEnd": "0:01:14.676",
+                "start": "0:01:13.56",
+                "end": "0:01:14.676"
+              }
+            ]
+          }
+        ],
+        "speakers": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.16",
+                "adjustedEnd": "0:00:17.68",
+                "start": "0:00:01.16",
+                "end": "0:00:17.68"
+              },
+              {
+                "adjustedStart": "0:00:17.68",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:17.68",
+                "end": "0:00:41"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:46.92",
+                "start": "0:00:41",
+                "end": "0:00:46.92"
+              },
+              {
+                "adjustedStart": "0:00:47.16",
+                "adjustedEnd": "0:01:02",
+                "start": "0:00:47.16",
+                "end": "0:01:02"
+              },
+              {
+                "adjustedStart": "0:01:02.92",
+                "adjustedEnd": "0:01:13.56",
+                "start": "0:01:02.92",
+                "end": "0:01:13.56"
+              },
+              {
+                "adjustedStart": "0:01:13.68",
+                "adjustedEnd": "0:01:14.2",
+                "start": "0:01:13.68",
+                "end": "0:01:14.2"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 0,
+          "speakerTalkToListenRatio": {
+            "1": 1
+          },
+          "speakerLongestMonolog": {
+            "1": 71
+          },
+          "speakerNumberOfFragments": {
+            "1": 4
+          },
+          "speakerWordCount": {
+            "1": 177
+          }
+        }
+      },
+      "thumbnailId": "fb26a475-3230-486d-b254-e00f96e75dc4",
+      "width": 1920,
+      "height": 1080,
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [
+        "en-US"
+      ],
+      "language": "en-US",
+      "languages": [
+        "en-US"
+      ],
+      "indexingPreset": "Default",
+      "streamingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "logoGroupId": null,
+      "isAdult": false,
+      "excludedAIs": [],
+      "isSearchable": true,
+      "publishedUrl": "https://api.videoindexer.ai/internals/eastus/Accounts/fbafe9ff-1c94-40bd-987e-a4e4dfe52365/Videos/ih8le7856j/streaming-manifest/manifest.m3u8",
+      "publishedProxyUrl": null,
+      "viewToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJWZXJzaW9uIjoiMi4wLjAuMCIsIktleVZlcnNpb24iOiI1YmZmYWI1MTUwZWI0NGM4ODMzNzE2NzVhNzcwYzU4YSIsIkFjY291bnRJZCI6ImZiYWZlOWZmLTFjOTQtNDBiZC05ODdlLWE0ZTRkZmU1MjM2NSIsIkFjY291bnRUeXBlIjoiQ2xhc3NpYyIsIlZpZGVvSWQiOiJpaDhsZTc4NTZqIiwiUGVybWlzc2lvbiI6IlJlc3RyaWN0ZWRWaWV3ZXIiLCJFeHRlcm5hbFVzZXJJZCI6IjYxMzM3QzI2RUFCQjRGNEU5MjA3NURBNjAyQ0IyQTQzIiwiVXNlclR5cGUiOiJNaWNyb3NvZnRDb3JwQWFkIiwiSXNzdWVyTG9jYXRpb24iOiJlYXN0dXMiLCJuYmYiOjE3NjE5Nzg5NTcsImV4cCI6MTc2MTk4Mjg1NywiaXNzIjoiaHR0cHM6Ly9hcGkudmlkZW9pbmRleGVyLmFpLyIsImF1ZCI6Imh0dHBzOi8vYXBpLnZpZGVvaW5kZXhlci5haS8ifQ.ThcBZZbjfLeYEUswkqfHbxlpAiH7uE7V2b3t5uOit2e3Pe76CXK7TZTGcmuv6aVs3y_VC_QDr1HMKV2aeIf1jyty5t2PffprcKrXLjlhQkGBPAxsT470WGcunaSj9dMO64PksRtd4o8UX8WAXOm3LihqdxXe0x8fNVtSS48yGM6SuAnrvyRVrqLcBw2YQVi3s6Hh8ZpxHsvInnJAZ0lxBLe3a5IrdComoZkcPMc-MNH7LKx0H1Fhd5xZOK01Y7VVA6RIpGkplLbc8vCWHp7zCyBeHEHNkSOM8nhZs5FGEvYrXc-mwwH0iBri_gl0DHxqU1DP-1L6Ui5hET_0GGWNtA"
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "ih8le7856j",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:01:14.676"
+      }
+    }
+  ]
+}

@@ -1,0 +1,6614 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+  "id": "nsptk8syu1",
+  "name": "Uploads from OnPrintShop Web-to-Print Storefront - 140 - Shipping Markup Feature",
+  "userName": "Abdul Moiz",
+  "created": "2025-11-01T04:28:43.1233333+00:00",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 52,
+  "duration": "0:00:52.965",
+  "summarizedInsights": {
+    "name": "Uploads from OnPrintShop Web-to-Print Storefront - 140 - Shipping Markup Feature",
+    "id": "nsptk8syu1",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:00:52.965",
+      "seconds": 53
+    },
+    "thumbnailVideoId": "nsptk8syu1",
+    "thumbnailId": "b04816eb-c282-48a3-a8c5-13c224a73a52",
+    "faces": [],
+    "keywords": [
+      {
+        "isTranscript": false,
+        "id": 1,
+        "name": "ate windows",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:52.0333333",
+            "startSeconds": 0,
+            "endSeconds": 52
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 2,
+        "name": "shipping cost",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:24.0333333",
+            "startSeconds": 0,
+            "endSeconds": 24
+          },
+          {
+            "startTime": "0:00:28",
+            "endTime": "0:00:47.0333333",
+            "startSeconds": 28,
+            "endSeconds": 47
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 3,
+        "name": "shipping markup",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:24.0333333",
+            "startSeconds": 0,
+            "endSeconds": 24
+          },
+          {
+            "startTime": "0:00:28",
+            "endTime": "0:00:47.0333333",
+            "startSeconds": 28,
+            "endSeconds": 47
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 4,
+        "name": "default markup",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:24.0333333",
+            "startSeconds": 0,
+            "endSeconds": 24
+          },
+          {
+            "startTime": "0:00:30",
+            "endTime": "0:00:47.0333333",
+            "startSeconds": 30,
+            "endSeconds": 47
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 5,
+        "name": "markup rule",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:24.0333333",
+            "startSeconds": 0,
+            "endSeconds": 24
+          },
+          {
+            "startTime": "0:00:30",
+            "endTime": "0:00:47.0333333",
+            "startSeconds": 30,
+            "endSeconds": 47
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 6,
+        "name": "day air",
+        "appearances": [
+          {
+            "startTime": "0:00:25",
+            "endTime": "0:00:47.0333333",
+            "startSeconds": 25,
+            "endSeconds": 47
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 7,
+        "name": "worldwide express",
+        "appearances": [
+          {
+            "startTime": "0:00:33",
+            "endTime": "0:00:47.0333333",
+            "startSeconds": 33,
+            "endSeconds": 47
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 8,
+        "name": "shipping method",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:47.0333333",
+            "startSeconds": 0,
+            "endSeconds": 47
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 9,
+        "name": "activate windows",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:52.0333333",
+            "startSeconds": 0,
+            "endSeconds": 52
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 10,
+        "name": "orders",
+        "appearances": [
+          {
+            "startTime": "0:00:25",
+            "endTime": "0:00:27.0333333",
+            "startSeconds": 25,
+            "endSeconds": 27
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 11,
+        "name": "shipping",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:24.0333333",
+            "startSeconds": 0,
+            "endSeconds": 24
+          },
+          {
+            "startTime": "0:00:28",
+            "endTime": "0:00:47.0333333",
+            "startSeconds": 28,
+            "endSeconds": 47
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 12,
+        "name": "markup",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:24.0333333",
+            "startSeconds": 0,
+            "endSeconds": 24
+          },
+          {
+            "startTime": "0:00:30",
+            "endTime": "0:00:47.0333333",
+            "startSeconds": 30,
+            "endSeconds": 47
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 13,
+        "name": "store",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:47.0333333",
+            "startSeconds": 0,
+            "endSeconds": 47
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 14,
+        "name": "print",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:52.0333333",
+            "startSeconds": 0,
+            "endSeconds": 52
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 15,
+        "name": "settings",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:52.0333333",
+            "startSeconds": 0,
+            "endSeconds": 52
+          }
+        ]
+      }
+    ],
+    "sentiments": [
+      {
+        "sentimentKey": "Neutral",
+        "seenDurationRatio": 1,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:52.965",
+            "startSeconds": 0,
+            "endSeconds": 53
+          }
+        ]
+      }
+    ],
+    "emotions": [],
+    "audioEffects": [
+      {
+        "audioEffectKey": "Silence",
+        "seenDurationRatio": 0.3266,
+        "seenDuration": 17.3,
+        "appearances": [
+          {
+            "confidence": 1,
+            "startTime": "0:00:00",
+            "endTime": "0:00:01.5",
+            "startSeconds": 0,
+            "endSeconds": 1.5
+          },
+          {
+            "confidence": 1,
+            "startTime": "0:00:12",
+            "endTime": "0:00:13.5",
+            "startSeconds": 12,
+            "endSeconds": 13.5
+          },
+          {
+            "confidence": 0.8666,
+            "startTime": "0:00:23.92",
+            "endTime": "0:00:32.92",
+            "startSeconds": 23.9,
+            "endSeconds": 32.9
+          },
+          {
+            "confidence": 1,
+            "startTime": "0:00:36.36",
+            "endTime": "0:00:37.86",
+            "startSeconds": 36.4,
+            "endSeconds": 37.9
+          },
+          {
+            "confidence": 1,
+            "startTime": "0:00:41.76",
+            "endTime": "0:00:43.26",
+            "startSeconds": 41.8,
+            "endSeconds": 43.3
+          },
+          {
+            "confidence": 1,
+            "startTime": "0:00:44.6",
+            "endTime": "0:00:46.1",
+            "startSeconds": 44.6,
+            "endSeconds": 46.1
+          },
+          {
+            "confidence": 0.8104,
+            "startTime": "0:00:52.16",
+            "endTime": "0:00:52.965",
+            "startSeconds": 52.2,
+            "endSeconds": 53
+          }
+        ]
+      }
+    ],
+    "labels": [
+      {
+        "id": 1,
+        "name": "text",
+        "appearances": [
+          {
+            "confidence": 1,
+            "startTime": "0:00:00",
+            "endTime": "0:00:52.0333333",
+            "startSeconds": 0,
+            "endSeconds": 52
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "software",
+        "appearances": [
+          {
+            "confidence": 0.9593,
+            "startTime": "0:00:28",
+            "endTime": "0:00:32.0333333",
+            "startSeconds": 28,
+            "endSeconds": 32
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "font",
+        "appearances": [
+          {
+            "confidence": 0.9587,
+            "startTime": "0:00:48",
+            "endTime": "0:00:52.0333333",
+            "startSeconds": 48,
+            "endSeconds": 52
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "display",
+        "appearances": [
+          {
+            "confidence": 0.9508,
+            "startTime": "0:00:26",
+            "endTime": "0:00:29.0333333",
+            "startSeconds": 26,
+            "endSeconds": 29
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "computer",
+        "appearances": [
+          {
+            "confidence": 0.9602,
+            "startTime": "0:00:28",
+            "endTime": "0:00:28.0333333",
+            "startSeconds": 28,
+            "endSeconds": 28
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "electronics",
+        "appearances": [
+          {
+            "confidence": 0.9938,
+            "startTime": "0:00:31",
+            "endTime": "0:00:31.0333333",
+            "startSeconds": 31,
+            "endSeconds": 31
+          }
+        ]
+      }
+    ],
+    "framePatterns": [],
+    "brands": [
+      {
+        "referenceId": "United_Parcel_Service",
+        "referenceUrl": "http://en.wikipedia.org/wiki/United_Parcel_Service",
+        "confidence": 0.89,
+        "description": "United Parcel Service, Inc. (UPS) is the world's largest package delivery company and a provider of supply chain management solutions. The global logistics company is headquartered in Sandy Springs, Georgia, which is part of the Greater Atlanta metropolitan area.",
+        "seenDuration": 14,
+        "id": 1,
+        "name": "United Parcel Service",
+        "appearances": [
+          {
+            "startTime": "0:00:33",
+            "endTime": "0:00:47.0333333",
+            "startSeconds": 33,
+            "endSeconds": 47
+          }
+        ]
+      },
+      {
+        "referenceId": "Direct_Air",
+        "referenceUrl": "http://en.wikipedia.org/wiki/Direct_Air",
+        "confidence": 0.68,
+        "description": "Southern Sky Air Tours, d/b/a Direct Air was an airline business based in Myrtle Beach, South Carolina, USA Direct Air started in 2007 and leased aircraft with charter airlines. Its main base was Myrtle Beach International Airport. Direct Air's flights were operated by Sky King, Inc., Xtra Airways, World Atlantic Airlines, and USA Jet.",
+        "seenDuration": 14,
+        "id": 3,
+        "name": "Direct Air",
+        "appearances": [
+          {
+            "startTime": "0:00:33",
+            "endTime": "0:00:47.0333333",
+            "startSeconds": 33,
+            "endSeconds": 47
+          }
+        ]
+      },
+      {
+        "referenceId": "FedEx",
+        "referenceUrl": "http://en.wikipedia.org/wiki/FedEx",
+        "confidence": 1,
+        "description": "FedEx Corporation is an American global courier delivery services company headquartered in Memphis, Tennessee. The name \"FedEx\" is a syllabic abbreviation of the name of the company's original air division, Federal Express, which was used from 1973 until 2000.",
+        "seenDuration": 3,
+        "id": 4,
+        "name": "FedEx",
+        "appearances": [
+          {
+            "startTime": "0:00:29",
+            "endTime": "0:00:32.0333333",
+            "startSeconds": 29,
+            "endSeconds": 32
+          }
+        ]
+      },
+      {
+        "referenceId": "Kerio_Technologies",
+        "referenceUrl": "http://en.wikipedia.org/wiki/Kerio_Technologies",
+        "confidence": 0.74,
+        "description": "Kerio Technologies, Inc. (or simply Kerio) is a global technology company specializing in collaboration software and Unified threat management solutions for small and medium organizations. Kerio sells its solutions through a network of more than 6,000 reseller partners. The company currently has more than 60,000 customers and millions of users of its technologies.",
+        "seenDuration": 0,
+        "id": 2,
+        "name": "Kerio Technologies",
+        "appearances": [
+          {
+            "startTime": "0:00:32",
+            "endTime": "0:00:32.0333333",
+            "startSeconds": 32,
+            "endSeconds": 32
+          }
+        ]
+      }
+    ],
+    "namedLocations": [
+      {
+        "referenceId": null,
+        "referenceUrl": null,
+        "confidence": 0.46,
+        "description": null,
+        "seenDuration": 1.4,
+        "id": 1,
+        "name": "shop",
+        "appearances": [
+          {
+            "startTime": "0:00:00.64",
+            "endTime": "0:00:01.96",
+            "startSeconds": 0.6,
+            "endSeconds": 2
+          }
+        ]
+      }
+    ],
+    "namedPeople": [],
+    "statistics": {
+      "correspondenceCount": 1,
+      "speakerTalkToListenRatio": {
+        "1": 0.317,
+        "2": 0.682
+      },
+      "speakerLongestMonolog": {
+        "1": 11,
+        "2": 24
+      },
+      "speakerNumberOfFragments": {
+        "1": 2,
+        "2": 6
+      },
+      "speakerWordCount": {
+        "1": 33,
+        "2": 60
+      }
+    },
+    "topics": [
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/business information/strategy and marketing/business governance",
+        "iabName": "Business and Finance",
+        "confidence": 0.9119,
+        "id": 1,
+        "name": "Business",
+        "appearances": [
+          {
+            "startTime": "0:00:00.64",
+            "endTime": "0:00:23.92",
+            "startSeconds": 0.6,
+            "endSeconds": 23.9
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/construction and property/design and engineering",
+        "iabName": "Fine Art",
+        "confidence": 0.6128,
+        "id": 2,
+        "name": "Design",
+        "appearances": [
+          {
+            "startTime": "0:00:34.24",
+            "endTime": "0:00:44.6",
+            "startSeconds": 34.2,
+            "endSeconds": 44.6
+          }
+        ]
+      },
+      {
+        "referenceUrl": "https://en.wikipedia.org/wiki/Category:Companies",
+        "iptcName": null,
+        "iabName": null,
+        "confidence": 0.5792,
+        "id": 3,
+        "name": "Companies",
+        "appearances": [
+          {
+            "startTime": "0:00:32",
+            "endTime": "0:00:47.0333333",
+            "startSeconds": 32,
+            "endSeconds": 47
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/retail",
+        "iabName": "Shopping",
+        "confidence": 0.5526,
+        "id": 4,
+        "name": "Shopping",
+        "appearances": [
+          {
+            "startTime": "0:00:00.64",
+            "endTime": "0:00:23.92",
+            "startSeconds": 0.6,
+            "endSeconds": 23.9
+          }
+        ]
+      }
+    ]
+  },
+  "videos": [
+    {
+      "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+      "id": "nsptk8syu1",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:00:52.965",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [
+          "en-US"
+        ],
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "transcript": [
+          {
+            "id": 1,
+            "text": "Welcome to on print shop.",
+            "confidence": 0.6201,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.64",
+                "adjustedEnd": "0:00:01.96",
+                "start": "0:00:00.64",
+                "end": "0:00:01.96"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "This video is about shipping markup over shipping cost.",
+            "confidence": 0.8853,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.96",
+                "adjustedEnd": "0:00:05.2",
+                "start": "0:00:01.96",
+                "end": "0:00:05.2"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "You can put default markup percentage.",
+            "confidence": 0.9582,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:05.24",
+                "adjustedEnd": "0:00:07.4",
+                "start": "0:00:05.24",
+                "end": "0:00:07.4"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "Also you can change percentage markup with condition if shipping cost is high.",
+            "confidence": 0.9565,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07.4",
+                "adjustedEnd": "0:00:12",
+                "start": "0:00:07.4",
+                "end": "0:00:12"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "Sometimes it's critical when markup is a higher percentage and shipping price is also high.",
+            "confidence": 0.929,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:13.12",
+                "adjustedEnd": "0:00:18.24",
+                "start": "0:00:13.12",
+                "end": "0:00:18.24"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "In that condition total shipping cost is too big.",
+            "confidence": 0.9604,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:18.28",
+                "adjustedEnd": "0:00:20.96",
+                "start": "0:00:18.28",
+                "end": "0:00:20.96"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "To avoid that, we introduced markup rule over shipping.",
+            "confidence": 0.9509,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20.96",
+                "adjustedEnd": "0:00:23.92",
+                "start": "0:00:20.96",
+                "end": "0:00:23.92"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "Put default markup percentage here.",
+            "confidence": 0.9046,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:34.24",
+                "adjustedEnd": "0:00:36.36",
+                "start": "0:00:34.24",
+                "end": "0:00:36.36"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "Put conditional amount, change markup percentage.",
+            "confidence": 0.912,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:36.88",
+                "adjustedEnd": "0:00:41.76",
+                "start": "0:00:36.88",
+                "end": "0:00:41.76"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "Set maximum markup amount.",
+            "confidence": 0.9529,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:42.8",
+                "adjustedEnd": "0:00:44.6",
+                "start": "0:00:42.8",
+                "end": "0:00:44.6"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "If you have any queries, please contact us at support@onprintshop.com.",
+            "confidence": 0.8105,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:47.44",
+                "adjustedEnd": "0:00:51.68",
+                "start": "0:00:47.44",
+                "end": "0:00:51.68"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "Thank you.",
+            "confidence": 0.903,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:51.68",
+                "adjustedEnd": "0:00:52.16",
+                "start": "0:00:51.68",
+                "end": "0:00:52.16"
+              }
+            ]
+          }
+        ],
+        "ocr": [
+          {
+            "id": 1,
+            "text": "918",
+            "confidence": 0.997,
+            "left": 315,
+            "top": 284,
+            "width": 24,
+            "height": 14,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "900",
+            "confidence": 0.978,
+            "left": 1680,
+            "top": 322,
+            "width": 40,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:25.0333333",
+                "start": "0:00:25",
+                "end": "0:00:25.0333333"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "917",
+            "confidence": 0.997,
+            "left": 311,
+            "top": 336,
+            "width": 28,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "906",
+            "confidence": 0.948,
+            "left": 1568,
+            "top": 364,
+            "width": 66,
+            "height": 14,
+            "angle": -3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:25.0333333",
+                "start": "0:00:25",
+                "end": "0:00:25.0333333"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "916",
+            "confidence": 0.995,
+            "left": 310,
+            "top": 387,
+            "width": 25,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:25.0333333",
+                "start": "0:00:25",
+                "end": "0:00:25.0333333"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "915",
+            "confidence": 0.997,
+            "left": 315,
+            "top": 438,
+            "width": 23,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "894",
+            "confidence": 0.993,
+            "left": 1390,
+            "top": 441,
+            "width": 36,
+            "height": 14,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:25.0333333",
+                "start": "0:00:25",
+                "end": "0:00:25.0333333"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "914",
+            "confidence": 0.996,
+            "left": 311,
+            "top": 489,
+            "width": 25,
+            "height": 14,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "150000.00",
+            "confidence": 0.994,
+            "left": 250,
+            "top": 739,
+            "width": 48,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:26.0333333",
+                "start": "0:00:25",
+                "end": "0:00:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "26",
+            "confidence": 0.955,
+            "left": 823,
+            "top": 745,
+            "width": 17,
+            "height": 18,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "27",
+            "confidence": 0.992,
+            "left": 877,
+            "top": 739,
+            "width": 21,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "25",
+            "confidence": 1,
+            "left": 1490,
+            "top": 329,
+            "width": 18,
+            "height": 20,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              },
+              {
+                "adjustedStart": "0:00:34",
+                "adjustedEnd": "0:00:34.0333333",
+                "start": "0:00:34",
+                "end": "0:00:34.0333333"
+              },
+              {
+                "adjustedStart": "0:00:36",
+                "adjustedEnd": "0:00:36.0333333",
+                "start": "0:00:36",
+                "end": "0:00:36.0333333"
+              },
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:38.0333333",
+                "start": "0:00:38",
+                "end": "0:00:38.0333333"
+              },
+              {
+                "adjustedStart": "0:00:42",
+                "adjustedEnd": "0:00:44.0333333",
+                "start": "0:00:42",
+                "end": "0:00:44.0333333"
+              },
+              {
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:46",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "20",
+            "confidence": 0.978,
+            "left": 327,
+            "top": 774,
+            "width": 17,
+            "height": 18,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "100000.00",
+            "confidence": 0.986,
+            "left": 248,
+            "top": 791,
+            "width": 50,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:25.0333333",
+                "start": "0:00:25",
+                "end": "0:00:25.0333333"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "17",
+            "confidence": 0.998,
+            "left": 528,
+            "top": 930,
+            "width": 19,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:26.0333333",
+                "start": "0:00:25",
+                "end": "0:00:26.0333333"
+              },
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "18",
+            "confidence": 0.944,
+            "left": 933,
+            "top": 785,
+            "width": 19,
+            "height": 18,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "13",
+            "confidence": 0.998,
+            "left": 275,
+            "top": 868,
+            "width": 16,
+            "height": 14,
+            "angle": -4,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              },
+              {
+                "adjustedStart": "0:00:35",
+                "adjustedEnd": "0:00:36.0333333",
+                "start": "0:00:35",
+                "end": "0:00:36.0333333"
+              },
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:38.0333333",
+                "start": "0:00:38",
+                "end": "0:00:38.0333333"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:41.0333333",
+                "start": "0:00:41",
+                "end": "0:00:41.0333333"
+              },
+              {
+                "adjustedStart": "0:00:43",
+                "adjustedEnd": "0:00:44.0333333",
+                "start": "0:00:43",
+                "end": "0:00:44.0333333"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "86",
+            "confidence": 0.996,
+            "left": 1455,
+            "top": 881,
+            "width": 17,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "3005",
+            "confidence": 0.993,
+            "left": 1798,
+            "top": 876,
+            "width": 25,
+            "height": 15,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:25.0333333",
+                "start": "0:00:25",
+                "end": "0:00:25.0333333"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "774",
+            "confidence": 0.996,
+            "left": 310,
+            "top": 1005,
+            "width": 41,
+            "height": 21,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:25.0333333",
+                "start": "0:00:25",
+                "end": "0:00:25.0333333"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "text": "58",
+            "confidence": 0.995,
+            "left": 503,
+            "top": 1005,
+            "width": 30,
+            "height": 21,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:26.0333333",
+                "start": "0:00:25",
+                "end": "0:00:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "text": "324",
+            "confidence": 0.993,
+            "left": 696,
+            "top": 1007,
+            "width": 37,
+            "height": 19,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "text": "220323.20",
+            "confidence": 0.987,
+            "left": 477,
+            "top": 649,
+            "width": 50,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:26",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "text": "910",
+            "confidence": 0.96,
+            "left": 1391,
+            "top": 284,
+            "width": 37,
+            "height": 14,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:27",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:27",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "text": "292",
+            "confidence": 0.965,
+            "left": 1748,
+            "top": 79,
+            "width": 29,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:28",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "text": "10",
+            "confidence": 0.998,
+            "left": 275,
+            "top": 732,
+            "width": 17,
+            "height": 15,
+            "angle": -3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:41.0333333",
+                "start": "0:00:33",
+                "end": "0:00:41.0333333"
+              },
+              {
+                "adjustedStart": "0:00:43",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:43",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "text": "11",
+            "confidence": 1,
+            "left": 275,
+            "top": 776,
+            "width": 14,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:35.0333333",
+                "start": "0:00:33",
+                "end": "0:00:35.0333333"
+              },
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:41.0333333",
+                "start": "0:00:37",
+                "end": "0:00:41.0333333"
+              },
+              {
+                "adjustedStart": "0:00:43",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:43",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "text": "12",
+            "confidence": 0.999,
+            "left": 276,
+            "top": 822,
+            "width": 15,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "text": "14",
+            "confidence": 0.998,
+            "left": 274,
+            "top": 911,
+            "width": 17,
+            "height": 15,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "text": "15",
+            "confidence": 0.999,
+            "left": 275,
+            "top": 956,
+            "width": 17,
+            "height": 15,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 31,
+            "text": "200",
+            "confidence": 0.996,
+            "left": 920,
+            "top": 331,
+            "width": 30,
+            "height": 19,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:37",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 32,
+            "text": "OnPrintShop",
+            "confidence": 0.995,
+            "left": 700,
+            "top": 89,
+            "width": 748,
+            "height": 110,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:00",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 33,
+            "text": "TM",
+            "confidence": 0.996,
+            "left": 1445,
+            "top": 99,
+            "width": 34,
+            "height": 22,
+            "angle": -3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:24.0333333",
+                "start": "0:00:00",
+                "end": "0:00:24.0333333"
+              },
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:48.0333333",
+                "start": "0:00:48",
+                "end": "0:00:48.0333333"
+              }
+            ]
+          },
+          {
+            "id": 34,
+            "text": "Web-to-Print Storefront",
+            "confidence": 0.995,
+            "left": 1476,
+            "top": 826,
+            "width": 296,
+            "height": 25,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:24.0333333",
+                "start": "0:00:00",
+                "end": "0:00:24.0333333"
+              },
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 35,
+            "text": "Shipping Setup V7.1 (Part I)",
+            "confidence": 0.9376,
+            "left": 348,
+            "top": 471,
+            "width": 1229,
+            "height": 107,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:00.0333333",
+                "start": "0:00:00",
+                "end": "0:00:00.0333333"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "text": "(Blind Shipping, Markup & Label Generation)",
+            "confidence": 0.9962,
+            "left": 224,
+            "top": 591,
+            "width": 1482,
+            "height": 82,
+            "angle": 0,
+            "language": "de-DE",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:00.0333333",
+                "start": "0:00:00",
+                "end": "0:00:00.0333333"
+              }
+            ]
+          },
+          {
+            "id": 37,
+            "text": "Simplifying IT for Print Industry",
+            "confidence": 0.9952,
+            "left": 545,
+            "top": 932,
+            "width": 828,
+            "height": 66,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:24.0333333",
+                "start": "0:00:00",
+                "end": "0:00:24.0333333"
+              }
+            ]
+          },
+          {
+            "id": 38,
+            "text": "Activate Windows",
+            "confidence": 0.998,
+            "left": 1600,
+            "top": 944,
+            "width": 161,
+            "height": 19,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:00",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 39,
+            "text": "Go to Settings to activate Windows.",
+            "confidence": 0.995,
+            "left": 1602,
+            "top": 968,
+            "width": 237,
+            "height": 18,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:00",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 40,
+            "text": "Shipping Markup Over",
+            "confidence": 0.9963,
+            "left": 456,
+            "top": 455,
+            "width": 1006,
+            "height": 106,
+            "angle": 0,
+            "language": "de-DE",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:24.0333333",
+                "start": "0:00:01",
+                "end": "0:00:24.0333333"
+              }
+            ]
+          },
+          {
+            "id": 41,
+            "text": "Shipping Cost",
+            "confidence": 0.997,
+            "left": 658,
+            "top": 584,
+            "width": 610,
+            "height": 104,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:24.0333333",
+                "start": "0:00:01",
+                "end": "0:00:24.0333333"
+              }
+            ]
+          },
+          {
+            "id": 42,
+            "text": "x K Tickets > Manage",
+            "confidence": 0.9066,
+            "left": 225,
+            "top": 4,
+            "width": 157,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:25",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 43,
+            "text": "Q Search",
+            "confidence": 0.9725,
+            "left": 30,
+            "top": 123,
+            "width": 69,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:43.0333333",
+                "start": "0:00:25",
+                "end": "0:00:43.0333333"
+              },
+              {
+                "adjustedStart": "0:00:45",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:45",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 44,
+            "text": "Add on Plugins/Services",
+            "confidence": 0.9927,
+            "left": 1733,
+            "top": 124,
+            "width": 150,
+            "height": 17,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 45,
+            "text": "Dashboard",
+            "confidence": 0.998,
+            "left": 253,
+            "top": 173,
+            "width": 117,
+            "height": 22,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:25",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 46,
+            "text": "Recent",
+            "confidence": 0.964,
+            "left": 255,
+            "top": 235,
+            "width": 80,
+            "height": 19,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 47,
+            "text": "$ Sales Statistics",
+            "confidence": 0.9923,
+            "left": 805,
+            "top": 237,
+            "width": 132,
+            "height": 17,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 48,
+            "text": "Order Wise",
+            "confidence": 0.997,
+            "left": 1557,
+            "top": 243,
+            "width": 69,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 49,
+            "text": "Order Product Wise",
+            "confidence": 0.9973,
+            "left": 1643,
+            "top": 244,
+            "width": 120,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 50,
+            "text": "View All",
+            "confidence": 0.941,
+            "left": 1791,
+            "top": 238,
+            "width": 48,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 51,
+            "text": "Orders",
+            "confidence": 0.998,
+            "left": 17,
+            "top": 243,
+            "width": 70,
+            "height": 14,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:25.0333333",
+                "start": "0:00:25",
+                "end": "0:00:25.0333333"
+              },
+              {
+                "adjustedStart": "0:00:27",
+                "adjustedEnd": "0:00:33.0333333",
+                "start": "0:00:27",
+                "end": "0:00:33.0333333"
+              },
+              {
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:46.0333333",
+                "start": "0:00:46",
+                "end": "0:00:46.0333333"
+              }
+            ]
+          },
+          {
+            "id": 52,
+            "text": "Customers Quotes",
+            "confidence": 0.9955,
+            "left": 597,
+            "top": 243,
+            "width": 129,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:25.0333333",
+                "start": "0:00:25",
+                "end": "0:00:25.0333333"
+              }
+            ]
+          },
+          {
+            "id": 53,
+            "text": "Quote Management",
+            "confidence": 0.9975,
+            "left": 44,
+            "top": 276,
+            "width": 126,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:25",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 54,
+            "text": "$ 98.99",
+            "confidence": 0.993,
+            "left": 415,
+            "top": 275,
+            "width": 48,
+            "height": 15,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 55,
+            "text": "Naresh Devra",
+            "confidence": 0.998,
+            "left": 551,
+            "top": 275,
+            "width": 90,
+            "height": 16,
+            "angle": 1,
+            "language": "fr-FR",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 56,
+            "text": "1 day 18 hr ago",
+            "confidence": 0.9292,
+            "left": 412,
+            "top": 295,
+            "width": 80,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 57,
+            "text": "$ 0.00",
+            "confidence": 0.993,
+            "left": 903,
+            "top": 288,
+            "width": 42,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 58,
+            "text": "Yesterday",
+            "confidence": 0.997,
+            "left": 1012,
+            "top": 297,
+            "width": 62,
+            "height": 15,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 59,
+            "text": "$ 0.0",
+            "confidence": 0.99,
+            "left": 1096,
+            "top": 289,
+            "width": 32,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:25.0333333",
+                "start": "0:00:25",
+                "end": "0:00:25.0333333"
+              }
+            ]
+          },
+          {
+            "id": 60,
+            "text": "Watch list",
+            "confidence": 0.994,
+            "left": 1292,
+            "top": 282,
+            "width": 66,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:25.0333333",
+                "start": "0:00:25",
+                "end": "0:00:25.0333333"
+              }
+            ]
+          },
+          {
+            "id": 61,
+            "text": "$ 331.97",
+            "confidence": 0.993,
+            "left": 413,
+            "top": 326,
+            "width": 53,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "text": "Corporate Management",
+            "confidence": 0.9955,
+            "left": 43,
+            "top": 350,
+            "width": 150,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:25",
+                "end": "0:00:32.0333333"
+              },
+              {
+                "adjustedStart": "0:00:36",
+                "adjustedEnd": "0:00:37.0333333",
+                "start": "0:00:36",
+                "end": "0:00:37.0333333"
+              }
+            ]
+          },
+          {
+            "id": 63,
+            "text": "2 days 2 hr ago",
+            "confidence": 0.9938,
+            "left": 413,
+            "top": 345,
+            "width": 80,
+            "height": 14,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 64,
+            "text": "$ 430.96",
+            "confidence": 0.9935,
+            "left": 905,
+            "top": 361,
+            "width": 52,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 65,
+            "text": "$ 411.08",
+            "confidence": 0.992,
+            "left": 1096,
+            "top": 361,
+            "width": 51,
+            "height": 16,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 66,
+            "text": "$ 150.00",
+            "confidence": 0.9935,
+            "left": 413,
+            "top": 377,
+            "width": 56,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 67,
+            "text": "Naimish Patel",
+            "confidence": 0.998,
+            "left": 552,
+            "top": 379,
+            "width": 87,
+            "height": 14,
+            "angle": 0,
+            "language": "es-ES",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 68,
+            "text": "This Week",
+            "confidence": 0.995,
+            "left": 818,
+            "top": 371,
+            "width": 70,
+            "height": 16,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 69,
+            "text": "Last Week",
+            "confidence": 0.996,
+            "left": 1012,
+            "top": 372,
+            "width": 63,
+            "height": 15,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 70,
+            "text": "4 days 17 hr ago",
+            "confidence": 0.9884,
+            "left": 413,
+            "top": 396,
+            "width": 85,
+            "height": 15,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 71,
+            "text": "$ 4.49",
+            "confidence": 0.991,
+            "left": 416,
+            "top": 427,
+            "width": 37,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "text": "$ 842.04",
+            "confidence": 0.9915,
+            "left": 904,
+            "top": 434,
+            "width": 51,
+            "height": 16,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 73,
+            "text": "Last Month",
+            "confidence": 0.997,
+            "left": 1005,
+            "top": 446,
+            "width": 69,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 74,
+            "text": "$ 5,439.44",
+            "confidence": 0.9715,
+            "left": 1095,
+            "top": 434,
+            "width": 65,
+            "height": 16,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 75,
+            "text": "5 days 15 hr ago",
+            "confidence": 0.9934,
+            "left": 414,
+            "top": 446,
+            "width": 85,
+            "height": 15,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 76,
+            "text": "This Month",
+            "confidence": 0.9965,
+            "left": 812,
+            "top": 446,
+            "width": 74,
+            "height": 15,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 77,
+            "text": "Content Management",
+            "confidence": 0.9965,
+            "left": 41,
+            "top": 457,
+            "width": 137,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:25",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 78,
+            "text": "SEO",
+            "confidence": 0.993,
+            "left": 43,
+            "top": 492,
+            "width": 29,
+            "height": 13,
+            "angle": 0,
+            "language": "ga-IE",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:25.0333333",
+                "start": "0:00:25",
+                "end": "0:00:25.0333333"
+              },
+              {
+                "adjustedStart": "0:00:27",
+                "adjustedEnd": "0:00:33.0333333",
+                "start": "0:00:27",
+                "end": "0:00:33.0333333"
+              },
+              {
+                "adjustedStart": "0:00:35",
+                "adjustedEnd": "0:00:42.0333333",
+                "start": "0:00:35",
+                "end": "0:00:42.0333333"
+              },
+              {
+                "adjustedStart": "0:00:45",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:45",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 79,
+            "text": "$ 12.00",
+            "confidence": 0.994,
+            "left": 413,
+            "top": 479,
+            "width": 49,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 80,
+            "text": "Sandeep Kshatriya",
+            "confidence": 0.9975,
+            "left": 554,
+            "top": 481,
+            "width": 114,
+            "height": 13,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 81,
+            "text": "This Year",
+            "confidence": 0.9955,
+            "left": 826,
+            "top": 520,
+            "width": 59,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 82,
+            "text": "$ 121,484.08",
+            "confidence": 0.989,
+            "left": 905,
+            "top": 509,
+            "width": 78,
+            "height": 16,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 83,
+            "text": "Last Year",
+            "confidence": 0.9965,
+            "left": 1018,
+            "top": 520,
+            "width": 57,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 84,
+            "text": "$ 1,032,441.60",
+            "confidence": 0.9415,
+            "left": 1095,
+            "top": 511,
+            "width": 78,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 85,
+            "text": "Store Personalization",
+            "confidence": 0.993,
+            "left": 14,
+            "top": 530,
+            "width": 162,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:37.0333333",
+                "start": "0:00:25",
+                "end": "0:00:37.0333333"
+              },
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:39",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 86,
+            "text": "(302 Orders)",
+            "confidence": 0.996,
+            "left": 1095,
+            "top": 529,
+            "width": 67,
+            "height": 15,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:25.0333333",
+                "start": "0:00:25",
+                "end": "0:00:25.0333333"
+              },
+              {
+                "adjustedStart": "0:00:27",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:27",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 87,
+            "text": "Order No.",
+            "confidence": 0.9805,
+            "left": 265,
+            "top": 539,
+            "width": 65,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:25.0333333",
+                "start": "0:00:25",
+                "end": "0:00:25.0333333"
+              },
+              {
+                "adjustedStart": "0:00:27",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:27",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 88,
+            "text": "Store Configuration",
+            "confidence": 0.99,
+            "left": 19,
+            "top": 602,
+            "width": 147,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:25",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 89,
+            "text": "es Orders (Last 12 months)",
+            "confidence": 0.9786,
+            "left": 303,
+            "top": 602,
+            "width": 164,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 90,
+            "text": "NO",
+            "confidence": 0.97,
+            "left": 991,
+            "top": 604,
+            "width": 23,
+            "height": 14,
+            "angle": 0,
+            "language": "es-ES",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:25.0333333",
+                "start": "0:00:25",
+                "end": "0:00:25.0333333"
+              }
+            ]
+          },
+          {
+            "id": 91,
+            "text": "Admin",
+            "confidence": 0.998,
+            "left": 38,
+            "top": 970,
+            "width": 48,
+            "height": 14,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:26.0333333",
+                "start": "0:00:25",
+                "end": "0:00:26.0333333"
+              },
+              {
+                "adjustedStart": "0:00:34",
+                "adjustedEnd": "0:00:34.0333333",
+                "start": "0:00:34",
+                "end": "0:00:34.0333333"
+              },
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:38.0333333",
+                "start": "0:00:38",
+                "end": "0:00:38.0333333"
+              },
+              {
+                "adjustedStart": "0:00:44",
+                "adjustedEnd": "0:00:46.0333333",
+                "start": "0:00:44",
+                "end": "0:00:46.0333333"
+              }
+            ]
+          },
+          {
+            "id": 92,
+            "text": "Store Statistics",
+            "confidence": 0.9355,
+            "left": 253,
+            "top": 952,
+            "width": 139,
+            "height": 17,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 93,
+            "text": "11 Sep 2019",
+            "confidence": 0.9147,
+            "left": 1778,
+            "top": 1001,
+            "width": 79,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 94,
+            "text": "OnPrintShop Version 7.1",
+            "confidence": 0.9947,
+            "left": 1106,
+            "top": 1001,
+            "width": 146,
+            "height": 16,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 95,
+            "text": "b2c.forprintshop.com/admin/welcome.php",
+            "confidence": 0.928,
+            "left": 224,
+            "top": 41,
+            "width": 270,
+            "height": 16,
+            "angle": 0,
+            "language": "id-ID",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:26.0333333",
+                "start": "0:00:26",
+                "end": "0:00:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "text": "Customers",
+            "confidence": 0.993,
+            "left": 595,
+            "top": 244,
+            "width": 76,
+            "height": 14,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:26",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 97,
+            "text": "Quotes",
+            "confidence": 0.997,
+            "left": 672,
+            "top": 243,
+            "width": 54,
+            "height": 14,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:26",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 98,
+            "text": "(5 Orders)",
+            "confidence": 0.973,
+            "left": 1096,
+            "top": 383,
+            "width": 55,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:26.0333333",
+                "start": "0:00:26",
+                "end": "0:00:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 99,
+            "text": "Overdue Delivery Today",
+            "confidence": 0.988,
+            "left": 1609,
+            "top": 473,
+            "width": 156,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:26.0333333",
+                "start": "0:00:26",
+                "end": "0:00:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 100,
+            "text": "(164 Orders)",
+            "confidence": 0.9765,
+            "left": 905,
+            "top": 531,
+            "width": 64,
+            "height": 14,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:26",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 101,
+            "text": "Manage Web Storage",
+            "confidence": 0.9973,
+            "left": 33,
+            "top": 666,
+            "width": 132,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:33.0333333",
+                "start": "0:00:26",
+                "end": "0:00:33.0333333"
+              },
+              {
+                "adjustedStart": "0:00:36",
+                "adjustedEnd": "0:00:36.0333333",
+                "start": "0:00:36",
+                "end": "0:00:36.0333333"
+              },
+              {
+                "adjustedStart": "0:00:44",
+                "adjustedEnd": "0:00:44.0333333",
+                "start": "0:00:44",
+                "end": "0:00:44.0333333"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "text": "Manage Form Fields",
+            "confidence": 0.9973,
+            "left": 34,
+            "top": 697,
+            "width": 124,
+            "height": 15,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:33.0333333",
+                "start": "0:00:26",
+                "end": "0:00:33.0333333"
+              },
+              {
+                "adjustedStart": "0:00:42",
+                "adjustedEnd": "0:00:42.0333333",
+                "start": "0:00:42",
+                "end": "0:00:42.0333333"
+              }
+            ]
+          },
+          {
+            "id": 103,
+            "text": "Payments Method",
+            "confidence": 0.9955,
+            "left": 33,
+            "top": 729,
+            "width": 114,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:28.0333333",
+                "start": "0:00:26",
+                "end": "0:00:28.0333333"
+              },
+              {
+                "adjustedStart": "0:00:30",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:30",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 104,
+            "text": "Tax / Vat Settings",
+            "confidence": 0.9958,
+            "left": 35,
+            "top": 794,
+            "width": 103,
+            "height": 13,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:26",
+                "end": "0:00:27.0333333"
+              },
+              {
+                "adjustedStart": "0:00:30",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:30",
+                "end": "0:00:32.0333333"
+              },
+              {
+                "adjustedStart": "0:00:35",
+                "adjustedEnd": "0:00:36.0333333",
+                "start": "0:00:35",
+                "end": "0:00:36.0333333"
+              },
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:38.0333333",
+                "start": "0:00:38",
+                "end": "0:00:38.0333333"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:41.0333333",
+                "start": "0:00:41",
+                "end": "0:00:41.0333333"
+              },
+              {
+                "adjustedStart": "0:00:47",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:47",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 105,
+            "text": "External Service Settings",
+            "confidence": 0.998,
+            "left": 34,
+            "top": 825,
+            "width": 148,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:26",
+                "end": "0:00:27.0333333"
+              },
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:34.0333333",
+                "start": "0:00:29",
+                "end": "0:00:34.0333333"
+              },
+              {
+                "adjustedStart": "0:00:36",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:36",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 106,
+            "text": "Designer Studio",
+            "confidence": 0.9975,
+            "left": 37,
+            "top": 852,
+            "width": 106,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:38.0333333",
+                "start": "0:00:26",
+                "end": "0:00:38.0333333"
+              },
+              {
+                "adjustedStart": "0:00:40",
+                "adjustedEnd": "0:00:42.0333333",
+                "start": "0:00:40",
+                "end": "0:00:42.0333333"
+              },
+              {
+                "adjustedStart": "0:00:44",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:44",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 107,
+            "text": "Reports",
+            "confidence": 0.998,
+            "left": 41,
+            "top": 934,
+            "width": 54,
+            "height": 13,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:26.0333333",
+                "start": "0:00:26",
+                "end": "0:00:26.0333333"
+              }
+            ]
+          },
+          {
+            "id": 108,
+            "text": "Cache",
+            "confidence": 0.998,
+            "left": 1431,
+            "top": 82,
+            "width": 45,
+            "height": 15,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:27",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:27",
+                "end": "0:00:27.0333333"
+              },
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:30.0333333",
+                "start": "0:00:29",
+                "end": "0:00:30.0333333"
+              },
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:33.0333333",
+                "start": "0:00:32",
+                "end": "0:00:33.0333333"
+              },
+              {
+                "adjustedStart": "0:00:35",
+                "adjustedEnd": "0:00:35.0333333",
+                "start": "0:00:35",
+                "end": "0:00:35.0333333"
+              },
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:37.0333333",
+                "start": "0:00:37",
+                "end": "0:00:37.0333333"
+              },
+              {
+                "adjustedStart": "0:00:42",
+                "adjustedEnd": "0:00:42.0333333",
+                "start": "0:00:42",
+                "end": "0:00:42.0333333"
+              },
+              {
+                "adjustedStart": "0:00:45",
+                "adjustedEnd": "0:00:45.0333333",
+                "start": "0:00:45",
+                "end": "0:00:45.0333333"
+              }
+            ]
+          },
+          {
+            "id": 109,
+            "text": "Admin :: Shipping Method",
+            "confidence": 0.9648,
+            "left": 522,
+            "top": 5,
+            "width": 144,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:28",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 110,
+            "text": "Admir",
+            "confidence": 0.94,
+            "left": 18,
+            "top": 93,
+            "width": 37,
+            "height": 13,
+            "angle": 2,
+            "language": "ro-RO",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:28",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 111,
+            "text": "dhawal",
+            "confidence": 0.998,
+            "left": 1818,
+            "top": 90,
+            "width": 48,
+            "height": 12,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:28",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 112,
+            "text": "Products",
+            "confidence": 0.998,
+            "left": 46,
+            "top": 339,
+            "width": 52,
+            "height": 14,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:28",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 113,
+            "text": "Templates",
+            "confidence": 0.996,
+            "left": 45,
+            "top": 376,
+            "width": 63,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:28",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 114,
+            "text": "Business Partners",
+            "confidence": 0.981,
+            "left": 26,
+            "top": 520,
+            "width": 129,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:28",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 115,
+            "text": "Site Settings",
+            "confidence": 0.997,
+            "left": 33,
+            "top": 589,
+            "width": 79,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:28",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 116,
+            "text": "Imposition Beta",
+            "confidence": 0.9565,
+            "left": 41,
+            "top": 861,
+            "width": 100,
+            "height": 15,
+            "angle": 0,
+            "language": "fr-FR",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:33.0333333",
+                "start": "0:00:28",
+                "end": "0:00:33.0333333"
+              },
+              {
+                "adjustedStart": "0:00:42",
+                "adjustedEnd": "0:00:42.0333333",
+                "start": "0:00:42",
+                "end": "0:00:42.0333333"
+              },
+              {
+                "adjustedStart": "0:00:47",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:47",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 117,
+            "text": "Waiting for b2c.forprintshop.com ...",
+            "confidence": 0.9035,
+            "left": 8,
+            "top": 1019,
+            "width": 183,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:29.0333333",
+                "start": "0:00:28",
+                "end": "0:00:29.0333333"
+              }
+            ]
+          },
+          {
+            "id": 118,
+            "text": "YES",
+            "confidence": 0.991,
+            "left": 1495,
+            "top": 81,
+            "width": 40,
+            "height": 18,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:29.0333333",
+                "start": "0:00:29",
+                "end": "0:00:29.0333333"
+              }
+            ]
+          },
+          {
+            "id": 119,
+            "text": "Shipping Method",
+            "confidence": 0.998,
+            "left": 251,
+            "top": 173,
+            "width": 190,
+            "height": 26,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:29",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 120,
+            "text": "+ Manage Zone",
+            "confidence": 0.946,
+            "left": 1354,
+            "top": 178,
+            "width": 114,
+            "height": 14,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:29",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 121,
+            "text": "Search",
+            "confidence": 0.998,
+            "left": 249,
+            "top": 240,
+            "width": 48,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:29",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 122,
+            "text": "Sr#",
+            "confidence": 0.991,
+            "left": 274,
+            "top": 291,
+            "width": 27,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:30.0333333",
+                "start": "0:00:29",
+                "end": "0:00:30.0333333"
+              },
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:32",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 123,
+            "text": "Available To",
+            "confidence": 0.9635,
+            "left": 982,
+            "top": 291,
+            "width": 97,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:29",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 124,
+            "text": "Status",
+            "confidence": 0.993,
+            "left": 1665,
+            "top": 291,
+            "width": 41,
+            "height": 13,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:29",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 125,
+            "text": "Action v",
+            "confidence": 0.979,
+            "left": 1770,
+            "top": 371,
+            "width": 51,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:29",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 126,
+            "text": "Weight Based",
+            "confidence": 0.998,
+            "left": 343,
+            "top": 327,
+            "width": 84,
+            "height": 15,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:29",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 127,
+            "text": "Retailers, All Corporates, Offline",
+            "confidence": 0.98,
+            "left": 1003,
+            "top": 368,
+            "width": 194,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:29",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 128,
+            "text": "UPS",
+            "confidence": 0.952,
+            "left": 345,
+            "top": 368,
+            "width": 26,
+            "height": 13,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:29",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 129,
+            "text": "Quantity Based",
+            "confidence": 0.9745,
+            "left": 344,
+            "top": 411,
+            "width": 93,
+            "height": 16,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:29",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 130,
+            "text": "FedEx",
+            "confidence": 0.957,
+            "left": 344,
+            "top": 449,
+            "width": 37,
+            "height": 16,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:29",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 131,
+            "text": "Local Pickup From Store",
+            "confidence": 0.9973,
+            "left": 343,
+            "top": 492,
+            "width": 147,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:29",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 132,
+            "text": "Showing 1 to 15 of 15 entries",
+            "confidence": 0.9961,
+            "left": 267,
+            "top": 1011,
+            "width": 162,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:29",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 133,
+            "text": "Show 25",
+            "confidence": 0.9955,
+            "left": 992,
+            "top": 542,
+            "width": 71,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:29.0333333",
+                "start": "0:00:29",
+                "end": "0:00:29.0333333"
+              }
+            ]
+          },
+          {
+            "id": 134,
+            "text": "records",
+            "confidence": 0.998,
+            "left": 1109,
+            "top": 545,
+            "width": 52,
+            "height": 12,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:29.0333333",
+                "start": "0:00:29",
+                "end": "0:00:29.0333333"
+              }
+            ]
+          },
+          {
+            "id": 135,
+            "text": "il Reports",
+            "confidence": 0.9435,
+            "left": 25,
+            "top": 934,
+            "width": 69,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:35.0333333",
+                "start": "0:00:29",
+                "end": "0:00:35.0333333"
+              }
+            ]
+          },
+          {
+            "id": 136,
+            "text": "Copyright D2019. All Rights Reserved.",
+            "confidence": 0.9098,
+            "left": 1043,
+            "top": 1006,
+            "width": 196,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:29",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 137,
+            "text": "Edit",
+            "confidence": 0.993,
+            "left": 1582,
+            "top": 409,
+            "width": 54,
+            "height": 15,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:30",
+                "adjustedEnd": "0:00:30.0333333",
+                "start": "0:00:30",
+                "end": "0:00:30.0333333"
+              }
+            ]
+          },
+          {
+            "id": 138,
+            "text": "Markup/Delivery Days",
+            "confidence": 0.962,
+            "left": 1504,
+            "top": 435,
+            "width": 278,
+            "height": 26,
+            "angle": 0,
+            "language": "it-IT",
+            "instances": [
+              {
+                "adjustedStart": "0:00:30",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:30",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 139,
+            "text": "Shipping Package Configuration",
+            "confidence": 0.9267,
+            "left": 1593,
+            "top": 461,
+            "width": 227,
+            "height": 19,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:30",
+                "adjustedEnd": "0:00:30.0333333",
+                "start": "0:00:30",
+                "end": "0:00:30.0333333"
+              }
+            ]
+          },
+          {
+            "id": 140,
+            "text": "Schedule Pickup",
+            "confidence": 0.9635,
+            "left": 1582,
+            "top": 488,
+            "width": 135,
+            "height": 16,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:30",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:30",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 141,
+            "text": "Show",
+            "confidence": 0.995,
+            "left": 992,
+            "top": 542,
+            "width": 46,
+            "height": 16,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:30",
+                "adjustedEnd": "0:00:30.0333333",
+                "start": "0:00:30",
+                "end": "0:00:30.0333333"
+              },
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:32",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 142,
+            "text": "Wed, 11 Sep 2019, 08:50:21",
+            "confidence": 0.9858,
+            "left": 240,
+            "top": 1007,
+            "width": 147,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:30",
+                "adjustedEnd": "0:00:31.0333333",
+                "start": "0:00:30",
+                "end": "0:00:31.0333333"
+              }
+            ]
+          },
+          {
+            "id": 143,
+            "text": "Cache YES",
+            "confidence": 0.995,
+            "left": 1447,
+            "top": 81,
+            "width": 86,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:31.0333333",
+                "start": "0:00:31",
+                "end": "0:00:31.0333333"
+              }
+            ]
+          },
+          {
+            "id": 144,
+            "text": "Show 25 records",
+            "confidence": 0.9797,
+            "left": 992,
+            "top": 542,
+            "width": 169,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:31.0333333",
+                "start": "0:00:31",
+                "end": "0:00:31.0333333"
+              }
+            ]
+          },
+          {
+            "id": 145,
+            "text": "- Kerio Control",
+            "confidence": 0.9657,
+            "left": 120,
+            "top": 5,
+            "width": 86,
+            "height": 12,
+            "angle": 1,
+            "language": "es-ES",
+            "instances": [
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:32",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 146,
+            "text": "re | b2c.forprintshop.com/admin/shipping_markup.php?id=6",
+            "confidence": 0.9197,
+            "left": 200,
+            "top": 38,
+            "width": 380,
+            "height": 19,
+            "angle": 0,
+            "language": "id-ID",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:40.0333333",
+                "start": "0:00:33",
+                "end": "0:00:40.0333333"
+              }
+            ]
+          },
+          {
+            "id": 147,
+            "text": "A Home > Shipping Method > Shipping Configuration Markup",
+            "confidence": 0.9197,
+            "left": 249,
+            "top": 122,
+            "width": 398,
+            "height": 21,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 148,
+            "text": "Shipping Configuration Markup \u00bb UPS_V3.0",
+            "confidence": 0.9746,
+            "left": 248,
+            "top": 171,
+            "width": 421,
+            "height": 30,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 149,
+            "text": "Save & Back",
+            "confidence": 0.9727,
+            "left": 1617,
+            "top": 176,
+            "width": 93,
+            "height": 16,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:34.0333333",
+                "start": "0:00:33",
+                "end": "0:00:34.0333333"
+              },
+              {
+                "adjustedStart": "0:00:36",
+                "adjustedEnd": "0:00:37.0333333",
+                "start": "0:00:36",
+                "end": "0:00:37.0333333"
+              },
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:40.0333333",
+                "start": "0:00:39",
+                "end": "0:00:40.0333333"
+              },
+              {
+                "adjustedStart": "0:00:42",
+                "adjustedEnd": "0:00:43.0333333",
+                "start": "0:00:42",
+                "end": "0:00:43.0333333"
+              },
+              {
+                "adjustedStart": "0:00:45",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:45",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 150,
+            "text": "Shipping Type",
+            "confidence": 0.997,
+            "left": 314,
+            "top": 289,
+            "width": 94,
+            "height": 16,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:35.0333333",
+                "start": "0:00:33",
+                "end": "0:00:35.0333333"
+              },
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:37",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 151,
+            "text": "Default Markup [%]",
+            "confidence": 0.9927,
+            "left": 551,
+            "top": 288,
+            "width": 124,
+            "height": 17,
+            "angle": 0,
+            "language": "de-DE",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 152,
+            "text": "Markup Rule",
+            "confidence": 0.9965,
+            "left": 1053,
+            "top": 289,
+            "width": 84,
+            "height": 16,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 153,
+            "text": "Max Markup Amount",
+            "confidence": 0.9973,
+            "left": 1512,
+            "top": 288,
+            "width": 137,
+            "height": 16,
+            "angle": 1,
+            "language": "de-DE",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 154,
+            "text": "Approx Delivery Days",
+            "confidence": 0.997,
+            "left": 1714,
+            "top": 290,
+            "width": 138,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 155,
+            "text": "Next Day Air",
+            "confidence": 0.9953,
+            "left": 318,
+            "top": 324,
+            "width": 77,
+            "height": 17,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 156,
+            "text": "Shipping Amount >",
+            "confidence": 0.9477,
+            "left": 753,
+            "top": 324,
+            "width": 118,
+            "height": 18,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 157,
+            "text": "THEN",
+            "confidence": 0.995,
+            "left": 1109,
+            "top": 325,
+            "width": 36,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 158,
+            "text": "2nd Day Air",
+            "confidence": 0.996,
+            "left": 314,
+            "top": 371,
+            "width": 76,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 159,
+            "text": "3 Day Select",
+            "confidence": 0.9947,
+            "left": 318,
+            "top": 459,
+            "width": 77,
+            "height": 17,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 160,
+            "text": "Next Day Air Saver",
+            "confidence": 0.9968,
+            "left": 316,
+            "top": 505,
+            "width": 113,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 161,
+            "text": "Next Day Air Early AM",
+            "confidence": 0.9962,
+            "left": 315,
+            "top": 550,
+            "width": 137,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 162,
+            "text": "2nd Day Air AM",
+            "confidence": 0.9908,
+            "left": 315,
+            "top": 596,
+            "width": 98,
+            "height": 16,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 163,
+            "text": "Worldwide Express Plus",
+            "confidence": 0.9953,
+            "left": 317,
+            "top": 686,
+            "width": 148,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 164,
+            "text": "Worldwide Expedited",
+            "confidence": 0.997,
+            "left": 317,
+            "top": 731,
+            "width": 131,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 165,
+            "text": "Saver",
+            "confidence": 0.998,
+            "left": 318,
+            "top": 776,
+            "width": 35,
+            "height": 14,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:33.0333333",
+                "start": "0:00:33",
+                "end": "0:00:33.0333333"
+              },
+              {
+                "adjustedStart": "0:00:35",
+                "adjustedEnd": "0:00:39.0333333",
+                "start": "0:00:35",
+                "end": "0:00:39.0333333"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:42.0333333",
+                "start": "0:00:41",
+                "end": "0:00:42.0333333"
+              },
+              {
+                "adjustedStart": "0:00:44",
+                "adjustedEnd": "0:00:45.0333333",
+                "start": "0:00:44",
+                "end": "0:00:45.0333333"
+              }
+            ]
+          },
+          {
+            "id": 166,
+            "text": "Trade Direct Cross Border",
+            "confidence": 0.998,
+            "left": 318,
+            "top": 821,
+            "width": 158,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 167,
+            "text": "Trade Direct Air",
+            "confidence": 0.9973,
+            "left": 317,
+            "top": 865,
+            "width": 94,
+            "height": 16,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 168,
+            "text": "Trade Direct Ocean",
+            "confidence": 0.998,
+            "left": 319,
+            "top": 910,
+            "width": 116,
+            "height": 16,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 169,
+            "text": "Standard",
+            "confidence": 0.998,
+            "left": 317,
+            "top": 956,
+            "width": 58,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:40.0333333",
+                "start": "0:00:33",
+                "end": "0:00:40.0333333"
+              },
+              {
+                "adjustedStart": "0:00:42",
+                "adjustedEnd": "0:00:42.0333333",
+                "start": "0:00:42",
+                "end": "0:00:42.0333333"
+              },
+              {
+                "adjustedStart": "0:00:44",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:44",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 170,
+            "text": "Worldwide Express",
+            "confidence": 0.9975,
+            "left": 317,
+            "top": 640,
+            "width": 119,
+            "height": 16,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:35",
+                "adjustedEnd": "0:00:35.0333333",
+                "start": "0:00:35",
+                "end": "0:00:35.0333333"
+              },
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:39.0333333",
+                "start": "0:00:38",
+                "end": "0:00:39.0333333"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:41.0333333",
+                "start": "0:00:41",
+                "end": "0:00:41.0333333"
+              },
+              {
+                "adjustedStart": "0:00:44",
+                "adjustedEnd": "0:00:45.0333333",
+                "start": "0:00:44",
+                "end": "0:00:45.0333333"
+              }
+            ]
+          },
+          {
+            "id": 171,
+            "text": "Search :",
+            "confidence": 0.987,
+            "left": 252,
+            "top": 237,
+            "width": 51,
+            "height": 17,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:38.0333333",
+                "start": "0:00:38",
+                "end": "0:00:38.0333333"
+              }
+            ]
+          },
+          {
+            "id": 172,
+            "text": "ache",
+            "confidence": 0.992,
+            "left": 1437,
+            "top": 83,
+            "width": 37,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:40.0333333",
+                "start": "0:00:39",
+                "end": "0:00:40.0333333"
+              }
+            ]
+          },
+          {
+            "id": 173,
+            "text": "Not secure",
+            "confidence": 0.9965,
+            "left": 130,
+            "top": 40,
+            "width": 90,
+            "height": 16,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:41.0333333",
+                "start": "0:00:41",
+                "end": "0:00:41.0333333"
+              }
+            ]
+          },
+          {
+            "id": 174,
+            "text": "b2c.forprintshop.com/admin/shipping_markup.php?id=6",
+            "confidence": 0.901,
+            "left": 222,
+            "top": 39,
+            "width": 359,
+            "height": 19,
+            "angle": 0,
+            "language": "id-ID",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:41.0333333",
+                "start": "0:00:41",
+                "end": "0:00:41.0333333"
+              }
+            ]
+          },
+          {
+            "id": 175,
+            "text": "Thank you",
+            "confidence": 0.97,
+            "left": 581,
+            "top": 198,
+            "width": 811,
+            "height": 208,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 176,
+            "text": "Sales & Management",
+            "confidence": 0.9963,
+            "left": 156,
+            "top": 760,
+            "width": 130,
+            "height": 13,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 177,
+            "text": "Sales & Order Entry",
+            "confidence": 0.9963,
+            "left": 425,
+            "top": 772,
+            "width": 118,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 178,
+            "text": "Systems",
+            "confidence": 0.998,
+            "left": 196,
+            "top": 776,
+            "width": 52,
+            "height": 14,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 179,
+            "text": "Personalized Photo",
+            "confidence": 0.9955,
+            "left": 169,
+            "top": 798,
+            "width": 105,
+            "height": 11,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 180,
+            "text": "Wide Format",
+            "confidence": 0.9965,
+            "left": 447,
+            "top": 797,
+            "width": 70,
+            "height": 11,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 181,
+            "text": "Unified-W2P Advanced",
+            "confidence": 0.991,
+            "left": 691,
+            "top": 797,
+            "width": 121,
+            "height": 11,
+            "angle": 1,
+            "language": "pl-PL",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 182,
+            "text": "Products W2P Solution",
+            "confidence": 0.994,
+            "left": 161,
+            "top": 811,
+            "width": 117,
+            "height": 12,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 183,
+            "text": "Module",
+            "confidence": 0.998,
+            "left": 462,
+            "top": 812,
+            "width": 43,
+            "height": 10,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 184,
+            "text": "B2B nConnect",
+            "confidence": 0.9715,
+            "left": 710,
+            "top": 812,
+            "width": 80,
+            "height": 9,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 185,
+            "text": "MUST",
+            "confidence": 0.996,
+            "left": 420,
+            "top": 842,
+            "width": 125,
+            "height": 35,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 186,
+            "text": "Technology",
+            "confidence": 0.96,
+            "left": 154,
+            "top": 884,
+            "width": 129,
+            "height": 26,
+            "angle": -3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 187,
+            "text": "SEE 'EMS",
+            "confidence": 0.991,
+            "left": 424,
+            "top": 881,
+            "width": 120,
+            "height": 24,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 188,
+            "text": "PRINT 18",
+            "confidence": 0.998,
+            "left": 179,
+            "top": 917,
+            "width": 84,
+            "height": 21,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 189,
+            "text": "www.onprintshop.com",
+            "confidence": 0.983,
+            "left": 1401,
+            "top": 917,
+            "width": 338,
+            "height": 33,
+            "angle": 0,
+            "language": "fi-FI",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 190,
+            "text": "PRINT",
+            "confidence": 0.998,
+            "left": 417,
+            "top": 929,
+            "width": 98,
+            "height": 18,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 191,
+            "text": "GRAPH EXPO 16",
+            "confidence": 0.997,
+            "left": 680,
+            "top": 932,
+            "width": 142,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 192,
+            "text": "Acti",
+            "confidence": 0.923,
+            "left": 1598,
+            "top": 947,
+            "width": 42,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 193,
+            "text": "ate Windows",
+            "confidence": 0.9965,
+            "left": 1644,
+            "top": 947,
+            "width": 121,
+            "height": 17,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:49",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:49",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 1,
+            "text": "ate windows",
+            "confidence": 0.9454,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:00",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:00",
+                "end": "0:00:52.0333333"
+              },
+              {
+                "adjustedStart": "0:00:49",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:49",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "shipping cost",
+            "confidence": 0.9355,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.96",
+                "adjustedEnd": "0:00:05.2",
+                "start": "0:00:01.96",
+                "end": "0:00:05.2"
+              },
+              {
+                "adjustedStart": "0:00:07.4",
+                "adjustedEnd": "0:00:12",
+                "start": "0:00:07.4",
+                "end": "0:00:12"
+              },
+              {
+                "adjustedStart": "0:00:18.28",
+                "adjustedEnd": "0:00:20.96",
+                "start": "0:00:18.28",
+                "end": "0:00:20.96"
+              },
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:24.0333333",
+                "start": "0:00:01",
+                "end": "0:00:24.0333333"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "shipping markup",
+            "confidence": 0.9311,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.96",
+                "adjustedEnd": "0:00:05.2",
+                "start": "0:00:01.96",
+                "end": "0:00:05.2"
+              },
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:24.0333333",
+                "start": "0:00:01",
+                "end": "0:00:24.0333333"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "default markup",
+            "confidence": 0.9294,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:05.24",
+                "adjustedEnd": "0:00:07.4",
+                "start": "0:00:05.24",
+                "end": "0:00:07.4"
+              },
+              {
+                "adjustedStart": "0:00:34.24",
+                "adjustedEnd": "0:00:36.36",
+                "start": "0:00:34.24",
+                "end": "0:00:36.36"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "markup rule",
+            "confidence": 0.9294,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20.96",
+                "adjustedEnd": "0:00:23.92",
+                "start": "0:00:20.96",
+                "end": "0:00:23.92"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "day air",
+            "confidence": 0.9292,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "worldwide express",
+            "confidence": 0.9292,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:35",
+                "adjustedEnd": "0:00:35.0333333",
+                "start": "0:00:35",
+                "end": "0:00:35.0333333"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "shipping method",
+            "confidence": 0.9278,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:28",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:29",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "activate windows",
+            "confidence": 0.919,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:00",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:00",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "orders",
+            "confidence": 0.6633,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:25.0333333",
+                "start": "0:00:25",
+                "end": "0:00:25.0333333"
+              },
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:25.0333333",
+                "start": "0:00:25",
+                "end": "0:00:25.0333333"
+              },
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              },
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:26.0333333",
+                "start": "0:00:26",
+                "end": "0:00:26.0333333"
+              },
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:26",
+                "end": "0:00:27.0333333"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "shipping",
+            "confidence": 0.6553,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.96",
+                "adjustedEnd": "0:00:05.2",
+                "start": "0:00:01.96",
+                "end": "0:00:05.2"
+              },
+              {
+                "adjustedStart": "0:00:07.4",
+                "adjustedEnd": "0:00:12",
+                "start": "0:00:07.4",
+                "end": "0:00:12"
+              },
+              {
+                "adjustedStart": "0:00:13.12",
+                "adjustedEnd": "0:00:18.24",
+                "start": "0:00:13.12",
+                "end": "0:00:18.24"
+              },
+              {
+                "adjustedStart": "0:00:18.28",
+                "adjustedEnd": "0:00:20.96",
+                "start": "0:00:18.28",
+                "end": "0:00:20.96"
+              },
+              {
+                "adjustedStart": "0:00:20.96",
+                "adjustedEnd": "0:00:23.92",
+                "start": "0:00:20.96",
+                "end": "0:00:23.92"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:00.0333333",
+                "start": "0:00:00",
+                "end": "0:00:00.0333333"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:00.0333333",
+                "start": "0:00:00",
+                "end": "0:00:00.0333333"
+              },
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:24.0333333",
+                "start": "0:00:01",
+                "end": "0:00:24.0333333"
+              },
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:24.0333333",
+                "start": "0:00:01",
+                "end": "0:00:24.0333333"
+              },
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:28",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:29",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:30",
+                "adjustedEnd": "0:00:30.0333333",
+                "start": "0:00:30",
+                "end": "0:00:30.0333333"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:40.0333333",
+                "start": "0:00:33",
+                "end": "0:00:40.0333333"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:35.0333333",
+                "start": "0:00:33",
+                "end": "0:00:35.0333333"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:41.0333333",
+                "start": "0:00:41",
+                "end": "0:00:41.0333333"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "markup",
+            "confidence": 0.6504,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.96",
+                "adjustedEnd": "0:00:05.2",
+                "start": "0:00:01.96",
+                "end": "0:00:05.2"
+              },
+              {
+                "adjustedStart": "0:00:05.24",
+                "adjustedEnd": "0:00:07.4",
+                "start": "0:00:05.24",
+                "end": "0:00:07.4"
+              },
+              {
+                "adjustedStart": "0:00:07.4",
+                "adjustedEnd": "0:00:12",
+                "start": "0:00:07.4",
+                "end": "0:00:12"
+              },
+              {
+                "adjustedStart": "0:00:13.12",
+                "adjustedEnd": "0:00:18.24",
+                "start": "0:00:13.12",
+                "end": "0:00:18.24"
+              },
+              {
+                "adjustedStart": "0:00:20.96",
+                "adjustedEnd": "0:00:23.92",
+                "start": "0:00:20.96",
+                "end": "0:00:23.92"
+              },
+              {
+                "adjustedStart": "0:00:34.24",
+                "adjustedEnd": "0:00:36.36",
+                "start": "0:00:34.24",
+                "end": "0:00:36.36"
+              },
+              {
+                "adjustedStart": "0:00:36.88",
+                "adjustedEnd": "0:00:41.76",
+                "start": "0:00:36.88",
+                "end": "0:00:41.76"
+              },
+              {
+                "adjustedStart": "0:00:42.8",
+                "adjustedEnd": "0:00:44.6",
+                "start": "0:00:42.8",
+                "end": "0:00:44.6"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:00.0333333",
+                "start": "0:00:00",
+                "end": "0:00:00.0333333"
+              },
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:24.0333333",
+                "start": "0:00:01",
+                "end": "0:00:24.0333333"
+              },
+              {
+                "adjustedStart": "0:00:30",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:30",
+                "end": "0:00:32.0333333"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:40.0333333",
+                "start": "0:00:33",
+                "end": "0:00:40.0333333"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:41.0333333",
+                "start": "0:00:41",
+                "end": "0:00:41.0333333"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "store",
+            "confidence": 0.6457,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:24.0333333",
+                "start": "0:00:00",
+                "end": "0:00:24.0333333"
+              },
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:37.0333333",
+                "start": "0:00:25",
+                "end": "0:00:37.0333333"
+              },
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:25",
+                "end": "0:00:47.0333333"
+              },
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              },
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:29",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "print",
+            "confidence": 0.6403,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.64",
+                "adjustedEnd": "0:00:01.96",
+                "start": "0:00:00.64",
+                "end": "0:00:01.96"
+              },
+              {
+                "adjustedStart": "0:00:47.44",
+                "adjustedEnd": "0:00:51.68",
+                "start": "0:00:47.44",
+                "end": "0:00:51.68"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:00",
+                "end": "0:00:52.0333333"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:24.0333333",
+                "start": "0:00:00",
+                "end": "0:00:24.0333333"
+              },
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:24.0333333",
+                "start": "0:00:00",
+                "end": "0:00:24.0333333"
+              },
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:25",
+                "end": "0:00:27.0333333"
+              },
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:26.0333333",
+                "start": "0:00:26",
+                "end": "0:00:26.0333333"
+              },
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:29.0333333",
+                "start": "0:00:28",
+                "end": "0:00:29.0333333"
+              },
+              {
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:40.0333333",
+                "start": "0:00:33",
+                "end": "0:00:40.0333333"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:41.0333333",
+                "start": "0:00:41",
+                "end": "0:00:41.0333333"
+              },
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              },
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              },
+              {
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "settings",
+            "confidence": 0.6285,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:00",
+                "end": "0:00:52.0333333"
+              },
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:26",
+                "end": "0:00:27.0333333"
+              },
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:27.0333333",
+                "start": "0:00:26",
+                "end": "0:00:27.0333333"
+              },
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:28",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 1,
+            "name": "Business",
+            "referenceId": "Business",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/business information/strategy and marketing/business governance",
+            "confidence": 0.9119,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.64",
+                "adjustedEnd": "0:00:23.92",
+                "start": "0:00:00.64",
+                "end": "0:00:23.92"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Design",
+            "referenceId": "Design",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/construction and property/design and engineering",
+            "confidence": 0.6128,
+            "iabName": "Fine Art",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:34.24",
+                "adjustedEnd": "0:00:44.6",
+                "start": "0:00:34.24",
+                "end": "0:00:44.6"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Companies",
+            "referenceId": "Category:Companies",
+            "referenceUrl": "https://en.wikipedia.org/wiki/Category:Companies",
+            "referenceType": "Wikipedia",
+            "confidence": 0.5792,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:32",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Shopping",
+            "referenceId": "Shopping",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/retail",
+            "confidence": 0.5526,
+            "iabName": "Shopping",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.64",
+                "adjustedEnd": "0:00:23.92",
+                "start": "0:00:00.64",
+                "end": "0:00:23.92"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "text",
+            "referenceId": "communication/writing/text",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 1,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:00",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "display",
+            "referenceId": "communication/demonstration/display",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9713,
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:26.0333333",
+                "start": "0:00:26",
+                "end": "0:00:26.0333333"
+              },
+              {
+                "confidence": 0.9508,
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:29.0333333",
+                "start": "0:00:29",
+                "end": "0:00:29.0333333"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "computer",
+            "referenceId": "device/machine/computer",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9602,
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:28.0333333",
+                "start": "0:00:28",
+                "end": "0:00:28.0333333"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "software",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9593,
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:28",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "electronics",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9938,
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:31.0333333",
+                "start": "0:00:31",
+                "end": "0:00:31.0333333"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "font",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9587,
+                "adjustedStart": "0:00:48",
+                "adjustedEnd": "0:00:52.0333333",
+                "start": "0:00:48",
+                "end": "0:00:52.0333333"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:24.4666667",
+                "start": "0:00:00",
+                "end": "0:00:24.4666667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:00:24.4666667",
+                "adjustedEnd": "0:00:29.2333333",
+                "start": "0:00:24.4666667",
+                "end": "0:00:29.2333333"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "instances": [
+              {
+                "adjustedStart": "0:00:29.2333333",
+                "adjustedEnd": "0:00:42.9",
+                "start": "0:00:29.2333333",
+                "end": "0:00:42.9"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "instances": [
+              {
+                "adjustedStart": "0:00:42.9",
+                "adjustedEnd": "0:00:44.5333333",
+                "start": "0:00:42.9",
+                "end": "0:00:44.5333333"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "instances": [
+              {
+                "adjustedStart": "0:00:44.5333333",
+                "adjustedEnd": "0:00:52.9",
+                "start": "0:00:44.5333333",
+                "end": "0:00:52.9"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "f3f73b31-42df-4321-9ab1-5df37cd99e45",
+                    "adjustedStart": "0:00:00.1666667",
+                    "adjustedEnd": "0:00:00.2",
+                    "start": "0:00:00.1666667",
+                    "end": "0:00:00.2"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "c0f699ff-d854-42bd-b5b1-09caf6580fbc",
+                    "adjustedStart": "0:00:00.2333333",
+                    "adjustedEnd": "0:00:00.2666667",
+                    "start": "0:00:00.2333333",
+                    "end": "0:00:00.2666667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:24.4666667",
+                "start": "0:00:00",
+                "end": "0:00:24.4666667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "keyFrames": [
+              {
+                "id": 3,
+                "instances": [
+                  {
+                    "thumbnailId": "67965d78-5ffd-40aa-a4f3-30f8224ab152",
+                    "adjustedStart": "0:00:25.2",
+                    "adjustedEnd": "0:00:25.2333333",
+                    "start": "0:00:25.2",
+                    "end": "0:00:25.2333333"
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "instances": [
+                  {
+                    "thumbnailId": "5828950d-e076-4db1-bafd-c4ee5c56a90d",
+                    "adjustedStart": "0:00:25.4",
+                    "adjustedEnd": "0:00:25.4333333",
+                    "start": "0:00:25.4",
+                    "end": "0:00:25.4333333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:24.4666667",
+                "adjustedEnd": "0:00:26.7666667",
+                "start": "0:00:24.4666667",
+                "end": "0:00:26.7666667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "keyFrames": [
+              {
+                "id": 5,
+                "instances": [
+                  {
+                    "thumbnailId": "3bd71145-2c48-468f-b386-8ce6fb807715",
+                    "adjustedStart": "0:00:27.1",
+                    "adjustedEnd": "0:00:27.1333333",
+                    "start": "0:00:27.1",
+                    "end": "0:00:27.1333333"
+                  }
+                ]
+              },
+              {
+                "id": 6,
+                "instances": [
+                  {
+                    "thumbnailId": "24df07c9-e8a8-4d3c-82e0-dba9f06f0602",
+                    "adjustedStart": "0:00:27.8666667",
+                    "adjustedEnd": "0:00:27.9",
+                    "start": "0:00:27.8666667",
+                    "end": "0:00:27.9"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:26.7666667",
+                "adjustedEnd": "0:00:29.2333333",
+                "start": "0:00:26.7666667",
+                "end": "0:00:29.2333333"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "keyFrames": [
+              {
+                "id": 7,
+                "instances": [
+                  {
+                    "thumbnailId": "ec01f1a1-a485-41d0-9072-25d350652a42",
+                    "adjustedStart": "0:00:29.5",
+                    "adjustedEnd": "0:00:29.5333333",
+                    "start": "0:00:29.5",
+                    "end": "0:00:29.5333333"
+                  }
+                ]
+              },
+              {
+                "id": 8,
+                "instances": [
+                  {
+                    "thumbnailId": "05e62596-578a-401c-8346-468a24c6abd5",
+                    "adjustedStart": "0:00:29.5666667",
+                    "adjustedEnd": "0:00:29.6",
+                    "start": "0:00:29.5666667",
+                    "end": "0:00:29.6"
+                  }
+                ]
+              },
+              {
+                "id": 9,
+                "instances": [
+                  {
+                    "thumbnailId": "3dc6f751-c072-47c2-96e8-603ee5b9166e",
+                    "adjustedStart": "0:00:30.2",
+                    "adjustedEnd": "0:00:30.2333333",
+                    "start": "0:00:30.2",
+                    "end": "0:00:30.2333333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:29.2333333",
+                "adjustedEnd": "0:00:30.2666667",
+                "start": "0:00:29.2333333",
+                "end": "0:00:30.2666667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "keyFrames": [
+              {
+                "id": 10,
+                "instances": [
+                  {
+                    "thumbnailId": "fb9995bb-8f41-4486-84e3-cbf27d625ac3",
+                    "adjustedStart": "0:00:30.3333333",
+                    "adjustedEnd": "0:00:30.3666667",
+                    "start": "0:00:30.3333333",
+                    "end": "0:00:30.3666667"
+                  }
+                ]
+              },
+              {
+                "id": 11,
+                "instances": [
+                  {
+                    "thumbnailId": "a6571a41-1932-4ac7-9be4-602a8f5b8a80",
+                    "adjustedStart": "0:00:30.4333333",
+                    "adjustedEnd": "0:00:30.4666667",
+                    "start": "0:00:30.4333333",
+                    "end": "0:00:30.4666667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:30.2666667",
+                "adjustedEnd": "0:00:31.7666667",
+                "start": "0:00:30.2666667",
+                "end": "0:00:31.7666667"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "keyFrames": [
+              {
+                "id": 12,
+                "instances": [
+                  {
+                    "thumbnailId": "7747f4c0-20c6-4f77-a2bf-3b29ab167bf8",
+                    "adjustedStart": "0:00:32.0333333",
+                    "adjustedEnd": "0:00:32.0666667",
+                    "start": "0:00:32.0333333",
+                    "end": "0:00:32.0666667"
+                  }
+                ]
+              },
+              {
+                "id": 13,
+                "instances": [
+                  {
+                    "thumbnailId": "e8a1414c-a65b-49c2-8cae-48376aec48b1",
+                    "adjustedStart": "0:00:32.1",
+                    "adjustedEnd": "0:00:32.1333333",
+                    "start": "0:00:32.1",
+                    "end": "0:00:32.1333333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:31.7666667",
+                "adjustedEnd": "0:00:34.2666667",
+                "start": "0:00:31.7666667",
+                "end": "0:00:34.2666667"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "keyFrames": [
+              {
+                "id": 14,
+                "instances": [
+                  {
+                    "thumbnailId": "5aaa79df-6277-41c9-b124-fc2ea10c5abe",
+                    "adjustedStart": "0:00:34.4333333",
+                    "adjustedEnd": "0:00:34.4666667",
+                    "start": "0:00:34.4333333",
+                    "end": "0:00:34.4666667"
+                  }
+                ]
+              },
+              {
+                "id": 15,
+                "instances": [
+                  {
+                    "thumbnailId": "849e4277-01d8-4531-9049-f62ab23de78a",
+                    "adjustedStart": "0:00:34.6",
+                    "adjustedEnd": "0:00:34.6333333",
+                    "start": "0:00:34.6",
+                    "end": "0:00:34.6333333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:34.2666667",
+                "adjustedEnd": "0:00:35.9333333",
+                "start": "0:00:34.2666667",
+                "end": "0:00:35.9333333"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "keyFrames": [
+              {
+                "id": 16,
+                "instances": [
+                  {
+                    "thumbnailId": "f9adf58b-f5ed-4c4a-aebb-4a88f7e60f97",
+                    "adjustedStart": "0:00:36.2",
+                    "adjustedEnd": "0:00:36.2333333",
+                    "start": "0:00:36.2",
+                    "end": "0:00:36.2333333"
+                  }
+                ]
+              },
+              {
+                "id": 17,
+                "instances": [
+                  {
+                    "thumbnailId": "3f6a051a-e7d8-499f-9eb8-5c9eb33421e2",
+                    "adjustedStart": "0:00:36.2666667",
+                    "adjustedEnd": "0:00:36.3",
+                    "start": "0:00:36.2666667",
+                    "end": "0:00:36.3"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:35.9333333",
+                "adjustedEnd": "0:00:36.9666667",
+                "start": "0:00:35.9333333",
+                "end": "0:00:36.9666667"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "keyFrames": [
+              {
+                "id": 18,
+                "instances": [
+                  {
+                    "thumbnailId": "a7a282c5-2e60-4804-adc2-a1ad22d58f8a",
+                    "adjustedStart": "0:00:37.1333333",
+                    "adjustedEnd": "0:00:37.1666667",
+                    "start": "0:00:37.1333333",
+                    "end": "0:00:37.1666667"
+                  }
+                ]
+              },
+              {
+                "id": 19,
+                "instances": [
+                  {
+                    "thumbnailId": "823e41a4-f508-4d2e-86bb-381190cf9cdd",
+                    "adjustedStart": "0:00:37.3",
+                    "adjustedEnd": "0:00:37.3333333",
+                    "start": "0:00:37.3",
+                    "end": "0:00:37.3333333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:36.9666667",
+                "adjustedEnd": "0:00:38.6333333",
+                "start": "0:00:36.9666667",
+                "end": "0:00:38.6333333"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "keyFrames": [
+              {
+                "id": 20,
+                "instances": [
+                  {
+                    "thumbnailId": "76c67e66-4f76-431d-b664-7e897bdbb546",
+                    "adjustedStart": "0:00:38.9",
+                    "adjustedEnd": "0:00:38.9333333",
+                    "start": "0:00:38.9",
+                    "end": "0:00:38.9333333"
+                  }
+                ]
+              },
+              {
+                "id": 21,
+                "instances": [
+                  {
+                    "thumbnailId": "bc44138d-27ea-4dbe-9558-3449be23de65",
+                    "adjustedStart": "0:00:38.9666667",
+                    "adjustedEnd": "0:00:39",
+                    "start": "0:00:38.9666667",
+                    "end": "0:00:39"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:38.6333333",
+                "adjustedEnd": "0:00:40.2",
+                "start": "0:00:38.6333333",
+                "end": "0:00:40.2"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "keyFrames": [
+              {
+                "id": 22,
+                "instances": [
+                  {
+                    "thumbnailId": "5933155f-1e04-441a-a474-fed233be2b08",
+                    "adjustedStart": "0:00:40.3666667",
+                    "adjustedEnd": "0:00:40.4",
+                    "start": "0:00:40.3666667",
+                    "end": "0:00:40.4"
+                  }
+                ]
+              },
+              {
+                "id": 23,
+                "instances": [
+                  {
+                    "thumbnailId": "8df29016-40b6-47fb-91e4-36db77c40965",
+                    "adjustedStart": "0:00:40.5333333",
+                    "adjustedEnd": "0:00:40.5666667",
+                    "start": "0:00:40.5333333",
+                    "end": "0:00:40.5666667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:40.2",
+                "adjustedEnd": "0:00:41.8666667",
+                "start": "0:00:40.2",
+                "end": "0:00:41.8666667"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "keyFrames": [
+              {
+                "id": 24,
+                "instances": [
+                  {
+                    "thumbnailId": "18e38201-d1d9-452d-97e3-430460455c6a",
+                    "adjustedStart": "0:00:42.1",
+                    "adjustedEnd": "0:00:42.1333333",
+                    "start": "0:00:42.1",
+                    "end": "0:00:42.1333333"
+                  }
+                ]
+              },
+              {
+                "id": 25,
+                "instances": [
+                  {
+                    "thumbnailId": "0fc71c1b-5d70-4428-89dc-ff692fa278d8",
+                    "adjustedStart": "0:00:42.1666667",
+                    "adjustedEnd": "0:00:42.2",
+                    "start": "0:00:42.1666667",
+                    "end": "0:00:42.2"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:41.8666667",
+                "adjustedEnd": "0:00:42.9",
+                "start": "0:00:41.8666667",
+                "end": "0:00:42.9"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "keyFrames": [
+              {
+                "id": 26,
+                "instances": [
+                  {
+                    "thumbnailId": "2420351b-e7da-4151-a718-d91c40534d56",
+                    "adjustedStart": "0:00:43.0333333",
+                    "adjustedEnd": "0:00:43.0666667",
+                    "start": "0:00:43.0333333",
+                    "end": "0:00:43.0666667"
+                  }
+                ]
+              },
+              {
+                "id": 27,
+                "instances": [
+                  {
+                    "thumbnailId": "d530a0cd-4910-417b-83f6-0d30dfd01c93",
+                    "adjustedStart": "0:00:43.2",
+                    "adjustedEnd": "0:00:43.2333333",
+                    "start": "0:00:43.2",
+                    "end": "0:00:43.2333333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:42.9",
+                "adjustedEnd": "0:00:44.5333333",
+                "start": "0:00:42.9",
+                "end": "0:00:44.5333333"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "keyFrames": [
+              {
+                "id": 28,
+                "instances": [
+                  {
+                    "thumbnailId": "dd2b2e79-9a8a-4761-a4be-3851e6e72660",
+                    "adjustedStart": "0:00:44.7666667",
+                    "adjustedEnd": "0:00:44.8",
+                    "start": "0:00:44.7666667",
+                    "end": "0:00:44.8"
+                  }
+                ]
+              },
+              {
+                "id": 29,
+                "instances": [
+                  {
+                    "thumbnailId": "535710df-7d9c-4c60-887a-3aeb7205d670",
+                    "adjustedStart": "0:00:44.8333333",
+                    "adjustedEnd": "0:00:44.8666667",
+                    "start": "0:00:44.8333333",
+                    "end": "0:00:44.8666667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:44.5333333",
+                "adjustedEnd": "0:00:52.9",
+                "start": "0:00:44.5333333",
+                "end": "0:00:52.9"
+              }
+            ]
+          }
+        ],
+        "brands": [
+          {
+            "id": 1,
+            "referenceType": "Wiki",
+            "name": "United Parcel Service",
+            "referenceId": "United_Parcel_Service",
+            "referenceUrl": "http://en.wikipedia.org/wiki/United_Parcel_Service",
+            "description": "United Parcel Service, Inc. (UPS) is the world's largest package delivery company and a provider of supply chain management solutions. The global logistics company is headquartered in Sandy Springs, Georgia, which is part of the Greater Atlanta metropolitan area.",
+            "tags": [],
+            "confidence": 0.89,
+            "isCustom": false,
+            "instances": [
+              {
+                "brandType": "Ocr",
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "referenceType": "Wiki",
+            "name": "Kerio Technologies",
+            "referenceId": "Kerio_Technologies",
+            "referenceUrl": "http://en.wikipedia.org/wiki/Kerio_Technologies",
+            "description": "Kerio Technologies, Inc. (or simply Kerio) is a global technology company specializing in collaboration software and Unified threat management solutions for small and medium organizations. Kerio sells its solutions through a network of more than 6,000 reseller partners. The company currently has more than 60,000 customers and millions of users of its technologies.",
+            "tags": [],
+            "confidence": 0.74,
+            "isCustom": false,
+            "instances": [
+              {
+                "brandType": "Ocr",
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:32",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "referenceType": "Wiki",
+            "name": "Direct Air",
+            "referenceId": "Direct_Air",
+            "referenceUrl": "http://en.wikipedia.org/wiki/Direct_Air",
+            "description": "Southern Sky Air Tours, d/b/a Direct Air was an airline business based in Myrtle Beach, South Carolina, USA Direct Air started in 2007 and leased aircraft with charter airlines. Its main base was Myrtle Beach International Airport. Direct Air's flights were operated by Sky King, Inc., Xtra Airways, World Atlantic Airlines, and USA Jet.",
+            "tags": [],
+            "confidence": 0.68,
+            "isCustom": false,
+            "instances": [
+              {
+                "brandType": "Ocr",
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:00:33",
+                "adjustedEnd": "0:00:47.0333333",
+                "start": "0:00:33",
+                "end": "0:00:47.0333333"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "referenceType": "Wiki",
+            "name": "FedEx",
+            "referenceId": "FedEx",
+            "referenceUrl": "http://en.wikipedia.org/wiki/FedEx",
+            "description": "FedEx Corporation is an American global courier delivery services company headquartered in Memphis, Tennessee. The name \"FedEx\" is a syllabic abbreviation of the name of the company's original air division, Federal Express, which was used from 1973 until 2000.",
+            "tags": [],
+            "confidence": 1,
+            "isCustom": false,
+            "instances": [
+              {
+                "brandType": "Ocr",
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:32.0333333",
+                "start": "0:00:29",
+                "end": "0:00:32.0333333"
+              }
+            ]
+          }
+        ],
+        "namedLocations": [
+          {
+            "id": 1,
+            "name": "shop",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 0.46,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:00.64",
+                "adjustedEnd": "0:00:01.96",
+                "start": "0:00:00.64",
+                "end": "0:00:01.96"
+              }
+            ]
+          }
+        ],
+        "audioEffects": [
+          {
+            "id": 0,
+            "type": "Silence",
+            "instances": [
+              {
+                "confidence": 1,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.5",
+                "start": "0:00:00",
+                "end": "0:00:01.5"
+              },
+              {
+                "confidence": 1,
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:13.5",
+                "start": "0:00:12",
+                "end": "0:00:13.5"
+              },
+              {
+                "confidence": 0.8666,
+                "adjustedStart": "0:00:23.92",
+                "adjustedEnd": "0:00:32.92",
+                "start": "0:00:23.92",
+                "end": "0:00:32.92"
+              },
+              {
+                "confidence": 1,
+                "adjustedStart": "0:00:36.36",
+                "adjustedEnd": "0:00:37.86",
+                "start": "0:00:36.36",
+                "end": "0:00:37.86"
+              },
+              {
+                "confidence": 1,
+                "adjustedStart": "0:00:41.76",
+                "adjustedEnd": "0:00:43.26",
+                "start": "0:00:41.76",
+                "end": "0:00:43.26"
+              },
+              {
+                "confidence": 1,
+                "adjustedStart": "0:00:44.6",
+                "adjustedEnd": "0:00:46.1",
+                "start": "0:00:44.6",
+                "end": "0:00:46.1"
+              },
+              {
+                "confidence": 0.8104,
+                "adjustedStart": "0:00:52.16",
+                "adjustedEnd": "0:00:52.965",
+                "start": "0:00:52.16",
+                "end": "0:00:52.965"
+              }
+            ]
+          }
+        ],
+        "sentiments": [
+          {
+            "id": 1,
+            "averageScore": 0.5,
+            "sentimentType": "Neutral",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:52.965",
+                "start": "0:00:00",
+                "end": "0:00:52.965"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:36.36",
+                "start": "0:00:00",
+                "end": "0:00:36.36"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:36.36",
+                "adjustedEnd": "0:00:52.965",
+                "start": "0:00:36.36",
+                "end": "0:00:52.965"
+              }
+            ]
+          }
+        ],
+        "speakers": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.64",
+                "adjustedEnd": "0:00:01.96",
+                "start": "0:00:00.64",
+                "end": "0:00:01.96"
+              },
+              {
+                "adjustedStart": "0:00:01.96",
+                "adjustedEnd": "0:00:05.2",
+                "start": "0:00:01.96",
+                "end": "0:00:05.2"
+              },
+              {
+                "adjustedStart": "0:00:05.24",
+                "adjustedEnd": "0:00:07.4",
+                "start": "0:00:05.24",
+                "end": "0:00:07.4"
+              },
+              {
+                "adjustedStart": "0:00:07.4",
+                "adjustedEnd": "0:00:12",
+                "start": "0:00:07.4",
+                "end": "0:00:12"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Speaker #2",
+            "instances": [
+              {
+                "adjustedStart": "0:00:13.12",
+                "adjustedEnd": "0:00:18.24",
+                "start": "0:00:13.12",
+                "end": "0:00:18.24"
+              },
+              {
+                "adjustedStart": "0:00:18.28",
+                "adjustedEnd": "0:00:20.96",
+                "start": "0:00:18.28",
+                "end": "0:00:20.96"
+              },
+              {
+                "adjustedStart": "0:00:20.96",
+                "adjustedEnd": "0:00:23.92",
+                "start": "0:00:20.96",
+                "end": "0:00:23.92"
+              },
+              {
+                "adjustedStart": "0:00:34.24",
+                "adjustedEnd": "0:00:36.36",
+                "start": "0:00:34.24",
+                "end": "0:00:36.36"
+              },
+              {
+                "adjustedStart": "0:00:36.88",
+                "adjustedEnd": "0:00:41.76",
+                "start": "0:00:36.88",
+                "end": "0:00:41.76"
+              },
+              {
+                "adjustedStart": "0:00:42.8",
+                "adjustedEnd": "0:00:44.6",
+                "start": "0:00:42.8",
+                "end": "0:00:44.6"
+              },
+              {
+                "adjustedStart": "0:00:47.44",
+                "adjustedEnd": "0:00:51.68",
+                "start": "0:00:47.44",
+                "end": "0:00:51.68"
+              },
+              {
+                "adjustedStart": "0:00:51.68",
+                "adjustedEnd": "0:00:52.16",
+                "start": "0:00:51.68",
+                "end": "0:00:52.16"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 1,
+          "speakerTalkToListenRatio": {
+            "1": 0.317,
+            "2": 0.682
+          },
+          "speakerLongestMonolog": {
+            "1": 11,
+            "2": 24
+          },
+          "speakerNumberOfFragments": {
+            "1": 2,
+            "2": 6
+          },
+          "speakerWordCount": {
+            "1": 33,
+            "2": 60
+          }
+        }
+      },
+      "thumbnailId": "b04816eb-c282-48a3-a8c5-13c224a73a52",
+      "width": 1920,
+      "height": 1040,
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [
+        "en-US"
+      ],
+      "language": "en-US",
+      "languages": [
+        "en-US"
+      ],
+      "indexingPreset": "Default",
+      "streamingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "logoGroupId": null,
+      "isAdult": false,
+      "excludedAIs": [],
+      "isSearchable": true,
+      "publishedUrl": "https://api.videoindexer.ai/internals/eastus/Accounts/fbafe9ff-1c94-40bd-987e-a4e4dfe52365/Videos/nsptk8syu1/streaming-manifest/manifest.m3u8",
+      "publishedProxyUrl": null,
+      "viewToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJWZXJzaW9uIjoiMi4wLjAuMCIsIktleVZlcnNpb24iOiI1YmZmYWI1MTUwZWI0NGM4ODMzNzE2NzVhNzcwYzU4YSIsIkFjY291bnRJZCI6ImZiYWZlOWZmLTFjOTQtNDBiZC05ODdlLWE0ZTRkZmU1MjM2NSIsIkFjY291bnRUeXBlIjoiQ2xhc3NpYyIsIlZpZGVvSWQiOiJuc3B0azhzeXUxIiwiUGVybWlzc2lvbiI6IlJlc3RyaWN0ZWRWaWV3ZXIiLCJFeHRlcm5hbFVzZXJJZCI6IjYxMzM3QzI2RUFCQjRGNEU5MjA3NURBNjAyQ0IyQTQzIiwiVXNlclR5cGUiOiJNaWNyb3NvZnRDb3JwQWFkIiwiSXNzdWVyTG9jYXRpb24iOiJlYXN0dXMiLCJuYmYiOjE3NjE5NzExMDEsImV4cCI6MTc2MTk3NTAwMSwiaXNzIjoiaHR0cHM6Ly9hcGkudmlkZW9pbmRleGVyLmFpLyIsImF1ZCI6Imh0dHBzOi8vYXBpLnZpZGVvaW5kZXhlci5haS8ifQ.OS4XntaytG0x22Wl_dtPOk-XB1trT5Fkn-OaVQ16f8bImgDz3pAQmFWxkgxkWirBHeYF9lp6acQO2BbWzdIGNcLLBSuCXjOvxmUhq1XgVScg4lGTWKSdo58CdC4jo8MTLkUQfMnaZ7STkVQ0hs5JwPfF0VWl7t0bBuDg7zvR1JlnOftiReXT_A03Gr-uo7IkJR-1nFXBOwNThb2AbDhcjHZtIJNpfZn-QLgHP2M3dYoq6g_RSWqbfs9gkQuGXUquSIQuZPqTthBv7Q8hXZZ49Z98kRdmnOjlWXa6sRp19-0qggGoYXTI5jnGBi50rR43B6NcguYJsaYdhp512jfEoA"
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "nsptk8syu1",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:00:52.965"
+      }
+    }
+  ]
+}

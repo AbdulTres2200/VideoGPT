@@ -1,0 +1,21 @@
+{
+  "id": "txt_975790",
+  "name": "add-new-quote",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders, Quotes & Customers\n\n\nQuotes\nAdd New Quote\n\n5 min\noverview & purpose we have provided the facility to the admin to add an offline quote from the admin panel using this feature, the admin can place quotes for the customer add a new quote just like your customer places a request for quotations from your website, you can also place a similar quote from the admin panel >> quotes management >> view quotes >> \u2018+add new quote\u2019 (top left corner) add customer details in the \u2018add new quote\u2019 screen, select the customer on behalf of whom you wish to add the quote as soon as you select the customer\u2019s email from the dropdown, the system will fetch their first name, last name, and phone number add product(s) for adding products in the quotes, the admin has the flexibility to add a product from the existing product list, add a custom product, or select a configurable product existing product the existing product quote type allows admins to quickly create quotes using products that are already available in the store's catalog this method is ideal when a customer requests a quote for a product listed on the storefront but may need custom pricing, quantities, or specifications not covered under standard pricing when creating an offline quote with this option, the admin simply selects the desired product, adjusts the quantity or specifications as needed, and manually enters the price this provides the flexibility to offer negotiated rates or custom pricing for specific orders, while still linking the quote to a known product in the system it also helps maintain consistency in product selection and production tracking configurable product to create a quote, the admin needs to choose the configurable product quote type and select a product that already includes built in pricing logic they can then enter the required dimensions, specify the quantity, and choose from a range of pre configured product options, such as material type, coating, or finishing based on these selections, the system automatically calculates the price and displays a real time price summary custom the custom product quote type is used when the requested item is not part of the store's existing product list this option is suitable for highly specialized jobs or one time product requests that don\u2019t match any configured product in the system admins can define every aspect of the custom product\u2014including name, description, specifications, dimensions, and pricing\u2014while creating the quote since there\u2019s no dependency on pre existing product setup, this option provides maximum flexibility however, it also requires manual input of all relevant details to ensure clarity for both the customer and production teams this will raise a quote request in the admin panel and lead you to the \u2018quote update\u2019 section, where you can edit the quoted product(s) details, take any action on the quote, and view quote history for better tracking of quotes\nDid this page help you?\n\n\nPREVIOUS\nDashboard\nNEXT\nQuick Actions\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

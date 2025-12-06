@@ -1,0 +1,21 @@
+{
+  "id": "txt_842489",
+  "name": "manage-addresses",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nB2B/Private Store - Pro Plan\n\n\nStore Actions\nManage Addresses\n\n3 min\npurpose store addresses are section use to provide fix shipping/billing address to the store customers the address is required when the store settings have \"fix shipping/billing address\" otherwise customer will not able to complete the order process from the web store manage address add new address to add a new store address, navigate to the store management >> stores >> select store >> action menu >> manage address >> add fill the details and click on save to instantly create a address below are details of important fields office name \u2013 this name will help store admin to uniquely identify every address with an office name this name will be used in the shipping type dropdown in the front store address to \u2013 understanding different store needs we have given the option to create a a certain address department specific this will help both store and site admin to bifurcate addresses according to different usage address type \u2013 e commerce requires one billing address and one shipping address to fulfill any order thus, for store there is an open room for store admin to create as many required shipping and billing addresses in the address type dropdown, we have given 3 options namely \u2013 billing address, shipping address, and both sync with template personalization \u2013 this option will sync all your address fields with template personalized data once the address is added, it will appear in the manage address main screen click on the import address button to import bulk store addresses via an excel sheet using the 3 step import function you can easily import addresses into the system to change the default billing and shipping addresses, click on the \u2018 pen like \u2019 icon in the default address column this will display a pop up asking to set the default addresses select the default address to display the billing/shipping address at checkout time\nDid this page help you?\n\n\nPREVIOUS\nProducts Markup\nNEXT\nManage Pay On Account\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

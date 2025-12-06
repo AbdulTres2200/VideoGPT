@@ -1,0 +1,21 @@
+{
+  "id": "txt_761325",
+  "name": "ssl-certificate-installation",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\nCommon Setup\nSSL Certificate Installation\n\n4 min\nprotect the sensitive information of your web store as it travels across the internet and other computer networks with a highly recommended security layer ssl certificate the information transferred over the internet is in encrypted format due to an ssl certificate at onprintshop, we have the facility to install an ssl certificate on your web store the ssl certificate installation process is divided into two sections 1 purchase of an ssl certificate 1 purchase of an ssl certificate visit any of the top ssl service providers to purchase an ssl certificate a few to the list are godaddy comodo geotrust rapidssl after the purchase of an ssl certificate provide your ssl certificate information to the onprintshop support team and follow the steps given in the second section 2 for ssl certificate installation 2 for ssl certificate installation step 1 provide the onprintshop support team with the following information about your ssl certificate email us at support\\@onprintshop com email domain name to make cert for city state country (2 letter abbreviation) company name company division step 2 onprintshop support team will generate the csr based on the above information and provide you with the csr file step 3 csr file is required to download the ssl certificate from the ssl service provider with the csr file, download the ssl certificate note onprintshop solution is hosted on apache + mod ssl server sometimes you might require to select the server environment step \u2013 4 send the generated certificate to the onprintshop support team step \u2013 5 the onprintshop support team will install the ssl certificate on your website note onprintshop also offers free cpanel ssl if you do not want to purchase your ssl certificate it will be cpanel auto ssl refer to https //blog cpanel com/autossl/ https //blog cpanel com/autossl/ for more information for this, there is no requirement to follow the certificate installation process just contact onprintshop support\nDid this page help you?\n\n\nPREVIOUS\nWebsite Migration Checklist\nNEXT\nSetup Domain Name\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "txt_518007",
+  "name": "common-settings",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdmin & Reports\n\nViewing Reports\nCommon Settings\n\n5 min\nin the report section, we have some settings that are common such as report field settings, quick links to generate reports, and an icon to access all the generated reports here is how you can manage these settings report field setting there are a few fields that one can view and there are others that can be only downloaded into an excel file with report fields settings, we\u2019ll allow admin to choose the report fields they wish to view and the fields to export each report page contains a button called \u201cmanage fields\u201d clicking it will open a report field setting popup containing a list of all table fields of the respective report file along with the table field, we have added checkboxes check/uncheck the fields that you look forward to viewing in the reports and downloading them later the system will only show the data of the selected field name, thus allowing you to personalize your reports according to your sales needs clicking on the save button will save the configuration for the current logged in account whereas clicking on save for all will save this field setting for all the admin accounts note the save for all button will only be available to the super admin account quick links quick links at the top to export reports in excel or print it once you click on the \"export to excel\" icon, the report will be generated in the background and after its is downloaded, it will be displayed beside \"settings\" icon and you can also access all the generated reported files using the \"generated reported files\" icon generated report files all the generated reports from the reports section can be accessed from this icon click on the generated report files icon to view all the reports generated here, admin can donwload the reports and remove any report from the list\nDid this page help you?\n\n\nPREVIOUS\nAdmin Group/Role\nNEXT\nSales\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

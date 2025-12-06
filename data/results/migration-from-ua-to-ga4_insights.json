@@ -1,0 +1,21 @@
+{
+  "id": "txt_408934",
+  "name": "migration-from-ua-to-ga4",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupporting Docs\nMigration from UA to GA4\n\n6 min\noverview & purpose standard universal analytics (ua) properties will cease processing all new hits as of july 1, 2023 this will be in line with google's strategy to retire ua and replace it with google analytics 4, a new generation measurement solution (ga4) google is giving all ua users a way to migrate their standard ua properties, such as the configuration of the property, web stream, users, events, objectives, and audiences, to ga4 in advance of this in the absence of your explicit refusal and intervention, this will happen automatically (or opt out) read along to learn how you can migrate your ua data to ga4 how to migrate to ga4? here\u2019s how you can migrate from universal analytics (ga3) to google analytics 4 note the steps we have mentioned in this document are for the basic data if you need any help in the migration of ga3 to ga4, our technical team will help with the same after checking the complexity and feasibility (with some additional charges) get the measurement id from the google analytics account sign in to your analytics account click on the admin from the left hand side panel from the admin screen, click on the create account button in the account setup steps, enter the same account name as the google tag manager account name, select the \"google products & services\" checkbox, and click the next button in the next step, enter the property name and then click on the next button specify your business details in the 3rd step click on the create button complete the terms and services agreement step navigate back to the admin page and select the created account and ga4 property from the drop down select the data streams from the options below, select web from the data streams page, and then click on the url copy and save the measurement id from the web stream details page for further steps enhanced ecommerce setup for ga4 you can learn how to create variables and tags for google analytics 4 from our integration guide https //docs onprintshop com/third party integrations/enhanced ecommerce setup# qvtp debug view you can learn to check the gtm plugin enabled and preview the tags fired for google analytics 4 from the debug view https //docs onprintshop com/third party integrations/debug view section of our integration guide\nDid this page help you?\n\n\nPREVIOUS\nMass Template Personalization\nNEXT\nOrder Cancellation and Refund\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "txt_206047",
+  "name": "designer",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProducts\n\n\nProduct Actions\nDesigner\n\n7 min\npurpose every product uploaded is intended to have a different size or a standard size of printing for example, a business card can have sizes such as 3 5x2, 4x3, etc or, a product like mug can have only one 'standard size' the sizes will depend on your product offerings this tab allows you to add sizes (design sizes) of the selected product configuration size size title \u2013 click on add button and enter various sizes names as to be seen by the customer your customers will see this name when they will choose the size of the product bleed size \u2013 enter the canvas size i e the printing area of the product this size is reflected in the designer studio setup cost \u2013 you can define a set up cost product size wise if the size wise setup cost is added then the product price calculation will be as follows \u2013 total product base price = product base price + product set up cost + size based setup cost if you have configured both the setup costs \u2013 \u2018product setup cost\u2019 & \u2018size based setup cost\u2019, then the system shall consider both setups cost in the \u2018total product base price\u2019 calculation note \u2013 the \"size based setup cost\" feature is not available for the \u2018dynamic size\u2019 pricing method fold options \u2013 this option is used for products like brochures in which there are one or more folds special folds are shown in the designer studio, which gives users a better idea while drawing on templates orientation \u2013 select the orientation of the fold if your product has one or more folds the orientation can be portrait or landscape images \u2013 if required then upload images to support each size of the product this will help your customer get a better understanding of the size dimensions product margin enter the safe margin and cut margin as a guideline for the customer to design within the safe area of the template all margins i e top, right, bottom, and left are used to set the safe margin and cut (trim) margin in the designer studio green line = safe margin red line = cut (trim) margin margins are included in product bleed size (width & height), so enter bleed size accordingly product pages define the product pages for your product i e the printing sides for example, standard business cards have 2 pages namely front and back for printing, whereas a calendar will have 12 (back and front for each month) or more printing pages page name enter a page name for your product these pages are available in the designer studio such that a customer can create its design accordingly also, while uploading a design a customer will get an option to upload a design for all the pages page wise size configuration using the page wise size button, the admin can set the size of the printing area for different pages for the standard products click on the \" pagewise size \" button to set the printing area on different pages note while configuring page wise sizes, ensure that the bleed size of the main product matches the bleed values entered for the first page this consistency is required for the page wise size settings to work correctly across all product pages when the customer selects the product and goes to the designer studio for customization, they will have different sizes available for placing the printing elements on defined pages\nDid this page help you?\n\n\nPREVIOUS\nDescription\nNEXT\nPrice\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

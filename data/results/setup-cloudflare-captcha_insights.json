@@ -1,0 +1,21 @@
+{
+  "id": "txt_251731",
+  "name": "setup-cloudflare-captcha",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSocial Logins and Sharing\nSetup Cloudflare Captcha\n\n9 min\noverview & overview turnstile (cloudflare captcha) is designed to protect your website from bots and spam by verifying user interactions without disrupting genuine visitors unlike traditional captchas, turnstile eliminates frustrating challenges (like selecting images) and uses advanced, non intrusive methods to assess user behavior onprintshop\u2019s integration with cloudflare turnstile combines advanced bot protection with a seamless user experience, making it ideal for businesses focused on security, privacy, and customer satisfaction by enabling turnstile, print service providers can safeguard their platform while maintaining an intuitive and efficient workflow for genuine users how to integrate read the below a systematic guide to integrate cloudflare captcha on your website 1 register with cloudflare captcha 1 register with cloudflare captcha go to the cloudflare dashboard log in with your any existing google account or apple account or create a new account 2 get the sitekey and secret key 2 get the sitekey and secret key on your cloudflare dashboard click on the \u201cturnstile\u201d menu from the left navigation panel and then click on the add widget this will take you to the add widget page fill out the site name and your website's hostname or select from your existing websites on cloudflare and select the widget mode (optional) opt in for pre clearance support https //developers cloudflare com/turnstile/concepts/pre clearance support/ if required and then click on the create button copy your sitekey and secret key for the existing widgets from the widget overview, click on the settings and on the manage widget page copy the keys 3 add site key and secret key into your admin panel 3 add site key and secret key into your admin panel for the configuration in the admin panel, go to the admin panel > store configurations > external service settings > social sharing > captcha > \u2018action\u2019 menu > \u2018edit\u2019 option select captcha type as cloudflare from the display/enable captcha for drop down, select the instances where the captcha should be displayed i e none, only front, only admin or both paste the site key and secret key save the changes made 4 cloudflare captcha on the front end 4 cloudflare captcha on the front end after integration, when the customers or admin tries to signup/login, the cloudlfare will verify the user interactions without disrupting genuine visitors\nDid this page help you?\n\n\nPREVIOUS\nSetup Google re-CAPTCHA\nNEXT\nSetup Firebase Shortlink\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

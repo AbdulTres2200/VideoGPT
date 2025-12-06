@@ -1,0 +1,21 @@
+{
+  "id": "txt_862137",
+  "name": "enfocus-integration",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOthers\nEnfocus Integration\n\n3 min\noverview & purpose integrating enfocus with onprintshop enhances print production efficiency and effectiveness by offering automated preflight and workflow management, reducing errors and saving time it streamlines processes from order receipt to final print, ensures consistent quality, and improves file management how to integrate there is no direct integration of enfocus with the onprintshop solution however, it can be integrated two way via our api web services onprintshop >> enfocus switch is integrated using hotfolder integration enfocus switch >> onprintshop is integrated using our standard status update api read the below systematic guide to integrate enfocus with your onprintshop website activate the api web services from the onprintshop admin panel >> orders >> export/api orders >> export api settings from the hot folder settings tab, you need to set up the folder location to ftp server folder or cloud storage learn step wise configuration from the export/api orders docid\\ vmwbkbfc0awhgwrsrtzlz guide next, check if the files are transferred in the required format if it is successfully exported to the configured location, connect with enfocus support and show them xml/csv files on that location further information will be provided by enfocus according to your requirements by using various api services, we can pull the details from onprintshop and use them for the enfocus as per requirement such as order details from getorderinfo, customer details from getcustinfo, set order status from setorderstatus, etc\nDid this page help you?\n\n\nPREVIOUS\nSetup Salesforce\nNEXT\nFedEx Shipping Method Setup\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

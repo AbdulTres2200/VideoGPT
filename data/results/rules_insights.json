@@ -1,0 +1,21 @@
+{
+  "id": "txt_48798",
+  "name": "rules",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProducts\n\n\nProduct Actions\nRules\n\n4 min\noverview & purpose sometimes, it may happen that a combination of some additional options does not work or they are non printable for example, it is possible that for a small printing amount, you want your customers to have both \u2018digital print\u2019 and \u2018block print\u2019 options open while for large amounts, you want to restrict the printing option only to block printing in such cases, you can bind your additional option \u2018printing option\u2019 with rules, following the rules the system will hide the \u2018digital print\u2019 option for large orders and save you from wrong orders also, in business cards, it is possible that in 410 gsm paper, a glossy finish is not possible on your printer in such a scenario, you can hide the glossy finish option for 410 gsm paper using these option rules thus, the system gives you the option to hide such combinations and create additional options rules add option rules set additional option rules to restrict the product options on your storefront by clicking on the \u2018 +add \u2019 button to add a new rule rule name enter a rule name this is for the reference of admin this name helps manage the rules on the admin side select rule select any rule based on the following options regular products size quantity based you can choose only the options based on size and quantity at times, it is allowed to choose only one option in each field of size and quantity however, you can tick multiple options under additional options size additional option based this combines both size and additional options to create combinations create a combination of one size and multiple additional options additional based option this allows the creation of rules only based on additional options size quantity additional option based this will allow you to easily create option rules with the combination of size, quantity, and additional options additional option based size hide this allows you to create rules to hide the product size based on the selection of additional options for dynamic size products size (height x width) quantity based for the options selected in parameter & quantity, the options selected under additional options will be hidden on the storefront size additional option based this option is a combination of both parameter and additional option additional options based this will appear if there are additional options on the dynamic size products size quantity additional option based this will allow you to easily create option rules with the combination of prameter, quantity, and additional options select the additional options rule and then select the options falling in the category additional options next, tick the additional options, which will be hidden on the selection of previous fields thus, the system will hide certain additional option attributes as entered by you and save them from wrong orders apart from the additional option attributes, there is a \u2018select option/other\u2019 option made available while creating the rules this will be helpful when the customer has not selected any option from the additional option the \u2018select option/other\u2019 option will be useful for the add quote screen this rule will be applicable when a customer chooses the other option from the additional option dropdown and define their custom option\nDid this page help you?\n\n\nPREVIOUS\nOption\nNEXT\nGallery\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "txt_922483",
+  "name": "setup-mailchimp",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmail Marketing\nSetup MailChimp\n\n9 min\noverview & purpose manage and talk to your onprintshop web store users with the all in one marketing platform mailchimp manage a master list of your customers and run email campaigns select a campaign type, add recipients, choose a template design, and add your own content create awesome campaigns and attract more customers to your onprintshop web store how to integrate read the below systematic guide to integrate mailchimp with your onprintshop website 1 registration with mailchimp 1 registration with mailchimp get started to mailchimp with a free account or if you already have an account then, login with your username and password activate your mailchimp account by verifying your mail id and complete further login steps by filling in the basic business details 2 dashboard 2 dashboard upon login, you will see the mailchimp account dashboard page here, you can create a list by importing all your existing customers' email ids, send campaign emails to your customers in bulk, create a signup form to allow users to subscribe to your email campaigns, etc you can also go through the other options available in the menu like campaigns, templates, reports, audiences, and content studio, etc 3 generating an api key 3 generating an api key to get an api key for the integration, locate your account icon at the top right corner of the screen, click on the icon and then select account & billing from the options from the account page, click on the extras tab and then select the api keys from the options this will list down your api keys if you have any to create a new key, click on the create a key button the api key will be created and displayed in the list copy and save the api key 4 generating audience unique id 4 generating audience unique id on your dashboard, go to the audiences >> audience dashboard >> manage audiences drop down>> settings at the end of following page, you will find your unique audience id as shown below copy and save this unique id for audience 5 configuration into admin panel 5 configuration into admin panel for the integration in ops admin panel, go to the admin panel >> store configuration >> external service settings >> mail services tab >> mailchimp >> \u2018action menu\u2019 >> edit paste the api and audiences unique id saved in the above steps after this, you can manage your mailing list, campaigns and update subscriber from the admin panel 6 additional option 6 additional option if you are willing to change your mailchimp paid plan then on your dashboard, go to your account >> accounts >> billing tab > monthly plans or credit the plans will be displayed as below select a plan from the marketing plan, websites & commerce plan or transactional email plan and make the payment accordingly\nDid this page help you?\n\n\nPREVIOUS\nEmail Marketing\nNEXT\nSetup Mailgun\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

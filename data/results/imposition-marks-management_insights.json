@@ -1,0 +1,21 @@
+{
+  "id": "txt_300048",
+  "name": "imposition-marks-management",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders, Quotes & Customers\n\nImposition - Beta Version\nImposition Marks Management\n\n3 min\noverview & purpose pdf imposition comes with a series of standard crop marks, folding marks, and registration marks in addition, users can define their own marks for convenience color bars and customized color markers can be created and placed on the signature sheet with a single click of the mouse the calibration bar can also be self generated to ensure accuracy thus, here in the system, we have made available various imposition marks the two default imposition marks available in the system are \u2018default color strip\u2019 and \u2018default gray scale\u2019 though you cannot delete these you can easily edit them from the edit option in the action menu also, you are free to add cut marks and registration marks into the system add new imposition mark to add an imposition mark, go to admin >> imposition beta >> marks management >> add you will be required to enter its title, select mark type (whether it is a cutting mark or registration mark), and then upload the file for the imposition mark in pdf format note if you modify the mark file, then existing imposition schemas that are using this mark will show the old file only you must have to update those schemas manually to apply changes\nDid this page help you?\n\n\nPREVIOUS\nImpose Job\nNEXT\nProduct Schema Settings\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

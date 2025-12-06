@@ -1,0 +1,21 @@
+{
+  "id": "txt_928748",
+  "name": "import-bulk-products",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProducts\n\nManaging Products\nImport Bulk Products\n\n4 min\noverview & purpose instead of uploading a single product at a time, onprintshop system allows you to mass upload products using an excel sheet this will reduce down your labor required in uploading one product at a time mass upload product details, pricing, and additional options simply follow the below steps to successfully import products into your store importing products importing the products in the store in bulk is a 5 step easy process step \u2013 1 download sample file download the sample file and fill in the details in the sequence of the tab keep in mind the following points while filling in the details in the excel sheet you also get the provision to select a product and download the sample data with real time product information for reference you can download sample data of an existing product and easily fill the rest of the sheet, thus saving a hefty amount of time select product this dropdown allows you to choose a product to download sample data for reference at a time you can choose one product and download the sample file do not delete or interchange any column do not change the title of the column columns with titles in \u2018yellow\u2019 are mandatory to fill for any help in the column titles, look at step \u2013 2 for guidance before filling in data in the excel file make sure that you have, the same measurement unit set in your admin panel check the unit from admin >> store configuration >> settings >> search with \u201csize\u201d >> select from the dropdown list for 'measurement unit for product size' if there are multiple price options for a product then drag the product name until you get all the options in the corresponding row cells for example, if your business card product has 5 different size options then drag the business card into the next 4 more cells and add the remaining option step \u2013 2 fill up data & help here, each column of the excel sheet is explained such that it becomes easy for the admin to fill in the data step \u2013 3 upload file this section only accepts files in xls format make sure the data is filled correctly before you upload the file select the product type from the drop down and click on the upload file step \u2013 4 map database field the system maps the data of the excel file you can also check all the details entered into the excel sheet step \u2013 5 imported data summary once the file is uploaded, the system will display the summary of the data similar to as below if all the data entered is correct, click on the import button to upload all the product details and other information\nDid this page help you?\n\n\nPREVIOUS\nStock Management\nNEXT\nPricing Setup\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

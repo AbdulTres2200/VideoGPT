@@ -1,0 +1,21 @@
+{
+  "id": "txt_209778",
+  "name": "price-calculator-block-setup",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupporting Docs\nPrice Calculator Block Setup\n\n7 min\noverview you may already know that admin can add various blocks in the content of dynamic pages here, we will walk you through the steps to add a price calculator block on the cms page for quick orders this will help their customers analyze the prices of all the website products on a single page and place the order without navigating through the whole website to find their desired product custom price calculator block the price calculator block looks something like shown in the below image the \u2018 get started \u2019 button will request the customer to upload, browse or create a product design as defined in the product section following the type of block added, the system will provide a product dropdown and display all the mentioned products in the block as defined in the cms configure price calculator block below is the reference that how an admin can include the price calculator block for different products as per their business needs all products {% block product calculator|all %} mention the \u2018all\u2019 keyword after the product calculator block products of a specific category {% block product calculator|cat 1 2 3 %} the \u2018cat\u2019 keyword is referred to category ids for which product categories you want to make the listing you can check the category id from the address bar as shown below \u2013 specific products {% block product calculator|prd 1 98 100 106 108 %} need to mention the \u2018prd\u2019 keyword followed by specific product ids you can find the product id from the address bar as shown in the below image \u2013 admin can also disable the \u2018estimated shipping cost\u2019 and \u2018send estimated cost\u2019 sections (if these blocks are enabled for the main site) from the custom price calculator note the \u2018estimated shipping cost\u2019 and \u2018send estimated cost\u2019 sections will be displayed based on the configuration setting of the website if the sections are enabled and admin wishes to disable them for the custom price calculator for cms page then, it can be achieved by adding es0 (estimated shipment) and ec0 (estimated cost) after the product calculator block below is the reference to disable shipping as well estimated cost section disable estimate shipping price section {% block product calculator|all es0 %} disable estimated cost & send mail section {% block product calculator|all ec0 %} admin can add product description as well as product image in the custom product price calculator to include these details admin can include the below block in the cms {% block product description %} for canvas product, predefined, book, mailing list, mailing only, and products without price, an action is linked which will redirect the customer to the product info screen also, for the rest of all the products, the system will display the action button the same as displayed on the product info screen sample page content for the price calculator block \u2013 note you might need to edit the source code to set the various blocks for any assistance, you can contact the technical team front view \u2013\nDid this page help you?\n\n\nPREVIOUS\nOrder Cancellation and Refund\nNEXT\nQuick Product Design\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

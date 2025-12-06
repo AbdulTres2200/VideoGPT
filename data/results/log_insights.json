@@ -1,0 +1,21 @@
+{
+  "id": "txt_140199",
+  "name": "log",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdmin & Reports\n\nViewing Reports\nLog\n\n7 min\noverview & purpose the website logs file is created automatically and maintained by the webserver every hit in your admin panel is recorded, including each view of pages, every editing is done, every mail delivered, sms sent and more it also contains information about who was visiting the admin panel, where they came from (ip address), and exactly what they are doing on the admin panel the admin can generate a report file using the access the report files using the generated report files icon from the top right corner logs audit log this report provides information about the activities of super admin(s), other admins and print vendors to whom you have assigned admin rights report information is based on the selection of date range and keywords the report contains details of sections in which activities were performed, activities\u2019 details, author name and ip address and date super admin can also delete audit log data to delete audit log data from deleting the log filter, select time interval or enter keywords and press show report button now, you can delete listed log data by clicking on the delete log data button above the listing page email log this report allows you to view a copy of emails sent from your storefront along with their sent status you can view the email content using the \" view email content \" icon, use the 'resend email' functionality and 'delete' options to act further on them report information is based on the selection of date range and keywords you can check the referrer information by clicking on the help icon beside the ip address sms log this report allows you to view a copy of sms sent from your storefront along with their status report information is based on the selection of date range and keywords, email subject key and service name site log this section displays site log on the admin panel admin can view site log details (as saved by the technical team) such as payment error logs, shipping error logs, hot folder logs and other migration logs from the log report section they can download the log file or copy the last 1000 lines from the log for further analysis of data this will help the admin keep a record of missing files, requests, and requests coming from the server background process log the background process log is a system feature that tracks and manages automated tasks running in the background the report allows a review of the tasks that are running, pending, or failed\nDid this page help you?\n\n\nPREVIOUS\nProduction Time Spent\nNEXT\nCMS Blocks Setup\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

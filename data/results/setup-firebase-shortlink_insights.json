@@ -1,0 +1,21 @@
+{
+  "id": "txt_486250",
+  "name": "setup-firebase-shortlink",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSocial Logins and Sharing\nSetup Firebase Shortlink\n\n13 min\noverview & purpose let your customers share their portfolio or their saved designs on social media platforms (based on your selection) for sharing link generation, you need to integrate your onprintshop account with firebase console with this integration, you can configure the url prefix and short link generation how to integrate follow the below steps to configure firebase shortlink in your domain 1 create a new project 1 create a new project visit the google firebase console log in with your google account after successful login, create a new project by clicking on the create a project (first project) or add project button enter your project name, accept the terms and click on the continue on the next page, choose to enable/disable google analytics if you have \u201cenabled\u201d google analytics then, on the next page, select the location, accept the terms and create the project after creating the project, the google developers page will lead you to your project dashboard 2 generate web api key 2 generate web api key navigate to the build >> authentication click on the get started button to generate the web api key to copy the generated api key, navigate to settings icon >> project settings on the general tab of the project settings page, you will find the web api key copy the web api key and keep it at a safe and secure place for the later part of the integration 3 add url prefix 3 add url prefix for creating url prefix, from the left side panel, go to the engage >> dynamic links menu click on the get started button the following screen will appear enter the domain which you want to use as the prefix as you will start typing, google will display you the free domain path options you can use the free prefix or you can use your existing domain once done, click on the continue button to add the prefix copy the url prefix created and keep it at a safe and secure place for the next part of the integration 4 admin panel configuration 4 admin panel configuration in admin panel, navigate to the admin >> store configuration >> external service settings >> social sharing >> portfolio/design sharing >> action menu >> edit option note the email, facebook, twitter, linkedin, and pinterest platforms are for desktop whereas the whatsapp, telegram, and facebook messenger platforms are for mobile and tablet devices first of all, select the platforms for portfolio sharing the next step is to enable the short link generation feature now, enter the saved web api key and domain url prefix finally, select the suffix (short or unguessable) for the sharing link short if you select this option then, the path component will be a 4 character string unguessable if you select this option then, the path component will be a 17 character string save the details your integration is set up successfully now, at the onprintshop front store when your customers will share their design on the social media platforms (whatsapp, facebook messenger, and telegram), this is how the normal link and short link as per configuration will appear\nDid this page help you?\n\n\nPREVIOUS\nSetup Cloudflare Captcha\nNEXT\nEmail Marketing\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

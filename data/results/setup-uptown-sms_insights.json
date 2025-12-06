@@ -1,0 +1,21 @@
+{
+  "id": "txt_465209",
+  "name": "setup-uptown-sms",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSMS Notification\nSetup Uptown SMS\n\n10 min\noverview uptown is a scalable communication method that enables you to manage your onprintshop store more efficiently and communicate well with your customers purpose with uptown integrated into your onprintshop web store, you can get a stable communication mode to interact with your customers how to integrate read the below systematic guide to integrate uptownsms with your onprintshop website 1 registration in uptown sms 1 registration in uptown sms visit uptownsms website and fill in the required details save the details to complete the registration process 2 dashboard 2 dashboard from the dashboard, you can check your account information such as your current balance, add sender id, etc 3 create sender id 3 create sender id to create a sender id, go to the uptown sms dashboard >> transmission tools (left sidebar) >> add sender enter the desired sender id in the name field and click on the send now! button 4 sender id is in approval process 4 sender id is in approval process once the sender id is created, the uptown system will check your profile and approve the sender id in the system you can view the approval status of the sender id from the uptown sms dashboard >> transmission tools (left sidebar) >> use sender 5 configure uptown sms in onprintshop 5 configure uptown sms in onprintshop to access the services of uptown you need to integrate uptown into your admin panel for this, you need to navigate to the admin panel >> store configurations >> external service settings >> sms notifications >> uptownsms >> action >> edit enter username , password and sender name select and assign the countries set the mode as \" live \" enter the email address and save the details you will be able to utilize uptown sms as a gateway to send an sms notification to the end users\nDid this page help you?\n\n\nPREVIOUS\nSetup TOPLU SMS\nNEXT\nSetup India SMS\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

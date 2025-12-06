@@ -1,0 +1,21 @@
+{
+  "id": "txt_662997",
+  "name": "Fb97-designer-studio",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 10.1 Release Notes\nDesigner Studio\n\n7 min\npagewise size configuration pagewise size configuration (new) (new) until now, the admin had no provision to set the different sizes of multiple pages for a single product for instance, the envelope product's inner page and the cover page size can differ, and the admin cannot be able to set the size differently for these different pages for the designer studio and print ready files now, in this version, we have given an option \"pagewise size\" in the designer tab of the product section using which the admin can set the size of the printing area for different pages for the standard products to set the sizes, navigate to the admin panel >> product >> action menu dropdown >> designer tab click on the \" pagewise size \" button to set the printing area on different pages when the customer will select the product and go to the designer studio for customization, they will have different sizes available for placing the printing elements on defined pages text color enhancement text color enhancement in the designer studio, the customer or admin was able to add the text color as per the system configuration from version 10 1, the text font color will be black or white based on the canvas background\u2019s light or dark color to apply this in the designer studio, we have given a setting in the studio settings once you have enabled this setting, then the text color will be applied as black or white depending on the canvas background as shown below new minor features & enhancement new minor features & enhancement clipart enhancement clipart enhancement in this release, we have made the following enhancements to the clipart section no image found the clipart and background will be replaced with a \u201cno image\u201d placeholder if the clipart or background object is not found replace clipart the added clipart in the canvas may now be replaced with any clipart from the left panel using the replace option or drag and drop in the clipart clipart preview the clipart preview will be generated with cmyk color using a dynamic path photobook page count photobook page count currently, we don't have any option to check the page count of the photobook product on the save or continue in the designer studio now, if the page count does not match with the multiplication of 2/4/6/8, the system will display a restriction message once the user will click on save or continue to proceed further, the user either needs to add or delete pages accordingly replacing image in pdf block studio replacing image in pdf block studio while working on the pdf blocks, the admin can now select set if they want to display the upload tab by default when the customers choose to replace the image to set this, we have added one setting in the block studio tab of the studio settings section element selection using the tab key element selection using the tab key in the designer studio canvas, the admin or customer can select the added objects using the tab key\nDid this page help you?\n\n\nPREVIOUS\nOrder Section\nNEXT\nThird-Party Features\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "txt_308344",
+  "name": "setup-dashboard",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDigital Marketing\n\nGoogle Tag Manager Integration\nSetup Dashboard\n\n13 min\nintroduction with the integration of google tag manager (gtm) and google analytics (ga), onprintshop provides a centralized analytics dashboard directly within the admin panel this eliminates the need to switch between multiple platforms, allowing users to conveniently access key metrics in one place from tracking website traffic and user engagement to monitoring conversion rates and sales performance, the dashboard provides a comprehensive overview of critical data setup and enable gtm/ga4 dashboard enable google analytics data api enable google analytics data api go to the google cloud console \u2192 https //console cloud google com/ https //console cloud google com/ click on the select a project dropdown and choose an existing project or create a new one in the search bar , type google analytics data api and select it scroll down to the getting started section and click on the client library quickstart link click on the enable the google analytics data api v1 button to activate the api note the steps to generate a json file from this point may vary depending on your google account type and permissions choose an existing project or create a new one to generate the client configuration and visit the service accounts section navigate to the service accounts section and go to the keys tab click on create a new key and select the json format download and save the generated json file in a secure location for future use note the steps to generate the json file may vary google account wise configure email for api access configure email for api access open the downloaded json file, locate the field called client email, and copy the email id open google analytics admin \u2192 go to account settings, from the property section select property access management and then click + add and select add users enter the service account email (from the json file) and assign analyst role click add to save the changes now, to get the property id, navigate to the admin > property > property details and copy the property id enable dashboard from admin panel enable dashboard from admin panel to enable the gtm dashboard in the onprintshop admin panel, navigate to the store configuration > external service settings > digital marketing > gtm/ga4 > edit note from the json file downloaded in step 1, copy the raw data to activate the dashboard enable the dashboard setting and then add the api json and property id in the respective fields save the changes once enabled, the dashboard will be accessible from the admin panel dashboard screen\nDid this page help you?\n\n\nPREVIOUS\nEnhanced eCommerce Setup\nNEXT\nDebug View\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

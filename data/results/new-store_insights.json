@@ -1,0 +1,21 @@
+{
+  "id": "txt_513481",
+  "name": "new-store",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMulti-Store\nNew Store\n\n5 min\nadd a new store adding a new store is as easy as a pie, to add a store in your multi store admin go to admin >> store configuration >> store settings >> \u2018+add\u2019 button here, you\u2019ll see all the stores listed along with a few details such as the default language, currency, country, payment method, and website theme clicking on the \u2018add\u2019 button will open a new form where you can fill in the store details, such as url, main store url, select theme, set logos, and favicon click on save and continue the next section will ask you to add products to the given store add products from the unassigned table to the assigned table click on save and continue the next section is the store localization section, here you can select the following for your current store \u2013 store language store payment method store currency store country store shipping method after this, you can set the default language, payment method, currency, country, and email connection next choose whether you want the store to have the store specific faq, banner, and testimonials next are the banner settings, you can have store specific banner settings next, are the store configuration settings, here you can select the store from the dropdown and set store specific configuration settings under image optimization, you can optimize images of the selected store image optimization is similar to the single store admin panel action menu of store after saving the store details you can anytime edit the changes via the action menu of the store\nDid this page help you?\n\n\nPREVIOUS\nDashboard\nNEXT\nStore Details\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

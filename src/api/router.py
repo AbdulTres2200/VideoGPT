@@ -12,13 +12,21 @@ from fastapi.responses import StreamingResponse
 from pydantic import BaseModel, Field
 from dotenv import load_dotenv
 import json
+import logging
 from collections import defaultdict
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
 
 # Add project root to path for imports
 project_root = Path(__file__).parent.parent.parent
 sys.path.insert(0, str(project_root / 'src'))
 
-from core.rag_query import VideoRAGQuery
+from core.RAG import VideoRAGQuery
 
 load_dotenv('.env.local')
 
@@ -134,47 +142,133 @@ async def query_videos_stream(request: QueryRequest):
     
     # Get or create session ID
     session_id = request.session_id or str(uuid.uuid4())
+    logger.info(f"📝 [STREAM] Session ID: {session_id}")
     
     # Get conversation history for this session
     history = conversation_history[session_id]
+    logger.info(f"📚 [STREAM] Conversation history retrieved - Messages: {len(history)}")
+    if history:
+        logger.debug(f"📚 [STREAM] History content: {json.dumps(history, indent=2)}")
+    else:
+        logger.info("📚 [STREAM] No previous conversation history (new session)")
     
     async def generate():
         try:
+            logger.info(f"🔍 [STREAM] Query: {request.question[:100]}...")
+            logger.info(f"📤 [STREAM] Passing {len(history)} history messages to RAG system")
             full_answer = ""
             for chunk in rag_system.query_stream(request.question, conversation_history=history):
-                if chunk["type"] == "content":
-                    full_answer += chunk.get("content", "")
-                    yield f"data: {json.dumps(chunk)}\n\n"
-                elif chunk["type"] == "sources" and request.return_sources:
-                    # Map JSON filenames to original video filenames
-                    sources = []
-                    for src in chunk["sources"]:
-                        json_filename = src.get("source_file", "Unknown")
-                        original_video_file = rag_system._get_original_video_filename(json_filename)
-                        sources.append({
-                            "video_name": src.get("video_name", "Unknown"),
-                            "video_id": src.get("video_id", "Unknown"),
-                            "content_type": src.get("content_type", "Unknown"),
-                            "source_file": original_video_file
+                try:
+                    if chunk["type"] == "content":
+                        content = chunk.get("content", "")
+                        if content:  # Only add non-empty content
+                            full_answer += content
+                            yield f"data: {json.dumps(chunk)}\n\n"
+                    elif chunk["type"] == "sources" and request.return_sources:
+                        # Map JSON filenames to original video filenames
+                        sources = []
+                        for src in chunk["sources"]:
+                            json_filename = src.get("source_file", "Unknown")
+                            original_video_file = rag_system._get_original_video_filename(json_filename)
+                            
+                            # Use filename without extension as video_name if it's "Unknown"
+                            video_name = src.get("video_name", "Unknown")
+                            if video_name == "Unknown":
+                                # Extract filename without extension
+                                video_name = Path(original_video_file).stem
+                            
+                            sources.append({
+                                "video_name": video_name,
+                                "video_id": src.get("video_id", "Unknown"),
+                                "content_type": src.get("content_type", "Unknown"),
+                                "source_file": original_video_file
+                            })
+                        yield f"data: {json.dumps({'type': 'sources', 'sources': sources})}\n\n"
+                    elif chunk["type"] == "done":
+                        # Store conversation history after response is complete
+                        conversation_history[session_id].append({
+                            "role": "user",
+                            "content": request.question
                         })
-                    yield f"data: {json.dumps({'type': 'sources', 'sources': sources})}\n\n"
-                elif chunk["type"] == "done":
-                    # Store conversation history after response is complete
-                    conversation_history[session_id].append({
-                        "role": "user",
-                        "content": request.question
-                    })
-                    conversation_history[session_id].append({
-                        "role": "assistant",
-                        "content": full_answer
-                    })
-                    # Send session_id with done message
-                    chunk["session_id"] = session_id
-                    yield f"data: {json.dumps(chunk)}\n\n"
-                else:
-                    yield f"data: {json.dumps(chunk)}\n\n"
+                        conversation_history[session_id].append({
+                            "role": "assistant",
+                            "content": full_answer
+                        })
+                        logger.info(f"💾 [STREAM] Stored conversation - Total messages in session: {len(conversation_history[session_id])}")
+                        logger.debug(f"💾 [STREAM] Updated history: {json.dumps(conversation_history[session_id], indent=2)}")
+                        # Send session_id with done message
+                        chunk["session_id"] = session_id
+                        yield f"data: {json.dumps(chunk)}\n\n"
+                    else:
+                        yield f"data: {json.dumps(chunk)}\n\n"
+                except Exception as chunk_error:
+                    # Log chunk processing error but continue
+                    import traceback
+                    import sys
+                    error_str = str(chunk_error)
+                    error_trace = traceback.format_exc()
+                    
+                    # Print to both stderr and stdout with flush
+                    print(f"❌ Error processing chunk: {error_str}", file=sys.stderr, flush=True)
+                    print(f"Chunk data: {chunk}", file=sys.stderr, flush=True)
+                    print(f"Traceback: {error_trace}", file=sys.stderr, flush=True)
+                    print(f"❌ Error processing chunk: {error_str}", flush=True)
+                    print(f"Chunk data: {chunk}", flush=True)
+                    print(f"Traceback: {error_trace}", flush=True)
+                    # Skip this chunk and continue
+                    continue
         except Exception as e:
-            yield f"data: {json.dumps({'type': 'error', 'content': f'Error: {str(e)}'})}\n\n"
+            # Log the full error for debugging - use print with flush to ensure it shows
+            import traceback
+            import sys
+            error_details = traceback.format_exc()
+            error_str = str(e)
+            error_type = type(e).__name__
+            
+            # Print to stderr to ensure it's visible
+            print(f"❌ CRITICAL ERROR in query_stream: {error_str}", file=sys.stderr, flush=True)
+            print(f"Error type: {error_type}", file=sys.stderr, flush=True)
+            print(f"Full traceback:\n{error_details}", file=sys.stderr, flush=True)
+            
+            # Also print to stdout
+            print(f"❌ CRITICAL ERROR in query_stream: {error_str}", flush=True)
+            print(f"Error type: {error_type}", flush=True)
+            print(f"Full traceback:\n{error_details}", flush=True)
+            
+            # Send error to client - escape the error message to prevent JSON issues
+            # Handle specific error cases
+            user_friendly_error = None
+            
+            # Handle ChromaDB/SQLite database errors
+            if "Cannot open" in error_str or "data_level0" in error_str or "database" in error_str.lower():
+                print(f"   🔍 DETECTED DATABASE ERROR - ChromaDB/SQLite access issue", flush=True)
+                user_friendly_error = (
+                    "Database access error. This may be due to:\n"
+                    "1. Database files are locked by another process\n"
+                    "2. Too many concurrent database connections\n"
+                    "3. Database corruption\n\n"
+                    "Solutions:\n"
+                    "- Restart the API server\n"
+                    "- Check if embedding process is running\n"
+                    "- If persistent, you may need to reset the database"
+                )
+            # Handle the specific '% ' error case
+            elif error_str == "'% '" or "'% '" in error_str:
+                print(f"   🔍 DETECTED '% ' ERROR - This is likely a string formatting issue", flush=True)
+                print(f"   Error repr: {repr(error_str)}", flush=True)
+                user_friendly_error = "Template formatting error. Please try again with a different question."
+            
+            try:
+                if user_friendly_error:
+                    safe_error = user_friendly_error.replace('"', '\\"').replace('\n', ' ').replace('\r', '')
+                else:
+                    safe_error = error_str.replace('"', '\\"').replace('\n', ' ').replace('\r', '')[:200]
+                error_json = json.dumps({'type': 'error', 'content': f'Error processing query. {safe_error}'})
+                yield f"data: {error_json}\n\n"
+            except Exception as json_error:
+                # If JSON encoding fails, send a simple error message
+                print(f"   ❌ ERROR: Could not encode error to JSON: {json_error}", flush=True)
+                yield f"data: {json.dumps({'type': 'error', 'content': 'Error processing query. Please try again.'})}\n\n"
     
     return StreamingResponse(generate(), media_type="text/event-stream")
 
@@ -199,16 +293,52 @@ async def query_videos(request: QueryRequest):
     try:
         # Get or create session ID
         session_id = request.session_id or str(uuid.uuid4())
+        logger.info(f"📝 [QUERY] Session ID: {session_id}")
         
         # Get conversation history for this session
         history = conversation_history[session_id]
+        logger.info(f"📚 [QUERY] Conversation history retrieved - Messages: {len(history)}")
+        if history:
+            logger.debug(f"📚 [QUERY] History content: {json.dumps(history, indent=2)}")
+        else:
+            logger.info("📚 [QUERY] No previous conversation history (new session)")
         
         # Query the RAG system
-        response = rag_system.query(
-            question=request.question,
-            return_sources=request.return_sources,
-            conversation_history=history
-        )
+        try:
+            logger.info(f"🔍 [QUERY] Query: {request.question[:100]}...")
+            logger.info(f"📤 [QUERY] Passing {len(history)} history messages to RAG system")
+            response = rag_system.query(
+                question=request.question,
+                return_sources=request.return_sources,
+                conversation_history=history
+            )
+            
+            # Validate response structure
+            if not response or "answer" not in response:
+                raise ValueError("Invalid response structure from RAG system")
+            
+            # Ensure answer is valid
+            if not response.get("answer") or not isinstance(response["answer"], str):
+                response["answer"] = "I apologize, but I encountered an error generating the response. Please try asking your question again."
+        except Exception as query_error:
+            # Log the error but don't expose internal details
+            import traceback
+            error_details = traceback.format_exc()
+            error_str = str(query_error)
+            print(f"❌ Error in RAG query: {query_error}")
+            print(f"Error details: {error_details}")
+            
+            # Provide user-friendly error messages for common issues
+            if "Cannot open" in error_str or "data_level0" in error_str or "database" in error_str.lower():
+                raise HTTPException(
+                    status_code=503,
+                    detail=(
+                        "Database access error. The vector database may be locked or corrupted. "
+                        "Please try restarting the API server. If the issue persists, you may need to reset the database."
+                    )
+                )
+            else:
+                raise HTTPException(status_code=500, detail=f"Error processing query: {str(query_error)}")
         
         # Store conversation history
         conversation_history[session_id].append({
@@ -219,6 +349,8 @@ async def query_videos(request: QueryRequest):
             "role": "assistant",
             "content": response["answer"]
         })
+        logger.info(f"💾 [QUERY] Stored conversation - Total messages in session: {len(conversation_history[session_id])}")
+        logger.debug(f"💾 [QUERY] Updated history: {json.dumps(conversation_history[session_id], indent=2)}")
         
         # Format sources if present
         sources = None
@@ -228,9 +360,16 @@ async def query_videos(request: QueryRequest):
                 json_filename = src.get("source_file", "Unknown")
                 # Get original video filename with extension
                 original_video_file = rag_system._get_original_video_filename(json_filename)
+                
+                # Use filename without extension as video_name if it's "Unknown"
+                video_name = src.get("video_name", "Unknown")
+                if video_name == "Unknown":
+                    # Extract filename without extension
+                    video_name = Path(original_video_file).stem
+                
                 sources.append(
                     SourceInfo(
-                        video_name=src.get("video_name", "Unknown"),
+                        video_name=video_name,
                         video_id=src.get("video_id", "Unknown"),
                         content_type=src.get("content_type", "Unknown"),
                         source_file=original_video_file
@@ -244,6 +383,12 @@ async def query_videos(request: QueryRequest):
         )
     
     except Exception as e:
+        # Log the full error for debugging
+        import traceback
+        error_details = traceback.format_exc()
+        print(f"❌ Error processing query: {e}")
+        print(f"Error details: {error_details}")
+        # Return a user-friendly error message
         raise HTTPException(status_code=500, detail=f"Error processing query: {str(e)}")
 
 
@@ -255,9 +400,13 @@ class ClearConversationRequest(BaseModel):
 @app.post("/conversation/clear")
 async def clear_conversation(request: ClearConversationRequest):
     """Clear conversation history for a session."""
+    logger.info(f"🗑️  [CLEAR] Clearing conversation for session: {request.session_id}")
     if request.session_id in conversation_history:
+        messages_count = len(conversation_history[request.session_id])
         conversation_history[request.session_id] = []
-        return {"status": "cleared", "session_id": request.session_id}
+        logger.info(f"🗑️  [CLEAR] Cleared {messages_count} messages from session {request.session_id}")
+        return {"status": "cleared", "session_id": request.session_id, "messages_cleared": messages_count}
+    logger.warning(f"🗑️  [CLEAR] Session {request.session_id} not found")
     return {"status": "not_found", "session_id": request.session_id}
 
 

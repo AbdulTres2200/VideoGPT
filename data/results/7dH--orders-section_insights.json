@@ -1,0 +1,21 @@
+{
+  "id": "txt_929549",
+  "name": "7dH--orders-section",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 11.2 Release Notes\nOrders Section\n\n8 min\nimproved ui of the order listing page the \"order listing\" page has been enhanced with a more intuitive and user friendly interface the admin can view the line items from all the orders together to ease the sorting of the order listing, we brought all the sorting options under one roof the filter display and management have been taken care of the admin can now choose filters to display order reprint management when you have completed the production of the received orders and the output has some errors or does not match the quality standards, the admin has to take care of the printing of the artwork again along with keeping the customer in the loop from v11 2, the admin will have the provision to manage the order reprint process from the system from the action dropdown, the admin can select the reorder/reprint menu with order reprint functionality, the admin will be able to produce the ordered products again without impacting the pricing of the order and manage production workflow for reprint orders as well order pickup information for the pickup orders, the admin will have the provision to capture customer details who have picked up the package from the selected pickup location job board enhancement if you have a preset workflow for managing your order fulfillment, you can now filter and manage the workflow admin wise within the job board in all of the three job board views, this workflow admin filter will let the administrator filter the orders assigned to the respective workflow admin also, there will be provisions to assign or edit the workflow admins in grid or list view package selection for order shipments while creating an order shipment, the admin will now be able to select any of the master packages configured in the system after package selection, the dimensions of the package will be pre filled, and the admin can proceed with creating the shipment general comments in the proofing tool while proofing artworks, the customers can now add general or common comments page wise along with the existing comment functionalities the comments added will be displayed in the side panel with the provision to edit or delete them as required minor enhancements in the \u201cwork and tumble\u201d printing style, all the details including the job will also be reversed on behalf of the customer, the admin can now place offline orders for all types of canvas products based on the site configuration \u201cshipping label direct print\u201d setting, the shipping label can now directly be printed without downloading it for the order export or transfer to hot folders, the admin can filter the list of orders by not transferred anytime or already transferred previously filters in addition, for automated order transfers, the admin can now select the order statuses that will only be transferred\nDid this page help you?\n\n\nPREVIOUS\nFront Store\nNEXT\nProduct Section\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

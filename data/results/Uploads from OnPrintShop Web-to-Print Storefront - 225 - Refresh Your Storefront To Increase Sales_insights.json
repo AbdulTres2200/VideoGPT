@@ -1,0 +1,2467 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+  "id": "29fz5msjvg",
+  "name": "Uploads from OnPrintShop Web-to-Print Storefront - 225 - Refresh Your Storefront",
+  "userName": "Abdul Moiz",
+  "created": "2025-11-01T06:00:06.1033333+00:00",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 22,
+  "duration": "0:00:22.895",
+  "summarizedInsights": {
+    "name": "Uploads from OnPrintShop Web-to-Print Storefront - 225 - Refresh Your Storefront",
+    "id": "29fz5msjvg",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:00:22.895",
+      "seconds": 22.9
+    },
+    "thumbnailVideoId": "29fz5msjvg",
+    "thumbnailId": "84e43c4e-d420-41fe-b0c5-8772f4e1b300",
+    "faces": [
+      {
+        "videoId": "29fz5msjvg",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "72c08a4c-297a-421e-8248-0892187753a8",
+        "seenDuration": 2.2,
+        "seenDurationRatio": 0.0961,
+        "id": 1003,
+        "name": "Unknown #1",
+        "appearances": [
+          {
+            "startTime": "0:00:07.84",
+            "endTime": "0:00:10.04",
+            "startSeconds": 7.8,
+            "endSeconds": 10
+          }
+        ]
+      },
+      {
+        "videoId": "29fz5msjvg",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "b5a39b16-347c-4b5b-945f-9cc6d0e8698e",
+        "seenDuration": 2.2,
+        "seenDurationRatio": 0.0961,
+        "id": 1002,
+        "name": "Unknown #2",
+        "appearances": [
+          {
+            "startTime": "0:00:07.84",
+            "endTime": "0:00:10.04",
+            "startSeconds": 7.8,
+            "endSeconds": 10
+          }
+        ]
+      },
+      {
+        "videoId": "29fz5msjvg",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "bd1aebde-867c-43a5-b834-7f2073246217",
+        "seenDuration": 2.2,
+        "seenDurationRatio": 0.0961,
+        "id": 1004,
+        "name": "Unknown #3",
+        "appearances": [
+          {
+            "startTime": "0:00:07.84",
+            "endTime": "0:00:10.04",
+            "startSeconds": 7.8,
+            "endSeconds": 10
+          }
+        ]
+      },
+      {
+        "videoId": "29fz5msjvg",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "66a65df6-8cdd-4c9a-93b9-0bde0b1110a4",
+        "seenDuration": 2.2,
+        "seenDurationRatio": 0.0961,
+        "id": 1005,
+        "name": "Unknown #4",
+        "appearances": [
+          {
+            "startTime": "0:00:07.84",
+            "endTime": "0:00:09.96",
+            "startSeconds": 7.8,
+            "endSeconds": 10
+          }
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "isTranscript": false,
+        "id": 1,
+        "name": "storefront",
+        "appearances": [
+          {
+            "startTime": "0:00:01",
+            "endTime": "0:00:04.04",
+            "startSeconds": 1,
+            "endSeconds": 4
+          },
+          {
+            "startTime": "0:00:20",
+            "endTime": "0:00:22.04",
+            "startSeconds": 20,
+            "endSeconds": 22
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 2,
+        "name": "christmas",
+        "appearances": [
+          {
+            "startTime": "0:00:06",
+            "endTime": "0:00:07.04",
+            "startSeconds": 6,
+            "endSeconds": 7
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 3,
+        "name": "register",
+        "appearances": [
+          {
+            "startTime": "0:00:11",
+            "endTime": "0:00:13.04",
+            "startSeconds": 11,
+            "endSeconds": 13
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 4,
+        "name": "order",
+        "appearances": [
+          {
+            "startTime": "0:00:11",
+            "endTime": "0:00:13.04",
+            "startSeconds": 11,
+            "endSeconds": 13
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 5,
+        "name": "onprintshop",
+        "appearances": [
+          {
+            "startTime": "0:00:20",
+            "endTime": "0:00:22.04",
+            "startSeconds": 20,
+            "endSeconds": 22
+          }
+        ]
+      }
+    ],
+    "sentiments": [],
+    "emotions": [],
+    "audioEffects": [
+      {
+        "audioEffectKey": "Silence",
+        "seenDurationRatio": 0.7207,
+        "seenDuration": 16.5,
+        "appearances": [
+          {
+            "confidence": 0.9669,
+            "startTime": "0:00:00",
+            "endTime": "0:00:16.5",
+            "startSeconds": 0,
+            "endSeconds": 16.5
+          }
+        ]
+      }
+    ],
+    "labels": [
+      {
+        "id": 2,
+        "name": "text",
+        "appearances": [
+          {
+            "confidence": 1,
+            "startTime": "0:00:01",
+            "endTime": "0:00:07.04",
+            "startSeconds": 1,
+            "endSeconds": 7
+          },
+          {
+            "confidence": 0.98,
+            "startTime": "0:00:11",
+            "endTime": "0:00:16.04",
+            "startSeconds": 11,
+            "endSeconds": 16
+          },
+          {
+            "confidence": 0.9984,
+            "startTime": "0:00:21",
+            "endTime": "0:00:22.04",
+            "startSeconds": 21,
+            "endSeconds": 22
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "clothing",
+        "appearances": [
+          {
+            "confidence": 0.9781,
+            "startTime": "0:00:08",
+            "endTime": "0:00:10.04",
+            "startSeconds": 8,
+            "endSeconds": 10
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "person",
+        "appearances": [
+          {
+            "confidence": 0.9619,
+            "startTime": "0:00:08",
+            "endTime": "0:00:10.04",
+            "startSeconds": 8,
+            "endSeconds": 10
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "human face",
+        "appearances": [
+          {
+            "confidence": 0.9625,
+            "startTime": "0:00:08",
+            "endTime": "0:00:10.04",
+            "startSeconds": 8,
+            "endSeconds": 10
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "electronic device",
+        "appearances": [
+          {
+            "confidence": 0.9533,
+            "startTime": "0:00:14",
+            "endTime": "0:00:16.04",
+            "startSeconds": 14,
+            "endSeconds": 16
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "wall",
+        "appearances": [
+          {
+            "confidence": 0.962,
+            "startTime": "0:00:08",
+            "endTime": "0:00:09.04",
+            "startSeconds": 8,
+            "endSeconds": 9
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "electronics",
+        "appearances": [
+          {
+            "confidence": 0.9945,
+            "startTime": "0:00:15",
+            "endTime": "0:00:16.04",
+            "startSeconds": 15,
+            "endSeconds": 16
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "computer",
+        "appearances": [
+          {
+            "confidence": 0.9853,
+            "startTime": "0:00:15",
+            "endTime": "0:00:16.04",
+            "startSeconds": 15,
+            "endSeconds": 16
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "laptop",
+        "appearances": [
+          {
+            "confidence": 0.9521,
+            "startTime": "0:00:15",
+            "endTime": "0:00:16.04",
+            "startSeconds": 15,
+            "endSeconds": 16
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "turquoise",
+        "appearances": [
+          {
+            "confidence": 0.9532,
+            "startTime": "0:00:00",
+            "endTime": "0:00:00.04",
+            "startSeconds": 0,
+            "endSeconds": 0
+          },
+          {
+            "confidence": 0.9533,
+            "startTime": "0:00:05",
+            "endTime": "0:00:05.04",
+            "startSeconds": 5,
+            "endSeconds": 5
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "gadget",
+        "appearances": [
+          {
+            "confidence": 0.9607,
+            "startTime": "0:00:14",
+            "endTime": "0:00:14.04",
+            "startSeconds": 14,
+            "endSeconds": 14
+          }
+        ]
+      }
+    ],
+    "framePatterns": [],
+    "brands": [],
+    "namedLocations": [],
+    "namedPeople": [],
+    "statistics": {
+      "correspondenceCount": 0,
+      "speakerTalkToListenRatio": {},
+      "speakerLongestMonolog": {},
+      "speakerNumberOfFragments": {},
+      "speakerWordCount": {}
+    },
+    "topics": []
+  },
+  "videos": [
+    {
+      "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+      "id": "29fz5msjvg",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:00:22.895",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [
+          "en-US"
+        ],
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "ocr": [
+          {
+            "id": 1,
+            "text": "20",
+            "confidence": 0.998,
+            "left": 147,
+            "top": 354,
+            "width": 136,
+            "height": 135,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.04",
+                "start": "0:00:06",
+                "end": "0:00:07.04"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "2022",
+            "confidence": 0.995,
+            "left": 582,
+            "top": 675,
+            "width": 772,
+            "height": 279,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.04",
+                "start": "0:00:06",
+                "end": "0:00:07.04"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "50%",
+            "confidence": 0.993,
+            "left": 1040,
+            "top": 629,
+            "width": 223,
+            "height": 92,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "$299",
+            "confidence": 0.99,
+            "left": 740,
+            "top": 349,
+            "width": 29,
+            "height": 8,
+            "angle": -14,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:16.04",
+                "start": "0:00:15",
+                "end": "0:00:16.04"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "$199",
+            "confidence": 0.992,
+            "left": 985,
+            "top": 298,
+            "width": 28,
+            "height": 7,
+            "angle": -17,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:16.04",
+                "start": "0:00:15",
+                "end": "0:00:16.04"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "$149",
+            "confidence": 0.963,
+            "left": 1098,
+            "top": 272,
+            "width": 27,
+            "height": 9,
+            "angle": -10,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:16.04",
+                "start": "0:00:15",
+                "end": "0:00:16.04"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "$14",
+            "confidence": 0.956,
+            "left": 1410,
+            "top": 468,
+            "width": 16,
+            "height": 8,
+            "angle": 11,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:16.04",
+                "start": "0:00:15",
+                "end": "0:00:16.04"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "$29",
+            "confidence": 0.932,
+            "left": 1494,
+            "top": 610,
+            "width": 17,
+            "height": 8,
+            "angle": 10,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:16.04",
+                "start": "0:00:15",
+                "end": "0:00:16.04"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "Refresh Your Storefront To Increase Sales",
+            "confidence": 0.9902,
+            "left": 285,
+            "top": 115,
+            "width": 1348,
+            "height": 69,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:01",
+                "end": "0:00:04.04"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "Storefront",
+            "confidence": 0.997,
+            "left": 634,
+            "top": 530,
+            "width": 223,
+            "height": 45,
+            "angle": -1,
+            "language": "to-TO",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:01",
+                "end": "0:00:04.04"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "BIG",
+            "confidence": 0.991,
+            "left": 136,
+            "top": 86,
+            "width": 195,
+            "height": 151,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.04",
+                "start": "0:00:06",
+                "end": "0:00:07.04"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "MERRY",
+            "confidence": 0.996,
+            "left": 1266,
+            "top": 168,
+            "width": 133,
+            "height": 51,
+            "angle": -6,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.04",
+                "start": "0:00:06",
+                "end": "0:00:07.04"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "CHRISTMAS",
+            "confidence": 0.997,
+            "left": 127,
+            "top": 242,
+            "width": 421,
+            "height": 92,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.04",
+                "start": "0:00:06",
+                "end": "0:00:07.04"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "Christmas is a feeling true friends share with",
+            "confidence": 0.994,
+            "left": 1204,
+            "top": 292,
+            "width": 298,
+            "height": 17,
+            "angle": -4,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.04",
+                "start": "0:00:06",
+                "end": "0:00:07.04"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "laughter and love to show that they care. I hope",
+            "confidence": 0.9295,
+            "left": 1199,
+            "top": 312,
+            "width": 315,
+            "height": 18,
+            "angle": -4,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.04",
+                "start": "0:00:06",
+                "end": "0:00:07.04"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "% SALE",
+            "confidence": 0.992,
+            "left": 295,
+            "top": 353,
+            "width": 266,
+            "height": 96,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.04",
+                "start": "0:00:06",
+                "end": "0:00:07.04"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "you're all making this a Christmas to remember!",
+            "confidence": 0.9945,
+            "left": 1195,
+            "top": 332,
+            "width": 324,
+            "height": 18,
+            "angle": -4,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.04",
+                "start": "0:00:06",
+                "end": "0:00:07.04"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "OFF",
+            "confidence": 0.996,
+            "left": 993,
+            "top": 63,
+            "width": 113,
+            "height": 50,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.04",
+                "start": "0:00:06",
+                "end": "0:00:07.04"
+              },
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "SHOP NOW",
+            "confidence": 0.9965,
+            "left": 375,
+            "top": 454,
+            "width": 178,
+            "height": 44,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.04",
+                "start": "0:00:06",
+                "end": "0:00:07.04"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "BANNER",
+            "confidence": 0.991,
+            "left": 787,
+            "top": 488,
+            "width": 342,
+            "height": 105,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.04",
+                "start": "0:00:06",
+                "end": "0:00:07.04"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "text": "Happy New Year",
+            "confidence": 0.996,
+            "left": 724,
+            "top": 997,
+            "width": 473,
+            "height": 63,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.04",
+                "start": "0:00:06",
+                "end": "0:00:07.04"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "text": "COFFEE",
+            "confidence": 0.963,
+            "left": 295,
+            "top": 263,
+            "width": 62,
+            "height": 13,
+            "angle": 105,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:09.04",
+                "start": "0:00:08",
+                "end": "0:00:09.04"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "text": "STOP EXPLORING *",
+            "confidence": 0.9497,
+            "left": 1539,
+            "top": 629,
+            "width": 167,
+            "height": 32,
+            "angle": -3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:09.04",
+                "start": "0:00:08",
+                "end": "0:00:09.04"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "text": "Frien",
+            "confidence": 0.928,
+            "left": 397,
+            "top": 925,
+            "width": 57,
+            "height": 26,
+            "angle": -27,
+            "language": "de-DE",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:09.04",
+                "start": "0:00:08",
+                "end": "0:00:09.04"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "text": "PERSONALISED MERCHANDISE",
+            "confidence": 0.9925,
+            "left": 643,
+            "top": 924,
+            "width": 632,
+            "height": 55,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "text": "TROPICAL",
+            "confidence": 0.995,
+            "left": 1672,
+            "top": 0,
+            "width": 168,
+            "height": 24,
+            "angle": 24,
+            "language": "pt-PT",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "text": "BEACH",
+            "confidence": 0.971,
+            "left": 1643,
+            "top": 0,
+            "width": 183,
+            "height": 22,
+            "angle": 23,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "text": "SARASEA CIR",
+            "confidence": 0.9695,
+            "left": 1616,
+            "top": 13,
+            "width": 186,
+            "height": 19,
+            "angle": 27,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "text": "FOLLOW US ON",
+            "confidence": 0.9663,
+            "left": 1593,
+            "top": 73,
+            "width": 101,
+            "height": 13,
+            "angle": 28,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "text": "Register now for",
+            "confidence": 0.9573,
+            "left": 236,
+            "top": 267,
+            "width": 458,
+            "height": 87,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 31,
+            "text": "FLYER",
+            "confidence": 0.998,
+            "left": 1023,
+            "top": 251,
+            "width": 356,
+            "height": 94,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 32,
+            "text": "20% off",
+            "confidence": 0.9675,
+            "left": 267,
+            "top": 379,
+            "width": 401,
+            "height": 131,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 33,
+            "text": "DESIGN",
+            "confidence": 0.995,
+            "left": 1022,
+            "top": 345,
+            "width": 437,
+            "height": 102,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 34,
+            "text": "with Front & Back Printing",
+            "confidence": 0.9962,
+            "left": 1017,
+            "top": 461,
+            "width": 397,
+            "height": 36,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 35,
+            "text": "WE",
+            "confidence": 0.973,
+            "left": 1605,
+            "top": 516,
+            "width": 48,
+            "height": 24,
+            "angle": -43,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "text": "your order",
+            "confidence": 0.967,
+            "left": 306,
+            "top": 545,
+            "width": 309,
+            "height": 75,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 37,
+            "text": "FLAT",
+            "confidence": 0.996,
+            "left": 1048,
+            "top": 543,
+            "width": 227,
+            "height": 81,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 38,
+            "text": "PROVIDE THE BEST",
+            "confidence": 0.9953,
+            "left": 1627,
+            "top": 536,
+            "width": 127,
+            "height": 14,
+            "angle": -47,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 39,
+            "text": "BUSINESS",
+            "confidence": 0.903,
+            "left": 1636,
+            "top": 544,
+            "width": 115,
+            "height": 17,
+            "angle": -46,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 40,
+            "text": "(Register for a FREE account and we will",
+            "confidence": 0.995,
+            "left": 199,
+            "top": 657,
+            "width": 528,
+            "height": 33,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 41,
+            "text": "Potent",
+            "confidence": 0.998,
+            "left": 1838,
+            "top": 611,
+            "width": 76,
+            "height": 18,
+            "angle": -16,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 42,
+            "text": "email you a code for 20% OFF your order)",
+            "confidence": 0.9942,
+            "left": 185,
+            "top": 699,
+            "width": 554,
+            "height": 36,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 43,
+            "text": "Start Now",
+            "confidence": 0.9975,
+            "left": 1434,
+            "top": 744,
+            "width": 153,
+            "height": 31,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 44,
+            "text": "REGISTER NOW",
+            "confidence": 0.994,
+            "left": 369,
+            "top": 786,
+            "width": 185,
+            "height": 26,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 45,
+            "text": "on Order of 2500 Qty. & Above",
+            "confidence": 0.9369,
+            "left": 1023,
+            "top": 807,
+            "width": 266,
+            "height": 23,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 46,
+            "text": "ENHANCED GRAPHICS",
+            "confidence": 0.9975,
+            "left": 681,
+            "top": 919,
+            "width": 558,
+            "height": 67,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 47,
+            "text": "WHAT WE'RE ALL ABOUT",
+            "confidence": 0.9968,
+            "left": 1277,
+            "top": 944,
+            "width": 354,
+            "height": 29,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 48,
+            "text": "All Orders Ship Out Next Day",
+            "confidence": 0.9772,
+            "left": 271,
+            "top": 1017,
+            "width": 379,
+            "height": 33,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:12",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 49,
+            "text": "biciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, ea",
+            "confidence": 0.9762,
+            "left": 957,
+            "top": 1011,
+            "width": 957,
+            "height": 21,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:12",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 50,
+            "text": "veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit as",
+            "confidence": 0.9884,
+            "left": 960,
+            "top": 1044,
+            "width": 956,
+            "height": 22,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:12",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 51,
+            "text": "OnlineShop",
+            "confidence": 0.908,
+            "left": 511,
+            "top": 238,
+            "width": 85,
+            "height": 16,
+            "angle": -9,
+            "language": "de-DE",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:16.04",
+                "start": "0:00:15",
+                "end": "0:00:16.04"
+              }
+            ]
+          },
+          {
+            "id": 52,
+            "text": "Products",
+            "confidence": 0.998,
+            "left": 629,
+            "top": 258,
+            "width": 61,
+            "height": 13,
+            "angle": -11,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:16.04",
+                "start": "0:00:15",
+                "end": "0:00:16.04"
+              }
+            ]
+          },
+          {
+            "id": 53,
+            "text": "Pink duvet cover",
+            "confidence": 0.9653,
+            "left": 784,
+            "top": 340,
+            "width": 57,
+            "height": 8,
+            "angle": -13,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:16.04",
+                "start": "0:00:15",
+                "end": "0:00:16.04"
+              }
+            ]
+          },
+          {
+            "id": 54,
+            "text": "PRODUCT AND TEMPLATE CREATION",
+            "confidence": 0.9863,
+            "left": 527,
+            "top": 919,
+            "width": 866,
+            "height": 64,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:16.04",
+                "start": "0:00:15",
+                "end": "0:00:16.04"
+              }
+            ]
+          },
+          {
+            "id": 55,
+            "text": "OnPrintShop",
+            "confidence": 0.995,
+            "left": 662,
+            "top": 410,
+            "width": 1001,
+            "height": 150,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20",
+                "adjustedEnd": "0:00:22.04",
+                "start": "0:00:20",
+                "end": "0:00:22.04"
+              }
+            ]
+          },
+          {
+            "id": 56,
+            "text": "TM",
+            "confidence": 0.998,
+            "left": 1676,
+            "top": 402,
+            "width": 81,
+            "height": 54,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20",
+                "adjustedEnd": "0:00:22.04",
+                "start": "0:00:20",
+                "end": "0:00:22.04"
+              }
+            ]
+          },
+          {
+            "id": 57,
+            "text": "Web-to-Print Storefront",
+            "confidence": 0.995,
+            "left": 656,
+            "top": 616,
+            "width": 1015,
+            "height": 79,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20",
+                "adjustedEnd": "0:00:22.04",
+                "start": "0:00:20",
+                "end": "0:00:22.04"
+              }
+            ]
+          },
+          {
+            "id": 58,
+            "text": "Visit us@",
+            "confidence": 0.99,
+            "left": 863,
+            "top": 614,
+            "width": 194,
+            "height": 43,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:21",
+                "adjustedEnd": "0:00:22.04",
+                "start": "0:00:21",
+                "end": "0:00:22.04"
+              }
+            ]
+          },
+          {
+            "id": 59,
+            "text": "www.OnPrintShop.com",
+            "confidence": 0.983,
+            "left": 625,
+            "top": 679,
+            "width": 675,
+            "height": 57,
+            "angle": 0,
+            "language": "fi-FI",
+            "instances": [
+              {
+                "adjustedStart": "0:00:21",
+                "adjustedEnd": "0:00:22.04",
+                "start": "0:00:21",
+                "end": "0:00:22.04"
+              }
+            ]
+          },
+          {
+            "id": 60,
+            "text": "RADIX",
+            "confidence": 0.998,
+            "left": 1008,
+            "top": 968,
+            "width": 165,
+            "height": 31,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:21",
+                "adjustedEnd": "0:00:22.04",
+                "start": "0:00:21",
+                "end": "0:00:22.04"
+              }
+            ]
+          },
+          {
+            "id": 61,
+            "text": "Powered by:",
+            "confidence": 0.9665,
+            "left": 827,
+            "top": 925,
+            "width": 173,
+            "height": 25,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22",
+                "adjustedEnd": "0:00:22.04",
+                "start": "0:00:22",
+                "end": "0:00:22.04"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 1,
+            "text": "storefront",
+            "confidence": 0.6806,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:01",
+                "end": "0:00:04.04"
+              },
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:01",
+                "end": "0:00:04.04"
+              },
+              {
+                "adjustedStart": "0:00:20",
+                "adjustedEnd": "0:00:22.04",
+                "start": "0:00:20",
+                "end": "0:00:22.04"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "christmas",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.04",
+                "start": "0:00:06",
+                "end": "0:00:07.04"
+              },
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.04",
+                "start": "0:00:06",
+                "end": "0:00:07.04"
+              },
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.04",
+                "start": "0:00:06",
+                "end": "0:00:07.04"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "register",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              },
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              },
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "order",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              },
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              },
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              },
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:12",
+                "end": "0:00:13.04"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "onprintshop",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20",
+                "adjustedEnd": "0:00:22.04",
+                "start": "0:00:20",
+                "end": "0:00:22.04"
+              },
+              {
+                "adjustedStart": "0:00:21",
+                "adjustedEnd": "0:00:22.04",
+                "start": "0:00:21",
+                "end": "0:00:22.04"
+              }
+            ]
+          }
+        ],
+        "faces": [
+          {
+            "id": 1003,
+            "name": "Unknown #1",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "72c08a4c-297a-421e-8248-0892187753a8",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "925617e1-536f-42dc-bc24-d69c03291506",
+                "fileName": "FaceInstanceThumbnail_925617e1-536f-42dc-bc24-d69c03291506.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:08.64",
+                    "adjustedEnd": "0:00:08.68",
+                    "start": "0:00:08.64",
+                    "end": "0:00:08.68"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "925617e1-536f-42dc-bc24-d69c03291506"
+                ],
+                "adjustedStart": "0:00:07.84",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:07.84",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 1002,
+            "name": "Unknown #2",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "b5a39b16-347c-4b5b-945f-9cc6d0e8698e",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "e5a94d4a-12d6-4b04-9af2-9bcb663514ff",
+                "fileName": "FaceInstanceThumbnail_e5a94d4a-12d6-4b04-9af2-9bcb663514ff.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:09.1199999",
+                    "adjustedEnd": "0:00:09.1599999",
+                    "start": "0:00:09.1199999",
+                    "end": "0:00:09.1599999"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "e5a94d4a-12d6-4b04-9af2-9bcb663514ff"
+                ],
+                "adjustedStart": "0:00:07.84",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:07.84",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 1004,
+            "name": "Unknown #3",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "bd1aebde-867c-43a5-b834-7f2073246217",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "75995f41-44af-48eb-b582-75b061279af9",
+                "fileName": "FaceInstanceThumbnail_75995f41-44af-48eb-b582-75b061279af9.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:08.16",
+                    "adjustedEnd": "0:00:08.2",
+                    "start": "0:00:08.16",
+                    "end": "0:00:08.2"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "75995f41-44af-48eb-b582-75b061279af9"
+                ],
+                "adjustedStart": "0:00:07.84",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:07.84",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 1005,
+            "name": "Unknown #4",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "66a65df6-8cdd-4c9a-93b9-0bde0b1110a4",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "728024e5-1caf-4716-974f-afb81dd646c5",
+                "fileName": "FaceInstanceThumbnail_728024e5-1caf-4716-974f-afb81dd646c5.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:08.16",
+                    "adjustedEnd": "0:00:08.2",
+                    "start": "0:00:08.16",
+                    "end": "0:00:08.2"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "728024e5-1caf-4716-974f-afb81dd646c5"
+                ],
+                "adjustedStart": "0:00:07.84",
+                "adjustedEnd": "0:00:09.96",
+                "start": "0:00:07.84",
+                "end": "0:00:09.96"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "turquoise",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9532,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:00.04",
+                "start": "0:00:00",
+                "end": "0:00:00.04"
+              },
+              {
+                "confidence": 0.9533,
+                "adjustedStart": "0:00:05",
+                "adjustedEnd": "0:00:05.04",
+                "start": "0:00:05",
+                "end": "0:00:05.04"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "text",
+            "referenceId": "communication/writing/text",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9992,
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:01",
+                "end": "0:00:04.04"
+              },
+              {
+                "confidence": 1,
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.04",
+                "start": "0:00:06",
+                "end": "0:00:07.04"
+              },
+              {
+                "confidence": 1,
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:13.04",
+                "start": "0:00:11",
+                "end": "0:00:13.04"
+              },
+              {
+                "confidence": 0.98,
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:16.04",
+                "start": "0:00:15",
+                "end": "0:00:16.04"
+              },
+              {
+                "confidence": 0.9984,
+                "adjustedStart": "0:00:21",
+                "adjustedEnd": "0:00:22.04",
+                "start": "0:00:21",
+                "end": "0:00:22.04"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "clothing",
+            "referenceId": "consumer goods/clothing",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9781,
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:08",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "person",
+            "referenceId": "person",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9619,
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:08",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "wall",
+            "referenceId": "structure/wall",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.962,
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:09.04",
+                "start": "0:00:08",
+                "end": "0:00:09.04"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "human face",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9625,
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:08",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "gadget",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9607,
+                "adjustedStart": "0:00:14",
+                "adjustedEnd": "0:00:14.04",
+                "start": "0:00:14",
+                "end": "0:00:14.04"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "electronic device",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9533,
+                "adjustedStart": "0:00:14",
+                "adjustedEnd": "0:00:16.04",
+                "start": "0:00:14",
+                "end": "0:00:16.04"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "electronics",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9945,
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:16.04",
+                "start": "0:00:15",
+                "end": "0:00:16.04"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "computer",
+            "referenceId": "device/machine/computer",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9853,
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:16.04",
+                "start": "0:00:15",
+                "end": "0:00:16.04"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "laptop",
+            "referenceId": "computer/portable computer/laptop",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9521,
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:16.04",
+                "start": "0:00:15",
+                "end": "0:00:16.04"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:04.76",
+                "start": "0:00:00",
+                "end": "0:00:04.76"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:00:05",
+                "adjustedEnd": "0:00:07.44",
+                "start": "0:00:05",
+                "end": "0:00:07.44"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "instances": [
+              {
+                "adjustedStart": "0:00:07.44",
+                "adjustedEnd": "0:00:09.92",
+                "start": "0:00:07.44",
+                "end": "0:00:09.92"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "instances": [
+              {
+                "adjustedStart": "0:00:10.16",
+                "adjustedEnd": "0:00:13.44",
+                "start": "0:00:10.16",
+                "end": "0:00:13.44"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "instances": [
+              {
+                "adjustedStart": "0:00:13.68",
+                "adjustedEnd": "0:00:16.52",
+                "start": "0:00:13.68",
+                "end": "0:00:16.52"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.52",
+                "adjustedEnd": "0:00:22.84",
+                "start": "0:00:16.52",
+                "end": "0:00:22.84"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "beaf2760-65eb-4d3d-b142-f28da6a35890",
+                    "adjustedStart": "0:00:00.2",
+                    "adjustedEnd": "0:00:00.24",
+                    "start": "0:00:00.2",
+                    "end": "0:00:00.24"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "9ad10075-80ad-4591-a977-1d4ab1d45d84",
+                    "adjustedStart": "0:00:00.28",
+                    "adjustedEnd": "0:00:00.32",
+                    "start": "0:00:00.28",
+                    "end": "0:00:00.32"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:04.76",
+                "start": "0:00:00",
+                "end": "0:00:04.76"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "tags": [
+              "Medium",
+              "RightFace"
+            ],
+            "keyFrames": [
+              {
+                "id": 3,
+                "instances": [
+                  {
+                    "thumbnailId": "0ea01de3-8753-4bb1-a418-538a91f2fc67",
+                    "adjustedStart": "0:00:05.08",
+                    "adjustedEnd": "0:00:05.12",
+                    "start": "0:00:05.08",
+                    "end": "0:00:05.12"
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "instances": [
+                  {
+                    "thumbnailId": "dd00a81b-c3f9-4bc4-be29-b30310762171",
+                    "adjustedStart": "0:00:05.24",
+                    "adjustedEnd": "0:00:05.28",
+                    "start": "0:00:05.24",
+                    "end": "0:00:05.28"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:05",
+                "adjustedEnd": "0:00:07.44",
+                "start": "0:00:05",
+                "end": "0:00:07.44"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "tags": [
+              "Wide",
+              "Medium"
+            ],
+            "keyFrames": [
+              {
+                "id": 5,
+                "instances": [
+                  {
+                    "thumbnailId": "09536530-028e-4ffa-bfc1-f81a7752456e",
+                    "adjustedStart": "0:00:07.72",
+                    "adjustedEnd": "0:00:07.76",
+                    "start": "0:00:07.72",
+                    "end": "0:00:07.76"
+                  }
+                ]
+              },
+              {
+                "id": 6,
+                "instances": [
+                  {
+                    "thumbnailId": "9e8e6952-7753-47dc-9c80-7297fb29fe1b",
+                    "adjustedStart": "0:00:07.84",
+                    "adjustedEnd": "0:00:07.88",
+                    "start": "0:00:07.84",
+                    "end": "0:00:07.88"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:07.44",
+                "adjustedEnd": "0:00:09.92",
+                "start": "0:00:07.44",
+                "end": "0:00:09.92"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "tags": [
+              "ExtremeCloseUp",
+              "CenterFace"
+            ],
+            "keyFrames": [
+              {
+                "id": 7,
+                "instances": [
+                  {
+                    "thumbnailId": "3696996d-9161-474d-b814-d62b0267a416",
+                    "adjustedStart": "0:00:10.24",
+                    "adjustedEnd": "0:00:10.28",
+                    "start": "0:00:10.24",
+                    "end": "0:00:10.28"
+                  }
+                ]
+              },
+              {
+                "id": 8,
+                "instances": [
+                  {
+                    "thumbnailId": "8c1db539-13d6-4b13-b922-256c89f77754",
+                    "adjustedStart": "0:00:10.72",
+                    "adjustedEnd": "0:00:10.76",
+                    "start": "0:00:10.72",
+                    "end": "0:00:10.76"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:10.16",
+                "adjustedEnd": "0:00:13.44",
+                "start": "0:00:10.16",
+                "end": "0:00:13.44"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "keyFrames": [
+              {
+                "id": 9,
+                "instances": [
+                  {
+                    "thumbnailId": "3cb6a993-2ef5-498b-92d0-07ffa9800c45",
+                    "adjustedStart": "0:00:13.88",
+                    "adjustedEnd": "0:00:13.92",
+                    "start": "0:00:13.88",
+                    "end": "0:00:13.92"
+                  }
+                ]
+              },
+              {
+                "id": 10,
+                "instances": [
+                  {
+                    "thumbnailId": "6c5adc13-0444-4dc0-ba99-d8d120167a4c",
+                    "adjustedStart": "0:00:14.16",
+                    "adjustedEnd": "0:00:14.2",
+                    "start": "0:00:14.16",
+                    "end": "0:00:14.2"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:13.68",
+                "adjustedEnd": "0:00:16.52",
+                "start": "0:00:13.68",
+                "end": "0:00:16.52"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "keyFrames": [
+              {
+                "id": 11,
+                "instances": [
+                  {
+                    "thumbnailId": "bb154612-8bba-426f-8004-1ef727c211ea",
+                    "adjustedStart": "0:00:16.84",
+                    "adjustedEnd": "0:00:16.88",
+                    "start": "0:00:16.84",
+                    "end": "0:00:16.88"
+                  }
+                ]
+              },
+              {
+                "id": 12,
+                "instances": [
+                  {
+                    "thumbnailId": "3b18ca9c-285f-4b20-8ffa-d1421e32f3dc",
+                    "adjustedStart": "0:00:18.84",
+                    "adjustedEnd": "0:00:18.88",
+                    "start": "0:00:18.84",
+                    "end": "0:00:18.88"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.52",
+                "adjustedEnd": "0:00:22.84",
+                "start": "0:00:16.52",
+                "end": "0:00:22.84"
+              }
+            ]
+          }
+        ],
+        "audioEffects": [
+          {
+            "id": 0,
+            "type": "Silence",
+            "instances": [
+              {
+                "confidence": 0.9669,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:16.5",
+                "start": "0:00:00",
+                "end": "0:00:16.5"
+              }
+            ]
+          }
+        ],
+        "detectedObjects": [
+          {
+            "id": 1,
+            "type": "Cup",
+            "thumbnailId": "d6b3d4a7-4c92-4462-995c-21b92470a4f6",
+            "displayName": "cup",
+            "wikiDataId": "Q81727",
+            "instances": [
+              {
+                "confidence": 0.863,
+                "adjustedStart": "0:00:07.84",
+                "adjustedEnd": "0:00:09.88",
+                "start": "0:00:07.84",
+                "end": "0:00:09.88"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "type": "Cup",
+            "thumbnailId": "3a664797-e058-4f47-9a35-e2283bc79e50",
+            "displayName": "cup",
+            "wikiDataId": "Q81727",
+            "instances": [
+              {
+                "confidence": 0.577,
+                "adjustedStart": "0:00:07.84",
+                "adjustedEnd": "0:00:09.88",
+                "start": "0:00:07.84",
+                "end": "0:00:09.88"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "type": "Laptop",
+            "thumbnailId": "c1b1e35d-5036-4898-ba3a-1a90b5b8bcbd",
+            "displayName": "laptop",
+            "wikiDataId": "Q3962",
+            "instances": [
+              {
+                "confidence": 0.839,
+                "adjustedStart": "0:00:14",
+                "adjustedEnd": "0:00:16.68",
+                "start": "0:00:14",
+                "end": "0:00:16.68"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:22.895",
+                "start": "0:00:00",
+                "end": "0:00:22.895"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 0,
+          "speakerTalkToListenRatio": {},
+          "speakerLongestMonolog": {},
+          "speakerNumberOfFragments": {},
+          "speakerWordCount": {}
+        }
+      },
+      "thumbnailId": "84e43c4e-d420-41fe-b0c5-8772f4e1b300",
+      "width": 1920,
+      "height": 1080,
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [
+        "en-US"
+      ],
+      "language": "en-US",
+      "languages": [
+        "en-US"
+      ],
+      "indexingPreset": "Default",
+      "streamingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "logoGroupId": null,
+      "isAdult": false,
+      "excludedAIs": [],
+      "isSearchable": true,
+      "publishedUrl": "https://api.videoindexer.ai/internals/eastus/Accounts/fbafe9ff-1c94-40bd-987e-a4e4dfe52365/Videos/29fz5msjvg/streaming-manifest/manifest.m3u8",
+      "publishedProxyUrl": null,
+      "viewToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJWZXJzaW9uIjoiMi4wLjAuMCIsIktleVZlcnNpb24iOiI1YmZmYWI1MTUwZWI0NGM4ODMzNzE2NzVhNzcwYzU4YSIsIkFjY291bnRJZCI6ImZiYWZlOWZmLTFjOTQtNDBiZC05ODdlLWE0ZTRkZmU1MjM2NSIsIkFjY291bnRUeXBlIjoiQ2xhc3NpYyIsIlZpZGVvSWQiOiIyOWZ6NW1zanZnIiwiUGVybWlzc2lvbiI6IlJlc3RyaWN0ZWRWaWV3ZXIiLCJFeHRlcm5hbFVzZXJJZCI6IjYxMzM3QzI2RUFCQjRGNEU5MjA3NURBNjAyQ0IyQTQzIiwiVXNlclR5cGUiOiJNaWNyb3NvZnRDb3JwQWFkIiwiSXNzdWVyTG9jYXRpb24iOiJlYXN0dXMiLCJuYmYiOjE3NjE5NzY1NDEsImV4cCI6MTc2MTk4MDQ0MSwiaXNzIjoiaHR0cHM6Ly9hcGkudmlkZW9pbmRleGVyLmFpLyIsImF1ZCI6Imh0dHBzOi8vYXBpLnZpZGVvaW5kZXhlci5haS8ifQ.lDdyJ-erKkfbLtC11b8s65bkNDP1vZMSpMAKW4BJSeI6IxWelkSEy7yhFArQIATharVVvI26OW-t1DHeqcCLV7TYr3QwlPc_2QLOrGQEMC5mZPuKa9TL1CODwloMP9RjehbKcr2yHPexOFnbU1SnvyeoTjyQr73eVFtsQ3TdrffbaLbV4YECx1qsx9K8EE08yiH-vw515mnRfsVr8F3J6vosgP9k1DUtxgymc0dDJLKuWiNBxMsOkCkxnN5J5eIR7UOewpjlH5ME2wqSDJiDOPz9owUjNvtzLhcFFpt49jH-Q7_Nxnrsz3y6WsqB8uGBqzNWFeo27MiIMjNMd2AfbQ"
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "29fz5msjvg",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:00:22.895"
+      }
+    }
+  ]
+}

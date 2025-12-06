@@ -1,0 +1,21 @@
+{
+  "id": "txt_828037",
+  "name": "Qjhf-front-store",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 11.2 Release Notes\nFront Store\n\n8 min\nscheduled delivery for customers there can be scenarios where the customers want to opt for a scheduled delivery at their convenience at the front store, while selecting the shipping options during checkout, the customers can pick their preferred date of delivery to offer this option to customers, the admin needs to enable the schedule delivery setting for specific shipping types countdown timer for same day dispatch if you want your customers to know about the quick order and faster dispatch service you offer, you can now do so with the all new \u201cproduct countdown timer\u201d block to display the timer for order placement, dispatch date, and time, the admin can use this block within the product page layout in addition, the cms page for the countdown patch should also be enabled from the fixed content section this timer and dispatch details will be displayed based on the cut off time configured for the selected product display of product title it may happen that sometimes the admin wants to change the position of the product title display on the product info page however, we have added one \"product title\" block in the product page layout configuration section the admin can add the block to the layout and choose the position to display the product title to their customers as per their needs template preview of help templates based on the selection of product size and additional option attributes, a real time preview of a help template will be available in the design guidelines tab additionally, for proper visibility and usability, the user interface of design guidelines page has been improvised upload artwork later on the product info page the \u201cupload artwork later\u201d option has been added to the product info page and quick calculator this will help your customers directly purchase without visiting other pages extra fields for payment methods the admin can now create and ask for extra information from the customers on the payment step of the checkout flow to achieve this, extra fields can be created from the customer module for the payment methods as well coupon code display during checkout the coupon code created can now be displayed to the customers during the checkout flow to display all the applicable coupon codes for redemption, enable the \"view all coupons\" setting from the configuration settings when enabled, a \u201cview all coupons\u201d link will be available in the payment step where the customer can view all the applicable coupons in a popup with the option to apply and avail of the offer\nDid this page help you?\n\n\nPREVIOUS\nDesigner Studio\nNEXT\nOrders Section\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

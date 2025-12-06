@@ -1,0 +1,21 @@
+{
+  "id": "txt_879803",
+  "name": "media-gallery",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\nContent Management\nMedia Gallery\n\n5 min\noverview the media gallery allows admins to upload video tutorials and images that assist customers during the design process, such as customizing products or creating patterns these media assets can be displayed within the studio and on cms pages to support the user journey purpose the goal of the media gallery is to simplify and enhance the customer experience by offering visual guidance these resources help users understand available tools and features, making the design process more intuitive, engaging, and satisfying configuration the media gallery allows admins to upload and manage video tutorials and images that assist customers in customizing their products these media items can be shown within the designer studio , cms pages , or both, helping users better understand the design tools adding a new media item to add a new tutorial or image to your media gallery, click on the add button from the admin panel > content management > media gallery field description use case/example store assign the media to one or more specific storefronts (for multi store setups) display a video only on the u s storefront and not the international ones media type choose between video or image use video for tutorials and image for design examples or quick visual tips video interactive visual content, embedded via an external link embed a youtube tutorial showing how to personalize a mug image static visual aid for reference or product showcase upload a size chart or layout image for booklet printing url paste a video link from an external platform such as youtube or vimeo link a youtube video showing how to personalize a mug using the online studio image upload an image that will be displayed as the thumbnail for the video upload a branded cover image with \u201cwatch now \u2013 t shirt customization guide\u201d category choose a category to classify the media for easier filtering and organization \"studio tutorials\", \"product demos\", or \"getting started\" title enter a clear title for the media item \u201chow to use the online designer tool\u201d display on select where to display the media show a video tutorial both in the designer studio and on the help page both media appears in both the designer studio and the cms page ensure maximum visibility across touchpoints contents page displays media on selected cms pages (via content block) embed videos on help or support pages designer studio shows media inside the designer studio (usually in the tutorials tab) help customers learn tools while designing their product product type (this option is not available for contents page display ) choose the product(s) this media relates to show a video tutorial specific to t shirts only media display in studio media files set to appear in the designer studio will be shown in the tutorials icon inside the designer studio you can manage whether the \u201ctutorials\u201d section appears by adjusting the studio settings in the admin panel display media gallery on cms pages to show media items on a cms page create or edit a cms page via admin panel > content management > contents in the page contents field, insert the {% block media gallery %} block into the page contents section save the page after saving the configuration, all videos and images added to the media gallery will be displayed smoothly and effectively once set up, the media gallery offers users easy access to how to videos and guides, making it easier to use your designer studio and increasing satisfaction whether placed in the designer studio or cms, it enhances the product customization journey with visual support\nDid this page help you?\n\n\nPREVIOUS\nEmail Reminders\nNEXT\nStore Personalization\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

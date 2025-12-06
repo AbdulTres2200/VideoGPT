@@ -1,0 +1,21 @@
+{
+  "id": "txt_260171",
+  "name": "setup-mailgun",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmail Marketing\nSetup Mailgun\n\n10 min\noverview & purpose send marketing emails and transactional emails to your entire mailing list without needing to support your email server with mailgun integrate mailgun into your onprintshop web store and have real time tracking of your emails mailgun helps in reducing the bounce rates of spam complaints by increasing deliverability features on your onprintshop store how to integrate read the below systematic guide to integrate mailgun with your onprintshop website 1 registration with mailgun 1 registration with mailgun visit the mailgun and create a new account using the get started button fill up the basic account details and add payment info if you wish to add them else, log in with your email id and password into mailgun 2 mailgun dashboard 2 mailgun dashboard once you are logged in to your account, you will land on the your account dashboard here, you can check your account details, the number of delivered emails, bounced emails, your registered domains, and get other important links 3 get api key and secret api key 3 get api key and secret api key from your dashboard, click on the profile icon from the top right corner of the screen click on the api keys from the drop down this will display your private api key and public validation key copy and save both keys to configure in the admin panel 4 add a new custom domain name 4 add a new custom domain name add your custom domain to your mailgun account, for this you may require to upgrade the mailgun account and complete the payment also, update your dns records to verify that you are an authorized sender for the domain you add note mailgun may take a few days to verify your domain and dns records for any query in this contact our support system 5 configure details into admin panel 5 configure details into admin panel add the account details, api key and secret key into your admin panel go to the admin > store configuration > external service settings > mail services tab > mailgun > \u2018action\u2019 dropdown > \u2018edit\u2019 option enter your saved secret key api, public key api, your domain name, sent from email, and reply to email click on the save & back button note the mailgun functionalities will not work until mailgun verifies dns records and domain names\nDid this page help you?\n\n\nPREVIOUS\nSetup MailChimp\nNEXT\nSetup Mailgun Automated Emails\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

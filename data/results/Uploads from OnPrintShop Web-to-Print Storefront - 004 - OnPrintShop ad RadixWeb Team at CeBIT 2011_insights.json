@@ -1,0 +1,1530 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+  "id": "rq4s9v0mta",
+  "name": "Uploads from OnPrintShop Web-to-Print Storefront - 004 - OnPrintShop ad RadixWeb",
+  "userName": "Abdul Moiz",
+  "created": "2025-11-01T03:49:37.5233333+00:00",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 19,
+  "duration": "0:00:19.459",
+  "summarizedInsights": {
+    "name": "Uploads from OnPrintShop Web-to-Print Storefront - 004 - OnPrintShop ad RadixWeb",
+    "id": "rq4s9v0mta",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:00:19.459",
+      "seconds": 19.5
+    },
+    "thumbnailVideoId": "rq4s9v0mta",
+    "thumbnailId": "e89583c9-f741-4b65-ac5f-afd47b212a31",
+    "faces": [
+      {
+        "videoId": "rq4s9v0mta",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "849fa254-c7f8-49d8-9fb0-0f23a05cee32",
+        "seenDuration": 14.3,
+        "seenDurationRatio": 0.7349,
+        "id": 1002,
+        "name": "Unknown #1",
+        "appearances": [
+          {
+            "startTime": "0:00:05.1384667",
+            "endTime": "0:00:19.3860333",
+            "startSeconds": 5.1,
+            "endSeconds": 19.4
+          }
+        ]
+      },
+      {
+        "videoId": "rq4s9v0mta",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "04bb9599-a967-4b74-b639-991bd20b7ca4",
+        "seenDuration": 11.3,
+        "seenDurationRatio": 0.5807,
+        "id": 1010,
+        "name": "Unknown #3",
+        "appearances": [
+          {
+            "startTime": "0:00:06.5398667",
+            "endTime": "0:00:17.7844333",
+            "startSeconds": 6.5,
+            "endSeconds": 17.8
+          }
+        ]
+      },
+      {
+        "videoId": "rq4s9v0mta",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "9a1efd16-1392-42c6-b47f-2458ee31a7d2",
+        "seenDuration": 10,
+        "seenDurationRatio": 0.5139,
+        "id": 1013,
+        "name": "Unknown #2",
+        "appearances": [
+          {
+            "startTime": "0:00:09.3760333",
+            "endTime": "0:00:19.3860333",
+            "startSeconds": 9.4,
+            "endSeconds": 19.4
+          }
+        ]
+      }
+    ],
+    "keywords": [],
+    "sentiments": [
+      {
+        "sentimentKey": "Neutral",
+        "seenDurationRatio": 1,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:19.459",
+            "startSeconds": 0,
+            "endSeconds": 19.5
+          }
+        ]
+      }
+    ],
+    "emotions": [],
+    "audioEffects": [],
+    "labels": [
+      {
+        "id": 1,
+        "name": "text",
+        "appearances": [
+          {
+            "confidence": 0.9763,
+            "startTime": "0:00:01.001",
+            "endTime": "0:00:19.0523667",
+            "startSeconds": 1,
+            "endSeconds": 19.1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "clothing",
+        "appearances": [
+          {
+            "confidence": 0.9733,
+            "startTime": "0:00:01.001",
+            "endTime": "0:00:19.0523667",
+            "startSeconds": 1,
+            "endSeconds": 19.1
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "man",
+        "appearances": [
+          {
+            "confidence": 0.9637,
+            "startTime": "0:00:08.008",
+            "endTime": "0:00:19.0523667",
+            "startSeconds": 8,
+            "endSeconds": 19.1
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "person",
+        "appearances": [
+          {
+            "confidence": 0.9682,
+            "startTime": "0:00:08.008",
+            "endTime": "0:00:19.0523667",
+            "startSeconds": 8,
+            "endSeconds": 19.1
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "job",
+        "appearances": [
+          {
+            "confidence": 0.9543,
+            "startTime": "0:00:17.017",
+            "endTime": "0:00:17.0503667",
+            "startSeconds": 17,
+            "endSeconds": 17.1
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "human face",
+        "appearances": [
+          {
+            "confidence": 0.952,
+            "startTime": "0:00:14.014",
+            "endTime": "0:00:14.0473667",
+            "startSeconds": 14,
+            "endSeconds": 14
+          }
+        ]
+      }
+    ],
+    "framePatterns": [
+      {
+        "displayName": null,
+        "id": 1,
+        "name": "Black",
+        "appearances": [
+          {
+            "confidence": 0,
+            "startTime": "0:00:00",
+            "endTime": "0:00:00.1668333",
+            "startSeconds": 0,
+            "endSeconds": 0.2
+          },
+          {
+            "confidence": 0,
+            "startTime": "0:00:19.3526667",
+            "endTime": "0:00:19.3860333",
+            "startSeconds": 19.4,
+            "endSeconds": 19.4
+          }
+        ]
+      }
+    ],
+    "brands": [],
+    "namedLocations": [],
+    "namedPeople": [],
+    "statistics": {
+      "correspondenceCount": 0,
+      "speakerTalkToListenRatio": {
+        "1": 1
+      },
+      "speakerLongestMonolog": {
+        "1": 0
+      },
+      "speakerNumberOfFragments": {
+        "1": 1
+      },
+      "speakerWordCount": {
+        "1": 1
+      }
+    },
+    "topics": [
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music",
+        "iabName": "Music and Audio",
+        "confidence": 0.997,
+        "id": 1,
+        "name": "Music",
+        "appearances": [
+          {
+            "startTime": "0:00:16.2",
+            "endTime": "0:00:16.44",
+            "startSeconds": 16.2,
+            "endSeconds": 16.4
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/media/music industry",
+        "iabName": "Movies",
+        "confidence": 0.9109,
+        "id": 2,
+        "name": "Movies, Tv and Entertainment/Entertainment/Music Industry",
+        "appearances": [
+          {
+            "startTime": "0:00:16.2",
+            "endTime": "0:00:16.44",
+            "startSeconds": 16.2,
+            "endSeconds": 16.4
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/movies",
+        "iabName": "Movies",
+        "confidence": 0.8424,
+        "id": 3,
+        "name": "Movies, Tv and Entertainment/Entertainment",
+        "appearances": [
+          {
+            "startTime": "0:00:16.2",
+            "endTime": "0:00:16.44",
+            "startSeconds": 16.2,
+            "endSeconds": 16.4
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/electronic dance music",
+        "iabName": "Music and Audio",
+        "confidence": 0.7392,
+        "id": 4,
+        "name": "Music/Electronic Music",
+        "appearances": [
+          {
+            "startTime": "0:00:16.2",
+            "endTime": "0:00:16.44",
+            "startSeconds": 16.2,
+            "endSeconds": 16.4
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/electronic dance music",
+        "iabName": "Music and Audio",
+        "confidence": 0.719,
+        "id": 5,
+        "name": "Music/Techno Music",
+        "appearances": [
+          {
+            "startTime": "0:00:16.2",
+            "endTime": "0:00:16.44",
+            "startSeconds": 16.2,
+            "endSeconds": 16.4
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "environment",
+        "iabName": "Movies",
+        "confidence": 0.6994,
+        "id": 6,
+        "name": "Movies, Tv and Entertainment/Entertainment/Entertainment Industry",
+        "appearances": [
+          {
+            "startTime": "0:00:16.2",
+            "endTime": "0:00:16.44",
+            "startSeconds": 16.2,
+            "endSeconds": 16.4
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music",
+        "iabName": "Music and Audio",
+        "confidence": 0.6945,
+        "id": 7,
+        "name": "Music/Music Videos",
+        "appearances": [
+          {
+            "startTime": "0:00:16.2",
+            "endTime": "0:00:16.44",
+            "startSeconds": 16.2,
+            "endSeconds": 16.4
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance",
+        "iabName": "Business and Finance",
+        "confidence": 0.6726,
+        "id": 8,
+        "name": "Business/Companies/Spotify Company",
+        "appearances": [
+          {
+            "startTime": "0:00:16.2",
+            "endTime": "0:00:16.44",
+            "startSeconds": 16.2,
+            "endSeconds": 16.4
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/rock and roll music",
+        "iabName": "Music and Audio",
+        "confidence": 0.6174,
+        "id": 9,
+        "name": "Music/Rock Music",
+        "appearances": [
+          {
+            "startTime": "0:00:16.2",
+            "endTime": "0:00:16.44",
+            "startSeconds": 16.2,
+            "endSeconds": 16.4
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music",
+        "iabName": "Music and Audio",
+        "confidence": 0.6016,
+        "id": 10,
+        "name": "Music/Music Albums",
+        "appearances": [
+          {
+            "startTime": "0:00:16.2",
+            "endTime": "0:00:16.44",
+            "startSeconds": 16.2,
+            "endSeconds": 16.4
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "society/communities/social networking",
+        "iabName": "Business and Finance",
+        "confidence": 0.584,
+        "id": 11,
+        "name": "Business/Startups/Social and Online Music Startups",
+        "appearances": [
+          {
+            "startTime": "0:00:16.2",
+            "endTime": "0:00:16.44",
+            "startSeconds": 16.2,
+            "endSeconds": 16.4
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/country music",
+        "iabName": "Music and Audio",
+        "confidence": 0.5821,
+        "id": 12,
+        "name": "Music/Country Music",
+        "appearances": [
+          {
+            "startTime": "0:00:16.2",
+            "endTime": "0:00:16.44",
+            "startSeconds": 16.2,
+            "endSeconds": 16.4
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/movies",
+        "iabName": "Movies",
+        "confidence": 0.5734,
+        "id": 13,
+        "name": "Movies, Tv and Entertainment/Movies",
+        "appearances": [
+          {
+            "startTime": "0:00:16.2",
+            "endTime": "0:00:16.44",
+            "startSeconds": 16.2,
+            "endSeconds": 16.4
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music",
+        "iabName": "Music and Audio",
+        "confidence": 0.5705,
+        "id": 14,
+        "name": "Music/Songs",
+        "appearances": [
+          {
+            "startTime": "0:00:16.2",
+            "endTime": "0:00:16.44",
+            "startSeconds": 16.2,
+            "endSeconds": 16.4
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/jazz music",
+        "iabName": "Music and Audio",
+        "confidence": 0.5249,
+        "id": 15,
+        "name": "Music/Soul Music",
+        "appearances": [
+          {
+            "startTime": "0:00:16.2",
+            "endTime": "0:00:16.44",
+            "startSeconds": 16.2,
+            "endSeconds": 16.4
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical performance",
+        "iabName": "Music and Audio",
+        "confidence": 0.524,
+        "id": 16,
+        "name": "Music/Singing",
+        "appearances": [
+          {
+            "startTime": "0:00:16.2",
+            "endTime": "0:00:16.44",
+            "startSeconds": 16.2,
+            "endSeconds": 16.4
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/mass media/radio",
+        "iabName": "Technology & Computing",
+        "confidence": 0.518,
+        "id": 17,
+        "name": "Technology/Fm Radio",
+        "appearances": [
+          {
+            "startTime": "0:00:16.2",
+            "endTime": "0:00:16.44",
+            "startSeconds": 16.2,
+            "endSeconds": 16.4
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/dance band music",
+        "iabName": "Music and Audio",
+        "confidence": 0.5059,
+        "id": 18,
+        "name": "Music/Band Names/Daft Punk Band",
+        "appearances": [
+          {
+            "startTime": "0:00:16.2",
+            "endTime": "0:00:16.44",
+            "startSeconds": 16.2,
+            "endSeconds": 16.4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": [
+    {
+      "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+      "id": "rq4s9v0mta",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:00:19.459",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [
+          "en-US"
+        ],
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "transcript": [
+          {
+            "id": 1,
+            "text": "Music.",
+            "confidence": 0.1384,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          }
+        ],
+        "ocr": [
+          {
+            "id": 1,
+            "text": "Enabling IT services at",
+            "confidence": 0.9533,
+            "left": 35,
+            "top": 4,
+            "width": 156,
+            "height": 30,
+            "angle": 21,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:06.0393667",
+                "start": "0:00:01.001",
+                "end": "0:00:06.0393667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "DIXWEB",
+            "confidence": 0.998,
+            "left": 212,
+            "top": 147,
+            "width": 120,
+            "height": 41,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:15.0483667",
+                "start": "0:00:01.001",
+                "end": "0:00:15.0483667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "G-24/4",
+            "confidence": 0.967,
+            "left": 448,
+            "top": 179,
+            "width": 50,
+            "height": 24,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:16.0493667",
+                "start": "0:00:01.001",
+                "end": "0:00:16.0493667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "vices at",
+            "confidence": 0.926,
+            "left": 119,
+            "top": 0,
+            "width": 49,
+            "height": 13,
+            "angle": 8,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07.007",
+                "adjustedEnd": "0:00:07.0403667",
+                "start": "0:00:07.007",
+                "end": "0:00:07.0403667"
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 1,
+            "name": "Music",
+            "referenceId": "Music",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music",
+            "confidence": 0.997,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Music Industry",
+            "referenceId": "Movies, Tv and Entertainment/Entertainment/Music Industry",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/media/music industry",
+            "confidence": 0.9109,
+            "iabName": "Movies",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Entertainment",
+            "referenceId": "Movies, Tv and Entertainment/Entertainment",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/movies",
+            "confidence": 0.8424,
+            "iabName": "Movies",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Electronic Music",
+            "referenceId": "Music/Electronic Music",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/electronic dance music",
+            "confidence": 0.7392,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Techno Music",
+            "referenceId": "Music/Techno Music",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/electronic dance music",
+            "confidence": 0.719,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Entertainment Industry",
+            "referenceId": "Movies, Tv and Entertainment/Entertainment/Entertainment Industry",
+            "referenceType": "VideoIndexer",
+            "iptcName": "environment",
+            "confidence": 0.6994,
+            "iabName": "Movies",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Music Videos",
+            "referenceId": "Music/Music Videos",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music",
+            "confidence": 0.6945,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Spotify Company",
+            "referenceId": "Business/Companies/Spotify Company",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance",
+            "confidence": 0.6726,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Rock Music",
+            "referenceId": "Music/Rock Music",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/rock and roll music",
+            "confidence": 0.6174,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Music Albums",
+            "referenceId": "Music/Music Albums",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music",
+            "confidence": 0.6016,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Social and Online Music Startups",
+            "referenceId": "Business/Startups/Social and Online Music Startups",
+            "referenceType": "VideoIndexer",
+            "iptcName": "society/communities/social networking",
+            "confidence": 0.584,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Country Music",
+            "referenceId": "Music/Country Music",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/country music",
+            "confidence": 0.5821,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Movies",
+            "referenceId": "Movies, Tv and Entertainment/Movies",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/movies",
+            "confidence": 0.5734,
+            "iabName": "Movies",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Songs",
+            "referenceId": "Music/Songs",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music",
+            "confidence": 0.5705,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Soul Music",
+            "referenceId": "Music/Soul Music",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/jazz music",
+            "confidence": 0.5249,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Singing",
+            "referenceId": "Music/Singing",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical performance",
+            "confidence": 0.524,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Fm Radio",
+            "referenceId": "Technology/Fm Radio",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/mass media/radio",
+            "confidence": 0.518,
+            "iabName": "Technology & Computing",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Daft Punk Band",
+            "referenceId": "Music/Band Names/Daft Punk Band",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/music/musical genre/dance band music",
+            "confidence": 0.5059,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          }
+        ],
+        "faces": [
+          {
+            "id": 1002,
+            "name": "Unknown #1",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "849fa254-c7f8-49d8-9fb0-0f23a05cee32",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "95efa2ca-2e41-4530-bdc6-8b4b68589c5e",
+                "fileName": "FaceInstanceThumbnail_95efa2ca-2e41-4530-bdc6-8b4b68589c5e.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:05.6056",
+                    "adjustedEnd": "0:00:05.6389666",
+                    "start": "0:00:05.6056",
+                    "end": "0:00:05.6389666"
+                  }
+                ]
+              },
+              {
+                "id": "c984f337-e3e1-41f4-9984-2370fdfbc9ac",
+                "fileName": "FaceInstanceThumbnail_c984f337-e3e1-41f4-9984-2370fdfbc9ac.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:10.7440666",
+                    "adjustedEnd": "0:00:10.7774332",
+                    "start": "0:00:10.7440666",
+                    "end": "0:00:10.7774332"
+                  }
+                ]
+              },
+              {
+                "id": "476fdb34-9387-4fcf-9aa3-38612b2cca69",
+                "fileName": "FaceInstanceThumbnail_476fdb34-9387-4fcf-9aa3-38612b2cca69.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:15.8825333",
+                    "adjustedEnd": "0:00:15.9158999",
+                    "start": "0:00:15.8825333",
+                    "end": "0:00:15.9158999"
+                  }
+                ]
+              },
+              {
+                "id": "c6ad8c00-cac2-43a4-a7c4-982a0d1886a3",
+                "fileName": "FaceInstanceThumbnail_c6ad8c00-cac2-43a4-a7c4-982a0d1886a3.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:18.2182",
+                    "adjustedEnd": "0:00:18.2515666",
+                    "start": "0:00:18.2182",
+                    "end": "0:00:18.2515666"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "476fdb34-9387-4fcf-9aa3-38612b2cca69",
+                  "95efa2ca-2e41-4530-bdc6-8b4b68589c5e",
+                  "c6ad8c00-cac2-43a4-a7c4-982a0d1886a3",
+                  "c984f337-e3e1-41f4-9984-2370fdfbc9ac"
+                ],
+                "adjustedStart": "0:00:05.1384667",
+                "adjustedEnd": "0:00:19.3860333",
+                "start": "0:00:05.1384667",
+                "end": "0:00:19.3860333"
+              }
+            ]
+          },
+          {
+            "id": 1013,
+            "name": "Unknown #2",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "9a1efd16-1392-42c6-b47f-2458ee31a7d2",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "8da7b8d4-c00e-45a8-a1c0-d304d48803cf",
+                "fileName": "FaceInstanceThumbnail_8da7b8d4-c00e-45a8-a1c0-d304d48803cf.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:10.7440666",
+                    "adjustedEnd": "0:00:10.7774332",
+                    "start": "0:00:10.7440666",
+                    "end": "0:00:10.7774332"
+                  }
+                ]
+              },
+              {
+                "id": "9a4b0810-0880-4143-ad7b-64e079328b26",
+                "fileName": "FaceInstanceThumbnail_9a4b0810-0880-4143-ad7b-64e079328b26.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:14.9482666",
+                    "adjustedEnd": "0:00:14.9816332",
+                    "start": "0:00:14.9482666",
+                    "end": "0:00:14.9816332"
+                  }
+                ]
+              },
+              {
+                "id": "5164d820-059c-42d3-8d9d-f5af5f191191",
+                "fileName": "FaceInstanceThumbnail_5164d820-059c-42d3-8d9d-f5af5f191191.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:15.8825333",
+                    "adjustedEnd": "0:00:15.9158999",
+                    "start": "0:00:15.8825333",
+                    "end": "0:00:15.9158999"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "5164d820-059c-42d3-8d9d-f5af5f191191",
+                  "9a4b0810-0880-4143-ad7b-64e079328b26",
+                  "8da7b8d4-c00e-45a8-a1c0-d304d48803cf"
+                ],
+                "adjustedStart": "0:00:09.3760333",
+                "adjustedEnd": "0:00:19.3860333",
+                "start": "0:00:09.3760333",
+                "end": "0:00:19.3860333"
+              }
+            ]
+          },
+          {
+            "id": 1010,
+            "name": "Unknown #3",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "04bb9599-a967-4b74-b639-991bd20b7ca4",
+            "title": null,
+            "imageUrl": null,
+            "highQuality": true,
+            "thumbnails": [
+              {
+                "id": "1a67db3e-9581-4a7c-90d4-e055d6cb6789",
+                "fileName": "FaceInstanceThumbnail_1a67db3e-9581-4a7c-90d4-e055d6cb6789.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:08.4084",
+                    "adjustedEnd": "0:00:08.4417666",
+                    "start": "0:00:08.4084",
+                    "end": "0:00:08.4417666"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "1a67db3e-9581-4a7c-90d4-e055d6cb6789"
+                ],
+                "adjustedStart": "0:00:06.5398667",
+                "adjustedEnd": "0:00:09.8098",
+                "start": "0:00:06.5398667",
+                "end": "0:00:09.8098"
+              },
+              {
+                "adjustedStart": "0:00:14.014",
+                "adjustedEnd": "0:00:15.4487667",
+                "start": "0:00:14.014",
+                "end": "0:00:15.4487667"
+              },
+              {
+                "adjustedStart": "0:00:16.3496667",
+                "adjustedEnd": "0:00:17.7844333",
+                "start": "0:00:16.3496667",
+                "end": "0:00:17.7844333"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "text",
+            "referenceId": "communication/writing/text",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9999,
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:17.0503667",
+                "start": "0:00:01.001",
+                "end": "0:00:17.0503667"
+              },
+              {
+                "confidence": 0.9763,
+                "adjustedStart": "0:00:19.019",
+                "adjustedEnd": "0:00:19.0523667",
+                "start": "0:00:19.019",
+                "end": "0:00:19.0523667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "clothing",
+            "referenceId": "consumer goods/clothing",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9609,
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:00:01.0343667",
+                "start": "0:00:01.001",
+                "end": "0:00:01.0343667"
+              },
+              {
+                "confidence": 0.9653,
+                "adjustedStart": "0:00:03.003",
+                "adjustedEnd": "0:00:03.0363667",
+                "start": "0:00:03.003",
+                "end": "0:00:03.0363667"
+              },
+              {
+                "confidence": 0.9733,
+                "adjustedStart": "0:00:05.005",
+                "adjustedEnd": "0:00:19.0523667",
+                "start": "0:00:05.005",
+                "end": "0:00:19.0523667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "man",
+            "referenceId": "person/man",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9637,
+                "adjustedStart": "0:00:08.008",
+                "adjustedEnd": "0:00:19.0523667",
+                "start": "0:00:08.008",
+                "end": "0:00:19.0523667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "person",
+            "referenceId": "person",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9682,
+                "adjustedStart": "0:00:08.008",
+                "adjustedEnd": "0:00:19.0523667",
+                "start": "0:00:08.008",
+                "end": "0:00:19.0523667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "human face",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.952,
+                "adjustedStart": "0:00:14.014",
+                "adjustedEnd": "0:00:14.0473667",
+                "start": "0:00:14.014",
+                "end": "0:00:14.0473667"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "job",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9543,
+                "adjustedStart": "0:00:17.017",
+                "adjustedEnd": "0:00:17.0503667",
+                "start": "0:00:17.017",
+                "end": "0:00:17.0503667"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:18.3183",
+                "start": "0:00:00",
+                "end": "0:00:18.3183"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:00:18.3183",
+                "adjustedEnd": "0:00:19.3860333",
+                "start": "0:00:18.3183",
+                "end": "0:00:19.3860333"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "tags": [
+              "Wide"
+            ],
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "0b0dd4d2-3110-4dd4-be2a-0b7de255a92d",
+                    "adjustedStart": "0:00:00.6339667",
+                    "adjustedEnd": "0:00:00.6673333",
+                    "start": "0:00:00.6339667",
+                    "end": "0:00:00.6673333"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "0830284f-1f87-4f17-ab0f-8b1219937e41",
+                    "adjustedStart": "0:00:08.0413667",
+                    "adjustedEnd": "0:00:08.0747333",
+                    "start": "0:00:08.0413667",
+                    "end": "0:00:08.0747333"
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "instances": [
+                  {
+                    "thumbnailId": "64c06789-0d7f-44ca-8e2c-26ea575e9213",
+                    "adjustedStart": "0:00:17.8845333",
+                    "adjustedEnd": "0:00:17.9179",
+                    "start": "0:00:17.8845333",
+                    "end": "0:00:17.9179"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:18.3183",
+                "start": "0:00:00",
+                "end": "0:00:18.3183"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "tags": [
+              "Wide"
+            ],
+            "keyFrames": [
+              {
+                "id": 4,
+                "instances": [
+                  {
+                    "thumbnailId": "1e2e80e9-0893-461f-a988-ac1aa0e232cd",
+                    "adjustedStart": "0:00:18.5518667",
+                    "adjustedEnd": "0:00:18.5852333",
+                    "start": "0:00:18.5518667",
+                    "end": "0:00:18.5852333"
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "instances": [
+                  {
+                    "thumbnailId": "124d4cc2-8054-42a9-9b28-e68f21b2be69",
+                    "adjustedStart": "0:00:18.8188",
+                    "adjustedEnd": "0:00:18.8521667",
+                    "start": "0:00:18.8188",
+                    "end": "0:00:18.8521667"
+                  }
+                ]
+              },
+              {
+                "id": 6,
+                "instances": [
+                  {
+                    "thumbnailId": "77fc529c-a688-4441-bc7c-fa16cc95eab0",
+                    "adjustedStart": "0:00:19.1524667",
+                    "adjustedEnd": "0:00:19.1858333",
+                    "start": "0:00:19.1524667",
+                    "end": "0:00:19.1858333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:18.3183",
+                "adjustedEnd": "0:00:19.3860333",
+                "start": "0:00:18.3183",
+                "end": "0:00:19.3860333"
+              }
+            ]
+          }
+        ],
+        "detectedObjects": [
+          {
+            "id": 1,
+            "type": "Handbag",
+            "thumbnailId": "e2631a56-e9b8-4eef-bee4-6754cd8e3aa8",
+            "displayName": "handbag",
+            "wikiDataId": "Q467505",
+            "instances": [
+              {
+                "confidence": 0.415,
+                "adjustedStart": "0:00:14.447767",
+                "adjustedEnd": "0:00:17.8178",
+                "start": "0:00:14.447767",
+                "end": "0:00:17.8178"
+              },
+              {
+                "confidence": 0.486,
+                "adjustedStart": "0:00:18.284933",
+                "adjustedEnd": "0:00:18.485133",
+                "start": "0:00:18.284933",
+                "end": "0:00:18.485133"
+              }
+            ]
+          }
+        ],
+        "sentiments": [
+          {
+            "id": 1,
+            "averageScore": 0.5,
+            "sentimentType": "Neutral",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:19.459",
+                "start": "0:00:00",
+                "end": "0:00:19.459"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:19.459",
+                "start": "0:00:00",
+                "end": "0:00:19.459"
+              }
+            ]
+          }
+        ],
+        "framePatterns": [
+          {
+            "id": 1,
+            "patternType": "Black",
+            "confidence": 1,
+            "displayName": null,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:00.1668333",
+                "start": "0:00:00",
+                "end": "0:00:00.1668333"
+              },
+              {
+                "adjustedStart": "0:00:19.3526667",
+                "adjustedEnd": "0:00:19.3860333",
+                "start": "0:00:19.3526667",
+                "end": "0:00:19.3860333"
+              }
+            ]
+          }
+        ],
+        "speakers": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "instances": [
+              {
+                "adjustedStart": "0:00:16.2",
+                "adjustedEnd": "0:00:16.44",
+                "start": "0:00:16.2",
+                "end": "0:00:16.44"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 0,
+          "speakerTalkToListenRatio": {
+            "1": 1
+          },
+          "speakerLongestMonolog": {
+            "1": 0
+          },
+          "speakerNumberOfFragments": {
+            "1": 1
+          },
+          "speakerWordCount": {
+            "1": 1
+          }
+        }
+      },
+      "thumbnailId": "e89583c9-f741-4b65-ac5f-afd47b212a31",
+      "width": 640,
+      "height": 480,
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [
+        "en-US"
+      ],
+      "language": "en-US",
+      "languages": [
+        "en-US"
+      ],
+      "indexingPreset": "Default",
+      "streamingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "logoGroupId": null,
+      "isAdult": false,
+      "excludedAIs": [],
+      "isSearchable": true,
+      "publishedUrl": "https://api.videoindexer.ai/internals/eastus/Accounts/fbafe9ff-1c94-40bd-987e-a4e4dfe52365/Videos/rq4s9v0mta/streaming-manifest/manifest.m3u8",
+      "publishedProxyUrl": null,
+      "viewToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJWZXJzaW9uIjoiMi4wLjAuMCIsIktleVZlcnNpb24iOiI1YmZmYWI1MTUwZWI0NGM4ODMzNzE2NzVhNzcwYzU4YSIsIkFjY291bnRJZCI6ImZiYWZlOWZmLTFjOTQtNDBiZC05ODdlLWE0ZTRkZmU1MjM2NSIsIkFjY291bnRUeXBlIjoiQ2xhc3NpYyIsIlZpZGVvSWQiOiJycTRzOXYwbXRhIiwiUGVybWlzc2lvbiI6IlJlc3RyaWN0ZWRWaWV3ZXIiLCJFeHRlcm5hbFVzZXJJZCI6IjYxMzM3QzI2RUFCQjRGNEU5MjA3NURBNjAyQ0IyQTQzIiwiVXNlclR5cGUiOiJNaWNyb3NvZnRDb3JwQWFkIiwiSXNzdWVyTG9jYXRpb24iOiJlYXN0dXMiLCJuYmYiOjE3NjE5Njg3NjYsImV4cCI6MTc2MTk3MjY2NiwiaXNzIjoiaHR0cHM6Ly9hcGkudmlkZW9pbmRleGVyLmFpLyIsImF1ZCI6Imh0dHBzOi8vYXBpLnZpZGVvaW5kZXhlci5haS8ifQ.MKXPklUjWszVaa00zMTF18Z5iIwheFZ3gcDfaAkTr0ZuSCIF3t7ZauMBKx9bG9H7rz2cPHMBnMDPw2Wz2CCAF4o8GD2SzUkkdmGoypr7AKYtVAdHZ5SyKywR04tabeSL0S-LiTBq4lMsRwMBvL4Ah80JsnAH-I7b_j45myWsPkYVRQAFLajUvX4-9h_3KP0CJ-js5OJ9GJYgpw2RvPdCauGb_osWBJ23c3HNHkKzpDgVKlK8TzO8TtAppy_rbiDrJECYEN3Aa5_-biJld9Fx2Ik_N-pVxvfdmWGVE4j3tW9-AvMlfUvmpp0svbHMnFxkZH-FwCSb0HYaa_EBeswoKQ"
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "rq4s9v0mta",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:00:19.459"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "txt_385574",
+  "name": "languages",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\n\nSettings\nLanguages\n\n7 min\noverview customers all over the world enjoy viewing the website content and shopping in their native language it has now become beneficial for companies to operate their website in multiple languages this will help you handle your international customers in a better way this section helps you manage the languages of your website purpose onprintshop is multi lingual, and you can easily enable multiple languages for your website when a customer lands on your url, your store will automatically show their native language (if enabled) configuration the languages tab from site settings enlists all the languages enabled on your website note the default language that we provide is english to enable more languages, you need to connect with the technical or support team there is no provision to add language from the admin panel the languages listed here will be available for your customers on the storefront you can anytime change the status of the languages as per the needs note once the language is enabled for the front store, it will automatically be available for the admin actions edit under the actions column, you can edit the following settings select currency with this option, the admin can associate a currency with the selected language this will be only considered when the \"enable currency auto detect?\" settings in the site settings is set to \"yes\" admin only when you need to enable the language from the backend and configure the language related changes such as product descriptions, cms text, email templates, etc , you can use the \" admin only \" feature enabling this will disable the language at the front end and when you want to make the language available for the customers, just disable this setting locale date format with this facility, the admin can choose to display language wise date format when this is enabled, the month in the date format will be displayed as per the language selected default language you can set the selected languages as the \"default\" for the front store note admin cannot change the status of a language that has been set to default default font the font selected as the default will automatically apply when the user translates text in the designer studio and selects this language auto translate the auto translate feature enables the admin to effortlessly translate their entire site into the selected language with just a few clicks allowing them to save their time in manual translations and giving more space to focus on productions and other operations so, as soon as the admin clicks on the auto translate icon against the selected language, a popup message confirming the action will appear, and then all the default language content will be translated to the selected language to keep track of translation, a message will appear on the top with a link to view the background process log\nDid this page help you?\n\n\nPREVIOUS\nMiscellaneous Tab\nNEXT\nCurrency\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

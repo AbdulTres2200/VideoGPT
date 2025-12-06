@@ -1,0 +1,21 @@
+{
+  "id": "txt_866429",
+  "name": "sms-templates",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\n\nEmail/SMS Notifications\nSMS Templates\n\n6 min\noverview with affordable sms rates and high deliverability, sms notifications serve as an effective communication channel since sms works as a push notification, customers receive instant updates directly on their mobile devices, without needing to log in to their accounts purpose the sms section in the admin panel allows businesses to configure and manage various sms notification scenarios it ensures timely and efficient communication with customers by enabling sms alerts for key events like order status updates, shipping notifications, or promotional messages configuration the sms notification configuration module allows admins to set up and manage automated sms messages for important customer touchpoints these messages ensure that customers receive timely updates (e g , order status, reminders) directly on their mobile devices add sms notification to add an sms notification, go to the admin panel > content management > email/sms > sms templates > add field description use case/example select email template choose a predefined notification scenario (e g , order placed, order shipped) helps ensure consistency across email and sms communications for the same event message content the main body of the sms use concise messaging (160 characters max) variables from help content can be used for personalization e g , \"hi {{customer name}}, your order #{{order no}} has been shipped!\" admin notification add comma separated mobile numbers to receive internal sms alerts alongside the customer e g , notify store manager when a new order is placed managing sms templates edit \u2013 update the sms content, template, or admin numbers delete \u2013 remove an existing sms template after confirmation sms test to verify your sms gateway configuration, use the sms test feature this allows you to simulate message sending and ensure that your sms setup is correctly integrated before going live steps to perform an sms test from the sms templates screen, click on the sms test button in the top right corner a pop up will appear with fields to input a mobile number and a test message enter the details and submit to test the setup note this action will not send an actual sms instead, a test email will be sent to the email address configured in the sms templates this helps verify whether the parameters entered are correct before enabling live sms notifications\nDid this page help you?\n\n\nPREVIOUS\nEmail Templates\nNEXT\nEmail Reminders\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

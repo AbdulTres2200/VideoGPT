@@ -1,0 +1,21 @@
+{
+  "id": "txt_636969",
+  "name": "weight-based-shipping",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\n\nShipping Methods\nWeight Based Shipping\n\n9 min\noverview weight based shipping means that admin can set shipping rates based on the weight of their products this is a great way to make sure that your customers are charged the correct amount for shipping, and it can be a good option when you have products of different sizes read along to understand the configuration of the weight based shipping method configuration for configuring the weight based shipping method, go to the admin >> store configuration >> shipping method >> weight based >> actions system settings refer the common settings docid\\ xkteh61kdaempkpxftbp7 set the shipping types, the system comes with pre configured shipping types for weight based methods select the types that you want to provide to your customers along with the shipping types, select the customers and user groups for which this shipping method will be available shipping settings along with a tracking url and admin can determine how the shipping charges will be calculated i e product wise or order wise order wise the shipping cost will be calculated based on the total weight of all items in the order product wise the shipping cost will be calculated based on the weight of each individual item for this shipping method where the prices defined were zero, you can add an alternative text once the price is zero, the end customer won\u2019t see any price nor the label in frontend the store also, we have given an option for the admin to add an alternative text for the zero prices, e g free to hide the zero shipping price tick the checkbox \u2013 hide zero shipping price and write an alternative text front end \u2013 actions othen than editing the details of selected shipping methods, the admin has the provision to manage the shipping type, weight and shipping price shipping type the system has a pre configured shipping type for every shipping method, but you may wish to add more shipping types according to your business model to view, edit or add a new shipping type, click on the shipping type option from the actions drop down click on the +add button and enter the shipping type details such as type name and approx delivery days weight management the next is to manage the weight for calculating the shipping cost for this, click on the actions menu and select on the weight management for adding new weight range, click on the \u2018 add weight \u2019 button, specify the range and save the details note these weight ranges and prices will depend on your business models and offers the data shown above is just an example set shipping price after adding the weight range for the shipping cost calculation, it is time to add the pricing for this go to action menu >> shipping price this will list down all the shipping types listed in the weight based and allow you to configure the prices for each weight category the admin can configure the shipping price for different zones\nDid this page help you?\n\n\nPREVIOUS\nShipping Methods\nNEXT\nQuantity Based Shipping\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

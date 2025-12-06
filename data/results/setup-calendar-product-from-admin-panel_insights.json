@@ -1,0 +1,21 @@
+{
+  "id": "txt_222885",
+  "name": "setup-calendar-product-from-admin-panel",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhoto Calendar\nSetup Calendar product from Admin Panel\n\n8 min\nyou can integrate calendar products for your print store just like any other standard product follow the steps below to understand how you can add a calendar product product details to start, go to admin >> product >> +add button to add a calendar product choose the product type as \u2018calendar\u2019 rest all the settings remain the same as explained in the add new product docid 36z2mbsnisylwxctqmtjz section add description, product images, choose the color palette and other settings related to the product note for calendar products, there are only two pricing methods available \u2013 fixed quantity, price and range based with multiplication and range based without multiplication see pricing methods docid\\ tfzduiomcqkmaaipk6suo for calendar product, your customers will not get the option to create their design from scratch they can upload a design, choose to browse from the templates created by you or hire a designer to create the calendar design design options different calendar products can have a size(s), depending upon your product offerings for more refer to check product size in the bleed size, you get to define the height and width of the printable calendar product pages settings type choose a calendar type either monthly or weekly calendar total calendar pages these are the total pages to be included in the calendar excluding the cover page cover page this option will add a cover page to your calendar design these pages are generally used for marketing purpose and give an extra design edge to your calendar split view this will come for monthly calendar layouts a split view will allow you to design the presentation area along with the month area in the presentation section, you can set an image or any other design element if the split view is enabled, then the presentation section remains at the top and the month design will be at the bottom top percentage this will set the percentage of calendar area to be allocated for designing previous/next month view this will show the previous and next month as a thumbnail in the current month page (as shown below) on the july month page, august and september months are also shown months per page you can choose to display multiple months on one page select the number of months to be available on one page using the dropdown provided choose to display 2, 3, 4, 5, 9, or 12 months on one page page title these are the page names to be displayed in the studio the format can either be short (jan) or full (january) if there are numerous pages on the calendar, then it becomes preferable to use the short format month format for variable data decide the format of how the month will be written on the calendar pages i e either in long format or short format event personalization this will allow customers to add events to their calendars they can add public events (such as independence day) created by you and also add private events (birthdays and anniversaries) as per their requirements and design default start month depending upon the product specifications you can choose the start month (the base year would be the current year; in our case, it is 2020) the start month can be \u2013 the current year (starting from jan 2020) next year (starting from january 2021) next month (if the current month is april then the calendar will start from may) next to next year (starting from january 2022) editable start month this will give a button at the front end, which will allow your customers to change the start month as per their needs extra page type according to your marketing campaigns and calendar design add extra pages into your calendar the rest of the configuration such as prices, additional options, option rules, gallery, settings, etc , remains the same as other products\nDid this page help you?\n\n\nPREVIOUS\nPhoto Calendar\nNEXT\nCalendar Sections\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

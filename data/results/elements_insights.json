@@ -1,0 +1,21 @@
+{
+  "id": "txt_436438",
+  "name": "elements",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTemplate & Studio\n\n\nCommon Studio Settings\nElements\n\n5 min\noverview there are various elements present in the designer studio \u2013 text element, image element, shape element, background element, and clipart element these setting will appear below the top panel once the respective element is selected in the canvas this tab covers all the settings related to these elements you can set width, start position, fill color, the opacity of images, and more there are other settings too such as allowing customers to convert an svg to clip art, the list of special characters, and more settings font resize with aspect ratio with this feature, your customers can resize their fonts both with and without the aspect ratio none \u2013 no scaling effect scalable with aspect ratio \u2013 allows scaling of a text field with the aspect ratio (the existing functionality) scalable without aspect ratio \u2013 this feature will allow you to expand the text both horizontally and vertically without the aspect ratio (see the image below for an example) auto text translation for browse design flow previously, customers browsing design templates in non default languages had to manually translate text or rely on admins to provide language specific versions this often led to inconsistent user experiences and added effort to address this, the enable auto translation for browse design setting was introduced in the studio settings panel when enabled, the system automatically translates template text once the design loads in the designer studio, enhancing usability and accessibility for multilingual users a loader is briefly displayed during the translation process, ensuring a seamless experience without manual intervention this feature improves efficiency, reduces dependency on manual translation, and delivers a consistent, language friendly browsing experience for customers convert images from raster to vector the convert raster to vector setting allows users to transform raster images\u2014such as jpeg, png, or bmp\u2014into crisp, scalable vector graphics (svg) with a single click this conversion is especially useful in print design, where image clarity at various sizes is critical raster images are made of pixels and can appear blurry or pixelated when scaled vector graphics, on the other hand, are made of mathematical paths and shapes, allowing them to scale up or down without losing quality once enabled and a raster image is uploaded in the studio, users can click on the \" convert to vector \" option the system processes the image and generates a vector version (svg) based on the shapes and colors in the original file using the convert raster to vector feature, the customer can convert the logo to a clean svg format within seconds now, the logo appears sharp, even when resized to cover a larger portion of the t shirt additionally, they can change the color or adjust specific elements of the logo directly in the studio, something not possible with the original raster image\nDid this page help you?\n\n\nPREVIOUS\nLeft Panel\nNEXT\nCanvas\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

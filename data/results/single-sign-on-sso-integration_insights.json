@@ -1,0 +1,21 @@
+{
+  "id": "txt_502646",
+  "name": "single-sign-on-sso-integration",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSingle Sign-On (SSO) Integration\n\n5 min\noverview & purpose single sign on (sso) allows users to log into onprintshop using credentials from an external identity provider (idp), such as azure ad, google workspace, okta, or any saml/oauth2 compliant system this streamlines the login process and enhances security for enterprise customers how to integrate head over to the onprintshop admin panel and go to the store configuration >> external service settings >> sso tab >> single sign on >> edit option general settings based on compatibility and security needs, the administrator must configure single sign on (sso) by selecting the target store (default store or b2b store) and choosing an authentication protocol, such as oauth2 openid connection saml (security assertion markup language) after selecting the authentication protocol, the admin can toggle the \u2018restrict user registration\u2019 setting to allow only pre registered users to log in via sso, preventing automatic account creation for new users debug mode, when enabled, logs detailed authentication activity to help diagnose and resolve issues during the sso login process authentication settings when the protocol oauth2 or openid connection is selected, the fields for the authentication settings appear the same the required details\u2014such as metadata url, client id, client secret, redirect url, authorization url, access token url, and user info url\u2014can be obtained from your chosen sso provider, such as okta, azure ad, or others when configuring authentication settings with the saml protocol, administrators can either upload a metadata file or provide the identity provider\u2019s metadata url to automatically retrieve the necessary login configuration details attribute mapping after entering the authentication details, the administrator must configure attribute mapping to link user attributes from the identity provider (such as okta, azure ad, etc ) to the corresponding fields in onprintshop this ensures that user information is accurately captured and stored during sso login\nDid this page help you?\n\n\nPREVIOUS\nSetup Google Gemini\nNEXT\nOthers\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

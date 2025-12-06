@@ -1,0 +1,21 @@
+{
+  "id": "txt_46051",
+  "name": "auto-address-search-service",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOthers\nAuto Address Search Service\n\n10 min\noverview & purpose the google auto address search service, suggests several addresses i e when a customer/user starts typing address, autocomplete /auto suggest will fill the rest the address fields system will give auto suggestion for the fields using the google apis, just like the way the browser gives suggestions to fill in details however, a customer will have the liberty to ignore the provided suggestion and enter their own address details this auto address search functionality will be available on user registration page, guest checkout page, shipping address page and manage address on cart section how to integrate this article walks you through the steps to set up the google auto address search feature \u2013 1 create a new project 1 create a new project visit google's developer console and login with your google account after a successful login, create a new project from a create project button enter your project name and location to create a new project you can also use an existing project rather than creating a new one 2 enable places api 2 enable places api after creating the project, the page will redirect you to your project dashboard click on the enable apis and services button in the api library, search maps javascript api in the search bar and select the same click on the enable 3 enable maps javascript api 3 enable maps javascript api similarly, enable the places api 4 get an api key 4 get an api key to use the places api, you must have an api key for this click the menu button and navigate to apis & services >> credentials on the credentials page, click on the + create credentials button and then select api key from the drop down the api key will be generated in the pop up click on the close button to restrict the api key click on the exclamation icon on the api key (as shown in the picture) in the edit settings page, find the api restrictions section and restrict the key for maps javascript api and places api click on the save 5 configuration into admin panel 5 configuration into admin panel admin can enable the setting from the admin >> store configuration >> shipping method >> \u2018shipping address setting\u2019 button (top right corner) >> auto address search service select that where customer will get, the auto suggestion option \u2013 it can be address line 1, address line 2, city, zip code, company name according to the select field, customers will get auto suggestions\nDid this page help you?\n\n\nPREVIOUS\nSetup ShipStation\nNEXT\n4over Integration\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

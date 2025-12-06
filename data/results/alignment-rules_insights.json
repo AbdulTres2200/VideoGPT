@@ -1,0 +1,21 @@
+{
+  "id": "txt_170609",
+  "name": "alignment-rules",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesigner Studio\n\nPDF Block Template\nAlignment Rules\n\n4 min\nin the alignment rules, use horizontal and vertical block mapping functionality in order to avoid unnecessary spacing between the blocks this happens in the case if a block has blank content, then the block beside it should automatically move to the place of the first block to set this rule understand the block types type of blocks type of blocks there are two types of blocks reference block block whose position is referred by dependent blocks dependent block block whose position is based on the content of referenced blocks how to set up a dependent block? how to set up a dependent block? here is how you can set up a dependent block select any product template and click on the action button and select manage blocks from the drop down from the manage blocks tab, click on the manage properties link of any block in the manage properties screen, click on the add button from the top right corner to add a property in the property drop down, select the alignment rules select the directions for reference and dependent block as either vertical or horizontal as shown in the above image when phone number block is kept blank the remaining two blocks will adjust their position themselves notes notes dependency only for text line blocks the dynamic block positioning system works only for blocks of the type text line so dependent block & reference block should be of the type text line do not keep a cyclic dependency do not assign any cyclic dependency between blocks e g block a depends on block b, block b depends on block c and block c depends on block a this will run in an infinite loop and disrupt the look and feel of your pdf block advanced operations block dependency will not work in the block with advanced settings like text orientations of rotation etc fit method always, set block fit method as no fit in the autofit method, this rule will not work\nDid this page help you?\n\n\nPREVIOUS\nPDF Block Template\nNEXT\nText Formatting\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

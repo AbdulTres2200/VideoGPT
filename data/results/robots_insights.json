@@ -1,0 +1,21 @@
+{
+  "id": "txt_101000",
+  "name": "robots",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarketing\n\nSEO\nRobots\n\n1 min\noverview & purpose a robot txt is a text file that informs the search engine crawler which pages or files the crawler can request or can\u2019t request its primary usage is to manage crawler traffic to your site and keep off a page depending on the file type this avoids overloading your site with requests; it is not a mechanism to keep a web page out of google or any other search to keep a web page out of google search you can use noindex directives https //developers google com/search/reference/robots meta tag refer to introduction to robots txt https //support google com/webmasters/answer/6062608?hl=en and create a robots txt file https //support google com/webmasters/answer/6062596?hl=en\\&ref topic=6061961 of google to understand more about robot file usage and its syntax your system comes with a pre configured robot txt file along with some recommended robots however, you can change them as per your requirements using the syntax examples given below \u2013\nDid this page help you?\n\n\nPREVIOUS\nMetatag Settings\nNEXT\nManage URL Redirection\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

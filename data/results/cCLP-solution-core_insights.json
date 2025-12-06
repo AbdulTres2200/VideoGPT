@@ -1,0 +1,21 @@
+{
+  "id": "txt_592080",
+  "name": "cCLP-solution-core",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 11.0 Release Notes\nSolution Core\n\n0 min\nupgraded to phpv8 2 in this release, we have upgraded our code from php v8 1 and made it compatible with the php v8 2 standard, for advanced platform security order listing page optimization the order listing page is optimized to speed up the loading this is achieved by removing extra queries or looping import/export functionality optimization the import and export functionality via csv file operation is being optimized to speed up the overall process\nDid this page help you?\n\n\nPREVIOUS\nThird-Party Integrations\nNEXT\nVersion 10.1 Release Notes\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

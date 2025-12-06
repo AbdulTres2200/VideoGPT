@@ -1,0 +1,21 @@
+{
+  "id": "txt_437116",
+  "name": "get-started",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesigner Market Place\nGet Started\n\n4 min\nto enable the designer marketplace, connect with the technical team we have two options in which you can operate the marketplace \u2013 only manage it from the admin panel, here no customer can request you to be a designer on your website adding or deleting the designer\u2019s profile truly remains in your hand make the designer option public, here anybody accessing the front store can put up a designer\u2019s request and you (admin) can approve/reject their request also, you can add designers from the admin panel itself we\u2019ll know more about the two options in the below document once the feature is enabled, there will be a new business partner added \u2013 designers adding a designer from admin panel \u2013 go to admin >> business partners >> designers >> +add button you\u2019ll have to fill the designer details in two sections, first is the designer details (username, password, url, etc ) and second is the payment details in the designer details, if the designer is an existing customer then select the option \" existing website customer\" next, search for the customer using their email and the system will auto fill the name and email fields fill the other details such as password, nickname, and url the second section is where you need to fill the payment details for the designer, set profile picture (if any), upload banner, and save the changes made how customer can send designer requests from the front store? just like admin adds a designer, a customer also gets an option to submit a designer request from the front side while registering they can tick the checkbox \u2018i am a designer\u2019 on the registration page or else registered customers can check their profile and register as a designer under my profile just click on the \u2018i am a designer\u2019 checkbox the admin will then receive the request via email and can approve/reject the request\nDid this page help you?\n\n\nPREVIOUS\nDesigner Market Place\nNEXT\nDesigner Options\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

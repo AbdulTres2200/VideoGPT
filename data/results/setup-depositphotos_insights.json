@@ -1,0 +1,21 @@
+{
+  "id": "txt_887055",
+  "name": "setup-depositphotos",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThird-Party Images\nSetup Depositphotos\n\n7 min\noverview & purpose give your users the accessibility to use high quality licensed stock photos, graphics, vectors, and videos together in their designer studio integrate depositphotos with simple steps into your onprintshop web store how to integrate read the below systematic guide to integrate depositphotos in your onprintshop website 1 registration with depositphotos 1 registration with depositphotos visit the depositphotos site and register to create a new account you can sign up either for personal use or for business use after creating the account login into depositphotos to get started, confirm your email address by clicking the link received in your email 2 complete your profile 2 complete your profile after login, complete your profile by filling up your profile details for this, click on the profile icon at the top right corner of the dashboard and then select profile enter your details and save the changes 3 register for api 3 register for api for getting the api key, you need to sign up for the depositphotos api program click on the sign up for the api button in the next screen, select your api plan as soon as you complete the plan selection process, the system will redirect you to the api tab where you can find the generated api key copy and save the api key for the next step 4 admin panel integration 4 admin panel integration once you receive your api key, add the key to your admin panel go to the admin >> store configuration >> external service settings >> image library tab >> depositphotos >> \u2018action\u2019 dropdown >> \u2018edit\u2019 option add the api key along with your username and password select the account type i e buy odd or buy credit enter the price for the depositphotos images select the environment and save the changes\nDid this page help you?\n\n\nPREVIOUS\nThird-Party Images\nNEXT\nSetup Flickr\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

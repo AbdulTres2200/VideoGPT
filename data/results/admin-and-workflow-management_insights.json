@@ -1,0 +1,21 @@
+{
+  "id": "txt_346324",
+  "name": "admin-and-workflow-management",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\nFrequently Asked Questions\nAdmin & Workflow Management\n\n4 min\nadmin admin how can i change the password of my admin account? how can i change the password of my admin account? you can change the password of your admin account by following the below steps navigate to the admin panel >> admin >> admin click on the edit icon against the admin for which you want to change the password on the edit admin page, locate the password field, select the set to radio button, and enter the new password for that admin save the changes how to set up the admin group/role? how to set up the admin group/role? you can create the admin group/role from the admin panel >> admin >> admin group/role >> add button learn more about admin group or role can i add multiple admins according to the role of each person? if yes, then how? can i add multiple admins according to the role of each person? if yes, then how? yes, you can add multiple admins according to each person's role learn how to add role based admins is there a limit to creating multiple admins? is there a limit to creating multiple admins? no, there is no limit to creating multiple admins workflow workflow what is production workflow? what is production workflow? production workflow is specially designed to improve & simplify the process of production where based on your production process you can create order & item stages and assign each stage to specific production staff members based on their roles upon receiving the order, you can move the order to the respective production stage so production staff will be assigned that order to process each production staff completes their job as per the defined stage & updates the order to the next possible stage this will move orders from one stage to another stage from one production staff member to another production staff member every production staff will have workflow admin access to process assigned orders at each stage, you can restrict order, invoice, and customer information to be displayed to the production staff & restrict what stage they can update after completion of their job how to create a workflow in the admin? how to create a workflow in the admin? you can create a workflow in the admin panel following the below steps create a production profile and access roles from the admin >> workflow admin >> workflow roles >> add create the new workflow admin user for the workflow and assign the appropriate roles from the admin >> workflow admin >> add\n\nUpdated 11 Jun 2025\n\n\nPREVIOUS\nFrequently Asked Questions\nNEXT\nB2B/Store Management\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

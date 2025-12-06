@@ -1,0 +1,21 @@
+{
+  "id": "txt_637798",
+  "name": "ZUKj-b2bstore-module",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 11.1 Release Notes\nB2B/Store Module\n\n3 min\nstore specific order status & quote status email content overwrite the private store will now have the provision of managing the email content of order statuses and quote statuses once logged in, the store admin can find order status email and quote status email tabs available in the email notifications section the store admin needs to create a copy of the default store email and then create email content as per their needs image alt text store wise the \u201cimage alt text\u201d menu under \u201cseo\u201d module will now be available for all store types including multistore the stores can now manage the alt text of images from product and category section assign store wise default user group in v11 1, the admin can now set a default user group for every store after setup, all the new users added to the store will be assigned under this default group for this, a site setting has been added to set a default user group this setting can be overwritten store wise the private store admin, franchisee admin or reseller admin can set their own default user group\nDid this page help you?\n\n\nPREVIOUS\nAdmin Section\nNEXT\nDesigner Studio\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

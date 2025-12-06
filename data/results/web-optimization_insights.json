@@ -1,0 +1,21 @@
+{
+  "id": "txt_74491",
+  "name": "web-optimization",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarketing\nWeb Optimization\n\n5 min\noverview & purpose large images slow down the loading of your web pages, resulting in a poor user experience the image optimization process uses a plugin or script to minimize the size of an image's file, which improves page load speed configuration internal css \u2013 this option enables the internal display of all major css instead of external linking it will help to improve the google page speed score specific image sections resize image width/height (in pixel) \u2013 enable this option to resize or optimize the uploaded image in the respective sections resize product image width/height (in pixel) \u2013 enable this option to resize or optimize the uploaded product image resize gallery image width/height (in pixel) \u2013 enable this option to resize or optimize the uploaded product gallery image image quality \u2013 select the image quantity in pixels from the dropdown that will be maintained after resizing or optimizing separate images for mobile version \u2013 when a specific size (pixel) is selected, the system will create a mobile version image for banner and product gallery images of the selected size if the 'none' option is selected, no mobile version image will be created once you've finished configuring all, click the \"optimize\" button to optimize select images for the specific sections note depending on the quantity of images to be optimized, this procedure may take some time image optimization for specific products if you want to optimize the images of any particular product then, navigate to the admin >> print products >> products and click on the image optimization icon against the selected product image optimization for specific banners image optimization for product options if you want to optimize the images of product additional options, go to admin >> print products >> product options and select the image optimization icon for the respective option\nDid this page help you?\n\n\nPREVIOUS\nImage Alt Text\nNEXT\nCoupon & Discounts\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

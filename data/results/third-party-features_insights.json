@@ -1,0 +1,21 @@
+{
+  "id": "txt_838202",
+  "name": "third-party-features",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 10.1 Release Notes\nThird-Party Features\n\n7 min\npicsart api integration picsart api integration (new) (new) the picsart platform allows users to take and edit pictures and videos, draw with layers, and share the images on picsart and other social networks it is one of the world's most popular apps, with reportedly more than 1 billion downloads across 180 countries remove background api \u2013 this api will detect the foreground object and auto remove the background this will only work for images with png and jpg extensions upscale api \u2013 based on the upscale factor it will increase the image resolution this will only work with png images with the picsart integrated with onprintshop, we brought you image background removal and image upscale features to enable this feature, navigate to the store configurations >> external service settings >> others tab from the edit screen, you can specify other details for the integration 4over integration 4over integration 4over is a well known us based trade printer (4over com) 4over has an api integration service that allows you to configure their products into your onprintshop website, receive orders, transfer them into the 4over system, and further process the order in this release, we have integrated the onprintshop store with 4over api we have integrated the following between the two platforms admin can sync/import product and product price, transfer order, order status update, import 4over order, and import 4over ship to address personalize the product with what and how to display the 4over product on the front side ability to add the shipping markup and view all the 4over logs in the log report section quickbooks enhancement quickbooks enhancement now, admin will be able to map products based on product id and product sku and view the mapped ops product and quickbook product new minor features & enhancement new minor features & enhancement due date calculation while transit time api is enabled due date calculation while transit time api is enabled when the transit time api is enabled, the shipping due date will be calculated considering only the business days excluding the holidays and weekly offs (non business days) fedex api update fedex api update to provide you with all the new features, we have upgraded your onprintshop store with the latest version of fedex api in your store, it will be installed with the disabled status by default ups api update ups api update we have upgraded the ups api with the rest api in this version captcha in forgot password section captcha in forgot password section we have added the captcha in the forgot password section for admin as well as for front store customers due to security reasons\nDid this page help you?\n\n\nPREVIOUS\nDesigner Studio\nNEXT\nSolution Core\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

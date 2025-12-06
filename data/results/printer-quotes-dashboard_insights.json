@@ -1,0 +1,21 @@
+{
+  "id": "txt_584170",
+  "name": "printer-quotes-dashboard",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders, Quotes & Customers\n\n\nPrinter Quotes\nPrinter Quotes Dashboard\n\n5 min\nthis section lists out all the quotes assigned to the printers from the view quotes section we have segregated the printer quotes according to their status into different tabs you can switch between tabs to check the status of each printer's quotes how quotes move from one tab to another? quotation approved all the printer assigned quotes approved by the admin appears in this tab the admin can anytime update the quote product , view quote history and check the printer quote details if you no longer wish to keep the quote functioning, then delete the quote from the action menu quotation after a printer sends the requested quotation, it appears under the \u2018quotation\u2019 tab at this point, admin can approve or reject the quote using the \u2018 update quote product \u2019 button in the pop up, click on the status submenu click on the quotation approved or any other status as per your requirements and choice at the time of quote approval, you can also enter a markup percentage as per your business model assigned to printer all the quotas assigned to the printers are listed under this tab a \u2018v\u2019 symbol against the printer indicated that the printer has viewed the requested quotation if the due date for the printer quote has been exceeded, then change the due date using the pencil like icon under the due date column quotation disapproved in a practical scenario, if admin has assigned the quotation to 3 different printers but is willing to approve the quotation of only one printer in such cases, as soon as admin approves the quote of one printer, then the quotation provided by another printer(s) automatically gets disapproved the status of those quotes is changed to \u2018quotation disapproved\u2019 you can still change the status of the quote product using the \u2018pen like\u2019 icon select the status for the quote from the status dropdown and click on the save note this scenario will be helpful if you wish to re quote the same product to the printer or approve their quote, i e rectify the previous action quotation declined if the printer or admin misses the due date of quote then after a certain period of time, the system automatically declines the quote thus, restricting printers from performing any actions on the quote\nDid this page help you?\n\n\nPREVIOUS\nFlow of Quote\nNEXT\nQuote Status\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

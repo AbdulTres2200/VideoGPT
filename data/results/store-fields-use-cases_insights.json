@@ -1,0 +1,21 @@
+{
+  "id": "txt_126344",
+  "name": "store-fields-use-cases",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupporting Docs\nStore Fields - Use Cases\n\n10 min\noverview as discussed in store fields docid\\ ab30vort5waa8nk30aok3 , we offer two types of fields \u2013 user wise personalization fields \u2013 these types of fields are used to set customer wise data this data either can be filled in by store admin, site admin, or the store customer as per the setting template personalization (dropdown) \u2013 these types of store fields are used to set predefined data (common for all store customers) admin sets up this data and then it is available as a drop down on block templates use case scenarios check the below image where i have created 4 different fields \u2013 designation and profile image as user wise personalization fields address1 and address2 as template personalization fields note we will use these fields for further reference how user wise personalized fields work? whenever you create a user wise personalized field, it appears in the \u2018my account\u2019 section of every store customer examples of such fields can be \u2013 date of birth, date of joining, blood group, designation, customer\u2019s image, etc in the \u2018my account >> store field\u2019 , your store customers will find all the user wise personalization fields they can fill in the details of these fields and get pre filled templates admin panel on the admin side, you will have to match the template fields block name with the block name of extra fields created for example \u2013 the block name of profile image while creating the store field was defined as a profileimage now in templates, go to templates >> product templates >> action menu of template >> edit field order enter the block name of the image block as profileimage perform the above steps with all the remaining blocks designer studio how template wise personalized fields work? template wise personalized fields appear as a dropdown of options in the designer studio a store customer can select any of the suitable options from the available options these options are provided by the admin, no store customer can alter them an example of this field is \u2013 address the store can have many addresses due to different office locations thus, to save your customers from entering their addresses, again and again, every time, you can simply provide a dropdown of all office addresses to do so simply follow the below steps in the admin panel \u2013 create fields with the field type \u2013 template personalization, for example \u2013 address1 and address2 click on template personalization from the top right corner in the next screen, click the \u2018 +add \u2019 button to create your first template personalization option in the next screen, enter a field title this title will appear in the designer studio when a customer chooses this title, the system will automatically fill the \u2018template personalized\u2019 fields associated with the title now, these two options will appear as a dropdown in the designer studio here we have created two office addresses, one is indian office and the other is usa office designer studio \u2013 here, you can see that the two template personalization options \u2013 usa office and india office appear as options as soon as a customer chooses one profile, the system will automatically fill in the \u2018address1\u2019 and \u2018address2\u2019 fields\nDid this page help you?\n\n\nPREVIOUS\nSolve Email Not Delivered Error\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

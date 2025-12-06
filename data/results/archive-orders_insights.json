@@ -1,0 +1,21 @@
+{
+  "id": "txt_206387",
+  "name": "archive-orders",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders, Quotes & Customers\n\n\nViewing Orders\nArchive Orders\n\n8 min\noverview & purpose archive orders are the orders that have been completed or fulfilled and closed by you it is considered one of the best practices to archive the orders as it gives an accurate number of the remaining orders to be fulfilled moving orders to the archive section will reduce the clutter from the ' list orders https //help onprintshop com/list orders ' section and give you a concise view also, you can set a time that will auto archive the orders you can find the setting in the store configuration section screen at glance to view your store's archive orders, navigate to the admin >> orders >> archive orders menu on this screen, you will find the list of the orders which have been archived manually or automatically based on the setting filter the list the search bar of archived orders works the same as in the list orders section you can search orders by order date, status, delivery type, payment status, user type, order amount and other traits for more please refer to this https //help onprintshop com/view orders / list orders#advanced search section bulk actions you can select multiple orders at once and perform bulk actions such as restore, delete, and download invoices with bulk actions you can perform multiple actions at once, reducing your time and effort to perform a mass action on orders, select the orders, then select actions from the action dropdown and click on submit actions by clicking on the action dropdown, you can perform certain limited actions on the archived orders view/update order this action will give you a chance to view the order details, customer details such as billing and shipping address, payment details, order product details, and order history although, there are no provisions to edit the order, or update it under any circumstances restore there can be a scenario when a customer wants any change in the order after you have completed the order and archived it for such cases, we have given a restore option this will restore the order and send it to the list orders section download invoice for business purpose or taxation it is possible that you would require the invoice keeping this in mind we have also kept a download invoice link for each archived order you can easily download the invoice using this option reorder there can be scenario when a customer wants to reorder the same or partial products from the selected product for such cases, the admin can click on the reorder, select the products, complete the shipping and payment methods and confirm the order download file a zip file will be downloaded which will include the design files and a job ticket the job ticket includes product details along with a section wherein you can add graphics notes, press note, and shipping note delete a two step delete function is offered in the system there can be a scenario when your archive orders section gets filled with lakhs of 10 year old orders in such a case, you can easily clear the clutter using the delete option auto archive orders we understand how orders can fill your list orders space very easily to get rid of the clutter automatically we have given an auto archive feature in the system to enjoy the feature, go to admin >> store configuration >> settings >> search \u201carchive\u201d >> order auto archive and select \u201cyes\u201d\nDid this page help you?\n\n\nPREVIOUS\nUnpaid Orders\nNEXT\nManaging Orders\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

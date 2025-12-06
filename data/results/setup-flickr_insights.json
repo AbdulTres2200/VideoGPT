@@ -1,0 +1,21 @@
+{
+  "id": "txt_347725",
+  "name": "setup-flickr",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThird-Party Images\nSetup Flickr\n\n10 min\noverview & purpose provide your customers access to their yahoo photos from flickr with simple api integration into your onprintshop store your customers can use their flickr photos in the designer studio let your customers enjoy the benefits of a total photo centric platform built for professionals how to integrate integrate flickr into your designer studio with simple steps as shown below 1 log in to flickr 1 log in to flickr visit and login to the flickr website with your yahoo id, if you already have an account, or else sign up to flickr with a yahoo id after login, add the necessary details about your account in account setting and save 2 create an app 2 create an app to integrate api you need to create an app in flickr and avail the api key and secret key for this, visit the services page here, you will find the app garden service of flickr click on create an app link to create your first app a screen like the below will appear click on the request an api key link the flickr services screen will ask you whether your app is a commercial or non commercial one, i e it is profitable or non profitable submit the form by clicking on apply for a commercial key button as your agency works to make profits further, in the form add details about your website enter basic details depending upon your previous choice i e whether you applied for commercial key or non commercial key the details asked will be asked fill in the details carefully and click on the submit button to generate an api key 3 generate the api key 3 generate the api key after the submit button, the app garden will generate your app\u2019s api key and secret key as shown below copy and save the api key and secret key 4 configure api key into admin panel 4 configure api key into admin panel to add the api key and secret id in admin panel follow the below path admin > store configuration > external service settings > social sharing tab > flickr > \u2018action\u2019 dropdown > edit under the settings section, add the api key and api secret id saved in the above step click on save & back 5 designer studio 5 designer studio once you have completed the flickr integration in your store and your customers choose to upload an image from image gallery in the designer studio, they will see a flickr button this means they can upload images in the designer studio from their flickr account all they have to do is connect to the flickr account once the customer clicks on connect, they will be redirected to login into their yahoo account after login, your customer will have to authorize access to your flickr account after authorization, the flickr images are ready to use\nDid this page help you?\n\n\nPREVIOUS\nSetup Depositphotos\nNEXT\nSetup Pixabay\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "txt_954939",
+  "name": "shipping-module",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 10.0 Release Notes\nShipping Module\n\n6 min\nshipping package configuration shipping package configuration in the version 10 0, we have relocated the \u201cshipping package configuration\u201d to the shipping methods listing page and removed from individual shipping methods configuration this will allow the admin to manage the package configurations for all shipping methods in one place clicking on the package configuration from the top right corner will redirect you to the package configuration page where you can create packages for individual products the screen will have quick links to import package configurations using template file, create and manage master packages along with managing the pricing tracking order status for guest users tracking order status for guest users in this release, we've implemented a tracking order option for the guest users; after making an order, they will be able to track it from the front without logging in once clicked on the \"track order\" from the header menu, providing their email id and order number and clicking on the search button, the guest customers will be able to check the order details and tracking details new minor features & enhancement new minor features & enhancement shipping cost by subtotal enhancements shipping cost by subtotal enhancements for the shipping price calculation based on the order subtotal, we have made some enhancements flat shipping method we've introduced an option of \"based on order subtotal\" to the flat shipping method depending the option and value set in the above setting, the system will display the flat shipping method on the checkout page for example, the admin has set greater or equal to 500 , then when the order subtotal will be 500 or more only then the flat shipping method will be displayed in the shipping selection on the front store shipping cost by order subtotal we have enhanced the shipping method by managing the display of this shipping method depending on the price range created, if the order subtotal at the front store is out of range then, the shipping method will not be displayed for the selection optimized package calculation optimized package calculation we have optimized the package calculation method for quick package calculation, so that if the order weight is too large, the process of calculating the best package combination is proceeded quickly change in change in shipping title display shipping title display when the admin will change the title of any of the shipping methods, we will be displaying the original shipping methods name in brackets for the admin to know the primary shipping method title\nDid this page help you?\n\n\nPREVIOUS\nAdmin Section\nNEXT\nSolution Core\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

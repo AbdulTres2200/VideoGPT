@@ -1,0 +1,21 @@
+{
+  "id": "txt_386595",
+  "name": "sitemaps",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarketing\n\nSEO\nSitemaps\n\n7 min\noverview & purpose the sitemap is a structured listing of your website intended for web crawlers and spiders of search engines using sitemaps you can publish links to your website and define the dynamic pages the sitemaps contain website urls, thus making it easy for the crawlers to find your pages along with the urls, the sitemap also contains information about when the link was last modified, the changing frequency of the url, and its priority generating xml sitemap admin can anytime generate a sitemap for their website from the admin >> seo >> sitemap >> xml sitemap from the edit tab, you can edit the generated xml site map using the \u2018view and edit\u2019 link if you already have an xml created for your website, upload it using the \u2018upload file\u2019 tab xml settings the xml files contain urls along with their details such as \u2013 last modified, changing frequency, and priority using the xml settings you can set a page\u2019s priority, changing frequency, and last modified date there are 4 types of pages available namely \u2013 home, product, content, and other pages priority \u2013 this determines the priority of a particular url compared to the other urls on the site this suggests webmasters crawl which pages are considered more important the valid range is 0 0 to 1 0, where 1 0 is the most important priority does not affect the search listing, as it only suggests to the crawler how important the page is on the site change frequency this defines how frequently a page may change \u2018always\u2019 denotes that the url is changed every time it is accessed \u201cnever\u201d is used to denote the archived urls on the website once you change any setting of these pages, it is advisable to again generate the xml file this will update the changes made in the settings section one should also regularly submit an updated sitemap when new pages are published this may allow search engines to find and index those pages more quickly than they would by finding the pages on their own shopping feeds google feeds this feature offered by google allows customers to search for, view, and compare products for example, when the customer searches for standard business card, they will be able to see product listings on the google shopping page these products can appear in the google search results or under the shopping tab know more about the google shopping feed using the google shopping feed tab, you can easily create the xml file for the shopping feed listing and upload it into the store/solutions/merchant center/merchant center https //support google com/merchants/answer/188477?hl=en including accurate values for fields like mpn , brand , and gtin is essential for improving product visibility and performance on google shopping properly managing these attributes ensures compliance with google\u2019s listing requirements, enhances search relevance, and contributes to better ad campaign results and higher sales admins have two flexible options to populate this data auto generate values using pre defined system logic bulk upload values using a csv file for faster and more efficient updates facebook feeds facebook shopping feed is a fantastic opportunity for sellers to promote their catalog of products to facebook users for the feed, you need to create a facebook catalogue that holds information about inventory, images, prices, descriptions, and more you can generate a special facebook shopping feed xml and update the facebook data feed file to a catalog or update an existing one\nDid this page help you?\n\n\nPREVIOUS\nPage title, Keyword setting\nNEXT\nMetatag Settings\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

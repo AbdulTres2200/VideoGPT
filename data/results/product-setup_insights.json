@@ -1,0 +1,21 @@
+{
+  "id": "txt_922758",
+  "name": "product-setup",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDocument Print\nProduct Setup\n\n4 min\noverview you can integrate document print products for your print store just like any other standard product follow the steps below to understand how you can add it to your system product configuration product details to start, navigate to the admin panel > products > print products > add button additional options unlike standard products, document print products have a unique set of options based on your product offerings, you can create additional options such as background color, printing sides, page flip option, binding, first page color, orientation , and more to customize the document printing experience designer rules for binding options, you can upload mask images via the designer rules screen, allowing customers to see a real time preview of their document with the selected binding studio events to provide a smooth, interactive, and error free document print experience , you must bind all additional options with the appropriate studio events this ensures customers can visualize their selections in real time, order processing is accurate, and the final print output matches their expectations to ease the product setup, you will find a few predefined studio events for the document print product type events description attributes fit method used in document printing to determine how the document should fit on the page, with options like best fit, which maintains the aspect ratio, and stretch fit, which adjusts the document to fill the page none best fit stretch fit edge fit pages view specifies how the pages of a document should be printed, either on one side (single sided) or both sides (double sided), affecting the document's layout and paper usage single sided double sided orientation determines the orientation of the document, either portrait (vertical) or landscape (horizontal), based on the content and intended use landscape portrait page color specifies if the document should be printed in color or black and white original black white sepia brownie vintage kodachrome technicolor polaroid background color specifies the background color of the page, allowing for customization to match branding or design preferences color pages view direction provides options for the direction in which the document is viewed, such as top to bottom, left to right, or right to left, accommodating different reading habits and cultural preferences alternatively, this can be used for providing binding options like top, left, or right left right top duplex page option options for duplex printing, such as head to head (top of both pages aligned) or head to toe (top of one page aligned with the bottom of the next), affect how the content is oriented on double sided prints head to head head to toe first page of color an option to exclude the background color on the document's first page, often used for title pages or covers exclude the first color page no of pages displays the number of pages that will be printed no of pages no of tabs allows customers to specify how many tabs to include in their document no of tabs tabs color allows customers to choose the font and background colors for the tabs in their document tabs color\nDid this page help you?\n\n\nPREVIOUS\nDocument Print\nNEXT\nOrder Flow\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

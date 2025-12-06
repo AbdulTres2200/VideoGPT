@@ -1,0 +1,2703 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+  "id": "rms6b7bnhd",
+  "name": "Uploads from OnPrintShop Web-to-Print Storefront - 278 - Suitable Pricing Method",
+  "userName": "Abdul Moiz",
+  "created": "2025-11-01T06:36:19.9933333+00:00",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 100,
+  "duration": "0:01:40.473",
+  "summarizedInsights": {
+    "name": "Uploads from OnPrintShop Web-to-Print Storefront - 278 - Suitable Pricing Method",
+    "id": "rms6b7bnhd",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:01:40.473",
+      "seconds": 100.5
+    },
+    "thumbnailVideoId": "rms6b7bnhd",
+    "thumbnailId": "0d1fcf55-338a-4c27-81f5-b94a23ee1ada",
+    "faces": [],
+    "keywords": [
+      {
+        "isTranscript": true,
+        "id": 2,
+        "name": "base price",
+        "appearances": [
+          {
+            "startTime": "0:00:07",
+            "endTime": "0:01:36.08",
+            "startSeconds": 7,
+            "endSeconds": 96.1
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 3,
+        "name": "additional price",
+        "appearances": [
+          {
+            "startTime": "0:00:07",
+            "endTime": "0:01:36.08",
+            "startSeconds": 7,
+            "endSeconds": 96.1
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 4,
+        "name": "pricing methods",
+        "appearances": [
+          {
+            "startTime": "0:00:01.64",
+            "endTime": "0:01:36.04",
+            "startSeconds": 1.6,
+            "endSeconds": 96
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 8,
+        "name": "sale price",
+        "appearances": [
+          {
+            "startTime": "0:00:07",
+            "endTime": "0:01:36.08",
+            "startSeconds": 7,
+            "endSeconds": 96.1
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 11,
+        "name": "multiplication method",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:36.08",
+            "startSeconds": 0,
+            "endSeconds": 96.1
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 12,
+        "name": "linear price",
+        "appearances": [
+          {
+            "startTime": "0:00:07",
+            "endTime": "0:01:36.08",
+            "startSeconds": 7,
+            "endSeconds": 96.1
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 15,
+        "name": "greeting cards",
+        "appearances": [
+          {
+            "startTime": "0:00:41",
+            "endTime": "0:01:36.04",
+            "startSeconds": 41,
+            "endSeconds": 96
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 1,
+        "name": "print shop",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:40.04",
+            "startSeconds": 0,
+            "endSeconds": 100
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 5,
+        "name": "standard pricing",
+        "appearances": [
+          {
+            "startTime": "0:00:01.64",
+            "endTime": "0:01:36.04",
+            "startSeconds": 1.6,
+            "endSeconds": 96
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 6,
+        "name": "marketing agencies",
+        "appearances": [
+          {
+            "startTime": "0:00:07",
+            "endTime": "0:00:40.04",
+            "startSeconds": 7,
+            "endSeconds": 40
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 7,
+        "name": "commercial printers",
+        "appearances": [
+          {
+            "startTime": "0:00:07",
+            "endTime": "0:00:43.92",
+            "startSeconds": 7,
+            "endSeconds": 43.9
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 9,
+        "name": "print brokers",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:40.04",
+            "startSeconds": 0,
+            "endSeconds": 100
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 10,
+        "name": "sale printer",
+        "appearances": [
+          {
+            "startTime": "0:00:07",
+            "endTime": "0:00:43.92",
+            "startSeconds": 7,
+            "endSeconds": 43.9
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 13,
+        "name": "range based",
+        "appearances": [
+          {
+            "startTime": "0:00:41",
+            "endTime": "0:01:36.04",
+            "startSeconds": 41,
+            "endSeconds": 96
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 14,
+        "name": "print products",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:40.04",
+            "startSeconds": 0,
+            "endSeconds": 100
+          }
+        ]
+      }
+    ],
+    "sentiments": [
+      {
+        "sentimentKey": "Neutral",
+        "seenDurationRatio": 1,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:40.473",
+            "startSeconds": 0,
+            "endSeconds": 100.5
+          }
+        ]
+      }
+    ],
+    "emotions": [],
+    "audioEffects": [],
+    "labels": [
+      {
+        "id": 1,
+        "name": "text",
+        "appearances": [
+          {
+            "confidence": 0.9951,
+            "startTime": "0:00:00",
+            "endTime": "0:01:40.04",
+            "startSeconds": 0,
+            "endSeconds": 100
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "clothing",
+        "appearances": [
+          {
+            "confidence": 0.9529,
+            "startTime": "0:00:11",
+            "endTime": "0:00:40.04",
+            "startSeconds": 11,
+            "endSeconds": 40
+          }
+        ]
+      }
+    ],
+    "framePatterns": [],
+    "brands": [],
+    "namedLocations": [
+      {
+        "referenceId": null,
+        "referenceUrl": null,
+        "confidence": 0.77,
+        "description": null,
+        "seenDuration": 4.8,
+        "id": 1,
+        "name": "print shops",
+        "appearances": [
+          {
+            "startTime": "0:00:14.72",
+            "endTime": "0:00:19.52",
+            "startSeconds": 14.7,
+            "endSeconds": 19.5
+          }
+        ]
+      }
+    ],
+    "namedPeople": [],
+    "statistics": {
+      "correspondenceCount": 0,
+      "speakerTalkToListenRatio": {
+        "1": 1
+      },
+      "speakerLongestMonolog": {
+        "1": 99
+      },
+      "speakerNumberOfFragments": {
+        "1": 8
+      },
+      "speakerWordCount": {
+        "1": 286
+      }
+    },
+    "topics": [
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economy/macro economics/prices",
+        "iabName": "Business and Finance",
+        "confidence": 0.8531,
+        "id": 1,
+        "name": "Business/Industry/Dynamic Pricing",
+        "appearances": [
+          {
+            "startTime": "0:00:00.2",
+            "endTime": "0:00:14.72",
+            "startSeconds": 0.2,
+            "endSeconds": 14.7
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/business information/strategy and marketing/business governance",
+        "iabName": "Business and Finance",
+        "confidence": 0.7865,
+        "id": 2,
+        "name": "Business",
+        "appearances": [
+          {
+            "startTime": "0:00:00.2",
+            "endTime": "0:00:55.52",
+            "startSeconds": 0.2,
+            "endSeconds": 55.5
+          },
+          {
+            "startTime": "0:01:18.92",
+            "endTime": "0:01:36.08",
+            "startSeconds": 78.9,
+            "endSeconds": 96.1
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/construction and property/design and engineering",
+        "iabName": "Fine Art",
+        "confidence": 0.7399,
+        "id": 3,
+        "name": "Design",
+        "appearances": [
+          {
+            "startTime": "0:00:14.72",
+            "endTime": "0:00:19.52",
+            "startSeconds": 14.7,
+            "endSeconds": 19.5
+          },
+          {
+            "startTime": "0:00:33.2",
+            "endTime": "0:00:48.68",
+            "startSeconds": 33.2,
+            "endSeconds": 48.7
+          },
+          {
+            "startTime": "0:01:00.16",
+            "endTime": "0:01:13",
+            "startSeconds": 60.2,
+            "endSeconds": 73
+          },
+          {
+            "startTime": "0:01:23.32",
+            "endTime": "0:01:36.08",
+            "startSeconds": 83.3,
+            "endSeconds": 96.1
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "arts, culture, entertainment and media/arts and entertainment/visual arts/design (visual arts)",
+        "iabName": "Fine Art",
+        "confidence": 0.6171,
+        "id": 4,
+        "name": "Design/Communication Design/Graphic Design",
+        "appearances": [
+          {
+            "startTime": "0:00:14.72",
+            "endTime": "0:00:19.52",
+            "startSeconds": 14.7,
+            "endSeconds": 19.5
+          },
+          {
+            "startTime": "0:00:33.2",
+            "endTime": "0:00:43.92",
+            "startSeconds": 33.2,
+            "endSeconds": 43.9
+          },
+          {
+            "startTime": "0:01:00.16",
+            "endTime": "0:01:13",
+            "startSeconds": 60.2,
+            "endSeconds": 73
+          },
+          {
+            "startTime": "0:01:23.32",
+            "endTime": "0:01:30.72",
+            "startSeconds": 83.3,
+            "endSeconds": 90.7
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "science and technology/social sciences/economics",
+        "iabName": "Business and Finance",
+        "confidence": 0.576,
+        "id": 5,
+        "name": "Economy/Economics",
+        "appearances": [
+          {
+            "startTime": "0:00:00.2",
+            "endTime": "0:00:14.72",
+            "startSeconds": 0.2,
+            "endSeconds": 14.7
+          }
+        ]
+      }
+    ]
+  },
+  "videos": [
+    {
+      "accountId": "fbafe9ff-1c94-40bd-987e-a4e4dfe52365",
+      "id": "rms6b7bnhd",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:01:40.473",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [
+          "en-US"
+        ],
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "transcript": [
+          {
+            "id": 1,
+            "text": "Hi, welcome to on print shop.",
+            "confidence": 0.7957,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.2",
+                "adjustedEnd": "0:00:01.6",
+                "start": "0:00:00.2",
+                "end": "0:00:01.6"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "In this video we will learn about how to identify which payment method to use pricing methods.",
+            "confidence": 0.9534,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.64",
+                "adjustedEnd": "0:00:07.32",
+                "start": "0:00:01.64",
+                "end": "0:00:07.32"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "We have different different pricing methods which is used in various kinds of business.",
+            "confidence": 0.9274,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07.32",
+                "adjustedEnd": "0:00:11.48",
+                "start": "0:00:07.32",
+                "end": "0:00:11.48"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "First is base price and additional price for all options.",
+            "confidence": 0.899,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.48",
+                "adjustedEnd": "0:00:14.72",
+                "start": "0:00:11.48",
+                "end": "0:00:14.72"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "So this is used by print shops, SME, printers and for standard pricing.",
+            "confidence": 0.9038,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:14.72",
+                "adjustedEnd": "0:00:19.52",
+                "start": "0:00:14.72",
+                "end": "0:00:19.52"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "Next we have base price and additional options combined pricing.",
+            "confidence": 0.9082,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:19.52",
+                "adjustedEnd": "0:00:22.92",
+                "start": "0:00:19.52",
+                "end": "0:00:22.92"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "So this is used by print brokers, resellers, marketing agencies and who get wholesale price from vendors.",
+            "confidence": 0.9399,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.92",
+                "adjustedEnd": "0:00:29.32",
+                "start": "0:00:22.92",
+                "end": "0:00:29.32"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "Then we have product options master or master options pricing.",
+            "confidence": 0.8037,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29.36",
+                "adjustedEnd": "0:00:33.16",
+                "start": "0:00:29.36",
+                "end": "0:00:33.16"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "This is used by commercial printers, wholesale printer and who wants to create accurate rising calculating minimum wastage or mis flexible pricing matter for all print products.",
+            "confidence": 0.8493,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.2",
+                "adjustedEnd": "0:00:43.92",
+                "start": "0:00:33.2",
+                "end": "0:00:43.92"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "Here are some examples of price defining methods used in different different products.",
+            "confidence": 0.9255,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:43.92",
+                "adjustedEnd": "0:00:48.68",
+                "start": "0:00:43.92",
+                "end": "0:00:48.68"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "So first we have fixed quantity pricing method.",
+            "confidence": 0.9229,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48.76",
+                "adjustedEnd": "0:00:51.16",
+                "start": "0:00:48.76",
+                "end": "0:00:51.16"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "So this is used in business cards, Flyers, brochures, Letterheads.",
+            "confidence": 0.8156,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:51.16",
+                "adjustedEnd": "0:00:55.52",
+                "start": "0:00:51.16",
+                "end": "0:00:55.52"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "Then we have range based with multiplication method or linear price calculation.",
+            "confidence": 0.7863,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:55.52",
+                "adjustedEnd": "0:00:59.96",
+                "start": "0:00:55.52",
+                "end": "0:00:59.96"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "So this is used in copies, greeting cards, posters, GIFs, invitations.",
+            "confidence": 0.833,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:00.16",
+                "adjustedEnd": "0:01:05.24",
+                "start": "0:01:00.16",
+                "end": "0:01:05.24"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "Then we have custom size pricing method.",
+            "confidence": 0.8592,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:05.24",
+                "adjustedEnd": "0:01:07.4",
+                "start": "0:01:05.24",
+                "end": "0:01:07.4"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "This is used in white format, labels, stickers.",
+            "confidence": 0.8868,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:07.4",
+                "adjustedEnd": "0:01:10.68",
+                "start": "0:01:07.4",
+                "end": "0:01:10.68"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "Then we have size wise pricing method.",
+            "confidence": 0.8865,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:10.68",
+                "adjustedEnd": "0:01:13",
+                "start": "0:01:10.68",
+                "end": "0:01:13"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "So this is used in apparel, T-shirt and shirts.",
+            "confidence": 0.802,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:13",
+                "adjustedEnd": "0:01:15.92",
+                "start": "0:01:13",
+                "end": "0:01:15.92"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "Then we have page and quantity wise pricing methods.",
+            "confidence": 0.8171,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:15.92",
+                "adjustedEnd": "0:01:18.92",
+                "start": "0:01:15.92",
+                "end": "0:01:18.92"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "So this is widely used in business cards, flyer, brochures and Letterheads.",
+            "confidence": 0.8387,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:18.92",
+                "adjustedEnd": "0:01:23.32",
+                "start": "0:01:18.92",
+                "end": "0:01:23.32"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "text": "The last we have sheet based pricing so this we use mostly in calculating the total sheets required for printing.",
+            "confidence": 0.8836,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:23.32",
+                "adjustedEnd": "0:01:30.72",
+                "start": "0:01:23.32",
+                "end": "0:01:30.72"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "text": "I hope this video is helpful for you to establish the correct price defining method for your products.",
+            "confidence": 0.897,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:30.8",
+                "adjustedEnd": "0:01:36.08",
+                "start": "0:01:30.8",
+                "end": "0:01:36.08"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "text": "Thank you for watching this video.",
+            "confidence": 0.9752,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:36.12",
+                "adjustedEnd": "0:01:37.52",
+                "start": "0:01:36.12",
+                "end": "0:01:37.52"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "text": "In case of any further concern, feel free to connect with us.",
+            "confidence": 0.9031,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:37.52",
+                "adjustedEnd": "0:01:40.4",
+                "start": "0:01:37.52",
+                "end": "0:01:40.4"
+              }
+            ]
+          }
+        ],
+        "ocr": [
+          {
+            "id": 1,
+            "text": "OnPrintShop",
+            "confidence": 0.99,
+            "left": 174,
+            "top": 72,
+            "width": 220,
+            "height": 32,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:00",
+                "end": "0:00:04.04"
+              },
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:01:38.04",
+                "start": "0:00:06",
+                "end": "0:01:38.04"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "Web-to-Print Storefront",
+            "confidence": 0.994,
+            "left": 170,
+            "top": 110,
+            "width": 220,
+            "height": 21,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:40.04",
+                "start": "0:00:00",
+                "end": "0:01:40.04"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "How to identify",
+            "confidence": 0.9977,
+            "left": 92,
+            "top": 417,
+            "width": 546,
+            "height": 68,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:06.04",
+                "start": "0:00:00",
+                "end": "0:00:06.04"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "which Payment",
+            "confidence": 0.998,
+            "left": 91,
+            "top": 500,
+            "width": 552,
+            "height": 70,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:06.04",
+                "start": "0:00:00",
+                "end": "0:00:06.04"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "Method to use ?",
+            "confidence": 0.9968,
+            "left": 93,
+            "top": 583,
+            "width": 564,
+            "height": 64,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:06.04",
+                "start": "0:00:00",
+                "end": "0:00:06.04"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "www.OnPrintShop.com",
+            "confidence": 0.982,
+            "left": 34,
+            "top": 1031,
+            "width": 212,
+            "height": 23,
+            "angle": 0,
+            "language": "fi-FI",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:40.04",
+                "start": "0:00:00",
+                "end": "0:01:40.04"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "RADIX",
+            "confidence": 0.998,
+            "left": 1799,
+            "top": 1039,
+            "width": 61,
+            "height": 15,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:06.04",
+                "start": "0:00:00",
+                "end": "0:00:06.04"
+              },
+              {
+                "adjustedStart": "0:01:37",
+                "adjustedEnd": "0:01:40.04",
+                "start": "0:01:37",
+                "end": "0:01:40.04"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "Pricing Methods:",
+            "confidence": 0.9975,
+            "left": 97,
+            "top": 87,
+            "width": 343,
+            "height": 45,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "Base Price & Additional Price for all Options",
+            "confidence": 0.996,
+            "left": 164,
+            "top": 249,
+            "width": 709,
+            "height": 38,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "Print Shops",
+            "confidence": 0.998,
+            "left": 303,
+            "top": 301,
+            "width": 185,
+            "height": 32,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "SME Printers",
+            "confidence": 0.997,
+            "left": 314,
+            "top": 345,
+            "width": 193,
+            "height": 30,
+            "angle": 0,
+            "language": "sk-SK",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "Standard Pricing",
+            "confidence": 0.998,
+            "left": 318,
+            "top": 388,
+            "width": 245,
+            "height": 32,
+            "angle": 0,
+            "language": "de-DE",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "Base Price & Additional Options Combined Pricing",
+            "confidence": 0.996,
+            "left": 163,
+            "top": 438,
+            "width": 809,
+            "height": 38,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "v Print Brokers",
+            "confidence": 0.986,
+            "left": 266,
+            "top": 487,
+            "width": 241,
+            "height": 31,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "Resellers",
+            "confidence": 0.998,
+            "left": 317,
+            "top": 532,
+            "width": 134,
+            "height": 31,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "Marketing agencies",
+            "confidence": 0.9975,
+            "left": 317,
+            "top": 574,
+            "width": 291,
+            "height": 33,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "Who get whole sale price from vendors",
+            "confidence": 0.9969,
+            "left": 313,
+            "top": 616,
+            "width": 581,
+            "height": 36,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "Product Options Master (Master Options pricing)",
+            "confidence": 0.9975,
+            "left": 159,
+            "top": 668,
+            "width": 793,
+            "height": 39,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "Commercial Printers",
+            "confidence": 0.9955,
+            "left": 296,
+            "top": 719,
+            "width": 324,
+            "height": 32,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "Whole Sale Printer",
+            "confidence": 0.9973,
+            "left": 319,
+            "top": 761,
+            "width": 277,
+            "height": 33,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "text": "Who wants to create accurate pricing, calculating minimum",
+            "confidence": 0.9973,
+            "left": 318,
+            "top": 805,
+            "width": 870,
+            "height": 35,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "text": "wastage, MIS",
+            "confidence": 0.9955,
+            "left": 319,
+            "top": 851,
+            "width": 196,
+            "height": 33,
+            "angle": -1,
+            "language": "et-EE",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "text": "Flexible Pricing Method for all Print Products :",
+            "confidence": 0.9921,
+            "left": 99,
+            "top": 87,
+            "width": 928,
+            "height": 44,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "text": "Fixed Quantity Pricing Method",
+            "confidence": 0.9978,
+            "left": 152,
+            "top": 246,
+            "width": 445,
+            "height": 35,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "text": ". Size Wise Pricing Method",
+            "confidence": 0.9206,
+            "left": 1054,
+            "top": 247,
+            "width": 407,
+            "height": 31,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "text": "Business Cards",
+            "confidence": 0.997,
+            "left": 243,
+            "top": 290,
+            "width": 173,
+            "height": 25,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "text": "Apparel",
+            "confidence": 0.998,
+            "left": 1181,
+            "top": 292,
+            "width": 98,
+            "height": 26,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:01.04",
+                "start": "0:00:41",
+                "end": "0:01:01.04"
+              },
+              {
+                "adjustedStart": "0:01:06",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:01:06",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "text": "Flyers",
+            "confidence": 0.995,
+            "left": 245,
+            "top": 325,
+            "width": 70,
+            "height": 23,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "text": "T-Shirt",
+            "confidence": 0.998,
+            "left": 1184,
+            "top": 324,
+            "width": 79,
+            "height": 23,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "text": "Brochures",
+            "confidence": 0.998,
+            "left": 246,
+            "top": 357,
+            "width": 119,
+            "height": 25,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 31,
+            "text": "Shirts",
+            "confidence": 0.998,
+            "left": 1185,
+            "top": 357,
+            "width": 69,
+            "height": 23,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 32,
+            "text": "Letterheads",
+            "confidence": 0.994,
+            "left": 244,
+            "top": 391,
+            "width": 141,
+            "height": 25,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 33,
+            "text": "Range Based with Multiplication Method (Linear price",
+            "confidence": 0.9966,
+            "left": 163,
+            "top": 430,
+            "width": 870,
+            "height": 34,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 34,
+            "text": ". Page & Quantity wise Pricing Methods",
+            "confidence": 0.937,
+            "left": 1053,
+            "top": 398,
+            "width": 594,
+            "height": 35,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 35,
+            "text": "calculation)",
+            "confidence": 0.98,
+            "left": 165,
+            "top": 483,
+            "width": 168,
+            "height": 32,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "text": "Copies",
+            "confidence": 0.998,
+            "left": 247,
+            "top": 526,
+            "width": 81,
+            "height": 23,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 37,
+            "text": "Greeting cards",
+            "confidence": 0.998,
+            "left": 248,
+            "top": 559,
+            "width": 165,
+            "height": 26,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 38,
+            "text": "Posters",
+            "confidence": 0.998,
+            "left": 247,
+            "top": 594,
+            "width": 85,
+            "height": 24,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 39,
+            "text": ". Sheet Based Pricing",
+            "confidence": 0.902,
+            "left": 1055,
+            "top": 583,
+            "width": 331,
+            "height": 31,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 40,
+            "text": "Gifts",
+            "confidence": 0.998,
+            "left": 247,
+            "top": 628,
+            "width": 54,
+            "height": 21,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 41,
+            "text": "v Calculating the Total Sheets Required for printing",
+            "confidence": 0.9409,
+            "left": 1132,
+            "top": 623,
+            "width": 614,
+            "height": 29,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 42,
+            "text": "Invitations",
+            "confidence": 0.963,
+            "left": 250,
+            "top": 662,
+            "width": 118,
+            "height": 23,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 43,
+            "text": "Custom Size Pricing Method",
+            "confidence": 0.9973,
+            "left": 160,
+            "top": 699,
+            "width": 403,
+            "height": 33,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 44,
+            "text": "Wide Format",
+            "confidence": 0.997,
+            "left": 245,
+            "top": 743,
+            "width": 153,
+            "height": 27,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 45,
+            "text": "Labels",
+            "confidence": 0.998,
+            "left": 249,
+            "top": 779,
+            "width": 72,
+            "height": 22,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 46,
+            "text": "Stickers",
+            "confidence": 0.998,
+            "left": 246,
+            "top": 812,
+            "width": 89,
+            "height": 23,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 47,
+            "text": "v Apparel",
+            "confidence": 0.904,
+            "left": 1135,
+            "top": 285,
+            "width": 140,
+            "height": 31,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02",
+                "adjustedEnd": "0:01:05.04",
+                "start": "0:01:02",
+                "end": "0:01:05.04"
+              }
+            ]
+          },
+          {
+            "id": 48,
+            "text": "Thank you!",
+            "confidence": 0.993,
+            "left": 218,
+            "top": 425,
+            "width": 659,
+            "height": 112,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:37",
+                "adjustedEnd": "0:01:40.04",
+                "start": "0:01:37",
+                "end": "0:01:40.04"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 1,
+            "text": "print shop",
+            "confidence": 0.9996,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.2",
+                "adjustedEnd": "0:00:01.6",
+                "start": "0:00:00.2",
+                "end": "0:00:01.6"
+              },
+              {
+                "adjustedStart": "0:00:14.72",
+                "adjustedEnd": "0:00:19.52",
+                "start": "0:00:14.72",
+                "end": "0:00:19.52"
+              },
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "base price",
+            "confidence": 0.9664,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.48",
+                "adjustedEnd": "0:00:14.72",
+                "start": "0:00:11.48",
+                "end": "0:00:14.72"
+              },
+              {
+                "adjustedStart": "0:00:19.52",
+                "adjustedEnd": "0:00:22.92",
+                "start": "0:00:19.52",
+                "end": "0:00:22.92"
+              },
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              },
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "additional price",
+            "confidence": 0.9664,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.48",
+                "adjustedEnd": "0:00:14.72",
+                "start": "0:00:11.48",
+                "end": "0:00:14.72"
+              },
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "pricing methods",
+            "confidence": 0.9307,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.64",
+                "adjustedEnd": "0:00:07.32",
+                "start": "0:00:01.64",
+                "end": "0:00:07.32"
+              },
+              {
+                "adjustedStart": "0:00:07.32",
+                "adjustedEnd": "0:00:11.48",
+                "start": "0:00:07.32",
+                "end": "0:00:11.48"
+              },
+              {
+                "adjustedStart": "0:01:15.92",
+                "adjustedEnd": "0:01:18.92",
+                "start": "0:01:15.92",
+                "end": "0:01:18.92"
+              },
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "standard pricing",
+            "confidence": 0.9279,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:14.72",
+                "adjustedEnd": "0:00:19.52",
+                "start": "0:00:14.72",
+                "end": "0:00:19.52"
+              },
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "marketing agencies",
+            "confidence": 0.9264,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.92",
+                "adjustedEnd": "0:00:29.32",
+                "start": "0:00:22.92",
+                "end": "0:00:29.32"
+              },
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "commercial printers",
+            "confidence": 0.9247,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.2",
+                "adjustedEnd": "0:00:43.92",
+                "start": "0:00:33.2",
+                "end": "0:00:43.92"
+              },
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "sale price",
+            "confidence": 0.9238,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.92",
+                "adjustedEnd": "0:00:29.32",
+                "start": "0:00:22.92",
+                "end": "0:00:29.32"
+              },
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "print brokers",
+            "confidence": 0.9237,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.92",
+                "adjustedEnd": "0:00:29.32",
+                "start": "0:00:22.92",
+                "end": "0:00:29.32"
+              },
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "sale printer",
+            "confidence": 0.9231,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.2",
+                "adjustedEnd": "0:00:43.92",
+                "start": "0:00:33.2",
+                "end": "0:00:43.92"
+              },
+              {
+                "adjustedStart": "0:00:07",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:07",
+                "end": "0:00:40.04"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "multiplication method",
+            "confidence": 0.9224,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:55.52",
+                "adjustedEnd": "0:00:59.96",
+                "start": "0:00:55.52",
+                "end": "0:00:59.96"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "linear price",
+            "confidence": 0.9223,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:55.52",
+                "adjustedEnd": "0:00:59.96",
+                "start": "0:00:55.52",
+                "end": "0:00:59.96"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "range based",
+            "confidence": 0.921,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:55.52",
+                "adjustedEnd": "0:00:59.96",
+                "start": "0:00:55.52",
+                "end": "0:00:59.96"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "print products",
+            "confidence": 0.9207,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.2",
+                "adjustedEnd": "0:00:43.92",
+                "start": "0:00:33.2",
+                "end": "0:00:43.92"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "greeting cards",
+            "confidence": 0.9202,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:00.16",
+                "adjustedEnd": "0:01:05.24",
+                "start": "0:01:00.16",
+                "end": "0:01:05.24"
+              },
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.04",
+                "start": "0:00:41",
+                "end": "0:01:36.04"
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 1,
+            "name": "Dynamic Pricing",
+            "referenceId": "Business/Industry/Dynamic Pricing",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economy/macro economics/prices",
+            "confidence": 0.8531,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.2",
+                "adjustedEnd": "0:00:14.72",
+                "start": "0:00:00.2",
+                "end": "0:00:14.72"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Business",
+            "referenceId": "Business",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/business information/strategy and marketing/business governance",
+            "confidence": 0.7865,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.2",
+                "adjustedEnd": "0:00:55.52",
+                "start": "0:00:00.2",
+                "end": "0:00:55.52"
+              },
+              {
+                "adjustedStart": "0:01:18.92",
+                "adjustedEnd": "0:01:36.08",
+                "start": "0:01:18.92",
+                "end": "0:01:36.08"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Design",
+            "referenceId": "Design",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/construction and property/design and engineering",
+            "confidence": 0.7399,
+            "iabName": "Fine Art",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:14.72",
+                "adjustedEnd": "0:00:19.52",
+                "start": "0:00:14.72",
+                "end": "0:00:19.52"
+              },
+              {
+                "adjustedStart": "0:00:33.2",
+                "adjustedEnd": "0:00:48.68",
+                "start": "0:00:33.2",
+                "end": "0:00:48.68"
+              },
+              {
+                "adjustedStart": "0:01:00.16",
+                "adjustedEnd": "0:01:13",
+                "start": "0:01:00.16",
+                "end": "0:01:13"
+              },
+              {
+                "adjustedStart": "0:01:23.32",
+                "adjustedEnd": "0:01:36.08",
+                "start": "0:01:23.32",
+                "end": "0:01:36.08"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Graphic Design",
+            "referenceId": "Design/Communication Design/Graphic Design",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture, entertainment and media/arts and entertainment/visual arts/design (visual arts)",
+            "confidence": 0.6171,
+            "iabName": "Fine Art",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:14.72",
+                "adjustedEnd": "0:00:19.52",
+                "start": "0:00:14.72",
+                "end": "0:00:19.52"
+              },
+              {
+                "adjustedStart": "0:00:33.2",
+                "adjustedEnd": "0:00:43.92",
+                "start": "0:00:33.2",
+                "end": "0:00:43.92"
+              },
+              {
+                "adjustedStart": "0:01:00.16",
+                "adjustedEnd": "0:01:13",
+                "start": "0:01:00.16",
+                "end": "0:01:13"
+              },
+              {
+                "adjustedStart": "0:01:23.32",
+                "adjustedEnd": "0:01:30.72",
+                "start": "0:01:23.32",
+                "end": "0:01:30.72"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Economics",
+            "referenceId": "Economy/Economics",
+            "referenceType": "VideoIndexer",
+            "iptcName": "science and technology/social sciences/economics",
+            "confidence": 0.576,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.2",
+                "adjustedEnd": "0:00:14.72",
+                "start": "0:00:00.2",
+                "end": "0:00:14.72"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "text",
+            "referenceId": "communication/writing/text",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9951,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:40.04",
+                "start": "0:00:00",
+                "end": "0:01:40.04"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "clothing",
+            "referenceId": "consumer goods/clothing",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9529,
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:40.04",
+                "start": "0:00:11",
+                "end": "0:00:40.04"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:06.36",
+                "start": "0:00:00",
+                "end": "0:00:06.36"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.36",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:06.36",
+                "end": "0:00:41"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.12",
+                "start": "0:00:41",
+                "end": "0:01:36.12"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "instances": [
+              {
+                "adjustedStart": "0:01:36.12",
+                "adjustedEnd": "0:01:40.4",
+                "start": "0:01:36.12",
+                "end": "0:01:40.4"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "3c06dea1-0d51-465f-8afe-9515d3f53312",
+                    "adjustedStart": "0:00:00.2",
+                    "adjustedEnd": "0:00:00.24",
+                    "start": "0:00:00.2",
+                    "end": "0:00:00.24"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "ae83b89e-4eb4-4b89-871c-5e8431e5b9d0",
+                    "adjustedStart": "0:00:00.28",
+                    "adjustedEnd": "0:00:00.32",
+                    "start": "0:00:00.28",
+                    "end": "0:00:00.32"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:06.36",
+                "start": "0:00:00",
+                "end": "0:00:06.36"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "keyFrames": [
+              {
+                "id": 3,
+                "instances": [
+                  {
+                    "thumbnailId": "acccae3a-c439-4edb-80bb-3982f0889c4d",
+                    "adjustedStart": "0:00:06.68",
+                    "adjustedEnd": "0:00:06.72",
+                    "start": "0:00:06.68",
+                    "end": "0:00:06.72"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.36",
+                "adjustedEnd": "0:00:41",
+                "start": "0:00:06.36",
+                "end": "0:00:41"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "keyFrames": [
+              {
+                "id": 4,
+                "instances": [
+                  {
+                    "thumbnailId": "6fa52bd9-a158-4d38-9b56-ed99754585ca",
+                    "adjustedStart": "0:00:41.32",
+                    "adjustedEnd": "0:00:41.36",
+                    "start": "0:00:41.32",
+                    "end": "0:00:41.36"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:01:36.12",
+                "start": "0:00:41",
+                "end": "0:01:36.12"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "keyFrames": [
+              {
+                "id": 5,
+                "instances": [
+                  {
+                    "thumbnailId": "0bb7f27a-6769-4560-b2b2-7a295363edd1",
+                    "adjustedStart": "0:01:36.2",
+                    "adjustedEnd": "0:01:36.24",
+                    "start": "0:01:36.2",
+                    "end": "0:01:36.24"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:36.12",
+                "adjustedEnd": "0:01:40.4",
+                "start": "0:01:36.12",
+                "end": "0:01:40.4"
+              }
+            ]
+          }
+        ],
+        "namedLocations": [
+          {
+            "id": 1,
+            "name": "print shops",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 0.77,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:14.72",
+                "adjustedEnd": "0:00:19.52",
+                "start": "0:00:14.72",
+                "end": "0:00:19.52"
+              }
+            ]
+          }
+        ],
+        "sentiments": [
+          {
+            "id": 1,
+            "averageScore": 0.5,
+            "sentimentType": "Neutral",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:40.473",
+                "start": "0:00:00",
+                "end": "0:01:40.473"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:33.16",
+                "start": "0:00:00",
+                "end": "0:00:33.16"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.16",
+                "adjustedEnd": "0:01:05.24",
+                "start": "0:00:33.16",
+                "end": "0:01:05.24"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:01:05.24",
+                "adjustedEnd": "0:01:36.08",
+                "start": "0:01:05.24",
+                "end": "0:01:36.08"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "instances": [
+              {
+                "adjustedStart": "0:01:36.08",
+                "adjustedEnd": "0:01:40.473",
+                "start": "0:01:36.08",
+                "end": "0:01:40.473"
+              }
+            ]
+          }
+        ],
+        "speakers": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.2",
+                "adjustedEnd": "0:00:01.6",
+                "start": "0:00:00.2",
+                "end": "0:00:01.6"
+              },
+              {
+                "adjustedStart": "0:00:01.64",
+                "adjustedEnd": "0:00:07.32",
+                "start": "0:00:01.64",
+                "end": "0:00:07.32"
+              },
+              {
+                "adjustedStart": "0:00:07.32",
+                "adjustedEnd": "0:00:11.48",
+                "start": "0:00:07.32",
+                "end": "0:00:11.48"
+              },
+              {
+                "adjustedStart": "0:00:11.48",
+                "adjustedEnd": "0:00:14.72",
+                "start": "0:00:11.48",
+                "end": "0:00:14.72"
+              },
+              {
+                "adjustedStart": "0:00:14.72",
+                "adjustedEnd": "0:00:19.52",
+                "start": "0:00:14.72",
+                "end": "0:00:19.52"
+              },
+              {
+                "adjustedStart": "0:00:19.52",
+                "adjustedEnd": "0:00:22.92",
+                "start": "0:00:19.52",
+                "end": "0:00:22.92"
+              },
+              {
+                "adjustedStart": "0:00:22.92",
+                "adjustedEnd": "0:00:29.32",
+                "start": "0:00:22.92",
+                "end": "0:00:29.32"
+              },
+              {
+                "adjustedStart": "0:00:29.36",
+                "adjustedEnd": "0:00:33.16",
+                "start": "0:00:29.36",
+                "end": "0:00:33.16"
+              },
+              {
+                "adjustedStart": "0:00:33.2",
+                "adjustedEnd": "0:00:43.92",
+                "start": "0:00:33.2",
+                "end": "0:00:43.92"
+              },
+              {
+                "adjustedStart": "0:00:43.92",
+                "adjustedEnd": "0:00:48.68",
+                "start": "0:00:43.92",
+                "end": "0:00:48.68"
+              },
+              {
+                "adjustedStart": "0:00:48.76",
+                "adjustedEnd": "0:00:51.16",
+                "start": "0:00:48.76",
+                "end": "0:00:51.16"
+              },
+              {
+                "adjustedStart": "0:00:51.16",
+                "adjustedEnd": "0:00:55.52",
+                "start": "0:00:51.16",
+                "end": "0:00:55.52"
+              },
+              {
+                "adjustedStart": "0:00:55.52",
+                "adjustedEnd": "0:00:59.96",
+                "start": "0:00:55.52",
+                "end": "0:00:59.96"
+              },
+              {
+                "adjustedStart": "0:01:00.16",
+                "adjustedEnd": "0:01:05.24",
+                "start": "0:01:00.16",
+                "end": "0:01:05.24"
+              },
+              {
+                "adjustedStart": "0:01:05.24",
+                "adjustedEnd": "0:01:07.4",
+                "start": "0:01:05.24",
+                "end": "0:01:07.4"
+              },
+              {
+                "adjustedStart": "0:01:07.4",
+                "adjustedEnd": "0:01:10.68",
+                "start": "0:01:07.4",
+                "end": "0:01:10.68"
+              },
+              {
+                "adjustedStart": "0:01:10.68",
+                "adjustedEnd": "0:01:13",
+                "start": "0:01:10.68",
+                "end": "0:01:13"
+              },
+              {
+                "adjustedStart": "0:01:13",
+                "adjustedEnd": "0:01:15.92",
+                "start": "0:01:13",
+                "end": "0:01:15.92"
+              },
+              {
+                "adjustedStart": "0:01:15.92",
+                "adjustedEnd": "0:01:18.92",
+                "start": "0:01:15.92",
+                "end": "0:01:18.92"
+              },
+              {
+                "adjustedStart": "0:01:18.92",
+                "adjustedEnd": "0:01:23.32",
+                "start": "0:01:18.92",
+                "end": "0:01:23.32"
+              },
+              {
+                "adjustedStart": "0:01:23.32",
+                "adjustedEnd": "0:01:30.72",
+                "start": "0:01:23.32",
+                "end": "0:01:30.72"
+              },
+              {
+                "adjustedStart": "0:01:30.8",
+                "adjustedEnd": "0:01:36.08",
+                "start": "0:01:30.8",
+                "end": "0:01:36.08"
+              },
+              {
+                "adjustedStart": "0:01:36.12",
+                "adjustedEnd": "0:01:37.52",
+                "start": "0:01:36.12",
+                "end": "0:01:37.52"
+              },
+              {
+                "adjustedStart": "0:01:37.52",
+                "adjustedEnd": "0:01:40.4",
+                "start": "0:01:37.52",
+                "end": "0:01:40.4"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 0,
+          "speakerTalkToListenRatio": {
+            "1": 1
+          },
+          "speakerLongestMonolog": {
+            "1": 99
+          },
+          "speakerNumberOfFragments": {
+            "1": 8
+          },
+          "speakerWordCount": {
+            "1": 286
+          }
+        }
+      },
+      "thumbnailId": "0d1fcf55-338a-4c27-81f5-b94a23ee1ada",
+      "width": 1920,
+      "height": 1080,
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [
+        "en-US"
+      ],
+      "language": "en-US",
+      "languages": [
+        "en-US"
+      ],
+      "indexingPreset": "Default",
+      "streamingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "logoGroupId": null,
+      "isAdult": false,
+      "excludedAIs": [],
+      "isSearchable": true,
+      "publishedUrl": "https://api.videoindexer.ai/internals/eastus/Accounts/fbafe9ff-1c94-40bd-987e-a4e4dfe52365/Videos/rms6b7bnhd/streaming-manifest/manifest.m3u8",
+      "publishedProxyUrl": null,
+      "viewToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJWZXJzaW9uIjoiMi4wLjAuMCIsIktleVZlcnNpb24iOiI1YmZmYWI1MTUwZWI0NGM4ODMzNzE2NzVhNzcwYzU4YSIsIkFjY291bnRJZCI6ImZiYWZlOWZmLTFjOTQtNDBiZC05ODdlLWE0ZTRkZmU1MjM2NSIsIkFjY291bnRUeXBlIjoiQ2xhc3NpYyIsIlZpZGVvSWQiOiJybXM2YjdibmhkIiwiUGVybWlzc2lvbiI6IlJlc3RyaWN0ZWRWaWV3ZXIiLCJFeHRlcm5hbFVzZXJJZCI6IjYxMzM3QzI2RUFCQjRGNEU5MjA3NURBNjAyQ0IyQTQzIiwiVXNlclR5cGUiOiJNaWNyb3NvZnRDb3JwQWFkIiwiSXNzdWVyTG9jYXRpb24iOiJlYXN0dXMiLCJuYmYiOjE3NjE5Nzg3NTgsImV4cCI6MTc2MTk4MjY1OCwiaXNzIjoiaHR0cHM6Ly9hcGkudmlkZW9pbmRleGVyLmFpLyIsImF1ZCI6Imh0dHBzOi8vYXBpLnZpZGVvaW5kZXhlci5haS8ifQ.Rle8YmwsehC2DyovZ5FAlzmDWyVf4pKkluoxuK7NR6QNcPNaafuj9VOGuPkU1ZmItJqvx6bAnlWIzaoS-XyWF_8Um5uxx8tNp7oDbDCOv0e4IkvSALAW14XriVA8dRCnukbpRceQaJ7l9SVM0WmIOamzXGxXPR6Z9ywxVqAO0CvD1fJWctxumpK5hmEgu6BPXyj0Qf4Urm_pL5-ZbquyjrcwAJooI6tyit2fcEvfK2xkvLI3-TKlxQahUDXrfCUm2HTaeYqH5gm5qlDj1rV9dSo8NqBXfbCNbsxutQBal8mBVv7RY_Kl7bULmW83FwFtg-J7YkLUSww1wA9eZvyM-g"
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "rms6b7bnhd",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:01:40.473"
+      }
+    }
+  ]
+}

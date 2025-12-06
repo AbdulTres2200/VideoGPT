@@ -67,11 +67,19 @@ Edit the script to adjust:
 
 ### 2. Embed Insights
 
-Embed the extracted insights for RAG:
+Embed the extracted insights for RAG. The repository includes `data/results/` but not the generated `chroma_index/`. You need to regenerate it:
 
+**Option A: Using OpenAI embeddings (for API/RAG.py):**
+```bash
+python src/processing/embedding_chroma.py
+```
+This creates `chroma_index/` used by the API server.
+
+**Option B: Using HuggingFace embeddings (for CLI/rag_query.py):**
 ```bash
 python src/processing/embed_insights.py
 ```
+This creates `data/vector_db/` used by the CLI query tool.
 
 ### 3. Query RAG System (CLI)
 

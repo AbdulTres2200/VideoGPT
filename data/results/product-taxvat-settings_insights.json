@@ -1,0 +1,21 @@
+{
+  "id": "txt_315842",
+  "name": "product-taxvat-settings",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProducts\n\nManaging Products\nProduct Tax/VAT Settings\n\n8 min\noverview & purpose as a seller, you will need to charge taxes on every sale made on your website this will help you report and remit taxes to the government you can set up taxes from this section to automatically handle tax calculations with this section, manage tax individually for each product however, the system assigns the flat tax rate that admin has set under the tax vat settings in store configurations if you want to have, a specific tax for each product, or do not want any tax to be applied to a product then manage such settings from this section note tax settings configured here will be over written on the flat tax rate for the particular product only tax methodology now, let's learn about how the inclusive and exclusive taxes are calculated for the products in the subtotal tax methodology for tax exclusive pricing tax exclusive pricing is the most intuitive i e easy to understand and use sub total is calculated for all the line items (products) subject to a specific tax code; then, the sub total is multiplied by the appropriate percentage to obtain the tax amount the tax amount is added to the sub total to give the total to apply tax exclusive pricing, go to the admin >> store configuration >> site settings and s earch for the tax/vat amount include in product price set the value as \" default\" and save the setting now, the tax calculation will be exclusive of the product subtotal for example, if the cart subtotal is $38 99 plus the 10% flat tax if the amount of $38 99 is tax exclusive, a 10% tax is added to it , increasing the total to $42 89 the tax shows as an addition when you create an invoice tax methodology for tax inclusive pricing when entering tax inclusive prices, the situation is the opposite in this case, the tax amount is already included in the sub total to apply tax inclusive pricing, you can select any one of the 3 options only default store, only store, or both from the tax/vat amount include in product price setting in this way, the tax calculation will be inclusive of the product subtotal for example, you make the same purchase as in the previous example, using a payment form, but pricing is tax inclusive the resulting total, calculated tax, and presentation change as follows here the tax amount i e 10% of subtotal is already included in subtotal tax rate type global tax this is the flat tax rate set in tax vat settings by default, global tax is applicable on any ordered product no tax tax amount is set as zero for products marked with no tax specific tax you can choose to assign a specific tax rate for products this tax rate will overwrite the global tax for the product note the below guide is for indian merchants only what is gst? a goods and services tax was implemented in india on july 1, 2017 this replaces other taxes applied by central or state governments such as value added tax (vat), central sales tax, excise duty, and commercial tax, among others where should i do my gst registration? it is advisable by onprintshop for indian merchants to complete their gst registration to check the eligibility and process, you can visit the cleartax website what is the difference between igst, cgst, and sgst? for the inter state supply of goods and services, igst (integrated gst) is payable to the central government for the intra state exchange of goods and services, you need to pay cgst (central gst) to the central government and an sgst (state gst) to your state government learn more about gst categories to set gst from the admin panel, you can go through our setup gst page from the integrations section\nDid this page help you?\n\n\nPREVIOUS\nProduct Weight/Days/SKU\nNEXT\nStock Management\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

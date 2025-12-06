@@ -1,0 +1,21 @@
+{
+  "id": "txt_645523",
+  "name": "TCy1-front-store",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 11.1 Release Notes\nFront Store\n\n10 min\ncustomization of home page content display make the most of your home page by utilizing the home page cms block to create an organized, user friendly, and visually appealing storefront on your store's home page, you can now display products, product categories, and category groups separately using the home page cms block navigate to the admin panel >> content management >> contents >> fixed content tab >> search \"index\" and click the edit icon against the \"index middle\" content in the page contents section, you can add blocks for displaying products, categories, groups, and kit products once added, on the home page, the selected products, categories, groups and kit products will be displayed save products for later purchase from the cart in v11 1, we are introducing the \"save for later\" functionality in the shopping cart to enhance the overall shopping experience for your customers and reduce cart abandonments the \"save for later\" link will be available with the product added in the cart when your customers are unsure about the purchase, they can simply click on the \u201csave for later\u201d link and it will be removed from the cart and added in the save for later below section the latest four products saved for later purchase will be displayed in this section, exceeding this limit will give view all link clicking on this link will take them to the separate page to view all the saved items display popular products in the search bar there can be products in your store that are in seasonal demand, best sellers, or most searched with version 11 1, you will now have the provision to showcase these products to your customers in the front store you can configure which products to display in the popular products tab within the search results page from the site settings minor enhancements display pdf file dimensions on the upload center page on the upload center page, whenever the customers will upload their artwork, the system will display the dimension (height and width) of the file uploaded restrict product list items in the shopping cart with the new version 11 1, the admin can now choose to restrict their customers from adding \u201cn\u201d number of products into their shopping cart with this setting, a product limit will be set and when the product numbers exceed the limit, an error message will be displayed to the customers, and they will be restricted from continuing to the checkout process hide zero shipping price in shipping methods the zero shipping price for local pickup from store, flat shipping and shipping cost by order subtotal shipping methods can now be hidden with the \u201chide zero price\u201d feature display tax/vat in price calculator based on the setting, you as an admin can now offer your customers a provision to view the total price with or without tax/vat amount in the price calculator shipping types sorting in the shipping selection step, the shipping types of the individual shipping methods can now be displayed as per their pricing or delivery with the \u201csorting option for shipping types\u201d setting added to the site settings, the admin can choose to display the shipping types as the default, in lower to higher price or with fastest delivery first\nDid this page help you?\n\n\nPREVIOUS\nChange Log\nNEXT\nOrders Section\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

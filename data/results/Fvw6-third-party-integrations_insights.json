@@ -1,0 +1,21 @@
+{
+  "id": "txt_661394",
+  "name": "Fvw6-third-party-integrations",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 11.2 Release Notes\nThird Party Integrations\n\n3 min\n4over integration we have implemented the eddm services with the eddm service option with 4over products when your customers choose 4over eddm service products they will have the option to choose the full eddm service like route selection based on address or zip code etc when customers add two or more 4over products to their shopping cart with the same product size and option attributes and the same shipping address, their shipment will be grouped in the admin panel, while transferring the orders to 4over, the products in the same shipment group will be transferred together in the 4over option labels screen, the admin can now add production days to the \u2018turnaround time\u2019 product options that will be used in calculating the dispatch date klaviyo and digital marketing service we have enhanced the digital marketing service integrations by adding new server side tracking events and upgrading the existing ones quickbooks integration the admin can now choose to sync the orders as per the defined monthly interval (number of months) additionally, the quickbooks log has been optimized to display the last sync action and date/time graphql api integration in the getorders api, the admin currency details will be displayed\nDid this page help you?\n\n\nPREVIOUS\nSolution Core\nNEXT\nVersion 11.1 Release Notes\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

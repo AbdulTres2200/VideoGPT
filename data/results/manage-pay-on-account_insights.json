@@ -1,0 +1,21 @@
+{
+  "id": "txt_204405",
+  "name": "manage-pay-on-account",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nB2B/Private Store - Pro Plan\n\n\nStore Actions\nManage Pay On Account\n\n3 min\npurpose this tab allows the admin to manage store wise payon account this tab will only appear if in store setting 'pay on account' is selected as store wise or customer wise manage payon account you can manage payon account either store wise or customer wise store wise payon account at a glance you can view the account details with the remaining paid limit and remaining invoice limit after the store customer has paid their outstanding payment, admin can credit back the difference amount from here and revive their pay on account limit the changes will take immediate effect for that particular store only using the pay on account section and credit amount for multiple store admin can credit the paid amount and even register an outstanding amount customer wise payon account when the customer wise setting is done from the store setting section then the admin will be able to view customer wise pay on limit in the grid format click on the customer's name to get the list of transactions made by a particular customer from the 'pay on account' section admin can register a paid amount from the customer example if pay on account limit for a store is $1000 of which they have used $800 now when they make the payment for it, then their credit limit is revived back to $1000 from account details, you can view the transaction records or avail them in an excel sheet by clicking on export account history\nDid this page help you?\n\n\nPREVIOUS\nManage Addresses\nNEXT\nInvoice\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

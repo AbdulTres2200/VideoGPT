@@ -1,0 +1,21 @@
+{
+  "id": "txt_335316",
+  "name": "ups-shipping-method-setup",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOthers\nUPS Shipping Method Setup\n\n11 min\noverview ups (united parcel service) is one of the world\u2019s leading package delivery and supply chain management companies, offering a wide range of domestic and international shipping services through its api platform, ups provides businesses with tools to access live shipping rates, generate labels, track shipments, and manage delivery preferences, all within their own systems purpose this document is intended to guide onprintshop store admins through the complete setup and configuration of ups shipping integration the guide covers how to obtain ups credentials, configure api settings in the admin panel, enable live shipping rates, and set up shipping label generation integrating ups with onprintshop enables a more automated, accurate, and efficient shipping process, helping reduce manual work, speed up order processing, and offer a more reliable delivery experience to your customers how to integrate 1\\ create a ups application to get client id & secret go to the ups developer portal click \u201c create application \u201d (sign in with your ups com id if prompted) this links your app to your shipper account and email 2\\ define api use case and accept agreement select your reason for needing api credentials choose the shipper account to link check the agreement box and click next to proceed 3\\ provide primary contact details enter the first and last name of the primary contact ensure the email shown is correct (cannot be changed later) 4\\ add app details and select required ups products enter your app name and callback url in the callback url, add your domain name for e g https //www com choose the necessary api products (e g , authorization, address validation) these are the list of products to be enabled, namely rating, pickup, address validation, authorization, tracking, and time in transit click save to complete app setup 5\\ retrieve your ups api credentials after saving the app, copy the client id and client secret displayed use these to generate access tokens for api authorization (keep them confidential) 6\\ configure ups in the onprintshop admin panel log in to your onprintshop admin panel go to the store configuration > payment methods > ups > edit scroll down to the shipping settings section complete the account configuration choose the shipping environment select the integration type (rest) enter the client id and client secret from your ups app provide your ups account number and company name once all settings are configured and saved, your ups payment integration will be active and ready to use on your store\nDid this page help you?\n\n\nPREVIOUS\nFedEx Shipping Method Setup\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

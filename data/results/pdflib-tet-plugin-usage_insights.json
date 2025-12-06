@@ -1,0 +1,21 @@
+{
+  "id": "txt_816445",
+  "name": "pdflib-tet-plugin-usage",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesigner Studio\nPDFlib TET Plugin Usage\n\n8 min\ntet plugin helps to get the exact position of existing text to create the pdflib block plugin in pdf blocks, the below points are of utmost importance to remember during block creation for text line blocks, the default value of the position is 0 (the content will start on the lower left corner of the block) the lower border of the block is the baseline of the text therefore, glyphs with descenders might be \"drawn\" partially out of the block follow the below steps to create pdf block template using the pdflib tet plugin 1 install pdflib tet plugin 1 install pdflib tet plugin to get started, download and install the plugin from http //www pdflib com/download/free software/tet plugin/ http //www pdflib com/download/free software/tet plugin/ 2 setting up tet plugin configuration 2 setting up tet plugin configuration to set up the tet plugin configuration, on the menu bar go to plug ins > pdflib tet plugin > tet plugin configuration in the tet plugin configuration pop up select output as tetml select text granularity as wordplus now, enable the \u2018 for output coordinates in tetml \u2019 from the plug ins >> pdflib tet plugin >> top down coordinate system >> for output coordinate in tetml 3 block plugin configuration 3 block plugin configuration enable the following options from pdflib blocks menu pdflib block tool click object to define block detect underlying font and color 4 creating block 4 creating block now, to select the area to create a block go to, pdflib tet plugin and click tet tool select the area in which you want to create a block right click on the selected area and click on the \u2018 tet copy \u2019 option now, paste the copied text in notepad++ in the text pasted, find the \\<box> html tag coming immediately after the first \\<para> tag consider an example \\<box llx=\u201c10 20\u201d lly=\u201c76 95\u201d urx=\u201c62 58\u201d ury=\u201c65 95\u201d> you will need to convert this into block rectangle string in the following manner \u2013 10 20 76 95 62 58 65 95 5 setup block coordinates (rectangle) 5 setup block coordinates (rectangle) enable \u2018 tet tool \u2019 from pdflib tet plugin in the menu bar now, select the block again, and then enter the block rectangle string in the rect box as shown below \u2013 when you now run the preview, you will see the red text overlapping the black completely for your comfort, it is advisable to attach the sample file with the block, so you can preview it quickly similarly, you can create other blocks using the tet plugin for any query, you can contact our support team at support\\@onprintshop com\nDid this page help you?\n\n\nPREVIOUS\nCreating Group Blocks\nNEXT\nProduct Mask Image Creation\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

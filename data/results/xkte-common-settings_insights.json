@@ -1,0 +1,21 @@
+{
+  "id": "txt_582170",
+  "name": "xkte-common-settings",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\n\nShipping Method\nCommon Settings\n\n4 min\nshipping method settings available to & user groups while configuring the shipping method, the admin will have four options for selecting the user type default store, all private store, all public store, and offline once the admin has selected the option in the \u201c available to \u201d field, the shipping method will be available to the users from that particular store if the admin wants to assign the shipping to some particular users from the selected store, in that case, he/she has to select the store and then the user groups for e g in available to, the admin has selected default store and all public store but, for all public store, he only wants to assign this method to a particular group, then he needs to select \u201c all public store \u201d and then the user group so, this method will be available to all default store users and the selected user group of all public stores product specific shipping the admin will have the provision to assign shipping methods based on the selected products with this functionality, the admin will have 3 options all products selecting this option will display the configured shipping method whenever any of the products from the website is added to the shopping cart (applicable to all products) include specific products when the admin will select this option, he/she needs to add select some products to which the selected shipping method will be available i e when any/all of the specified product is added to the shopping cart only then the configured shipping method will be available to the customer note if the customer has added multiple products to the cart any of which was not assigned in the shipping method, then the shipping method will not be available to the customer exclude specific products when the admin select this option then the shipping method will be not available to the specified products i e when any of the specified product is added to the cart, then this shipping method will not be available to the customer handling cost the admin has the facility to charge handling costs with the shipping charges for any package handling, maintenance, or another cost he pays for shipping the order to the customers the cost added here will be included in the shipping charges and displayed on the storefront tracking url the admin has the provision to add a tracking url of the third party tracking services in the respective shipping methods this will help the customers to track down their order/package\nDid this page help you?\n\n\nPREVIOUS\nGeneral Configuration\nNEXT\nShipping Methods\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

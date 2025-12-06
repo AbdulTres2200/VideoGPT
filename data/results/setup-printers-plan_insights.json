@@ -1,0 +1,21 @@
+{
+  "id": "txt_864223",
+  "name": "setup-printers-plan",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOthers\nSetup Printer's Plan\n\n6 min\noverview & purpose printer's plan is a comprehensive management software specifically designed for print shops and printing related businesses it offers a range of features to facilitate various aspects of print shop operations, including job estimating, order management, production tracking, inventory management, invoicing, and customer relationship management (crm) printer's plan helps print businesses efficiently manage their workflow, improve productivity, and deliver high quality services to their customers the integration of printer's plan with onprintshop aims to optimize the printing process by combining the capabilities of both platforms to improve efficiency, enhance the customer experience, and facilitate better management of printshop operations how to integrate follow the below systematic guidelines to setup the printer's plan in your onprintshop web store 1 log in to your printer's plan and ops account 1 log in to your printer's plan and ops account log in to the onprintshop admin panel and printer\u2019s plan account 2 configuration in admin panel 2 configuration in admin panel to start the printer\u2019s plan configuration, navigate to the store configurations >> external service settings >> others tab >> printer\u2019s plan >> \u2018action\u2019 menu >> \u2018edit\u2019 option add the url received from printer's plan in the domain field it should have the format as below http //111 111 11 111/onprintshop/xmllistener aspx select the payment status from the dropdown and save 3 product level mapping 3 product level mapping to start with the printer\u2019s plan configuration, you need to first map the printer\u2019s plan products with the ops products to do so, click on the product mapping button under sync summary here, you need to find out the product ids that you want to map from your printer\u2019s plan account 4 get order sync and log the report 4 get order sync and log the report you can manually synchronize the orders from onprintshop to the printer\u2019s plan system you get various buttons under the help section for manually syncing the orders between printer\u2019s plan and ops, checking the synced order logs as well as mapping the products click on the click here to sync manually button we can also sync orders to the printer\u2019s plan automatically based on the request kindly contact the technical team to activate the automation you can check the logs by clicking on the see logs button\nDid this page help you?\n\n\nPREVIOUS\nSetup Picsart\nNEXT\nSetup Salesforce\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

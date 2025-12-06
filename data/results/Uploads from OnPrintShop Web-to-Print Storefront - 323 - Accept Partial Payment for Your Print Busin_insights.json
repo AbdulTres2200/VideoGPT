@@ -1,0 +1,4134 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "a9696e33-fd7a-4070-83f6-fc8d2e06633a",
+  "id": "komvew4csc",
+  "name": "Uploads from OnPrintShop Web-to-Print Storefront - 323 - Accept Partial Payment",
+  "userName": "Abdul Moiz",
+  "created": "2025-11-01T07:12:38.26+00:00",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 54,
+  "duration": "0:00:54.01",
+  "summarizedInsights": {
+    "name": "Uploads from OnPrintShop Web-to-Print Storefront - 323 - Accept Partial Payment",
+    "id": "komvew4csc",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:00:54.01",
+      "seconds": 54
+    },
+    "thumbnailVideoId": "komvew4csc",
+    "thumbnailId": "4eb40eaf-6396-478a-86a5-9fe0f034f3c1",
+    "faces": [],
+    "keywords": [
+      {
+        "isTranscript": true,
+        "id": 7,
+        "name": "customers",
+        "appearances": [
+          {
+            "startTime": "0:00:22.08",
+            "endTime": "0:00:34.24",
+            "startSeconds": 22.1,
+            "endSeconds": 34.2
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 1,
+        "name": "payment terms",
+        "appearances": [
+          {
+            "startTime": "0:00:00.08",
+            "endTime": "0:00:34.24",
+            "startSeconds": 0.1,
+            "endSeconds": 34.2
+          },
+          {
+            "startTime": "0:00:38.76",
+            "endTime": "0:00:47.52",
+            "startSeconds": 38.8,
+            "endSeconds": 47.5
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 2,
+        "name": "order placement",
+        "appearances": [
+          {
+            "startTime": "0:00:12.08",
+            "endTime": "0:00:19.72",
+            "startSeconds": 12.1,
+            "endSeconds": 19.7
+          },
+          {
+            "startTime": "0:00:29.84",
+            "endTime": "0:00:44.04",
+            "startSeconds": 29.8,
+            "endSeconds": 44
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 3,
+        "name": "made easy",
+        "appearances": [
+          {
+            "startTime": "0:00:00.08",
+            "endTime": "0:00:04.04",
+            "startSeconds": 0.1,
+            "endSeconds": 4
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 4,
+        "name": "payment method",
+        "appearances": [
+          {
+            "startTime": "0:00:00.08",
+            "endTime": "0:00:34.24",
+            "startSeconds": 0.1,
+            "endSeconds": 34.2
+          },
+          {
+            "startTime": "0:00:38.76",
+            "endTime": "0:00:47.52",
+            "startSeconds": 38.8,
+            "endSeconds": 47.5
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 5,
+        "name": "payment request",
+        "appearances": [
+          {
+            "startTime": "0:00:00.08",
+            "endTime": "0:00:34.24",
+            "startSeconds": 0.1,
+            "endSeconds": 34.2
+          },
+          {
+            "startTime": "0:00:38.76",
+            "endTime": "0:00:47.52",
+            "startSeconds": 38.8,
+            "endSeconds": 47.5
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 6,
+        "name": "partial payment",
+        "appearances": [
+          {
+            "startTime": "0:00:00.08",
+            "endTime": "0:00:34.24",
+            "startSeconds": 0.1,
+            "endSeconds": 34.2
+          },
+          {
+            "startTime": "0:00:38.76",
+            "endTime": "0:00:47.52",
+            "startSeconds": 38.8,
+            "endSeconds": 47.5
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 8,
+        "name": "payment",
+        "appearances": [
+          {
+            "startTime": "0:00:00.08",
+            "endTime": "0:00:34.24",
+            "startSeconds": 0.1,
+            "endSeconds": 34.2
+          },
+          {
+            "startTime": "0:00:38.76",
+            "endTime": "0:00:47.52",
+            "startSeconds": 38.8,
+            "endSeconds": 47.5
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 9,
+        "name": "order",
+        "appearances": [
+          {
+            "startTime": "0:00:12.08",
+            "endTime": "0:00:19.72",
+            "startSeconds": 12.1,
+            "endSeconds": 19.7
+          },
+          {
+            "startTime": "0:00:29.84",
+            "endTime": "0:00:44.04",
+            "startSeconds": 29.8,
+            "endSeconds": 44
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 10,
+        "name": "place",
+        "appearances": [
+          {
+            "startTime": "0:00:12.08",
+            "endTime": "0:00:19.72",
+            "startSeconds": 12.1,
+            "endSeconds": 19.7
+          },
+          {
+            "startTime": "0:00:29.84",
+            "endTime": "0:00:38.04",
+            "startSeconds": 29.8,
+            "endSeconds": 38
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 11,
+        "name": "paypal",
+        "appearances": [
+          {
+            "startTime": "0:00:32",
+            "endTime": "0:00:35.04",
+            "startSeconds": 32,
+            "endSeconds": 35
+          },
+          {
+            "startTime": "0:00:42",
+            "endTime": "0:00:44.04",
+            "startSeconds": 42,
+            "endSeconds": 44
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 12,
+        "name": "total",
+        "appearances": [
+          {
+            "startTime": "0:00:30",
+            "endTime": "0:00:35.04",
+            "startSeconds": 30,
+            "endSeconds": 35
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 13,
+        "name": "term",
+        "appearances": [
+          {
+            "startTime": "0:00:06.36",
+            "endTime": "0:00:19.04",
+            "startSeconds": 6.4,
+            "endSeconds": 19
+          },
+          {
+            "startTime": "0:00:22.08",
+            "endTime": "0:00:29.84",
+            "startSeconds": 22.1,
+            "endSeconds": 29.8
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 14,
+        "name": "partial",
+        "appearances": [
+          {
+            "startTime": "0:00:00.08",
+            "endTime": "0:00:04.04",
+            "startSeconds": 0.1,
+            "endSeconds": 4
+          },
+          {
+            "startTime": "0:00:21",
+            "endTime": "0:00:34.24",
+            "startSeconds": 21,
+            "endSeconds": 34.2
+          },
+          {
+            "startTime": "0:00:45.44",
+            "endTime": "0:00:47.52",
+            "startSeconds": 45.4,
+            "endSeconds": 47.5
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 15,
+        "name": "select",
+        "appearances": [
+          {
+            "startTime": "0:00:23",
+            "endTime": "0:00:34.24",
+            "startSeconds": 23,
+            "endSeconds": 34.2
+          }
+        ]
+      }
+    ],
+    "sentiments": [
+      {
+        "sentimentKey": "Neutral",
+        "seenDurationRatio": 0.9998,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:54.01",
+            "startSeconds": 0,
+            "endSeconds": 54
+          }
+        ]
+      }
+    ],
+    "emotions": [],
+    "audioEffects": [],
+    "labels": [
+      {
+        "id": 2,
+        "name": "text",
+        "appearances": [
+          {
+            "confidence": 0.9993,
+            "startTime": "0:00:01",
+            "endTime": "0:00:35.04",
+            "startSeconds": 1,
+            "endSeconds": 35
+          },
+          {
+            "confidence": 0.9916,
+            "startTime": "0:00:39",
+            "endTime": "0:00:47.04",
+            "startSeconds": 39,
+            "endSeconds": 47
+          },
+          {
+            "confidence": 0.9985,
+            "startTime": "0:00:52",
+            "endTime": "0:00:53.04",
+            "startSeconds": 52,
+            "endSeconds": 53
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "human face",
+        "appearances": [
+          {
+            "confidence": 0.9571,
+            "startTime": "0:00:24",
+            "endTime": "0:00:27.04",
+            "startSeconds": 24,
+            "endSeconds": 27
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "moon",
+        "appearances": [
+          {
+            "confidence": 0.9777,
+            "startTime": "0:00:08",
+            "endTime": "0:00:08.04",
+            "startSeconds": 8,
+            "endSeconds": 8
+          },
+          {
+            "confidence": 0.9767,
+            "startTime": "0:00:36",
+            "endTime": "0:00:38.04",
+            "startSeconds": 36,
+            "endSeconds": 38
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "blue",
+        "appearances": [
+          {
+            "confidence": 0.9795,
+            "startTime": "0:00:00",
+            "endTime": "0:00:00.04",
+            "startSeconds": 0,
+            "endSeconds": 0
+          },
+          {
+            "confidence": 0.9799,
+            "startTime": "0:00:05",
+            "endTime": "0:00:05.04",
+            "startSeconds": 5,
+            "endSeconds": 5
+          },
+          {
+            "confidence": 0.9811,
+            "startTime": "0:00:45",
+            "endTime": "0:00:45.04",
+            "startSeconds": 45,
+            "endSeconds": 45
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "sky",
+        "appearances": [
+          {
+            "confidence": 0.9828,
+            "startTime": "0:00:08",
+            "endTime": "0:00:08.04",
+            "startSeconds": 8,
+            "endSeconds": 8
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "operating system",
+        "appearances": [
+          {
+            "confidence": 0.9509,
+            "startTime": "0:00:35",
+            "endTime": "0:00:35.04",
+            "startSeconds": 35,
+            "endSeconds": 35
+          }
+        ]
+      }
+    ],
+    "framePatterns": [],
+    "brands": [
+      {
+        "referenceId": "PayPal",
+        "referenceUrl": "http://en.wikipedia.org/wiki/PayPal",
+        "confidence": 1,
+        "description": "PayPal Holdings, Inc. is an American company operating a worldwide online payments system. Online money transfers serve as electronic alternatives to traditional paper methods like checks and money orders. PayPal is one of the world's largest Internet payment companies.",
+        "seenDuration": 12,
+        "id": 1,
+        "name": "PayPal",
+        "appearances": [
+          {
+            "startTime": "0:00:32",
+            "endTime": "0:00:44.04",
+            "startSeconds": 32,
+            "endSeconds": 44
+          }
+        ]
+      }
+    ],
+    "namedLocations": [
+      {
+        "referenceId": null,
+        "referenceUrl": null,
+        "confidence": 0.82,
+        "description": null,
+        "seenDuration": 7.7,
+        "id": 2,
+        "name": "stores",
+        "appearances": [
+          {
+            "startTime": "0:00:22.08",
+            "endTime": "0:00:29.84",
+            "startSeconds": 22.1,
+            "endSeconds": 29.8
+          }
+        ]
+      },
+      {
+        "referenceId": "Cheque",
+        "referenceUrl": "https://en.wikipedia.org/wiki/Cheque",
+        "confidence": 0.8,
+        "description": "A cheque (or check in American English) is a document that orders a bank to pay a specific amount of money from a person's account to the person in whose name the cheque has been issued. The person writing the cheque, the drawer, has a transaction banking account (often called a current, cheque, chequing or checking account) where their money is held.",
+        "seenDuration": 4,
+        "id": 1,
+        "name": "Cheque",
+        "appearances": [
+          {
+            "startTime": "0:00:31",
+            "endTime": "0:00:35.04",
+            "startSeconds": 31,
+            "endSeconds": 35
+          }
+        ]
+      }
+    ],
+    "namedPeople": [],
+    "statistics": {
+      "correspondenceCount": 0,
+      "speakerTalkToListenRatio": {
+        "1": 1
+      },
+      "speakerLongestMonolog": {
+        "1": 32
+      },
+      "speakerNumberOfFragments": {
+        "1": 6
+      },
+      "speakerWordCount": {
+        "1": 85
+      }
+    },
+    "topics": [
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/financial and business service/payment service",
+        "iabName": "Business and Finance",
+        "confidence": 0.9749,
+        "id": 1,
+        "name": "Business/Business Sectors/Payments",
+        "appearances": [
+          {
+            "startTime": "0:00:00.08",
+            "endTime": "0:00:47.52",
+            "startSeconds": 0.1,
+            "endSeconds": 47.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economy/macro economics/credit and debt",
+        "iabName": "Business and Finance",
+        "confidence": 0.9055,
+        "id": 2,
+        "name": "Finance/Credit Cards",
+        "appearances": [
+          {
+            "startTime": "0:00:00.08",
+            "endTime": "0:00:47.52",
+            "startSeconds": 0.1,
+            "endSeconds": 47.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "politics/government/government budget/public finance",
+        "iabName": "Business and Finance",
+        "confidence": 0.8883,
+        "id": 3,
+        "name": "Finance",
+        "appearances": [
+          {
+            "startTime": "0:00:00.08",
+            "endTime": "0:00:47.52",
+            "startSeconds": 0.1,
+            "endSeconds": 47.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economy/macro economics/credit and debt",
+        "iabName": "Business and Finance",
+        "confidence": 0.8082,
+        "id": 4,
+        "name": "Finance/Debit Cards",
+        "appearances": [
+          {
+            "startTime": "0:00:00.08",
+            "endTime": "0:00:34.24",
+            "startSeconds": 0.1,
+            "endSeconds": 34.2
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/financial and business service/payment service",
+        "iabName": "Business and Finance",
+        "confidence": 0.8044,
+        "id": 5,
+        "name": "Finance/Credit Cards/Credit Card Processing",
+        "appearances": [
+          {
+            "startTime": "0:00:00.08",
+            "endTime": "0:00:47.52",
+            "startSeconds": 0.1,
+            "endSeconds": 47.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/financial and business service/payment service",
+        "iabName": "Business and Finance",
+        "confidence": 0.7748,
+        "id": 6,
+        "name": "Finance/Credit Cards/Mastercard Products and Services",
+        "appearances": [
+          {
+            "startTime": "0:00:00.08",
+            "endTime": "0:00:34.24",
+            "startSeconds": 0.1,
+            "endSeconds": 34.2
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/financial and business service/personal finance",
+        "iabName": "Business and Finance",
+        "confidence": 0.6974,
+        "id": 7,
+        "name": "Finance/Personal Finance",
+        "appearances": [
+          {
+            "startTime": "0:00:22.08",
+            "endTime": "0:00:47.52",
+            "startSeconds": 22.1,
+            "endSeconds": 47.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "economy, business and finance/economic sector/financial and business service/banking",
+        "iabName": "Business and Finance",
+        "confidence": 0.5579,
+        "id": 8,
+        "name": "Finance/Financial Institutions/Banking",
+        "appearances": [
+          {
+            "startTime": "0:00:00.08",
+            "endTime": "0:00:19.72",
+            "startSeconds": 0.1,
+            "endSeconds": 19.7
+          }
+        ]
+      }
+    ]
+  },
+  "videos": [
+    {
+      "accountId": "a9696e33-fd7a-4070-83f6-fc8d2e06633a",
+      "id": "komvew4csc",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:00:54.01",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [
+          "en-US"
+        ],
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "transcript": [
+          {
+            "id": 1,
+            "text": "Accepting partial payment is made easy with on Print Shop.",
+            "confidence": 0.9146,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.08",
+                "adjustedEnd": "0:00:03.24",
+                "start": "0:00:00.08",
+                "end": "0:00:03.24"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "After enabling this feature, simply set up your payment terms.",
+            "confidence": 0.9296,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.36",
+                "adjustedEnd": "0:00:09.6",
+                "start": "0:00:06.36",
+                "end": "0:00:09.6"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "For example, you can set 20% at order placement, 30% after 10 days, and the remaining 50% after 20 days of order placement.",
+            "confidence": 0.9144,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12.08",
+                "adjustedEnd": "0:00:19.72",
+                "start": "0:00:12.08",
+                "end": "0:00:19.72"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "You can assign any of these payment terms to individual customers or stores now.",
+            "confidence": 0.9599,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.08",
+                "adjustedEnd": "0:00:29.84",
+                "start": "0:00:22.08",
+                "end": "0:00:29.84"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "During checkout, customers can then select the partial payment method and place the order.",
+            "confidence": 0.9153,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29.84",
+                "adjustedEnd": "0:00:34.24",
+                "start": "0:00:29.84",
+                "end": "0:00:34.24"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "For subsequent installments, admins can raise further payment requests.",
+            "confidence": 0.8923,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:38.76",
+                "adjustedEnd": "0:00:42.52",
+                "start": "0:00:38.76",
+                "end": "0:00:42.52"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "Start accepting partial payments today.",
+            "confidence": 0.9453,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:45.44",
+                "adjustedEnd": "0:00:47.52",
+                "start": "0:00:45.44",
+                "end": "0:00:47.52"
+              }
+            ]
+          }
+        ],
+        "ocr": [
+          {
+            "id": 1,
+            "text": "01",
+            "confidence": 0.998,
+            "left": 507,
+            "top": 475,
+            "width": 26,
+            "height": 24,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "20%",
+            "confidence": 0.957,
+            "left": 761,
+            "top": 466,
+            "width": 41,
+            "height": 20,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "30%",
+            "confidence": 0.997,
+            "left": 864,
+            "top": 466,
+            "width": 48,
+            "height": 19,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "50%",
+            "confidence": 0.997,
+            "left": 968,
+            "top": 468,
+            "width": 45,
+            "height": 18,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "02",
+            "confidence": 0.998,
+            "left": 510,
+            "top": 558,
+            "width": 29,
+            "height": 21,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "30",
+            "confidence": 0.998,
+            "left": 951,
+            "top": 729,
+            "width": 27,
+            "height": 17,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              },
+              {
+                "adjustedStart": "0:00:16",
+                "adjustedEnd": "0:00:16.04",
+                "start": "0:00:16",
+                "end": "0:00:16.04"
+              },
+              {
+                "adjustedStart": "0:00:18",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:18",
+                "end": "0:00:19.04"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "03",
+            "confidence": 0.998,
+            "left": 509,
+            "top": 642,
+            "width": 27,
+            "height": 22,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "20",
+            "confidence": 0.998,
+            "left": 970,
+            "top": 631,
+            "width": 38,
+            "height": 20,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              },
+              {
+                "adjustedStart": "0:00:18",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:18",
+                "end": "0:00:19.04"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "04",
+            "confidence": 0.998,
+            "left": 509,
+            "top": 723,
+            "width": 28,
+            "height": 21,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "10%",
+            "confidence": 0.997,
+            "left": 763,
+            "top": 713,
+            "width": 45,
+            "height": 18,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "40%",
+            "confidence": 0.997,
+            "left": 970,
+            "top": 713,
+            "width": 44,
+            "height": 17,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "10",
+            "confidence": 0.998,
+            "left": 1326,
+            "top": 727,
+            "width": 31,
+            "height": 25,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:17",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:17",
+                "end": "0:00:19.04"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "$120.56",
+            "confidence": 0.998,
+            "left": 939,
+            "top": 464,
+            "width": 80,
+            "height": 22,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:31",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "$200.40",
+            "confidence": 0.998,
+            "left": 942,
+            "top": 580,
+            "width": 78,
+            "height": 20,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:31",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "$150.02",
+            "confidence": 0.998,
+            "left": 939,
+            "top": 714,
+            "width": 80,
+            "height": 20,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:31",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "$470.98",
+            "confidence": 0.998,
+            "left": 1329,
+            "top": 567,
+            "width": 77,
+            "height": 20,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:32",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "$4.00",
+            "confidence": 0.989,
+            "left": 1331,
+            "top": 606,
+            "width": 53,
+            "height": 19,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:32",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "$474.98",
+            "confidence": 0.998,
+            "left": 1328,
+            "top": 670,
+            "width": 98,
+            "height": 23,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:32",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "$94.80",
+            "confidence": 0.998,
+            "left": 974,
+            "top": 561,
+            "width": 74,
+            "height": 22,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "$142.20",
+            "confidence": 0.998,
+            "left": 974,
+            "top": 638,
+            "width": 85,
+            "height": 21,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "text": "$237.10",
+            "confidence": 0.998,
+            "left": 973,
+            "top": 720,
+            "width": 88,
+            "height": 22,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "text": "Accepting",
+            "confidence": 0.998,
+            "left": 276,
+            "top": 304,
+            "width": 358,
+            "height": 73,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:01",
+                "end": "0:00:04.04"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "text": "Partial Payment",
+            "confidence": 0.998,
+            "left": 100,
+            "top": 394,
+            "width": 708,
+            "height": 78,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:01",
+                "end": "0:00:04.04"
+              },
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.04",
+                "start": "0:00:06",
+                "end": "0:00:07.04"
+              },
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:32",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "text": "is made easy with",
+            "confidence": 0.9963,
+            "left": 129,
+            "top": 491,
+            "width": 637,
+            "height": 81,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:01",
+                "end": "0:00:04.04"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "text": "OnPrintShop",
+            "confidence": 0.995,
+            "left": 354,
+            "top": 652,
+            "width": 318,
+            "height": 50,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:01",
+                "end": "0:00:04.04"
+              },
+              {
+                "adjustedStart": "0:00:51",
+                "adjustedEnd": "0:00:53.04",
+                "start": "0:00:51",
+                "end": "0:00:53.04"
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "text": "TM",
+            "confidence": 0.998,
+            "left": 1689,
+            "top": 412,
+            "width": 62,
+            "height": 35,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:01",
+                "end": "0:00:04.04"
+              },
+              {
+                "adjustedStart": "0:00:51",
+                "adjustedEnd": "0:00:53.04",
+                "start": "0:00:51",
+                "end": "0:00:53.04"
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "text": "Web-to-Print Storefront",
+            "confidence": 0.995,
+            "left": 352,
+            "top": 710,
+            "width": 318,
+            "height": 29,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:01",
+                "end": "0:00:04.04"
+              },
+              {
+                "adjustedStart": "0:00:51",
+                "adjustedEnd": "0:00:53.04",
+                "start": "0:00:51",
+                "end": "0:00:53.04"
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "text": "Payment Method",
+            "confidence": 0.998,
+            "left": 1271,
+            "top": 346,
+            "width": 175,
+            "height": 25,
+            "angle": -10,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:02",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:02",
+                "end": "0:00:04.04"
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "text": "Payment Sent",
+            "confidence": 0.997,
+            "left": 605,
+            "top": 907,
+            "width": 180,
+            "height": 31,
+            "angle": -9,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:02",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:02",
+                "end": "0:00:04.04"
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "text": "Payment Term Master",
+            "confidence": 0.9973,
+            "left": 485,
+            "top": 286,
+            "width": 347,
+            "height": 35,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 31,
+            "text": "Add",
+            "confidence": 0.996,
+            "left": 1346,
+            "top": 281,
+            "width": 61,
+            "height": 29,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:11.04",
+                "start": "0:00:09",
+                "end": "0:00:11.04"
+              }
+            ]
+          },
+          {
+            "id": 32,
+            "text": "Term Title",
+            "confidence": 0.9965,
+            "left": 587,
+            "top": 400,
+            "width": 118,
+            "height": 24,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:09",
+                "end": "0:00:19.04"
+              }
+            ]
+          },
+          {
+            "id": 33,
+            "text": "Term Details",
+            "confidence": 0.9965,
+            "left": 767,
+            "top": 401,
+            "width": 144,
+            "height": 23,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              },
+              {
+                "adjustedStart": "0:00:14",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:14",
+                "end": "0:00:19.04"
+              }
+            ]
+          },
+          {
+            "id": 34,
+            "text": "Status",
+            "confidence": 0.998,
+            "left": 1088,
+            "top": 402,
+            "width": 71,
+            "height": 20,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:11.04",
+                "start": "0:00:09",
+                "end": "0:00:11.04"
+              },
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 35,
+            "text": "Default",
+            "confidence": 0.998,
+            "left": 1205,
+            "top": 389,
+            "width": 85,
+            "height": 22,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:11.04",
+                "start": "0:00:09",
+                "end": "0:00:11.04"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "text": "Term",
+            "confidence": 0.996,
+            "left": 1202,
+            "top": 415,
+            "width": 61,
+            "height": 22,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:11.04",
+                "start": "0:00:09",
+                "end": "0:00:11.04"
+              }
+            ]
+          },
+          {
+            "id": 37,
+            "text": "Action",
+            "confidence": 0.998,
+            "left": 1320,
+            "top": 401,
+            "width": 74,
+            "height": 22,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:09.04",
+                "start": "0:00:09",
+                "end": "0:00:09.04"
+              },
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:11.04",
+                "start": "0:00:11",
+                "end": "0:00:11.04"
+              },
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 38,
+            "text": "Term 1",
+            "confidence": 0.9915,
+            "left": 592,
+            "top": 476,
+            "width": 75,
+            "height": 22,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 39,
+            "text": "[Day 0]",
+            "confidence": 0.994,
+            "left": 759,
+            "top": 490,
+            "width": 67,
+            "height": 22,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 40,
+            "text": "[Day 10]",
+            "confidence": 0.996,
+            "left": 867,
+            "top": 490,
+            "width": 72,
+            "height": 20,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 41,
+            "text": "[Day 20]",
+            "confidence": 0.9965,
+            "left": 965,
+            "top": 491,
+            "width": 77,
+            "height": 19,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 42,
+            "text": "Term 2",
+            "confidence": 0.9935,
+            "left": 589,
+            "top": 557,
+            "width": 79,
+            "height": 22,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 43,
+            "text": "Term 3",
+            "confidence": 0.9935,
+            "left": 590,
+            "top": 640,
+            "width": 77,
+            "height": 23,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 44,
+            "text": "Term 4",
+            "confidence": 0.9935,
+            "left": 592,
+            "top": 723,
+            "width": 77,
+            "height": 21,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              }
+            ]
+          },
+          {
+            "id": 45,
+            "text": "Add Payment Term",
+            "confidence": 0.9967,
+            "left": 1480,
+            "top": 442,
+            "width": 377,
+            "height": 48,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:11",
+                "end": "0:00:19.04"
+              }
+            ]
+          },
+          {
+            "id": 46,
+            "text": "Save",
+            "confidence": 0.996,
+            "left": 1389,
+            "top": 447,
+            "width": 94,
+            "height": 35,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:12",
+                "end": "0:00:19.04"
+              }
+            ]
+          },
+          {
+            "id": 47,
+            "text": "Term 02",
+            "confidence": 0.997,
+            "left": 699,
+            "top": 584,
+            "width": 166,
+            "height": 36,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:12",
+                "end": "0:00:19.04"
+              },
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:25",
+                "end": "0:00:27.04"
+              }
+            ]
+          },
+          {
+            "id": 48,
+            "text": "Add Term",
+            "confidence": 0.996,
+            "left": 1274,
+            "top": 506,
+            "width": 155,
+            "height": 29,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:14",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:14",
+                "end": "0:00:19.04"
+              }
+            ]
+          },
+          {
+            "id": 49,
+            "text": "Percentage",
+            "confidence": 0.997,
+            "left": 742,
+            "top": 620,
+            "width": 173,
+            "height": 30,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:15",
+                "end": "0:00:19.04"
+              }
+            ]
+          },
+          {
+            "id": 50,
+            "text": "20 %",
+            "confidence": 0.994,
+            "left": 941,
+            "top": 619,
+            "width": 119,
+            "height": 31,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:15",
+                "end": "0:00:19.04"
+              }
+            ]
+          },
+          {
+            "id": 51,
+            "text": "Term Days",
+            "confidence": 0.994,
+            "left": 1128,
+            "top": 620,
+            "width": 165,
+            "height": 32,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:15",
+                "end": "0:00:19.04"
+              }
+            ]
+          },
+          {
+            "id": 52,
+            "text": "30 %",
+            "confidence": 0.9985,
+            "left": 943,
+            "top": 725,
+            "width": 119,
+            "height": 29,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:17",
+                "adjustedEnd": "0:00:17.04",
+                "start": "0:00:17",
+                "end": "0:00:17.04"
+              }
+            ]
+          },
+          {
+            "id": 53,
+            "text": "50 %",
+            "confidence": 0.991,
+            "left": 943,
+            "top": 829,
+            "width": 117,
+            "height": 31,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:18",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:18",
+                "end": "0:00:19.04"
+              }
+            ]
+          },
+          {
+            "id": 54,
+            "text": "Customer Profile",
+            "confidence": 0.998,
+            "left": 457,
+            "top": 334,
+            "width": 254,
+            "height": 31,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:20",
+                "end": "0:00:27.04"
+              }
+            ]
+          },
+          {
+            "id": 55,
+            "text": "John Smith",
+            "confidence": 0.9735,
+            "left": 941,
+            "top": 425,
+            "width": 52,
+            "height": 11,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:20",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:20",
+                "end": "0:00:27.04"
+              }
+            ]
+          },
+          {
+            "id": 56,
+            "text": "Email",
+            "confidence": 0.998,
+            "left": 847,
+            "top": 525,
+            "width": 70,
+            "height": 23,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:21",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:21",
+                "end": "0:00:27.04"
+              }
+            ]
+          },
+          {
+            "id": 57,
+            "text": "john@gmail.com",
+            "confidence": 0.991,
+            "left": 1027,
+            "top": 524,
+            "width": 207,
+            "height": 30,
+            "angle": 0,
+            "language": "fi-FI",
+            "instances": [
+              {
+                "adjustedStart": "0:00:21",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:21",
+                "end": "0:00:27.04"
+              }
+            ]
+          },
+          {
+            "id": 58,
+            "text": "Allow Partial",
+            "confidence": 0.998,
+            "left": 847,
+            "top": 577,
+            "width": 152,
+            "height": 27,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:21",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:21",
+                "end": "0:00:27.04"
+              }
+            ]
+          },
+          {
+            "id": 59,
+            "text": "Payment",
+            "confidence": 0.998,
+            "left": 845,
+            "top": 607,
+            "width": 112,
+            "height": 28,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:21",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:21",
+                "end": "0:00:27.04"
+              }
+            ]
+          },
+          {
+            "id": 60,
+            "text": "Select Payment Term",
+            "confidence": 0.9973,
+            "left": 860,
+            "top": 571,
+            "width": 269,
+            "height": 28,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:23",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:23",
+                "end": "0:00:27.04"
+              }
+            ]
+          },
+          {
+            "id": 61,
+            "text": "Term 03",
+            "confidence": 0.995,
+            "left": 881,
+            "top": 630,
+            "width": 89,
+            "height": 21,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:24",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:24",
+                "end": "0:00:27.04"
+              }
+            ]
+          },
+          {
+            "id": 62,
+            "text": "20% [Day 20]",
+            "confidence": 0.996,
+            "left": 1257,
+            "top": 659,
+            "width": 106,
+            "height": 18,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:24",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:24",
+                "end": "0:00:27.04"
+              }
+            ]
+          },
+          {
+            "id": 63,
+            "text": "50% [Day 10]",
+            "confidence": 0.9953,
+            "left": 1124,
+            "top": 631,
+            "width": 111,
+            "height": 19,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:24",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:24",
+                "end": "0:00:27.04"
+              }
+            ]
+          },
+          {
+            "id": 64,
+            "text": "40% [Day 20]",
+            "confidence": 0.9947,
+            "left": 1250,
+            "top": 631,
+            "width": 102,
+            "height": 19,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:24",
+                "adjustedEnd": "0:00:25.04",
+                "start": "0:00:24",
+                "end": "0:00:25.04"
+              }
+            ]
+          },
+          {
+            "id": 65,
+            "text": "Term 01",
+            "confidence": 0.9965,
+            "left": 869,
+            "top": 658,
+            "width": 92,
+            "height": 22,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:25",
+                "end": "0:00:27.04"
+              }
+            ]
+          },
+          {
+            "id": 66,
+            "text": "20% [Day",
+            "confidence": 0.9955,
+            "left": 1257,
+            "top": 659,
+            "width": 75,
+            "height": 18,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:25.04",
+                "start": "0:00:25",
+                "end": "0:00:25.04"
+              }
+            ]
+          },
+          {
+            "id": 67,
+            "text": "Booklet-wire-o",
+            "confidence": 0.989,
+            "left": 799,
+            "top": 827,
+            "width": 329,
+            "height": 44,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:28",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 68,
+            "text": "MENU",
+            "confidence": 0.994,
+            "left": 1562,
+            "top": 264,
+            "width": 43,
+            "height": 13,
+            "angle": -3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:29.04",
+                "start": "0:00:29",
+                "end": "0:00:29.04"
+              }
+            ]
+          },
+          {
+            "id": 69,
+            "text": "COFFEE SHOP",
+            "confidence": 0.997,
+            "left": 467,
+            "top": 303,
+            "width": 70,
+            "height": 14,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:29.04",
+                "start": "0:00:29",
+                "end": "0:00:29.04"
+              }
+            ]
+          },
+          {
+            "id": 70,
+            "text": "Shipping-Box",
+            "confidence": 0.993,
+            "left": 240,
+            "top": 491,
+            "width": 307,
+            "height": 58,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:29",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 71,
+            "text": "Table-Tent",
+            "confidence": 0.997,
+            "left": 1414,
+            "top": 496,
+            "width": 230,
+            "height": 40,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:29",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "text": "HEALTHY",
+            "confidence": 0.995,
+            "left": 854,
+            "top": 603,
+            "width": 105,
+            "height": 28,
+            "angle": -23,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:29.04",
+                "start": "0:00:29",
+                "end": "0:00:29.04"
+              }
+            ]
+          },
+          {
+            "id": 73,
+            "text": "Order Section",
+            "confidence": 0.998,
+            "left": 465,
+            "top": 273,
+            "width": 261,
+            "height": 35,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:30",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:30",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 74,
+            "text": "Product",
+            "confidence": 0.998,
+            "left": 477,
+            "top": 360,
+            "width": 84,
+            "height": 20,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:30",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:30",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 75,
+            "text": "Quantity",
+            "confidence": 0.998,
+            "left": 775,
+            "top": 361,
+            "width": 93,
+            "height": 22,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:30",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:30",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 76,
+            "text": "Total Price",
+            "confidence": 0.998,
+            "left": 938,
+            "top": 360,
+            "width": 111,
+            "height": 20,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:30",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:30",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 77,
+            "text": "Cheque",
+            "confidence": 0.998,
+            "left": 1199,
+            "top": 294,
+            "width": 68,
+            "height": 19,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:31",
+                "end": "0:00:35.04"
+              },
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 78,
+            "text": "- 2 +",
+            "confidence": 0.9773,
+            "left": 772,
+            "top": 465,
+            "width": 87,
+            "height": 19,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:34.04",
+                "start": "0:00:31",
+                "end": "0:00:34.04"
+              }
+            ]
+          },
+          {
+            "id": 79,
+            "text": "- 5 +",
+            "confidence": 0.9753,
+            "left": 770,
+            "top": 579,
+            "width": 92,
+            "height": 19,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:31",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 80,
+            "text": "- 3 +",
+            "confidence": 0.927,
+            "left": 772,
+            "top": 715,
+            "width": 86,
+            "height": 17,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:31",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 81,
+            "text": "Paypal Standard",
+            "confidence": 0.998,
+            "left": 1190,
+            "top": 431,
+            "width": 149,
+            "height": 22,
+            "angle": 0,
+            "language": "de-DE",
+            "instances": [
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:32",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 82,
+            "text": "Price Summary",
+            "confidence": 0.998,
+            "left": 1156,
+            "top": 509,
+            "width": 199,
+            "height": 27,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:32",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 83,
+            "text": "Subtotal:",
+            "confidence": 0.997,
+            "left": 1155,
+            "top": 568,
+            "width": 91,
+            "height": 21,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:32",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 84,
+            "text": "Shipping:",
+            "confidence": 0.997,
+            "left": 1155,
+            "top": 605,
+            "width": 92,
+            "height": 24,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:32",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 85,
+            "text": "Total:",
+            "confidence": 0.998,
+            "left": 1157,
+            "top": 669,
+            "width": 76,
+            "height": 24,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:32",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 86,
+            "text": "Place Order",
+            "confidence": 0.998,
+            "left": 1243,
+            "top": 740,
+            "width": 107,
+            "height": 19,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:32",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 87,
+            "text": "2 +",
+            "confidence": 0.977,
+            "left": 789,
+            "top": 352,
+            "width": 68,
+            "height": 20,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:35",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:35",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 88,
+            "text": "Order Placed Successfully",
+            "confidence": 0.9963,
+            "left": 605,
+            "top": 618,
+            "width": 710,
+            "height": 63,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:38.04",
+                "start": "0:00:37",
+                "end": "0:00:38.04"
+              }
+            ]
+          },
+          {
+            "id": 89,
+            "text": "Order Details",
+            "confidence": 0.998,
+            "left": 467,
+            "top": 300,
+            "width": 226,
+            "height": 34,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 90,
+            "text": "Reorder",
+            "confidence": 0.998,
+            "left": 1305,
+            "top": 299,
+            "width": 132,
+            "height": 34,
+            "angle": 0,
+            "language": "to-TO",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 91,
+            "text": "Order History",
+            "confidence": 0.998,
+            "left": 667,
+            "top": 415,
+            "width": 165,
+            "height": 28,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 92,
+            "text": "Payment Request",
+            "confidence": 0.998,
+            "left": 869,
+            "top": 413,
+            "width": 224,
+            "height": 31,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 93,
+            "text": "Request Date",
+            "confidence": 0.997,
+            "left": 486,
+            "top": 489,
+            "width": 164,
+            "height": 26,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 94,
+            "text": "Payment Details",
+            "confidence": 0.998,
+            "left": 703,
+            "top": 488,
+            "width": 192,
+            "height": 28,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 95,
+            "text": "Amount",
+            "confidence": 0.998,
+            "left": 975,
+            "top": 490,
+            "width": 98,
+            "height": 23,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 96,
+            "text": "12 Jun, 2023",
+            "confidence": 0.9953,
+            "left": 497,
+            "top": 560,
+            "width": 127,
+            "height": 24,
+            "angle": 0,
+            "language": "da-DK",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 97,
+            "text": "Paid",
+            "confidence": 0.996,
+            "left": 1159,
+            "top": 561,
+            "width": 50,
+            "height": 21,
+            "angle": -2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 98,
+            "text": "02 Jul, 2023",
+            "confidence": 0.9953,
+            "left": 494,
+            "top": 637,
+            "width": 123,
+            "height": 25,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 99,
+            "text": "Raised",
+            "confidence": 0.998,
+            "left": 1159,
+            "top": 638,
+            "width": 76,
+            "height": 22,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:43.04",
+                "start": "0:00:39",
+                "end": "0:00:43.04"
+              }
+            ]
+          },
+          {
+            "id": 100,
+            "text": "Pay Now",
+            "confidence": 0.9965,
+            "left": 1331,
+            "top": 641,
+            "width": 90,
+            "height": 20,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:43.04",
+                "start": "0:00:39",
+                "end": "0:00:43.04"
+              }
+            ]
+          },
+          {
+            "id": 101,
+            "text": "Pending",
+            "confidence": 0.998,
+            "left": 1160,
+            "top": 720,
+            "width": 92,
+            "height": 23,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "text": "VISA",
+            "confidence": 0.965,
+            "left": 298,
+            "top": 373,
+            "width": 17,
+            "height": 13,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:41",
+                "adjustedEnd": "0:00:43.04",
+                "start": "0:00:41",
+                "end": "0:00:43.04"
+              }
+            ]
+          },
+          {
+            "id": 103,
+            "text": "Google Pay",
+            "confidence": 0.9975,
+            "left": 1630,
+            "top": 417,
+            "width": 76,
+            "height": 16,
+            "angle": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:42",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:42",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 104,
+            "text": "stripe",
+            "confidence": 0.998,
+            "left": 204,
+            "top": 656,
+            "width": 77,
+            "height": 30,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:42",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:42",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 105,
+            "text": "PayPal",
+            "confidence": 0.998,
+            "left": 1598,
+            "top": 713,
+            "width": 76,
+            "height": 22,
+            "angle": 1,
+            "language": "de-DE",
+            "instances": [
+              {
+                "adjustedStart": "0:00:42",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:42",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 106,
+            "text": "Start Accepting",
+            "confidence": 0.998,
+            "left": 690,
+            "top": 459,
+            "width": 540,
+            "height": 76,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:47.04",
+                "start": "0:00:46",
+                "end": "0:00:47.04"
+              }
+            ]
+          },
+          {
+            "id": 107,
+            "text": "Partial Payment Today!",
+            "confidence": 0.998,
+            "left": 556,
+            "top": 543,
+            "width": 814,
+            "height": 77,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:47.04",
+                "start": "0:00:46",
+                "end": "0:00:47.04"
+              }
+            ]
+          },
+          {
+            "id": 108,
+            "text": "Visit us@",
+            "confidence": 0.9955,
+            "left": 863,
+            "top": 609,
+            "width": 196,
+            "height": 54,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:52",
+                "adjustedEnd": "0:00:53.04",
+                "start": "0:00:52",
+                "end": "0:00:53.04"
+              }
+            ]
+          },
+          {
+            "id": 109,
+            "text": "www.OnPrintShop.com",
+            "confidence": 0.983,
+            "left": 622,
+            "top": 679,
+            "width": 676,
+            "height": 56,
+            "angle": 0,
+            "language": "fi-FI",
+            "instances": [
+              {
+                "adjustedStart": "0:00:52",
+                "adjustedEnd": "0:00:53.04",
+                "start": "0:00:52",
+                "end": "0:00:53.04"
+              }
+            ]
+          },
+          {
+            "id": 110,
+            "text": "Powered by: RADIX",
+            "confidence": 0.9387,
+            "left": 826,
+            "top": 922,
+            "width": 351,
+            "height": 31,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:53",
+                "adjustedEnd": "0:00:53.04",
+                "start": "0:00:53",
+                "end": "0:00:53.04"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 1,
+            "text": "payment terms",
+            "confidence": 0.9728,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.36",
+                "adjustedEnd": "0:00:09.6",
+                "start": "0:00:06.36",
+                "end": "0:00:09.6"
+              },
+              {
+                "adjustedStart": "0:00:22.08",
+                "adjustedEnd": "0:00:29.84",
+                "start": "0:00:22.08",
+                "end": "0:00:29.84"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "order placement",
+            "confidence": 0.9726,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12.08",
+                "adjustedEnd": "0:00:19.72",
+                "start": "0:00:12.08",
+                "end": "0:00:19.72"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "made easy",
+            "confidence": 0.9722,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.08",
+                "adjustedEnd": "0:00:03.24",
+                "start": "0:00:00.08",
+                "end": "0:00:03.24"
+              },
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:01",
+                "end": "0:00:04.04"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "payment method",
+            "confidence": 0.9634,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29.84",
+                "adjustedEnd": "0:00:34.24",
+                "start": "0:00:29.84",
+                "end": "0:00:34.24"
+              },
+              {
+                "adjustedStart": "0:00:02",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:02",
+                "end": "0:00:04.04"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "payment request",
+            "confidence": 0.9509,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:38.76",
+                "adjustedEnd": "0:00:42.52",
+                "start": "0:00:38.76",
+                "end": "0:00:42.52"
+              },
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "partial payment",
+            "confidence": 0.9405,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.08",
+                "adjustedEnd": "0:00:03.24",
+                "start": "0:00:00.08",
+                "end": "0:00:03.24"
+              },
+              {
+                "adjustedStart": "0:00:29.84",
+                "adjustedEnd": "0:00:34.24",
+                "start": "0:00:29.84",
+                "end": "0:00:34.24"
+              },
+              {
+                "adjustedStart": "0:00:45.44",
+                "adjustedEnd": "0:00:47.52",
+                "start": "0:00:45.44",
+                "end": "0:00:47.52"
+              },
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:01",
+                "end": "0:00:04.04"
+              },
+              {
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:47.04",
+                "start": "0:00:46",
+                "end": "0:00:47.04"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "customers",
+            "confidence": 0.7217,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.08",
+                "adjustedEnd": "0:00:29.84",
+                "start": "0:00:22.08",
+                "end": "0:00:29.84"
+              },
+              {
+                "adjustedStart": "0:00:29.84",
+                "adjustedEnd": "0:00:34.24",
+                "start": "0:00:29.84",
+                "end": "0:00:34.24"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "payment",
+            "confidence": 0.695,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.08",
+                "adjustedEnd": "0:00:03.24",
+                "start": "0:00:00.08",
+                "end": "0:00:03.24"
+              },
+              {
+                "adjustedStart": "0:00:06.36",
+                "adjustedEnd": "0:00:09.6",
+                "start": "0:00:06.36",
+                "end": "0:00:09.6"
+              },
+              {
+                "adjustedStart": "0:00:22.08",
+                "adjustedEnd": "0:00:29.84",
+                "start": "0:00:22.08",
+                "end": "0:00:29.84"
+              },
+              {
+                "adjustedStart": "0:00:29.84",
+                "adjustedEnd": "0:00:34.24",
+                "start": "0:00:29.84",
+                "end": "0:00:34.24"
+              },
+              {
+                "adjustedStart": "0:00:38.76",
+                "adjustedEnd": "0:00:42.52",
+                "start": "0:00:38.76",
+                "end": "0:00:42.52"
+              },
+              {
+                "adjustedStart": "0:00:45.44",
+                "adjustedEnd": "0:00:47.52",
+                "start": "0:00:45.44",
+                "end": "0:00:47.52"
+              },
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:01",
+                "end": "0:00:04.04"
+              },
+              {
+                "adjustedStart": "0:00:02",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:02",
+                "end": "0:00:04.04"
+              },
+              {
+                "adjustedStart": "0:00:02",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:02",
+                "end": "0:00:04.04"
+              },
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              },
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:11",
+                "end": "0:00:19.04"
+              },
+              {
+                "adjustedStart": "0:00:21",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:21",
+                "end": "0:00:27.04"
+              },
+              {
+                "adjustedStart": "0:00:23",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:23",
+                "end": "0:00:27.04"
+              },
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              },
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              },
+              {
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:47.04",
+                "start": "0:00:46",
+                "end": "0:00:47.04"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "order",
+            "confidence": 0.6938,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12.08",
+                "adjustedEnd": "0:00:19.72",
+                "start": "0:00:12.08",
+                "end": "0:00:19.72"
+              },
+              {
+                "adjustedStart": "0:00:29.84",
+                "adjustedEnd": "0:00:34.24",
+                "start": "0:00:29.84",
+                "end": "0:00:34.24"
+              },
+              {
+                "adjustedStart": "0:00:30",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:30",
+                "end": "0:00:35.04"
+              },
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:32",
+                "end": "0:00:35.04"
+              },
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:38.04",
+                "start": "0:00:37",
+                "end": "0:00:38.04"
+              },
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              },
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              },
+              {
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "place",
+            "confidence": 0.69,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12.08",
+                "adjustedEnd": "0:00:19.72",
+                "start": "0:00:12.08",
+                "end": "0:00:19.72"
+              },
+              {
+                "adjustedStart": "0:00:29.84",
+                "adjustedEnd": "0:00:34.24",
+                "start": "0:00:29.84",
+                "end": "0:00:34.24"
+              },
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:32",
+                "end": "0:00:35.04"
+              },
+              {
+                "adjustedStart": "0:00:37",
+                "adjustedEnd": "0:00:38.04",
+                "start": "0:00:37",
+                "end": "0:00:38.04"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "paypal",
+            "confidence": 0.6806,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:32",
+                "end": "0:00:35.04"
+              },
+              {
+                "adjustedStart": "0:00:42",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:42",
+                "end": "0:00:44.04"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "total",
+            "confidence": 0.6633,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:30",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:30",
+                "end": "0:00:35.04"
+              },
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:32",
+                "end": "0:00:35.04"
+              },
+              {
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:32",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "term",
+            "confidence": 0.6515,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06.36",
+                "adjustedEnd": "0:00:09.6",
+                "start": "0:00:06.36",
+                "end": "0:00:09.6"
+              },
+              {
+                "adjustedStart": "0:00:22.08",
+                "adjustedEnd": "0:00:29.84",
+                "start": "0:00:22.08",
+                "end": "0:00:29.84"
+              },
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              },
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:09",
+                "end": "0:00:19.04"
+              },
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              },
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:11.04",
+                "start": "0:00:09",
+                "end": "0:00:11.04"
+              },
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              },
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              },
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              },
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.04",
+                "start": "0:00:09",
+                "end": "0:00:10.04"
+              },
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:11",
+                "end": "0:00:19.04"
+              },
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:12",
+                "end": "0:00:19.04"
+              },
+              {
+                "adjustedStart": "0:00:14",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:14",
+                "end": "0:00:19.04"
+              },
+              {
+                "adjustedStart": "0:00:15",
+                "adjustedEnd": "0:00:19.04",
+                "start": "0:00:15",
+                "end": "0:00:19.04"
+              },
+              {
+                "adjustedStart": "0:00:23",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:23",
+                "end": "0:00:27.04"
+              },
+              {
+                "adjustedStart": "0:00:24",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:24",
+                "end": "0:00:27.04"
+              },
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:25",
+                "end": "0:00:27.04"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "partial",
+            "confidence": 0.6448,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.08",
+                "adjustedEnd": "0:00:03.24",
+                "start": "0:00:00.08",
+                "end": "0:00:03.24"
+              },
+              {
+                "adjustedStart": "0:00:29.84",
+                "adjustedEnd": "0:00:34.24",
+                "start": "0:00:29.84",
+                "end": "0:00:34.24"
+              },
+              {
+                "adjustedStart": "0:00:45.44",
+                "adjustedEnd": "0:00:47.52",
+                "start": "0:00:45.44",
+                "end": "0:00:47.52"
+              },
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:01",
+                "end": "0:00:04.04"
+              },
+              {
+                "adjustedStart": "0:00:21",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:21",
+                "end": "0:00:27.04"
+              },
+              {
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:47.04",
+                "start": "0:00:46",
+                "end": "0:00:47.04"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "select",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:29.84",
+                "adjustedEnd": "0:00:34.24",
+                "start": "0:00:29.84",
+                "end": "0:00:34.24"
+              },
+              {
+                "adjustedStart": "0:00:23",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:23",
+                "end": "0:00:27.04"
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 1,
+            "name": "Payments",
+            "referenceId": "Business/Business Sectors/Payments",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/financial and business service/payment service",
+            "confidence": 0.9749,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.08",
+                "adjustedEnd": "0:00:47.52",
+                "start": "0:00:00.08",
+                "end": "0:00:47.52"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Credit Cards",
+            "referenceId": "Finance/Credit Cards",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economy/macro economics/credit and debt",
+            "confidence": 0.9055,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.08",
+                "adjustedEnd": "0:00:47.52",
+                "start": "0:00:00.08",
+                "end": "0:00:47.52"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Finance",
+            "referenceId": "Finance",
+            "referenceType": "VideoIndexer",
+            "iptcName": "politics/government/government budget/public finance",
+            "confidence": 0.8883,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.08",
+                "adjustedEnd": "0:00:47.52",
+                "start": "0:00:00.08",
+                "end": "0:00:47.52"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Debit Cards",
+            "referenceId": "Finance/Debit Cards",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economy/macro economics/credit and debt",
+            "confidence": 0.8082,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.08",
+                "adjustedEnd": "0:00:34.24",
+                "start": "0:00:00.08",
+                "end": "0:00:34.24"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Credit Card Processing",
+            "referenceId": "Finance/Credit Cards/Credit Card Processing",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/financial and business service/payment service",
+            "confidence": 0.8044,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.08",
+                "adjustedEnd": "0:00:47.52",
+                "start": "0:00:00.08",
+                "end": "0:00:47.52"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Mastercard Products and Services",
+            "referenceId": "Finance/Credit Cards/Mastercard Products and Services",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/financial and business service/payment service",
+            "confidence": 0.7748,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.08",
+                "adjustedEnd": "0:00:34.24",
+                "start": "0:00:00.08",
+                "end": "0:00:34.24"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Personal Finance",
+            "referenceId": "Finance/Personal Finance",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/financial and business service/personal finance",
+            "confidence": 0.6974,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.08",
+                "adjustedEnd": "0:00:47.52",
+                "start": "0:00:22.08",
+                "end": "0:00:47.52"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Banking",
+            "referenceId": "Finance/Financial Institutions/Banking",
+            "referenceType": "VideoIndexer",
+            "iptcName": "economy, business and finance/economic sector/financial and business service/banking",
+            "confidence": 0.5579,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.08",
+                "adjustedEnd": "0:00:19.72",
+                "start": "0:00:00.08",
+                "end": "0:00:19.72"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "blue",
+            "referenceId": "color/blue",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9795,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:00.04",
+                "start": "0:00:00",
+                "end": "0:00:00.04"
+              },
+              {
+                "confidence": 0.9799,
+                "adjustedStart": "0:00:05",
+                "adjustedEnd": "0:00:05.04",
+                "start": "0:00:05",
+                "end": "0:00:05.04"
+              },
+              {
+                "confidence": 0.9811,
+                "adjustedStart": "0:00:45",
+                "adjustedEnd": "0:00:45.04",
+                "start": "0:00:45",
+                "end": "0:00:45.04"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "text",
+            "referenceId": "communication/writing/text",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9999,
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:04.04",
+                "start": "0:00:01",
+                "end": "0:00:04.04"
+              },
+              {
+                "confidence": 0.979,
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.04",
+                "start": "0:00:06",
+                "end": "0:00:07.04"
+              },
+              {
+                "confidence": 0.9998,
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:09",
+                "end": "0:00:27.04"
+              },
+              {
+                "confidence": 0.9993,
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:29",
+                "end": "0:00:35.04"
+              },
+              {
+                "confidence": 0.9987,
+                "adjustedStart": "0:00:39",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:39",
+                "end": "0:00:44.04"
+              },
+              {
+                "confidence": 0.9916,
+                "adjustedStart": "0:00:46",
+                "adjustedEnd": "0:00:47.04",
+                "start": "0:00:46",
+                "end": "0:00:47.04"
+              },
+              {
+                "confidence": 0.9985,
+                "adjustedStart": "0:00:52",
+                "adjustedEnd": "0:00:53.04",
+                "start": "0:00:52",
+                "end": "0:00:53.04"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "sky",
+            "referenceId": "atmosphere/sky",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9828,
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:08.04",
+                "start": "0:00:08",
+                "end": "0:00:08.04"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "moon",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9777,
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:08.04",
+                "start": "0:00:08",
+                "end": "0:00:08.04"
+              },
+              {
+                "confidence": 0.9767,
+                "adjustedStart": "0:00:36",
+                "adjustedEnd": "0:00:38.04",
+                "start": "0:00:36",
+                "end": "0:00:38.04"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "human face",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9571,
+                "adjustedStart": "0:00:24",
+                "adjustedEnd": "0:00:27.04",
+                "start": "0:00:24",
+                "end": "0:00:27.04"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "operating system",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9509,
+                "adjustedStart": "0:00:35",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:35",
+                "end": "0:00:35.04"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:47.96",
+                "start": "0:00:00",
+                "end": "0:00:47.96"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:00:47.96",
+                "adjustedEnd": "0:00:53.96",
+                "start": "0:00:47.96",
+                "end": "0:00:53.96"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "de2519e8-e8f9-47ed-a456-8adcff3e2028",
+                    "adjustedStart": "0:00:04.88",
+                    "adjustedEnd": "0:00:04.92",
+                    "start": "0:00:04.88",
+                    "end": "0:00:04.92"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "f4619bc5-21cc-4958-988c-5b44d221ff5b",
+                    "adjustedStart": "0:00:27.92",
+                    "adjustedEnd": "0:00:27.96",
+                    "start": "0:00:27.92",
+                    "end": "0:00:27.96"
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "instances": [
+                  {
+                    "thumbnailId": "50751590-da9f-416f-b7f4-523c0cbc700a",
+                    "adjustedStart": "0:00:36.4",
+                    "adjustedEnd": "0:00:36.44",
+                    "start": "0:00:36.4",
+                    "end": "0:00:36.44"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:47.96",
+                "start": "0:00:00",
+                "end": "0:00:47.96"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "keyFrames": [
+              {
+                "id": 4,
+                "instances": [
+                  {
+                    "thumbnailId": "8f859012-897e-490d-9d95-9924f7813e07",
+                    "adjustedStart": "0:00:48.28",
+                    "adjustedEnd": "0:00:48.32",
+                    "start": "0:00:48.28",
+                    "end": "0:00:48.32"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:47.96",
+                "adjustedEnd": "0:00:53.96",
+                "start": "0:00:47.96",
+                "end": "0:00:53.96"
+              }
+            ]
+          }
+        ],
+        "brands": [
+          {
+            "id": 1,
+            "referenceType": "Wiki",
+            "name": "PayPal",
+            "referenceId": "PayPal",
+            "referenceUrl": "http://en.wikipedia.org/wiki/PayPal",
+            "description": "PayPal Holdings, Inc. is an American company operating a worldwide online payments system. Online money transfers serve as electronic alternatives to traditional paper methods like checks and money orders. PayPal is one of the world's largest Internet payment companies.",
+            "tags": [],
+            "confidence": 1,
+            "isCustom": false,
+            "instances": [
+              {
+                "brandType": "Ocr",
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:32",
+                "end": "0:00:35.04"
+              },
+              {
+                "brandType": "Ocr",
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:00:42",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:42",
+                "end": "0:00:44.04"
+              },
+              {
+                "brandType": "Ocr",
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:00:32",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:32",
+                "end": "0:00:35.04"
+              },
+              {
+                "brandType": "Ocr",
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:00:42",
+                "adjustedEnd": "0:00:44.04",
+                "start": "0:00:42",
+                "end": "0:00:44.04"
+              }
+            ]
+          }
+        ],
+        "namedLocations": [
+          {
+            "id": 1,
+            "name": "Cheque",
+            "referenceId": "Cheque",
+            "referenceUrl": "https://en.wikipedia.org/wiki/Cheque",
+            "description": "A cheque (or check in American English) is a document that orders a bank to pay a specific amount of money from a person's account to the person in whose name the cheque has been issued. The person writing the cheque, the drawer, has a transaction banking account (often called a current, cheque, chequing or checking account) where their money is held.",
+            "tags": [],
+            "confidence": 0.8,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:00:31",
+                "adjustedEnd": "0:00:35.04",
+                "start": "0:00:31",
+                "end": "0:00:35.04"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "stores",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 0.82,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:22.08",
+                "adjustedEnd": "0:00:29.84",
+                "start": "0:00:22.08",
+                "end": "0:00:29.84"
+              }
+            ]
+          }
+        ],
+        "sentiments": [
+          {
+            "id": 1,
+            "averageScore": 0.5,
+            "sentimentType": "Neutral",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:54.01",
+                "start": "0:00:00",
+                "end": "0:00:54.01"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:34.24",
+                "start": "0:00:00",
+                "end": "0:00:34.24"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:34.24",
+                "adjustedEnd": "0:00:54.01",
+                "start": "0:00:34.24",
+                "end": "0:00:54.01"
+              }
+            ]
+          }
+        ],
+        "speakers": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.08",
+                "adjustedEnd": "0:00:03.24",
+                "start": "0:00:00.08",
+                "end": "0:00:03.24"
+              },
+              {
+                "adjustedStart": "0:00:06.36",
+                "adjustedEnd": "0:00:09.6",
+                "start": "0:00:06.36",
+                "end": "0:00:09.6"
+              },
+              {
+                "adjustedStart": "0:00:12.08",
+                "adjustedEnd": "0:00:19.72",
+                "start": "0:00:12.08",
+                "end": "0:00:19.72"
+              },
+              {
+                "adjustedStart": "0:00:22.08",
+                "adjustedEnd": "0:00:29.84",
+                "start": "0:00:22.08",
+                "end": "0:00:29.84"
+              },
+              {
+                "adjustedStart": "0:00:29.84",
+                "adjustedEnd": "0:00:34.24",
+                "start": "0:00:29.84",
+                "end": "0:00:34.24"
+              },
+              {
+                "adjustedStart": "0:00:38.76",
+                "adjustedEnd": "0:00:42.52",
+                "start": "0:00:38.76",
+                "end": "0:00:42.52"
+              },
+              {
+                "adjustedStart": "0:00:45.44",
+                "adjustedEnd": "0:00:47.52",
+                "start": "0:00:45.44",
+                "end": "0:00:47.52"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 0,
+          "speakerTalkToListenRatio": {
+            "1": 1
+          },
+          "speakerLongestMonolog": {
+            "1": 32
+          },
+          "speakerNumberOfFragments": {
+            "1": 6
+          },
+          "speakerWordCount": {
+            "1": 85
+          }
+        }
+      },
+      "thumbnailId": "4eb40eaf-6396-478a-86a5-9fe0f034f3c1",
+      "width": 1920,
+      "height": 1080,
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [
+        "en-US"
+      ],
+      "language": "en-US",
+      "languages": [
+        "en-US"
+      ],
+      "indexingPreset": "Default",
+      "streamingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "logoGroupId": null,
+      "isAdult": false,
+      "excludedAIs": [],
+      "isSearchable": true,
+      "publishedUrl": "https://api.videoindexer.ai/internals/Trial/Accounts/a9696e33-fd7a-4070-83f6-fc8d2e06633a/Videos/komvew4csc/streaming-manifest/manifest.m3u8",
+      "publishedProxyUrl": null,
+      "viewToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJWZXJzaW9uIjoiMi4wLjAuMCIsIktleVZlcnNpb24iOiI1YmZmYWI1MTUwZWI0NGM4ODMzNzE2NzVhNzcwYzU4YSIsIkFjY291bnRJZCI6ImE5Njk2ZTMzLWZkN2EtNDA3MC04M2Y2LWZjOGQyZTA2NjMzYSIsIkFjY291bnRUeXBlIjoiVHJpYWwiLCJWaWRlb0lkIjoia29tdmV3NGNzYyIsIlBlcm1pc3Npb24iOiJSZXN0cmljdGVkVmlld2VyIiwiRXh0ZXJuYWxVc2VySWQiOiI4YzQ5NmY2ZThlZTZlYTIyIiwiVXNlclR5cGUiOiJNaWNyb3NvZnQiLCJJc3N1ZXJMb2NhdGlvbiI6IlRyaWFsIiwibmJmIjoxNzYxOTgwOTQwLCJleHAiOjE3NjE5ODQ4NDAsImlzcyI6Imh0dHBzOi8vYXBpLnZpZGVvaW5kZXhlci5haS8iLCJhdWQiOiJodHRwczovL2FwaS52aWRlb2luZGV4ZXIuYWkvIn0.UXbK0OitIpvQbsjQ0Wrumvw7kuD27AsdnrZhOVfDEO0CNUN1SZD5OxDhl8IJU-EH16p70a_rk81quA_ExJy8tQ8pICUYyR7WPSnstCF3VaV68p6VicoKRyo9hFUAYssOFt3IDsLmrGEfPoYH_cAoGR6SmGsidWZprG4UjfKuAH-TYvF28XNFjKKpBb5f714UDlkeOOFUGFGadURg0jVQdvGRo1VnRh0YxXz9WWzLemfoDXwzjL1TdFFHTvvdIBrIiS3l9rqAGow4G1Ax3cJTnKI0hdExrkIhPjH_R6Z2XpHHNukJRRtoYEFM2OA7rmXHMb7Wswu-oIYmz6EULW58gg"
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "komvew4csc",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:00:54.01"
+      }
+    }
+  ]
+}

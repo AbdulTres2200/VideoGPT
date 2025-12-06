@@ -1,0 +1,21 @@
+{
+  "id": "txt_910712",
+  "name": "unpaid-orders",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders, Quotes & Customers\n\n\nViewing Orders\nUnpaid Orders\n\n9 min\noverview & purpose once an order is submitted and the customer chooses to fulfill the order payment via a payment gateway into your website then the order is recorded as unpaid in our system once the system receives a payment confirmation message, sent by the payment gateway, then the order is marked paid and it appears on the list orders page (a payment confirmation email is sent to the customer) it might happen that the process goes wrong as the server loses its connection with your payment gateway in such situations, the payment is marked as \u2018unpaid\u2019, and a record is submitted on the \u2018unpaid orders\u2019 page after a payment fails the customer at the web store gets a chance to again make the payment or from the admin side you can mark the order as paid in case you receive the payment via another channel action menu for the unpaid orders, you can take further actions from the admin >> orders >> unpaid orders >> action dropdown view / update order this interface allows you to update the order and order product in the following ways view order check the order information such as customer details, shipping address, billing address, payment & shipping details, order product details, and order history (if any) update order this interface allows you to update the order status, due date, po number, shipping method, shipping type, tracking number, shipping company name, assign sales agent or branch, etc for weight based and quantity based shipping methods, a tracking number is to be filled manually on receiving the payment, you need to change the status from the status dropdown list and it will move to the view order section update order product using this section you can get the details about the ordered product(s) one can also change the order product status and download the print ready file mark as paid there can be a situation when you have received offline payment for the order, in such cases, you can easily mark the order as paid go to the action menu >> view/update order in the view/update order screen, click on the \u2018 update order \u2019 button in the update order screen, find \u2018select payment status\u2019 and from the drop down choose the paid option this will mark the order as paid and transfer it to the \u2018list orders\u2019 page download invoice instantly generate a pdf of the invoice you can modify the invoice template from the admin >> content management >> e mail template >> search with \u201cinvoice\u201d >> invoice template >> action >> edit reorder there can be a scenario when a customer wants to reorder the same or partial products from the selected product for such cases, the admin can click on the reorder, select the products, complete the shipping and payment methods, and confirm the order delete if the customer doesn\u2019t respond for any unpaid order or is not willing to proceed further with the order, then you can instantly delete the order using this option store pending orders an order placed by a store customer first goes for approval, and when an order gets approved it is shown in the \u2018list orders\u2019 section after an order is placed system marks the entry of the order in this section till the order gets approved you will be able to only view the order, but not be able to make any changes in the order or approve or reject the orders from the page you will be able to apply different filters to narrow down the search like order date, user type, due date, payment status, branch, amount, etc like the order listing page\nDid this page help you?\n\n\nPREVIOUS\nJob Board\nNEXT\nArchive Orders\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

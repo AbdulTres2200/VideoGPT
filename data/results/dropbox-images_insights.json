@@ -1,0 +1,21 @@
+{
+  "id": "txt_392880",
+  "name": "dropbox-images",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThird-Party Images\nDropbox Images\n\n11 min\noverview & purpose give your users the accessibility and feasibility to access their images stored on dropbox with simple easy steps, integrate dropbox images into your onprintshop web store after dropbox images integration your customers will be able to access all their images uploaded by them on dropbox and use them in the designer studio note the dropbox images feature works only for the ssl verified websites if your website does not hold an ssl certificate, then it is recommended to get the ssl certification how to integrate 1 sign in or create a new dropbox account 1 sign in or create a new dropbox account visit the dropbox site and create a new dropbox account or sign up with your existing google account 2 create dropbox platform app 2 create dropbox platform app to create a new app on the dbx platform, visit the dropbox app console on the app console page, click on the create app button on the create a new app page, fill in the basic app details in the choose an api section, select the scoped access under the section choose the type of access you need i e full dropbox as it gives access to all files and folders in a user's dropbox name your app and click on create app button this will create a dropbox api with access to full dropbox 3 get app key and secret id 3 get app key and secret id once you have created the app, the next screen will generate the app key and app secret copy and save the app key and app secret at a secure location in the oauth 2 redirect uris, enter your url in the following format https //\\<yourdomain com>/services/images php?dropbox=1 to generate the access token, click on the generate access token button note this access token can be used to access your account registered account via the api do not share your access token with anyone 4 configuration in admin panel 4 configuration in admin panel to configure the dropbox api in the admin panel, go to the admin >> store configuration >> external service settings >> social sharing >> click 'edit' in the action menu for 'dropbox images\u2019 enter the app key and app secret key you saved in step 3 5 enable the studio settings 5 enable the studio settings to enable the dropbox upload button on designer studio, go to designer studio >> studio settings >> studio settings tab >> search for dropbox under the image section tab, enable the \u2018 dropbox button enable (default off)' click on save 6 designer studio side 6 designer studio side when your customers land on designer studio and choose to upload an image from image gallery, they will see a dropbox button this means customers can upload images in the designer studio from their dropbox account all they have to do is connect to a dropbox account once the customer clicks on connect, he will be redirected to login into his dropbox account after login, your customer gets full access to his dropbox account and all its folders as shown in the below example\nDid this page help you?\n\n\nPREVIOUS\nSetup Instagram\nNEXT\nSetup Facebook User Photos\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

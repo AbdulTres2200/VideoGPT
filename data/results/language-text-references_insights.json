@@ -1,0 +1,21 @@
+{
+  "id": "txt_995111",
+  "name": "language-text-references",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStore Setup\n\nStore Personalization\nLanguage Text References\n\n4 min\noverview this interface allows you to manage the text for labels, buttons, and fixed sections across your storefront the search textline feature includes a dropdown list of all available modules, enabling you to select the module for which you want to update the text you can also use the keyword search to quickly find specific text entries purpose the purpose of this tool is to provide flexibility in customizing language and text references for different stores by selecting a store from the dropdown, you can modify and save store specific text, ensuring a tailored experience for each storefront configuration this guide will help you manage and customize text for labels, buttons, and fixed sections across different modules and stores in your onprintshop storefront edit language text references from the interface, you can edit or delete the language text reference changes made by you deleting a change will revert the text back to its default version on the storefront store customers can also perform these actions from their own admin panel text lines are pre configured in english for multiple enabled languages, you must manually enter the translated text for each language bulk import language text reference to quickly upload language text references for multiple website languages, navigate to the admin panel > store personalization > language text reference > import language text reference button (top left corner) using the 3 step import feature, you can easily fill and upload the excel file a sample file can also be downloaded using the group pages and language filters field description use case / example group pages displays all possible page groups on your website, helping you categorize data section wise selecting \"product pages\" to update text references related only to product layouts select language lists all the enabled languages on your website for language specific data entry in the excel sheet choosing \"french\" to import translated text references for the french storefront\nDid this page help you?\n\n\nPREVIOUS\nProduct Page Layout\nNEXT\nLinks - Header & Footer\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

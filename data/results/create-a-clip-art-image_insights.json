@@ -1,0 +1,21 @@
+{
+  "id": "txt_172469",
+  "name": "create-a-clip-art-image",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesigner Studio\nCreate A Clip Art Image\n\n11 min\nin the designer studio settings on the admin panel, you can upload clip arts for your customer this helps them to create the design in a more enhanced way on the admin panel, the system allows only to upload svg files as clip art what are svg files? what are svg files? svg is a vector format that describes images as shapes, paths, text, and filter effects these files are compact and provide high quality graphics the svg images magnify their view on screen without sacrificing the sharpness, detail or clarity the svg format is entirely xml based what are the advantages of svg files? what are the advantages of svg files? they give high quality graphics magnify without sacrificing sharpness no loss in details and clarity offers superior support for text and colors how to create a clip art ( svg file) in adobe illustrator? (single color) how to create a clip art ( svg file) in adobe illustrator? (single color) 1\\ create your clip art using various shapes the below example is a clip art of the cloud for the cloud shape, there are several circles created that lead to the formation of the cloud shape enable path finder from ctrl + shift + f9 or go to, windows > path finder 2\\ merge all the shapes press ctrl + a to select all the shapes click on pathfinder tool to create a compound shape and add to the shape area 3\\ create a compound path after merging all the shapes made a compound path for the shape i e the svg path go to, objects >> compound path >> make to save the files in svg format export the files as svg the svg exported is ready for upload into the designer studio of the admin panel as a clip art to upload a svg file into the admin panel go to designer studio >> images >> \u2018clip art\u2019 tab >> \u2018add\u2019 button the above example shown was of a clip art with a single color shown below is an example where the clip art has two different fill colors, like a flower how to create a clip art ( svg file) in adobe illustrator? (multi color) how to create a clip art ( svg file) in adobe illustrator? (multi color) note if there are 10 paths or less in a clip art then only there will be an option to change color also, we don't support color gradient in clip art fill property 1\\ create a shape draw an image with more than one color fill enable path finder from ctrl + shift + f9 or go to, windows > path finder 2\\ create path the example shows a flower where petals are of a different color than the center of the flower thus, to create a path there is a need to merge both the entities separately and then create a compound path select all the petals of flowers go to object > compound path > make now, select the center portion of the flower and go to, object > compound path > make 3\\ save the svg file to save the svg file, go to file > export > export as in the save as dialog box, enter the file name in the \u2018 save as type\u2019 section, enter the file format as svg ( svg) in the svg options dialog box, enter the decimal as 2 and look for other settings using similar steps, you can create svg files for other clip arts in case of any queries, please connect with the onprintshop support team note if you have the same color with multiple objects then, merge those paths to have a single color picker\nDid this page help you?\n\n\nPREVIOUS\nImage/Photo Mask Creation\nNEXT\nSocial Logins and Sharing\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

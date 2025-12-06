@@ -1,0 +1,21 @@
+{
+  "id": "txt_99730",
+  "name": "5Ka_-product-section",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 11.1 Release Notes\nProduct Section\n\n8 min\nvisual price calculator enhancement with the enhancement in the visual price calculator feature in v11 1, the \u201cdisplay visual price calculator\u201d setting from the product settings screen has been converted to enable/disable option instead of drop down options when enabled, this setting will work for the size and additional options for which you have uploaded images in respective sections for the size option or additional option attribute for which you have not uploaded any image, the visual calculator setting will not work if you have uploaded an image for some options and not for others, in that case only the thumbnail will appear with the size or attribute name minor enhancements custom size image in visual price calculator when you have enabled visual price calculator for a dynamic size product, you can now upload and display an image for the custom size option to upload the image file for custom size selection, you can find one setting named \"custom size image upload\" in the custom tab of the product settings once you have uploaded the image, a thumbnail image for custom size selection will be displayed when visual price calculator is enabled product option label position change the \"option name position\" setting from the option's presentation settings has been renamed as \"option label position\" in addition, the setting type is changed from toggle button to drop down options note this setting is applied on the add/edit product options screen, add/edit additional options screen as well as assign product options screen now, the admin can change the position as default, up and down, side by side, up and down with offset and side by side with offset jobs per sheet variable in option formula a new variable {jobs per sheet} has been added to the product options formula this variable when included in the formula will count the number of jobs that will be printed per sheet multiple images upload in product gallery the admin will now have the facility to upload multiple images for a product from the image gallery section via the upload file button background color and image for calendar events in v11 1, your customers will get the option to add a background color or image to the events added\nDid this page help you?\n\n\nPREVIOUS\nOrders Section\nNEXT\nQuotes Section\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

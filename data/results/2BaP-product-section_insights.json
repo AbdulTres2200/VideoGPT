@@ -1,0 +1,21 @@
+{
+  "id": "txt_872453",
+  "name": "2BaP-product-section",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 11.2 Release Notes\nProduct Section\n\n7 min\nenhancements to master product options in the v11 2 release, some enhancements have been made to the master product options pricing enhancement we have introduced the multiplier on the attribute level of formula based pricing, which will help the admin add more or less of the formula derived price in addition, we have provided the options to override the multiplier and set up costs for specific products during the product assignment stock management in version 11 2, we made the provision to set up the stock of individual or combined product options on the product options listing page, the admin can find \"manage stock\" in the top right corner from the add/edit page, the admin can now maintain the common stock/inventory across all the products that are using the same stock of the product option the stock can be managed with any of these three options \u2013 option wise, attribute wise, and option combination wise in the option wise, the admin can set a common stock quantity for master options and specify multipliers for individual attributes for example, if stock is configured for \u201cgrommets,\u201d enter multipliers (2 for \u201c2 corner,\u201d 4 for \u201c4 corner\u201d) to deduct the respective quantities based on attribute selection if you don't want to deduct quantity for a specific attribute, leave the multiplier field blank for the same in the attribute wise , the admin can manage stock for each attribute individually for example, assign 5000 units for a \u201ccross base\u201d banner stand and 1000 units for a \u201csquare base\" banner stand in the option combination wise , the admin can manage stock for various attribute combinations for instance, you can set stock levels for combinations like 1000 units for a small red full sleeve t shirt and 2000 units for a medium red full sleeve t shirt the admin can also manage the notification when the product stock reaches at a certain point with the stock setting button this screen will allow the admin to enable the \"notify me when the stock reached at\" and \"allow order if the product is out of stock\" for individual product options the history button at the top right corner shows a pop up with all the product's stock history here, admin can filter the stock data for a specific period instead of crediting and debiting stock for each product, the admin can import the stock with an excel file for the same new option type admins can now create a \u201ctext area\u201d product master options as well minor enhancements product option rules for \"textbox\" type admins can create option rules for the \u201ctextbox\u201d type of additional options this is specifically used for the booklet type of product where you can show the specific binding options or other options based on the number of pages refinements in canvas product some enhancements have been made to the canvas product default image on the front store, a default image will be displayed until the customer uploads their own images for personalization from the canvas default events screen, the admin can select the default image and it will be displayed when the product will visit the product info page remove canvas images the customers can remove the images added to the canvas if it is not as per the requirement new addition of canvas effects event to give customers more options to personalize their canvas, new effects have been added to the canvas effects event\nDid this page help you?\n\n\nPREVIOUS\nOrders Section\nNEXT\nQuote Section\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

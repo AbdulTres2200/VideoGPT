@@ -1,0 +1,21 @@
+{
+  "id": "txt_11372",
+  "name": "image-format",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesigner Studio\n\nPDF Block Template\nImage Format\n\n2 min\nimage format property allows you to display images in a specific shape or mask by default, the image is displayed in the square use this property to change the image format this property works only for image blocks how to set up image format? how to set up image format? select any product template and click on the action button and select manage blocks from the drop down from the manage blocks tab, click on the \u2018 manage properties \u2019 link of any block in the manage properties screen, click on the \u2018 add \u2019 button from the top right corner to add a property in the property drop down, select \u2018 image format \u2019 enter the clip path what should i enter in clip path? what should i enter in clip path? enter svg clip path this path is used to set curved text on the selected image block\nDid this page help you?\n\n\nPREVIOUS\nBlock Specific Personalization\nNEXT\nGraphics and PDF Blocks\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

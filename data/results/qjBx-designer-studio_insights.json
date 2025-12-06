@@ -1,0 +1,21 @@
+{
+  "id": "txt_17942",
+  "name": "qjBx-designer-studio",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersion 12.1 Release Notes\nDesigner Studio\n\n6 min\nadvanced qr code styling support in designer studio printers can now offer highly customizable qr codes within the designer studio, allowing customers to personalize designs with logos, colors, and styles for a more branded look the new \u201cadd qr code\u201d screen provides a live preview and supports advanced styling using the latest qr code styling library this enhancement adds value to printing products like business cards, flyers, and packaging minor enhancements auto language translation of template previously, customers browsing design templates in non default languages had to manually translate text or depend on admins for language specific versions\u2014resulting in inconsistent experiences and extra effort the new auto translation setting addresses this by automatically translating template text on load, improving efficiency and providing a smoother, more accessible experience a new setting in studio settings allows admins to enable auto translation of template text when using browse design when enabled, text is automatically translated after the template loads in the designer studio, with a loader shown during the process get clean, scalable vectors from your raster images the new convert raster to vector feature empowers users to enhance image quality and flexibility in their designs with just a click, users can convert raster images (like jpegs or pngs) into clean, scalable vector graphics (svgs) this means no more pixelation when resizing artwork, sharper print output, and easier editing for personalized products adapt templates effortlessly across sizes we\u2019ve introduced a new setting in designer studio called \"resize personalized template\" to enhance the personalization experience when enabled, the system will automatically resize all design elements based on the product\u2019s dimensions while maintaining the original aspect ratio, making it easier for users to work with predefined templates across different product sizes enhance designs with small caps in pdf blocks the small caps font style for the pdf blocks gives the end customers more design flexibility and a professional touch in their print templates this new font style enhances readability and visual appeal, making it ideal for headings, product names, branding elements, and disclaimers in their printed materials to add this property, small caps option has been added to the text formatting block property\nDid this page help you?\n\n\nPREVIOUS\nAdmin Section\nNEXT\nFront Store\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

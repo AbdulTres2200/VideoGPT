@@ -1,0 +1,21 @@
+{
+  "id": "txt_387822",
+  "name": "approval-rules",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nB2B/Private Store - Pro Plan\n\n\nStore Actions\nApproval Rules\n\n2 min\noverview & purpose we have created a provision to reduce down the burden of the lengthy approval process with approval rules store admin can create rules which will auto approve store orders based on different criteria the rules created can be department specific, user specific, product specific, or based on specific condition applied on order amount like equal to, greater or equal to, less or equal to if no rule is created, then all orders will undergo the approval process create rules for creating order approval rules, navigate to the store management >> stores >> select store >> action menu >> approval rules >> add button admin(s) can create rules for the following sections departments selected departments order does not require order approval customers selected customers whose order does not require approval products select the products whose order does not require approval total order amount if rule defined for order amount then the system will check total order amount and if a rule is satisfied then order will be considered as auto approved\nDid this page help you?\n\n\nPREVIOUS\nStore Fields tab\nNEXT\nView Orders\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

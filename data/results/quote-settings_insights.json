@@ -1,0 +1,21 @@
+{
+  "id": "txt_895738",
+  "name": "quote-settings",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders, Quotes & Customers\n\n\nQuotes\nQuote Settings\n\n7 min\nsettings there are several quote related settings that you can set from the admin >> store configuration >> site settings >> store configuration tab on the site settings page, search \"quote\" in the search box enable quote module enable quote module by default, the quote management section is disabled, you can anytime enable it from the \" enable quote module \" setting by selecting yes from the dropdown and vice versa quote request product quote request product this option will allow customers to add one product in a quote or multiple products in a quote depending on your business configurations you can easily select single or multiple product options from the dropdown display existing products' details and options in the quote form display existing products' details and options in the quote form this will allow you to display all the price calculator fields of the particular product i e the details configured in the ops system for the existing products if this is set to \u2018yes\u2019 then all the product details (size and attributes) for the existing product will be displayed in the quote form for every product price calculator field \u2013 size or additional options we have added an \u2018other\u2019 option this option will provide a textbox where one (both customer and admin) can define their custom details the product option rules will only be applicable if it is created based on \u2018select option/other option\u2019 if there are quote extra fields added then they\u2019ll be displayed after the product's price calculator details now for existing quote products, the system will allow a single quantity at the time of quote placement but the admin can give the quotation for multiple quantities (based on configuration setting and site variable for quantity limit) by adding quantity first from editing respective quote product from the quote action screen quote default product type quote default product type this setting will allow you to choose the default option from \"existing\" or \"custom\" product types to be displayed for the request quotes form quote request quantity quote request quantity if the customer has a few different quantities in mind for placing a quote request then this option will give them the flexibility to do so they can anytime add another quantity for the same product and choose later which quantity to order there are two options in the dropdown single quantity and multiple quantity the multiple quantity option will display a \u2018+\u2019 plus sign along with the quantity textbox, as shown below \u2013 the customers can add enter upto 3 different quantities for the same product while requesting for the quote the multiple quantity option will work for existing products only when the value for the \" display existing products' details and options in quote form\" setting is set to \"no\" file upload location of quotes file upload location of quotes we also have an option where customers can upload their artwork or any other file related to the quote product requested thus, we have given flexibility, wherein you can choose where the uploaded file should be saved the options can be \u2013 standard upload, cloud upload, or both select an option that is feasible for your store\nDid this page help you?\n\n\nPREVIOUS\nQuotes\nNEXT\nDashboard\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

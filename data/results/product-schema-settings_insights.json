@@ -1,0 +1,21 @@
+{
+  "id": "txt_746918",
+  "name": "product-schema-settings",
+  "state": "Processed",
+  "videos": [
+    {
+      "insights": {
+        "transcript": [
+          {
+            "text": "\ufffc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders, Quotes & Customers\n\nImposition - Beta Version\nProduct Schema Settings\n\n4 min\noverview & purpose this is where you can configure an imposition schema for individual products based on product size you can search for products or their size titles using keywords only one imposition schema can be configured for one product size at a time order and impose flow \u2013 admin panel once you assign a schema to a product or the ordered product is sheet based, then you will have to impose the job on the sheet assigned to do the same follow the steps below \u2013 assign a schema to products from admin >> imposition beta >> product schema settings once you receive an order of the schema assigned products go to admin >> list orders under the action menu of the order, you\u2019ll find the \u2018 impose order \u2019 option this will redirect you to the impose order screen if the customer has created/uploaded the design, then you get the option to download the user file or re upload the print ready file the schema selected in the product schema setting will come pre selected in this section however, you can change the schema or continue clicking on \u2018 impose now \u2019 will allow you to download the print ready imposed file\nDid this page help you?\n\n\nPREVIOUS\nImposition Marks Management\nNEXT\nCustomers\n\n\n"
+          }
+        ]
+      }
+    }
+  ],
+  "summarizedInsights": {
+    "keywords": [],
+    "labels": [],
+    "summary": {}
+  }
+}

@@ -1,0 +1,1264 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "a9696e33-fd7a-4070-83f6-fc8d2e06633a",
+  "id": "y6rhf0ro7f",
+  "name": "Uploads from OnPrintShop Web-to-Print Storefront - 326 - Meet Team OnPrintShop a",
+  "userName": "Abdul Moiz",
+  "created": "2025-11-01T09:56:10.74+00:00",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 32,
+  "duration": "0:00:32.067",
+  "summarizedInsights": {
+    "name": "Uploads from OnPrintShop Web-to-Print Storefront - 326 - Meet Team OnPrintShop a",
+    "id": "y6rhf0ro7f",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:00:32.067",
+      "seconds": 32.1
+    },
+    "thumbnailVideoId": "y6rhf0ro7f",
+    "thumbnailId": "6cb7fcde-7864-461f-9900-4e5936b3a14f",
+    "faces": [],
+    "keywords": [],
+    "sentiments": [],
+    "emotions": [],
+    "audioEffects": [],
+    "labels": [
+      {
+        "id": 1,
+        "name": "text",
+        "appearances": [
+          {
+            "confidence": 0.9892,
+            "startTime": "0:00:02",
+            "endTime": "0:00:08.0166667",
+            "startSeconds": 2,
+            "endSeconds": 8
+          },
+          {
+            "confidence": 0.9989,
+            "startTime": "0:00:18",
+            "endTime": "0:00:32.0166667",
+            "startSeconds": 18,
+            "endSeconds": 32
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "graphic design",
+        "appearances": [
+          {
+            "confidence": 0.9504,
+            "startTime": "0:00:25",
+            "endTime": "0:00:30.0166667",
+            "startSeconds": 25,
+            "endSeconds": 30
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "violet",
+        "appearances": [
+          {
+            "confidence": 0.9624,
+            "startTime": "0:00:04",
+            "endTime": "0:00:05.0166667",
+            "startSeconds": 4,
+            "endSeconds": 5
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "comet",
+        "appearances": [
+          {
+            "confidence": 0.9913,
+            "startTime": "0:00:16",
+            "endTime": "0:00:16.0166667",
+            "startSeconds": 16,
+            "endSeconds": 16
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "space",
+        "appearances": [
+          {
+            "confidence": 0.96,
+            "startTime": "0:00:16",
+            "endTime": "0:00:16.0166667",
+            "startSeconds": 16,
+            "endSeconds": 16
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "graphics",
+        "appearances": [
+          {
+            "confidence": 0.9511,
+            "startTime": "0:00:27",
+            "endTime": "0:00:27.0166667",
+            "startSeconds": 27,
+            "endSeconds": 27
+          }
+        ]
+      }
+    ],
+    "framePatterns": [
+      {
+        "displayName": null,
+        "id": 1,
+        "name": "Black",
+        "appearances": [
+          {
+            "confidence": 0,
+            "startTime": "0:00:00",
+            "endTime": "0:00:15.9166667",
+            "startSeconds": 0,
+            "endSeconds": 15.9
+          }
+        ]
+      }
+    ],
+    "brands": [],
+    "namedLocations": [
+      {
+        "referenceId": "D\u00fcsseldorf",
+        "referenceUrl": "https://en.wikipedia.org/wiki/D\u00fcsseldorf",
+        "confidence": 0.82,
+        "description": "D\u00fcsseldorf (UK: /\u02c8d\u028as\u0259ld\u0254\u02d0rf/, US: /\u02c8dju\u02d0s\u0259ld\u0254\u02d0rf/, German: [\u02c8d\u028fsl\u0329d\u0254\u0250\u032ff] ; often Dusseldorf in English sources; Low Franconian and Ripuarian: D\u00fcsseld\u00f6rp [\u02c8d\u028fsl\u0329d\u0153\u0250\u032fp]; archaic Dutch: Dusseldorp) is the capital and second-largest city of the most populous German federal state of North Rhine-Westphalia after Cologne, as well as the seventh-largest city in Germany, with a population of 617,280. At the confluence of the Rhine and its tributary D\u00fcssel, the city lies in the centre of both the Rhine-Ruhr and the Rhineland Metropolitan Regions with the Cologne Bonn Region to its south and the Ruhr to its north. Most of the city lies on the right bank of the Rhine (as opposed to Cologne, whose city centre lies on the river's left bank). The city is the largest in the German Low Franconian dialect area (closely related to Dutch). \"Dorf\" meaning \"village\" in German, the \"-dorf\" suffix (English cognate: thorp) is unusual in the German-speaking area for a settlement of D\u00fcsseldorf's size.",
+        "seenDuration": 4,
+        "id": 1,
+        "name": "D\u00fcsseldorf",
+        "appearances": [
+          {
+            "startTime": "0:00:28",
+            "endTime": "0:00:32.0166667",
+            "startSeconds": 28,
+            "endSeconds": 32
+          }
+        ]
+      }
+    ],
+    "namedPeople": [],
+    "statistics": {
+      "correspondenceCount": 0,
+      "speakerTalkToListenRatio": {},
+      "speakerLongestMonolog": {},
+      "speakerNumberOfFragments": {},
+      "speakerWordCount": {}
+    },
+    "topics": []
+  },
+  "videos": [
+    {
+      "accountId": "a9696e33-fd7a-4070-83f6-fc8d2e06633a",
+      "id": "y6rhf0ro7f",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:00:32.067",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [
+          "en-US"
+        ],
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "ocr": [
+          {
+            "id": 1,
+            "text": "Experience Unprecedented",
+            "confidence": 0.994,
+            "left": 399,
+            "top": 437,
+            "width": 1113,
+            "height": 102,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:02.0166667",
+                "start": "0:00:01",
+                "end": "0:00:02.0166667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "EFFICIENCY",
+            "confidence": 0.993,
+            "left": 502,
+            "top": 560,
+            "width": 907,
+            "height": 134,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:02.0166667",
+                "start": "0:00:01",
+                "end": "0:00:02.0166667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "Be Prepared for a Surge in",
+            "confidence": 0.9967,
+            "left": 353,
+            "top": 474,
+            "width": 1212,
+            "height": 88,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03",
+                "adjustedEnd": "0:00:05.0166667",
+                "start": "0:00:03",
+                "end": "0:00:05.0166667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "PRINT VOLUME",
+            "confidence": 0.998,
+            "left": 407,
+            "top": 575,
+            "width": 1096,
+            "height": 119,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:04",
+                "adjustedEnd": "0:00:05.0166667",
+                "start": "0:00:04",
+                "end": "0:00:05.0166667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "and GROWTH",
+            "confidence": 0.997,
+            "left": 529,
+            "top": 475,
+            "width": 856,
+            "height": 111,
+            "angle": -1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.0166667",
+                "start": "0:00:06",
+                "end": "0:00:07.0166667"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "in Sales",
+            "confidence": 0.998,
+            "left": 708,
+            "top": 670,
+            "width": 507,
+            "height": 85,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:06",
+                "adjustedEnd": "0:00:07.0166667",
+                "start": "0:00:06",
+                "end": "0:00:07.0166667"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "Witness Next-gen",
+            "confidence": 0.996,
+            "left": 564,
+            "top": 454,
+            "width": 801,
+            "height": 87,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:10.0166667",
+                "start": "0:00:08",
+                "end": "0:00:10.0166667"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "SPEED",
+            "confidence": 0.998,
+            "left": 703,
+            "top": 582,
+            "width": 505,
+            "height": 120,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:09",
+                "adjustedEnd": "0:00:10.0166667",
+                "start": "0:00:09",
+                "end": "0:00:10.0166667"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "F RM N",
+            "confidence": 0.991,
+            "left": 671,
+            "top": 501,
+            "width": 643,
+            "height": 120,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11",
+                "adjustedEnd": "0:00:11.0166667",
+                "start": "0:00:11",
+                "end": "0:00:11.0166667"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "PERFORMANCE",
+            "confidence": 0.995,
+            "left": 367,
+            "top": 501,
+            "width": 1191,
+            "height": 126,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12",
+                "adjustedEnd": "0:00:13.0166667",
+                "start": "0:00:12",
+                "end": "0:00:13.0166667"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "and BEYOND ...",
+            "confidence": 0.9967,
+            "left": 408,
+            "top": 522,
+            "width": 1132,
+            "height": 124,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:14",
+                "adjustedEnd": "0:00:15.0166667",
+                "start": "0:00:14",
+                "end": "0:00:15.0166667"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "OnPrintShop",
+            "confidence": 0.994,
+            "left": 318,
+            "top": 590,
+            "width": 578,
+            "height": 96,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:18",
+                "adjustedEnd": "0:00:23.0166667",
+                "start": "0:00:18",
+                "end": "0:00:23.0166667"
+              },
+              {
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:32.0166667",
+                "start": "0:00:25",
+                "end": "0:00:32.0166667"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "TM",
+            "confidence": 0.994,
+            "left": 861,
+            "top": 592,
+            "width": 32,
+            "height": 23,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:18",
+                "adjustedEnd": "0:00:21.0166667",
+                "start": "0:00:18",
+                "end": "0:00:21.0166667"
+              },
+              {
+                "adjustedStart": "0:00:23",
+                "adjustedEnd": "0:00:32.0166667",
+                "start": "0:00:23",
+                "end": "0:00:32.0166667"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "Web-to-Print Storefront",
+            "confidence": 0.9945,
+            "left": 315,
+            "top": 696,
+            "width": 582,
+            "height": 50,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:18",
+                "adjustedEnd": "0:00:32.0166667",
+                "start": "0:00:18",
+                "end": "0:00:32.0166667"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "at",
+            "confidence": 0.998,
+            "left": 963,
+            "top": 517,
+            "width": 84,
+            "height": 53,
+            "angle": -3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:19",
+                "adjustedEnd": "0:00:20.0166667",
+                "start": "0:00:19",
+                "end": "0:00:20.0166667"
+              },
+              {
+                "adjustedStart": "0:00:23",
+                "adjustedEnd": "0:00:32.0166667",
+                "start": "0:00:23",
+                "end": "0:00:32.0166667"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "drupa",
+            "confidence": 0.946,
+            "left": 627,
+            "top": 715,
+            "width": 585,
+            "height": 164,
+            "angle": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22",
+                "adjustedEnd": "0:00:32.0166667",
+                "start": "0:00:22",
+                "end": "0:00:32.0166667"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "HALL 7A/D21",
+            "confidence": 0.9965,
+            "left": 399,
+            "top": 765,
+            "width": 464,
+            "height": 95,
+            "angle": 0,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26",
+                "adjustedEnd": "0:00:32.0166667",
+                "start": "0:00:26",
+                "end": "0:00:32.0166667"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "May 28 - June 7, 2024",
+            "confidence": 0.9957,
+            "left": 989,
+            "top": 753,
+            "width": 527,
+            "height": 55,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:27",
+                "adjustedEnd": "0:00:32.0166667",
+                "start": "0:00:27",
+                "end": "0:00:32.0166667"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "D\u00fcsseldorf, Germany",
+            "confidence": 0.9935,
+            "left": 989,
+            "top": 825,
+            "width": 512,
+            "height": 54,
+            "angle": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:32.0166667",
+                "start": "0:00:28",
+                "end": "0:00:32.0166667"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "text",
+            "referenceId": "communication/writing/text",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9765,
+                "adjustedStart": "0:00:02",
+                "adjustedEnd": "0:00:02.0166667",
+                "start": "0:00:02",
+                "end": "0:00:02.0166667"
+              },
+              {
+                "confidence": 0.9814,
+                "adjustedStart": "0:00:05",
+                "adjustedEnd": "0:00:05.0166667",
+                "start": "0:00:05",
+                "end": "0:00:05.0166667"
+              },
+              {
+                "confidence": 0.9892,
+                "adjustedStart": "0:00:08",
+                "adjustedEnd": "0:00:08.0166667",
+                "start": "0:00:08",
+                "end": "0:00:08.0166667"
+              },
+              {
+                "confidence": 0.9991,
+                "adjustedStart": "0:00:18",
+                "adjustedEnd": "0:00:18.0166667",
+                "start": "0:00:18",
+                "end": "0:00:18.0166667"
+              },
+              {
+                "confidence": 0.9584,
+                "adjustedStart": "0:00:20",
+                "adjustedEnd": "0:00:20.0166667",
+                "start": "0:00:20",
+                "end": "0:00:20.0166667"
+              },
+              {
+                "confidence": 0.9989,
+                "adjustedStart": "0:00:22",
+                "adjustedEnd": "0:00:32.0166667",
+                "start": "0:00:22",
+                "end": "0:00:32.0166667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "violet",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9624,
+                "adjustedStart": "0:00:04",
+                "adjustedEnd": "0:00:05.0166667",
+                "start": "0:00:04",
+                "end": "0:00:05.0166667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "comet",
+            "referenceId": "natural object/extraterrestrial object/comet",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9913,
+                "adjustedStart": "0:00:16",
+                "adjustedEnd": "0:00:16.0166667",
+                "start": "0:00:16",
+                "end": "0:00:16.0166667"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "space",
+            "referenceId": "space",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.96,
+                "adjustedStart": "0:00:16",
+                "adjustedEnd": "0:00:16.0166667",
+                "start": "0:00:16",
+                "end": "0:00:16.0166667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "graphic design",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9518,
+                "adjustedStart": "0:00:25",
+                "adjustedEnd": "0:00:27.0166667",
+                "start": "0:00:25",
+                "end": "0:00:27.0166667"
+              },
+              {
+                "confidence": 0.9504,
+                "adjustedStart": "0:00:29",
+                "adjustedEnd": "0:00:30.0166667",
+                "start": "0:00:29",
+                "end": "0:00:30.0166667"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "graphics",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9511,
+                "adjustedStart": "0:00:27",
+                "adjustedEnd": "0:00:27.0166667",
+                "start": "0:00:27",
+                "end": "0:00:27.0166667"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:05.2666667",
+                "start": "0:00:00",
+                "end": "0:00:05.2666667"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:00:05.2666667",
+                "adjustedEnd": "0:00:10.7166667",
+                "start": "0:00:05.2666667",
+                "end": "0:00:10.7166667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "instances": [
+              {
+                "adjustedStart": "0:00:10.7166667",
+                "adjustedEnd": "0:00:19.9",
+                "start": "0:00:10.7166667",
+                "end": "0:00:19.9"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "instances": [
+              {
+                "adjustedStart": "0:00:19.9",
+                "adjustedEnd": "0:00:32.0166667",
+                "start": "0:00:19.9",
+                "end": "0:00:32.0166667"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "3850a9d7-97c1-465a-9bad-a21dd3037290",
+                    "adjustedStart": "0:00:00.45",
+                    "adjustedEnd": "0:00:00.4666667",
+                    "start": "0:00:00.45",
+                    "end": "0:00:00.4666667"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "779bf2c3-0e81-4ca4-820c-7951bedcb9fd",
+                    "adjustedStart": "0:00:01.3833333",
+                    "adjustedEnd": "0:00:01.4",
+                    "start": "0:00:01.3833333",
+                    "end": "0:00:01.4"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:02.5833333",
+                "start": "0:00:00",
+                "end": "0:00:02.5833333"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "keyFrames": [
+              {
+                "id": 3,
+                "instances": [
+                  {
+                    "thumbnailId": "b835f7d7-17ca-4c84-90bc-49a0dd1e1e0a",
+                    "adjustedStart": "0:00:03.2",
+                    "adjustedEnd": "0:00:03.2166667",
+                    "start": "0:00:03.2",
+                    "end": "0:00:03.2166667"
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "instances": [
+                  {
+                    "thumbnailId": "6740d008-9dd8-43b2-86fd-5814baeb0ad1",
+                    "adjustedStart": "0:00:03.9666667",
+                    "adjustedEnd": "0:00:03.9833333",
+                    "start": "0:00:03.9666667",
+                    "end": "0:00:03.9833333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:02.5833333",
+                "adjustedEnd": "0:00:05.2666667",
+                "start": "0:00:02.5833333",
+                "end": "0:00:05.2666667"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "keyFrames": [
+              {
+                "id": 5,
+                "instances": [
+                  {
+                    "thumbnailId": "13abc07a-3cbf-42d9-90c4-34812c53b627",
+                    "adjustedStart": "0:00:05.2833333",
+                    "adjustedEnd": "0:00:05.3",
+                    "start": "0:00:05.2833333",
+                    "end": "0:00:05.3"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:05.2666667",
+                "adjustedEnd": "0:00:07.9",
+                "start": "0:00:05.2666667",
+                "end": "0:00:07.9"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "keyFrames": [
+              {
+                "id": 6,
+                "instances": [
+                  {
+                    "thumbnailId": "1662e5a2-9e1c-4031-bd08-b00afb2ae20c",
+                    "adjustedStart": "0:00:07.9166667",
+                    "adjustedEnd": "0:00:07.9333333",
+                    "start": "0:00:07.9166667",
+                    "end": "0:00:07.9333333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:07.9",
+                "adjustedEnd": "0:00:10.7166667",
+                "start": "0:00:07.9",
+                "end": "0:00:10.7166667"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "keyFrames": [
+              {
+                "id": 7,
+                "instances": [
+                  {
+                    "thumbnailId": "d3d62fe2-b9be-4293-a937-b519d3dade9f",
+                    "adjustedStart": "0:00:11.05",
+                    "adjustedEnd": "0:00:11.0666667",
+                    "start": "0:00:11.05",
+                    "end": "0:00:11.0666667"
+                  }
+                ]
+              },
+              {
+                "id": 8,
+                "instances": [
+                  {
+                    "thumbnailId": "505c9e16-68db-46ee-8c12-38df7706776e",
+                    "adjustedStart": "0:00:11.8833333",
+                    "adjustedEnd": "0:00:11.9",
+                    "start": "0:00:11.8833333",
+                    "end": "0:00:11.9"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:10.7166667",
+                "adjustedEnd": "0:00:13.35",
+                "start": "0:00:10.7166667",
+                "end": "0:00:13.35"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "keyFrames": [
+              {
+                "id": 9,
+                "instances": [
+                  {
+                    "thumbnailId": "2cc1e9ac-d674-4550-82d3-34a5cb65b429",
+                    "adjustedStart": "0:00:13.8166667",
+                    "adjustedEnd": "0:00:13.8333333",
+                    "start": "0:00:13.8166667",
+                    "end": "0:00:13.8333333"
+                  }
+                ]
+              },
+              {
+                "id": 10,
+                "instances": [
+                  {
+                    "thumbnailId": "f1027927-73b1-4219-8491-b26e78b764fa",
+                    "adjustedStart": "0:00:14.6166667",
+                    "adjustedEnd": "0:00:14.6333333",
+                    "start": "0:00:14.6166667",
+                    "end": "0:00:14.6333333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:13.35",
+                "adjustedEnd": "0:00:15.85",
+                "start": "0:00:13.35",
+                "end": "0:00:15.85"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "keyFrames": [
+              {
+                "id": 11,
+                "instances": [
+                  {
+                    "thumbnailId": "e49ad680-421e-4c30-9cf4-522caa1a295b",
+                    "adjustedStart": "0:00:15.8666667",
+                    "adjustedEnd": "0:00:15.8833333",
+                    "start": "0:00:15.8666667",
+                    "end": "0:00:15.8833333"
+                  }
+                ]
+              },
+              {
+                "id": 12,
+                "instances": [
+                  {
+                    "thumbnailId": "01fbe3c9-1d4b-42e1-9326-4a5ca743750d",
+                    "adjustedStart": "0:00:16.4166667",
+                    "adjustedEnd": "0:00:16.4333333",
+                    "start": "0:00:16.4166667",
+                    "end": "0:00:16.4333333"
+                  }
+                ]
+              },
+              {
+                "id": 13,
+                "instances": [
+                  {
+                    "thumbnailId": "e98181a4-1154-428c-b685-18a3787b14ed",
+                    "adjustedStart": "0:00:16.85",
+                    "adjustedEnd": "0:00:16.8666667",
+                    "start": "0:00:16.85",
+                    "end": "0:00:16.8666667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:15.85",
+                "adjustedEnd": "0:00:17.0666667",
+                "start": "0:00:15.85",
+                "end": "0:00:17.0666667"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "keyFrames": [
+              {
+                "id": 14,
+                "instances": [
+                  {
+                    "thumbnailId": "5f7a5b32-fc28-4f96-b10a-3c94bee15988",
+                    "adjustedStart": "0:00:17.5",
+                    "adjustedEnd": "0:00:17.5166667",
+                    "start": "0:00:17.5",
+                    "end": "0:00:17.5166667"
+                  }
+                ]
+              },
+              {
+                "id": 15,
+                "instances": [
+                  {
+                    "thumbnailId": "c822aee7-e83a-41bc-b17a-b4f691610c96",
+                    "adjustedStart": "0:00:18.6",
+                    "adjustedEnd": "0:00:18.6166667",
+                    "start": "0:00:18.6",
+                    "end": "0:00:18.6166667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:17.1666667",
+                "adjustedEnd": "0:00:19.9",
+                "start": "0:00:17.1666667",
+                "end": "0:00:19.9"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "keyFrames": [
+              {
+                "id": 16,
+                "instances": [
+                  {
+                    "thumbnailId": "3f9c05c1-053a-415b-a54c-26c832c7ddf8",
+                    "adjustedStart": "0:00:20.0333333",
+                    "adjustedEnd": "0:00:20.05",
+                    "start": "0:00:20.0333333",
+                    "end": "0:00:20.05"
+                  }
+                ]
+              },
+              {
+                "id": 17,
+                "instances": [
+                  {
+                    "thumbnailId": "4ead229b-9d84-4a65-876a-7fa16f4220cb",
+                    "adjustedStart": "0:00:20.55",
+                    "adjustedEnd": "0:00:20.5666667",
+                    "start": "0:00:20.55",
+                    "end": "0:00:20.5666667"
+                  }
+                ]
+              },
+              {
+                "id": 18,
+                "instances": [
+                  {
+                    "thumbnailId": "cdb2e14b-33f7-42b7-8c68-f870a68d14e8",
+                    "adjustedStart": "0:00:21.15",
+                    "adjustedEnd": "0:00:21.1666667",
+                    "start": "0:00:21.15",
+                    "end": "0:00:21.1666667"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:19.9",
+                "adjustedEnd": "0:00:21.1666667",
+                "start": "0:00:19.9",
+                "end": "0:00:21.1666667"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "keyFrames": [
+              {
+                "id": 19,
+                "instances": [
+                  {
+                    "thumbnailId": "0ccb1d44-6dc2-47f2-a055-02e53d37dcc6",
+                    "adjustedStart": "0:00:21.8333333",
+                    "adjustedEnd": "0:00:21.85",
+                    "start": "0:00:21.8333333",
+                    "end": "0:00:21.85"
+                  }
+                ]
+              },
+              {
+                "id": 20,
+                "instances": [
+                  {
+                    "thumbnailId": "e4026bd0-004b-4309-bac5-11935211bda5",
+                    "adjustedStart": "0:00:25.8333333",
+                    "adjustedEnd": "0:00:25.85",
+                    "start": "0:00:25.8333333",
+                    "end": "0:00:25.85"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:21.2666667",
+                "adjustedEnd": "0:00:32.0166667",
+                "start": "0:00:21.2666667",
+                "end": "0:00:32.0166667"
+              }
+            ]
+          }
+        ],
+        "namedLocations": [
+          {
+            "id": 1,
+            "name": "D\u00fcsseldorf",
+            "referenceId": "D\u00fcsseldorf",
+            "referenceUrl": "https://en.wikipedia.org/wiki/D\u00fcsseldorf",
+            "description": "D\u00fcsseldorf (UK: /\u02c8d\u028as\u0259ld\u0254\u02d0rf/, US: /\u02c8dju\u02d0s\u0259ld\u0254\u02d0rf/, German: [\u02c8d\u028fsl\u0329d\u0254\u0250\u032ff] ; often Dusseldorf in English sources; Low Franconian and Ripuarian: D\u00fcsseld\u00f6rp [\u02c8d\u028fsl\u0329d\u0153\u0250\u032fp]; archaic Dutch: Dusseldorp) is the capital and second-largest city of the most populous German federal state of North Rhine-Westphalia after Cologne, as well as the seventh-largest city in Germany, with a population of 617,280. At the confluence of the Rhine and its tributary D\u00fcssel, the city lies in the centre of both the Rhine-Ruhr and the Rhineland Metropolitan Regions with the Cologne Bonn Region to its south and the Ruhr to its north. Most of the city lies on the right bank of the Rhine (as opposed to Cologne, whose city centre lies on the river's left bank). The city is the largest in the German Low Franconian dialect area (closely related to Dutch). \"Dorf\" meaning \"village\" in German, the \"-dorf\" suffix (English cognate: thorp) is unusual in the German-speaking area for a settlement of D\u00fcsseldorf's size.",
+            "tags": [],
+            "confidence": 0.82,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:00:28",
+                "adjustedEnd": "0:00:32.0166667",
+                "start": "0:00:28",
+                "end": "0:00:32.0166667"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:30",
+                "start": "0:00:00",
+                "end": "0:00:30"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:30",
+                "adjustedEnd": "0:00:32.067",
+                "start": "0:00:30",
+                "end": "0:00:32.067"
+              }
+            ]
+          }
+        ],
+        "framePatterns": [
+          {
+            "id": 1,
+            "patternType": "Black",
+            "confidence": 1,
+            "displayName": null,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:00.0833333",
+                "start": "0:00:00",
+                "end": "0:00:00.0833333"
+              },
+              {
+                "adjustedStart": "0:00:02.5833333",
+                "adjustedEnd": "0:00:02.6666667",
+                "start": "0:00:02.5833333",
+                "end": "0:00:02.6666667"
+              },
+              {
+                "adjustedStart": "0:00:05.2666667",
+                "adjustedEnd": "0:00:05.35",
+                "start": "0:00:05.2666667",
+                "end": "0:00:05.35"
+              },
+              {
+                "adjustedStart": "0:00:07.9",
+                "adjustedEnd": "0:00:07.9666667",
+                "start": "0:00:07.9",
+                "end": "0:00:07.9666667"
+              },
+              {
+                "adjustedStart": "0:00:10.7166667",
+                "adjustedEnd": "0:00:10.7833333",
+                "start": "0:00:10.7166667",
+                "end": "0:00:10.7833333"
+              },
+              {
+                "adjustedStart": "0:00:13.35",
+                "adjustedEnd": "0:00:13.4166667",
+                "start": "0:00:13.35",
+                "end": "0:00:13.4166667"
+              },
+              {
+                "adjustedStart": "0:00:15.85",
+                "adjustedEnd": "0:00:15.9166667",
+                "start": "0:00:15.85",
+                "end": "0:00:15.9166667"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 0,
+          "speakerTalkToListenRatio": {},
+          "speakerLongestMonolog": {},
+          "speakerNumberOfFragments": {},
+          "speakerWordCount": {}
+        }
+      },
+      "thumbnailId": "6cb7fcde-7864-461f-9900-4e5936b3a14f",
+      "width": 1920,
+      "height": 1080,
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [
+        "en-US"
+      ],
+      "language": "en-US",
+      "languages": [
+        "en-US"
+      ],
+      "indexingPreset": "Default",
+      "streamingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "logoGroupId": null,
+      "isAdult": false,
+      "excludedAIs": [],
+      "isSearchable": true,
+      "publishedUrl": "https://api.videoindexer.ai/internals/Trial/Accounts/a9696e33-fd7a-4070-83f6-fc8d2e06633a/Videos/y6rhf0ro7f/streaming-manifest/manifest.m3u8",
+      "publishedProxyUrl": null,
+      "viewToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJWZXJzaW9uIjoiMi4wLjAuMCIsIktleVZlcnNpb24iOiI1YmZmYWI1MTUwZWI0NGM4ODMzNzE2NzVhNzcwYzU4YSIsIkFjY291bnRJZCI6ImE5Njk2ZTMzLWZkN2EtNDA3MC04M2Y2LWZjOGQyZTA2NjMzYSIsIkFjY291bnRUeXBlIjoiVHJpYWwiLCJWaWRlb0lkIjoieTZyaGYwcm83ZiIsIlBlcm1pc3Npb24iOiJSZXN0cmljdGVkVmlld2VyIiwiRXh0ZXJuYWxVc2VySWQiOiI4YzQ5NmY2ZThlZTZlYTIyIiwiVXNlclR5cGUiOiJNaWNyb3NvZnQiLCJJc3N1ZXJMb2NhdGlvbiI6IlRyaWFsIiwibmJmIjoxNzYxOTkwNzkzLCJleHAiOjE3NjE5OTQ2OTMsImlzcyI6Imh0dHBzOi8vYXBpLnZpZGVvaW5kZXhlci5haS8iLCJhdWQiOiJodHRwczovL2FwaS52aWRlb2luZGV4ZXIuYWkvIn0.kkL6lMBAN3G59Yh1Q2SiaqH_JaQUZ1cYulJfx_a5ELTJwyU_nqFovpcrINOQLzLvcSiUVzJBwvrlAgJCU_uCvxkgWyP2gu4kYwEcBXKtrQ1GwDxCPQb6YCMfyoyBWMo_dug6p5yEql5D-VFAxF43lB7KUBL2qmm1rg6gAWqdPb5DT5dNnedUXMqjmN-Eo4UogKaYH8qTMEBk7w2uTJW5Aryw9JKR-Mc8cloX6fybcRPROs7tMIBAGlk4J2JepekcloObG01nx8cBKnJj14ru2rL4iLjIP-D5igFtpa3GtzzEGikQCa1N5ZbOshDXekc9ztY6lEQ9SRVyN8XdZdVojA"
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "y6rhf0ro7f",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:00:32.067"
+      }
+    }
+  ]
+}
