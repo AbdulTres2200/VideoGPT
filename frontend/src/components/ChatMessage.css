@@ -1,17 +1,31 @@
 .message {
-  padding: 1.5rem;
+  padding: 1.75rem;
   display: flex;
   flex-direction: column;
+  position: relative;
 }
 
 .message-user {
-  background-color: transparent;
+  background: transparent;
 }
 
 .message-ai {
-  background-color: var(--bg-color);
+  background: var(--message-ai-bg);
+  backdrop-filter: blur(10px);
   border-top: 1px solid var(--border-color);
   border-bottom: 1px solid var(--border-color);
+  position: relative;
+}
+
+.message-ai::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: var(--gradient-primary);
+  opacity: 0.5;
 }
 
 .message-content {
@@ -25,18 +39,21 @@
 
 .message-avatar {
   flex-shrink: 0;
-  width: 32px;
-  height: 32px;
-  border-radius: 0.375rem;
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(135deg, var(--primary-color), #8b5cf6);
+  background: var(--gradient-primary);
+  box-shadow: var(--glow-primary);
 }
 
 .user-avatar {
-  background: var(--message-user-bg);
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-color);
   color: var(--text-secondary);
+  box-shadow: none;
 }
 
 .message-text {
@@ -47,13 +64,13 @@
 .message-body {
   color: var(--text-primary);
   word-wrap: break-word;
-  line-height: 1.75;
+  line-height: 1.8;
 }
 
 /* Markdown Styles */
 .markdown-p {
   margin-bottom: 1rem;
-  line-height: 1.75;
+  line-height: 1.8;
 }
 
 .markdown-p:last-child {
@@ -67,21 +84,25 @@
   margin-bottom: 1rem;
   line-height: 1.3;
   color: var(--text-primary);
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
 .markdown-h2 {
   font-size: 1.5rem;
   font-weight: 600;
-  margin-top: 1.25rem;
+  margin-top: 1.5rem;
   margin-bottom: 0.75rem;
   line-height: 1.4;
-  color: var(--text-primary);
+  color: var(--primary-light);
 }
 
 .markdown-h3 {
   font-size: 1.25rem;
   font-weight: 600;
-  margin-top: 1rem;
+  margin-top: 1.25rem;
   margin-bottom: 0.5rem;
   line-height: 1.5;
   color: var(--text-primary);
@@ -96,8 +117,9 @@
 
 .markdown-li {
   margin-bottom: 0.5rem;
-  line-height: 1.75;
+  line-height: 1.8;
   padding-left: 0.25rem;
+  color: var(--text-primary);
 }
 
 .markdown-ol {
@@ -108,69 +130,84 @@
   counter-increment: list-counter;
   list-style: none;
   position: relative;
-  padding-left: 1.5rem;
+  padding-left: 1.75rem;
 }
 
 .markdown-ol .markdown-li::before {
-  content: counter(list-counter) ".";
+  content: counter(list-counter);
   position: absolute;
   left: 0;
+  width: 22px;
+  height: 22px;
+  background: var(--gradient-primary);
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-weight: 600;
-  color: var(--primary-color);
+  font-size: 0.75rem;
+  color: var(--bg-color);
 }
 
 .markdown-strong {
   font-weight: 600;
-  color: var(--text-primary);
+  color: var(--primary-light);
 }
 
 .markdown-em {
   font-style: italic;
-  color: var(--text-primary);
+  color: var(--text-secondary);
 }
 
 .markdown-code-inline {
-  background-color: var(--bg-secondary);
-  padding: 0.125rem 0.375rem;
-  border-radius: 0.25rem;
+  background: var(--bg-tertiary);
+  padding: 0.2rem 0.5rem;
+  border-radius: 6px;
   font-size: 0.875em;
-  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
   color: var(--primary-color);
   border: 1px solid var(--border-color);
 }
 
 .markdown-code-block {
   display: block;
-  background-color: var(--bg-secondary);
-  padding: 1rem;
-  border-radius: 0.5rem;
+  background: var(--bg-tertiary);
+  padding: 1.25rem;
+  border-radius: 12px;
   font-size: 0.875rem;
-  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
   overflow-x: auto;
   margin: 1rem 0;
   border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  box-shadow: inset 0 2px 10px rgba(0, 0, 0, 0.3);
 }
 
 .markdown-blockquote {
-  border-left: 4px solid var(--primary-color);
+  border-left: 3px solid var(--primary-color);
   padding-left: 1rem;
   margin: 1rem 0;
   color: var(--text-secondary);
   font-style: italic;
+  background: var(--bg-glass);
+  padding: 1rem;
+  border-radius: 0 8px 8px 0;
 }
 
 .typing-indicator {
   display: inline-flex;
-  gap: 0.25rem;
+  gap: 0.35rem;
   align-items: center;
+  padding: 0.5rem 0;
 }
 
 .typing-indicator span {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background-color: var(--text-secondary);
+  background: var(--primary-color);
   animation: typing 1.4s infinite;
+  box-shadow: 0 0 10px var(--primary-color);
 }
 
 .typing-indicator span:nth-child(2) {
@@ -184,28 +221,31 @@
 @keyframes typing {
   0%, 60%, 100% {
     transform: translateY(0);
-    opacity: 0.7;
+    opacity: 0.5;
   }
   30% {
-    transform: translateY(-10px);
+    transform: translateY(-12px);
     opacity: 1;
+    box-shadow: 0 0 20px var(--primary-color);
   }
 }
 
 .message-sources {
-  margin-top: 1.5rem;
+  margin-top: 1.75rem;
   padding-top: 1.5rem;
   border-top: 1px solid var(--border-color);
 }
 
 .sources-header {
-  font-size: 0.875rem;
+  font-size: 0.8rem;
   font-weight: 600;
-  color: var(--text-secondary);
-  margin-bottom: 0.75rem;
+  color: var(--text-muted);
+  margin-bottom: 0.875rem;
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
 }
 
 .sources-header svg {
@@ -220,18 +260,20 @@
 }
 
 .source-item {
-  padding: 0.75rem;
-  background: linear-gradient(to right, var(--bg-secondary), var(--bg-color));
-  border-radius: 0.5rem;
+  padding: 0.875rem 1rem;
+  background: var(--bg-glass);
+  backdrop-filter: blur(10px);
+  border-radius: 10px;
   border: 1px solid var(--border-color);
-  transition: all 0.2s;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   cursor: pointer;
 }
 
 .source-item:hover {
-  border-color: var(--primary-light);
-  box-shadow: 0 2px 8px rgba(99, 102, 241, 0.1);
-  transform: translateX(2px);
+  border-color: var(--primary-color);
+  box-shadow: var(--glow-primary);
+  transform: translateX(4px);
+  background: var(--hover-color);
 }
 
 .source-name {
@@ -248,14 +290,12 @@
 .source-name svg {
   color: var(--primary-color);
   flex-shrink: 0;
-  opacity: 0.7;
 }
 
 .source-file {
   font-size: 0.75rem;
-  color: var(--text-secondary);
-  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+  color: var(--text-muted);
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
   padding-left: 1.625rem;
   word-break: break-all;
 }
-

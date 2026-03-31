@@ -2,13 +2,18 @@
 FastAPI router for video insights RAG query system.
 """
 import os
+# Allow OAuth scope changes (Google may return different scope order or add openid)
+os.environ['OAUTHLIB_RELAX_TOKEN_SCOPE'] = '1'
+
 import sys
 import uuid
 from pathlib import Path
 from typing import Optional, List, Dict
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import StreamingResponse
+from fastapi.responses import StreamingResponse, RedirectResponse
+from google_auth_oauthlib.flow import Flow
+from googleapiclient.discovery import build
 from pydantic import BaseModel, Field
 from dotenv import load_dotenv
 import json
@@ -27,8 +32,24 @@ project_root = Path(__file__).parent.parent.parent
 sys.path.insert(0, str(project_root / 'src'))
 
 from core.RAG import VideoRAGQuery
+from processing.batch_process_videos_gdrive import VideoBatchProcessor
 
 load_dotenv('.env.local')
+
+# Google OAuth configuration
+GOOGLE_CREDENTIALS_PATH = project_root / os.getenv('GOOGLE_CREDENTIALS_PATH')
+GOOGLE_SCOPES = [
+    'https://www.googleapis.com/auth/drive.readonly',
+    'https://www.googleapis.com/auth/userinfo.email',
+    'https://www.googleapis.com/auth/userinfo.profile'
+]
+GOOGLE_REDIRECT_URI = "http://localhost:8000/auth/callback"
+
+# Store OAuth state temporarily (use Redis/DB in production)
+oauth_states: Dict[str, Flow] = {}
+
+# Store user credentials (use database in production)
+user_credentials: Dict[str, any] = {}
 
 # Initialize FastAPI app
 app = FastAPI(
@@ -60,6 +81,7 @@ class QueryRequest(BaseModel):
     question: str = Field(..., description="The question to ask about the video content")
     return_sources: bool = Field(True, description="Whether to return source references")
     session_id: Optional[str] = Field(None, description="Session ID for conversation memory. If not provided, a new session will be created.")
+    user_email: Optional[str] = Field(None, description="User email to filter results (for multi-tenant queries)")
 
 
 class SourceInfo(BaseModel):
@@ -99,7 +121,14 @@ async def root():
         "endpoints": {
             "/query": "POST - Query the video insights",
             "/health": "GET - Health check",
-            "/docs": "GET - API documentation"
+            "/docs": "GET - API documentation",
+            "/auth/google/login": "GET - Start Google OAuth flow",
+            "/auth/callback": "GET - Google OAuth callback",
+            "/drive/folders": "GET - List user's Google Drive folders",
+            "/drive/folders/{folder_id}/files": "GET - List files in a folder",
+            "/drive/files/{file_id}/download": "POST - Download a file from Google Drive",
+            "/drive/files/{file_id}/process": "POST - Process a video (transcribe + insights)",
+            "/drive/folders/{folder_id}/process": "POST - Process all videos in a folder"
         }
     }
 
@@ -109,18 +138,162 @@ async def health_check():
     """Health check endpoint."""
     if rag_system is None:
         raise HTTPException(status_code=503, detail="RAG system not initialized")
-    
+
     try:
-        # Check if vector database is accessible
-        collection = rag_system.vectorstore._collection
-        count = collection.count()
+        # Check if vector database is accessible (Qdrant)
+        client = rag_system.vectorstore.client
+        collection_info = client.get_collection("video_insights")
+        count = collection_info.points_count
         return {
             "status": "healthy",
+            "vector_db": "qdrant_cloud",
             "vector_db_documents": count,
             "rag_system_initialized": True
         }
     except Exception as e:
         raise HTTPException(status_code=503, detail=f"RAG system error: {str(e)}")
+
+
+@app.get("/auth/google/login")
+async def google_login():
+    """Start Google OAuth flow - redirects user to Google consent screen."""
+    flow = Flow.from_client_secrets_file(
+        GOOGLE_CREDENTIALS_PATH,
+        scopes=GOOGLE_SCOPES,
+        redirect_uri=GOOGLE_REDIRECT_URI
+    )
+    auth_url, state = flow.authorization_url(access_type='offline')
+
+    # Store flow for callback (keyed by state for CSRF protection)
+    oauth_states[state] = flow
+
+    return RedirectResponse(auth_url)
+
+
+@app.get("/auth/callback")
+async def google_callback(state: str, code: str):
+    """Handle Google OAuth callback - exchanges code for tokens."""
+    if state not in oauth_states:
+        raise HTTPException(status_code=400, detail="Invalid state parameter")
+
+    flow = oauth_states.pop(state)
+    flow.fetch_token(code=code)
+    creds = flow.credentials
+
+    # Get user info (email) from Google
+    from googleapiclient.discovery import build as build_service
+    oauth2_service = build_service('oauth2', 'v2', credentials=creds)
+    user_info = oauth2_service.userinfo().get().execute()
+    user_email = user_info.get('email', '')
+
+    # Use email as user_id for consistency
+    user_id = user_email if user_email else str(uuid.uuid4())
+
+    # Store credentials with user info
+    user_credentials[user_id] = {
+        "creds": creds,
+        "email": user_email,
+        "name": user_info.get('name', '')
+    }
+
+    # Redirect to frontend with user info
+    from urllib.parse import urlencode
+    params = urlencode({
+        "user_id": user_id,
+        "email": user_email,
+        "name": user_info.get('name', '')
+    })
+    # Redirect to frontend (port 3000 in dev, or same origin in production)
+    frontend_url = os.getenv('FRONTEND_URL', 'http://localhost:3000')
+    return RedirectResponse(f"{frontend_url}/?{params}")
+
+
+def get_user_creds(user_id: str):
+    """Helper to get user credentials and email."""
+    if user_id not in user_credentials:
+        raise HTTPException(status_code=401, detail="Not authenticated. Please login via /auth/google/login")
+    user_data = user_credentials[user_id]
+    return user_data["creds"], user_data.get("email", user_id)
+
+
+@app.get("/drive/folders")
+async def list_drive_files(user_id: str):
+    """List folders from user's Google Drive."""
+    creds, _ = get_user_creds(user_id)
+    results = VideoBatchProcessor(creds=creds)._list_folders()
+
+    return {
+        "folders": results.get('files', [])
+    }
+
+
+@app.get("/drive/folders/{folder_id}/files")
+async def list_folder_files(folder_id: str, user_id: str):
+    """List all files in a specific Google Drive folder."""
+    creds, _ = get_user_creds(user_id)
+    results = VideoBatchProcessor(creds=creds)._list_files_in_folder(folder_id)
+
+    return {
+        "folder_id": folder_id,
+        "files": results.get('files', [])
+    }
+
+
+@app.post("/drive/files/{file_id}/download")
+async def download_drive_file(file_id: str, user_id: str, file_name: str):
+    """Download a file from Google Drive."""
+    creds, _ = get_user_creds(user_id)
+    processor = VideoBatchProcessor(creds=creds)
+
+    try:
+        local_path = processor.download_file(file_id=file_id, file_name=file_name)
+        return {
+            "status": "downloaded",
+            "file_id": file_id,
+            "file_name": file_name,
+            "local_path": local_path
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Download failed: {str(e)}")
+
+
+@app.post("/drive/files/{file_id}/process")
+async def process_drive_file(file_id: str, user_id: str, file_name: str):
+    """Process a video file: download, transcribe, extract insights, save, and embed."""
+    creds, user_email = get_user_creds(user_id)
+    processor = VideoBatchProcessor(creds=creds, user_email=user_email)
+
+    try:
+        result = processor.process_video(file_id=file_id, file_name=file_name)
+        return {
+            "status": "processed_and_embedded",
+            "user_email": user_email,
+            "file_id": file_id,
+            "file_name": file_name,
+            "insights": result
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Processing failed: {str(e)}")
+
+
+@app.post("/drive/folders/{folder_id}/process")
+async def process_drive_folder(folder_id: str, user_id: str):
+    """Process all video files in a Google Drive folder and embed them."""
+    creds, user_email = get_user_creds(user_id)
+    processor = VideoBatchProcessor(creds=creds, user_email=user_email)
+
+    try:
+        results = processor.process_folder(folder_id=folder_id)
+        return {
+            "status": "completed",
+            "user_email": user_email,
+            "folder_id": folder_id,
+            "processed": len([r for r in results if r["status"] == "success"]),
+            "failed": len([r for r in results if r["status"] == "error"]),
+            "results": results
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Folder processing failed: {str(e)}")
 
 
 @app.post("/query/stream")
@@ -156,8 +329,10 @@ async def query_videos_stream(request: QueryRequest):
         try:
             logger.info(f"🔍 [STREAM] Query: {request.question[:100]}...")
             logger.info(f"📤 [STREAM] Passing {len(history)} history messages to RAG system")
+            if request.user_email:
+                logger.info(f"🔐 [STREAM] Filtering by user: {request.user_email}")
             full_answer = ""
-            for chunk in rag_system.query_stream(request.question, conversation_history=history):
+            for chunk in rag_system.query_stream(request.question, conversation_history=history, user_email=request.user_email):
                 try:
                     if chunk["type"] == "content":
                         content = chunk.get("content", "")
@@ -307,10 +482,13 @@ async def query_videos(request: QueryRequest):
         try:
             logger.info(f"🔍 [QUERY] Query: {request.question[:100]}...")
             logger.info(f"📤 [QUERY] Passing {len(history)} history messages to RAG system")
+            if request.user_email:
+                logger.info(f"🔐 [QUERY] Filtering by user: {request.user_email}")
             response = rag_system.query(
                 question=request.question,
                 return_sources=request.return_sources,
-                conversation_history=history
+                conversation_history=history,
+                user_email=request.user_email
             )
             
             # Validate response structure
@@ -415,14 +593,16 @@ async def get_stats():
     """Get statistics about the vector database."""
     if rag_system is None:
         raise HTTPException(status_code=503, detail="RAG system not initialized")
-    
+
     try:
-        collection = rag_system.vectorstore._collection
-        count = collection.count()
-        
+        client = rag_system.vectorstore.client
+        collection_info = client.get_collection("video_insights")
+        count = collection_info.points_count
+
         return {
             "total_documents": count,
-            "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+            "vector_db": "qdrant_cloud",
+            "embedding_model": "text-embedding-3-large",
             "llm_model": "gpt-4o",
             "reranking_enabled": rag_system.reranker is not None,
             "active_conversations": len(conversation_history)

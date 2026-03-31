@@ -1,6 +1,18 @@
-# Video GPT - Video Insights RAG System
+# VideoGPT - Video Insights RAG System
 
-Azure Video Indexer integration for video analysis and RAG (Retrieval-Augmented Generation) pipeline.
+AI-powered video analysis platform with Google Drive integration, Qdrant Cloud vector storage, and a modern dark futuristic UI.
+
+## Features
+
+- **Google Drive Integration** - Process videos directly from your Google Drive
+- **AI Transcription** - Automatic transcription using Azure Video Indexer
+- **Semantic Search** - Qdrant Cloud vector database for fast similarity search
+- **RAG Pipeline** - GPT-4o powered answers with context from your videos
+- **Re-ranking** - BAAI/bge-reranker-large for improved relevance
+- **Streaming Responses** - Real-time streaming answers via SSE
+- **Conversation Memory** - Multi-turn conversations with context
+- **Multi-tenant** - User-specific video filtering via email
+- **Modern UI** - Dark futuristic interface with glassmorphism effects
 
 ## Project Structure
 
@@ -8,102 +20,101 @@ Azure Video Indexer integration for video analysis and RAG (Retrieval-Augmented 
 video_gpt/
 ├── src/
 │   ├── core/
-│   │   ├── azure_video_indexer.py    # Azure Video Indexer client
-│   │   └── rag_query.py              # RAG query system
+│   │   ├── RAG.py                         # Main RAG query system (Qdrant)
+│   │   ├── rag_query.py                   # Legacy CLI query tool
+│   │   └── azure_video_indexer.py         # Azure Video Indexer client
 │   ├── processing/
-│   │   ├── batch_process_videos.py   # Batch video processing
-│   │   └── embed_insights.py         # Embedding script
+│   │   ├── batch_process_videos_gdrive.py # Google Drive batch processor
+│   │   └── embedding_qdrant.py            # Qdrant Cloud embedding pipeline
 │   └── api/
-│       └── router.py                 # FastAPI router
+│       └── router.py                      # FastAPI server with OAuth
+├── frontend/
+│   ├── src/
+│   │   ├── App.jsx                        # Main app component
+│   │   ├── components/                    # React components
+│   │   └── *.css                          # Dark futuristic styles
+│   ├── package.json
+│   └── vite.config.js
 ├── tests/
-│   ├── test_rag.py                   # RAG system tests
-│   └── test_embeddings.py            # Embedding tests
+│   └── test_rag.py                        # RAG system tests
 ├── data/
-│   ├── results/                      # Video insights JSON files
-│   ├── vector_db/                   # ChromaDB vector database
-│   ├── batch_progress.json           # Batch processing progress
-│   └── embedding_progress.json      # Embedding progress
+│   └── results/                           # Video insights JSON files
 ├── requirements.txt
 └── README.md
 ```
 
+## Prerequisites
+
+- Python 3.10+
+- Node.js 18+
+- OpenAI API key
+- Qdrant Cloud account
+- Google Cloud project with OAuth credentials
+- Azure Video Indexer account (for video processing)
+
 ## Setup
 
-1. Install dependencies:
+### 1. Install Python Dependencies
+
 ```bash
 pip install -r requirements.txt
 ```
 
-2. Create `.env.local` file with your credentials:
-```env
-AZURE_VIDEO_INDEXER_API_KEY=your_key_here
-DROPBOX_ACCESS_TOKEN=your_token_here
-DROPBOX_FOLDER_PATH=/Onprintshop videos
-OPENAI_API_KEY=your_openai_key_here
+### 2. Install Frontend Dependencies
+
+```bash
+cd frontend
+npm install
 ```
+
+### 3. Configure Environment Variables
+
+Create `.env.local` in the project root:
+
+```env
+# OpenAI
+OPENAI_API_KEY=sk-...
+
+# Qdrant Cloud
+QDRANT_ENDPOINT=https://your-cluster.qdrant.io
+QDRANT_API_KEY=your_qdrant_api_key
+
+# Google OAuth (download credentials JSON from Google Cloud Console)
+GOOGLE_CREDENTIALS_PATH=credentials/google_oauth_credentials.json
+
+# Azure Video Indexer
+AZURE_VIDEO_INDEXER_ACCOUNT_ID=your_account_id
+AZURE_VIDEO_INDEXER_API_KEY=your_api_key
+AZURE_VIDEO_INDEXER_LOCATION=trial
+
+# Frontend URL (for OAuth redirect)
+FRONTEND_URL=http://localhost:3000
+```
+
+### 4. Set Up Google OAuth
+
+1. Go to [Google Cloud Console](https://console.cloud.google.com/)
+2. Create a new project or select existing
+3. Enable Google Drive API
+4. Create OAuth 2.0 credentials (Web application)
+5. Add authorized redirect URI: `http://localhost:8000/auth/callback`
+6. Download credentials JSON and save to path specified in `GOOGLE_CREDENTIALS_PATH`
+
+### 5. Set Up Qdrant Cloud
+
+1. Create account at [Qdrant Cloud](https://cloud.qdrant.io/)
+2. Create a new cluster
+3. Copy the endpoint URL and API key to `.env.local`
 
 ## Usage
 
-### 1. Process Files (Batch)
-
-Process videos and text files from Dropbox (recursively including subfolders) and extract insights:
-
-```bash
-python src/processing/batch_process_videos.py
-```
-
-**Features:**
-- Traverses all subfolders recursively
-- Processes both video files (.mp4, .avi, .mov, etc.) and text files (.txt)
-- Automatically embeds processed files to vector database
-- Videos are indexed with Azure Video Indexer
-- Text files are converted to the same format and embedded directly
-
-**Configuration:**
-Edit the script to adjust:
-- `START_INDEX`: Starting file index (0-based)
-- `VIDEO_COUNT`: Number of files to process (None = all remaining)
-- `auto_embed`: Set to `False` in `VideoBatchProcessor(auto_embed=False)` to disable auto-embedding
-
-### 2. Embed Insights
-
-Embed the extracted insights for RAG. The repository includes `data/results/` but not the generated `chroma_index/`. You need to regenerate it:
-
-**Option A: Using OpenAI embeddings (for API/RAG.py):**
-```bash
-python src/processing/embedding_chroma.py
-```
-This creates `chroma_index/` used by the API server.
-
-**Option B: Using HuggingFace embeddings (for CLI/rag_query.py):**
-```bash
-python src/processing/embed_insights.py
-```
-This creates `data/vector_db/` used by the CLI query tool.
-
-### 3. Query RAG System (CLI)
-
-Query the video insights interactively:
-
-```bash
-python src/core/rag_query.py
-```
-
-Or query from command line:
-
-```bash
-python src/core/rag_query.py "What is OnPrintShop?"
-```
-
-### 4. API Server
-
-Start the FastAPI server:
+### Start the Backend API
 
 ```bash
 python src/api/router.py
 ```
 
-Or using uvicorn directly:
+Or with uvicorn:
 
 ```bash
 uvicorn src.api.router:app --host 0.0.0.0 --port 8000 --reload
@@ -114,87 +125,173 @@ The API will be available at:
 - Docs: http://localhost:8000/docs
 - Health: http://localhost:8000/health
 
-### API Endpoints
+### Start the Frontend
 
-#### POST `/query`
-Query the video insights.
+```bash
+cd frontend
+npm run dev
+```
 
-**Request:**
+Frontend available at: http://localhost:3000
+
+### Embed Video Insights
+
+If you have JSON insight files in `data/results/`, embed them to Qdrant:
+
+```bash
+python src/processing/embedding_qdrant.py
+```
+
+## API Endpoints
+
+### Authentication
+
+| Endpoint | Method | Description |
+|----------|--------|-------------|
+| `/auth/google/login` | GET | Start Google OAuth flow |
+| `/auth/callback` | GET | OAuth callback handler |
+
+### Queries
+
+| Endpoint | Method | Description |
+|----------|--------|-------------|
+| `/query` | POST | Query videos (non-streaming) |
+| `/query/stream` | POST | Query videos (SSE streaming) |
+| `/conversation/clear` | POST | Clear conversation history |
+
+### Google Drive
+
+| Endpoint | Method | Description |
+|----------|--------|-------------|
+| `/drive/folders` | GET | List user's Drive folders |
+| `/drive/folders/{id}/files` | GET | List files in folder |
+| `/drive/files/{id}/process` | POST | Process a video file |
+| `/drive/folders/{id}/process` | POST | Process all videos in folder |
+
+### System
+
+| Endpoint | Method | Description |
+|----------|--------|-------------|
+| `/health` | GET | Health check + document count |
+| `/stats` | GET | Vector database statistics |
+
+### Query Request Example
+
 ```json
 {
-  "question": "What is OnPrintShop?",
-  "return_sources": true
+  "question": "What is the onboarding process?",
+  "return_sources": true,
+  "session_id": "optional-session-id",
+  "user_email": "user@example.com"
 }
 ```
 
-**Response:**
+### Query Response Example
+
 ```json
 {
-  "answer": "...",
-  "question": "What is OnPrintShop?",
+  "answer": "The onboarding process involves...",
+  "question": "What is the onboarding process?",
   "sources": [
     {
-      "video_name": "Video Name",
+      "video_name": "Onboarding Tutorial",
       "video_id": "abc123",
       "content_type": "transcript",
-      "source_file": "Video Name.mp4"
+      "source_file": "onboarding.mp4"
     }
   ]
 }
 ```
 
-#### GET `/health`
-Check API health and vector database status.
-
-#### GET `/stats`
-Get statistics about the vector database.
-
-## Features
-
-- Upload videos from Dropbox
-- Extract transcripts, keywords, labels, and summaries
-- Embed video insights for semantic search
-- RAG pipeline with OpenAI GPT-4o
-- Re-ranking for better relevance
-- FastAPI REST API
-- Resume capability for batch processing
-
 ## Frontend
 
-The VideoGPT frontend is a ChatGPT-like interface for querying video insights.
+The VideoGPT frontend features a modern dark futuristic design:
 
-### Setup
+### Design Elements
 
-1. Navigate to frontend directory:
-```bash
-cd frontend
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Start development server:
-```bash
-npm run dev
-```
-
-The frontend will be available at `http://localhost:3000`
+- **Color Scheme**: Cyan (#00d4ff) and purple (#a855f7) on deep dark backgrounds
+- **Effects**: Glassmorphism, neon glows, animated gradients
+- **Typography**: Inter font with gradient text effects
+- **Animations**: Smooth transitions, hover effects, pulsing elements
 
 ### Features
 
-- 🎨 Modern ChatGPT-inspired UI
-- ⚡ Real-time streaming responses
-- 📱 Responsive design
-- 🎯 Source references display
-- 🚀 Fast and lightweight
+- Google OAuth login
+- Real-time streaming responses
+- Conversation memory (session-based)
+- Source citations with video references
+- Google Drive file browser
+- Video processing status tracking
+- Responsive design
 
 ## Testing
 
-Run tests:
+Run the test suite:
 
 ```bash
+# Check setup and run basic query test
 python tests/test_rag.py
-python tests/test_embeddings.py
+
+# Run specific tests
+python tests/test_rag.py --setup      # Check environment
+python tests/test_rag.py --connection # Test Qdrant connection
+python tests/test_rag.py --query      # Test RAG query
+python tests/test_rag.py --stream     # Test streaming
+python tests/test_rag.py --history    # Test conversation history
+
+# Run all tests
+python tests/test_rag.py --all
 ```
+
+## Architecture
+
+```
+┌─────────────┐     ┌─────────────┐     ┌─────────────────┐
+│   Frontend  │────▶│  FastAPI    │────▶│  Qdrant Cloud   │
+│   (React)   │◀────│  Backend    │◀────│  Vector Store   │
+└─────────────┘     └──────┬──────┘     └─────────────────┘
+                           │
+                    ┌──────┴──────┐
+                    │             │
+              ┌─────▼─────┐ ┌─────▼─────┐
+              │  OpenAI   │ │  Google   │
+              │  GPT-4o   │ │  Drive    │
+              └───────────┘ └───────────┘
+```
+
+### RAG Pipeline
+
+1. **Query Enhancement** - GPT-4o-mini expands acronyms and adds synonyms
+2. **Vector Search** - Retrieve top 50 candidates from Qdrant
+3. **Re-ranking** - BAAI/bge-reranker-large scores relevance
+4. **Windowing** - Expand context around top 12 chunks (±3500 chars)
+5. **Answer Generation** - GPT-4o generates answer from context
+6. **Streaming** - Response streamed via Server-Sent Events
+
+## Tech Stack
+
+**Backend:**
+- FastAPI
+- LangChain
+- OpenAI GPT-4o / GPT-4o-mini
+- Qdrant Cloud
+- BAAI/bge-reranker-large
+- Google OAuth 2.0
+
+**Frontend:**
+- React 19
+- Vite 7
+- react-markdown
+- CSS (custom dark futuristic theme)
+
+## Security Notes
+
+- Never commit `.env.local` to version control
+- Store Google OAuth credentials securely
+- Use environment variables for all secrets
+- In production, restrict CORS origins
+- Use HTTPS in production
+
+## License
+
+MIT

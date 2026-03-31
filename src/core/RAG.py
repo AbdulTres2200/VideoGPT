@@ -1,6 +1,7 @@
-from langchain_community.vectorstores import Chroma
+from langchain_community.vectorstores import Qdrant
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_core.documents import Document
+from qdrant_client import QdrantClient
 from dotenv import load_dotenv
 import os
 from sentence_transformers import CrossEncoder
@@ -243,9 +244,9 @@ ENHANCED QUERY:"""
 
 
 def get_windowed_chunks(
-    chunks: List[Document], 
+    chunks: List[Document],
     scores: List[float],
-    vectorstore: Chroma,  # Type hint for vectorstore
+    vectorstore,  # Qdrant vectorstore instance
     window_size_chars: int = 3500,  # ±3500 chars (≈4-5 chunks of 800) - increased for better coverage
     min_window_gap: int = 500,      # Minimum gap to create separate windows
     max_total_chunks: int = 30      # Safety limit (increased to accommodate more windows)
@@ -253,15 +254,15 @@ def get_windowed_chunks(
     """
     Get chunks in windows around top reranked chunks for focused, complete context.
     This ensures step completeness while reducing context size.
-    
+
     Args:
         chunks: Retrieved chunks after reranking
         scores: Reranking scores for chunks
-        vectorstore: ChromaDB vectorstore instance
-        window_size_chars: Window size in characters around each chunk (default: 2100)
+        vectorstore: Qdrant vectorstore instance
+        window_size_chars: Window size in characters around each chunk (default: 3500)
         min_window_gap: Minimum gap between windows to keep them separate (default: 500)
-        max_total_chunks: Maximum total chunks to retrieve (default: 25)
-    
+        max_total_chunks: Maximum total chunks to retrieve (default: 30)
+
     Returns:
         List of chunks within windows, sorted by position
     """
@@ -329,45 +330,87 @@ def get_windowed_chunks(
         
         # 5. Retrieve chunks within merged windows
         file_windowed_chunks = []
-        
+
         try:
-            # Get all chunks from this file
-            results = vectorstore._collection.get(
-                where={"file": file_path}
-            )
-            
-            if results and len(results.get('ids', [])) > 0:
-                # Build list of all chunks with positions
-                all_file_chunks = []
-                for i in range(len(results['ids'])):
-                    chunk_doc = Document(
-                        page_content=results['documents'][i],
-                        metadata=results['metadatas'][i]
+            # Get all chunks from this file using Qdrant's scroll API
+            from qdrant_client.models import Filter, FieldCondition, MatchValue
+
+            client = vectorstore.client
+            collection_name = vectorstore.collection_name
+
+            # Create filter for file path
+            file_filter = Filter(
+                must=[
+                    FieldCondition(
+                        key="metadata.file",
+                        match=MatchValue(value=file_path)
                     )
-                    start_idx = results['metadatas'][i].get('start_index', 0)
+                ]
+            )
+
+            # Scroll through all points matching the file
+            all_file_chunks = []
+            scroll_result = client.scroll(
+                collection_name=collection_name,
+                scroll_filter=file_filter,
+                limit=1000,  # Get up to 1000 chunks per file
+                with_payload=True,
+                with_vectors=False
+            )
+
+            points = scroll_result[0]  # First element is the list of points
+
+            if points and len(points) > 0:
+                # Build list of all chunks with positions
+                # Use point.id as fallback position when start_index is missing
+                for idx, point in enumerate(points):
+                    payload = point.payload
+                    metadata = payload.get('metadata', {})
+                    page_content = payload.get('page_content', '')
+
+                    chunk_doc = Document(
+                        page_content=page_content,
+                        metadata=metadata
+                    )
+                    # Use start_index if available, otherwise use point index * 100 as fallback
+                    start_idx = metadata.get('start_index')
+                    if start_idx is None:
+                        start_idx = idx * 100  # Fallback position for chunks without start_index
                     all_file_chunks.append((start_idx, chunk_doc))
-                
+
                 # Sort by position
                 all_file_chunks.sort(key=lambda x: x[0])
-                
-                # Get chunks within each window
-                for window in merged_windows:
-                    window_chunks = [
-                        (pos, chunk) for pos, chunk in all_file_chunks
-                        if window['start'] <= pos <= window['end']
-                    ]
-                    file_windowed_chunks.extend(window_chunks)
-                    
-                    print(f"     Window [{window['start']}-{window['end']}]: {len(window_chunks)} chunks")
-                
+
+                # Check if we have real positions or fallback positions
+                has_real_positions = any(
+                    chunk.metadata.get('start_index') is not None
+                    for _, chunk in all_file_chunks
+                )
+
+                if has_real_positions:
+                    # Get chunks within each window (normal windowing)
+                    for window in merged_windows:
+                        window_chunks = [
+                            (pos, chunk) for pos, chunk in all_file_chunks
+                            if window['start'] <= pos <= window['end']
+                        ]
+                        file_windowed_chunks.extend(window_chunks)
+                        print(f"     Window [{window['start']}-{window['end']}]: {len(window_chunks)} chunks")
+                else:
+                    # No real positions - include all chunks from file
+                    file_windowed_chunks = all_file_chunks
+                    print(f"     ⚠️  No start_index metadata - including all {len(all_file_chunks)} chunks from file")
+
                 # Remove duplicates (chunks might be in multiple windows)
-                seen_positions = set()
+                # Use content hash for deduplication when positions are fallbacks
+                seen_content = set()
                 unique_chunks = []
                 for pos, chunk in file_windowed_chunks:
-                    if pos not in seen_positions:
-                        seen_positions.add(pos)
+                    content_hash = hash(chunk.page_content[:200])  # Hash first 200 chars
+                    if content_hash not in seen_content:
+                        seen_content.add(content_hash)
                         unique_chunks.append(chunk)
-                
+
                 # Filter out chunks that are mostly whitespace or have very low content
                 filtered_chunks = []
                 for chunk in unique_chunks:
@@ -384,10 +427,10 @@ def get_windowed_chunks(
                     if non_whitespace < 30:  # Less than 30 non-whitespace chars
                         continue
                     filtered_chunks.append(chunk)
-                
+
                 if len(filtered_chunks) < len(unique_chunks):
                     print(f"     ⚠️  Filtered out {len(unique_chunks) - len(filtered_chunks)} empty/low-content chunks")
-                
+
                 all_windowed_chunks.extend(filtered_chunks)
                 print(f"     ✅ Total unique chunks: {len(filtered_chunks)}")
             else:
@@ -634,18 +677,28 @@ def generate_answer(query: str, chunks: List[Document], llm, conversation_histor
     return "I apologize, but I encountered an error generating the answer. Please try again."
 
 
-def vector_store(index_path: str = "chroma_index", collection_name: str = "langchain_onprintshop_chroma"):
+def vector_store(collection_name: str = "video_insights"):
+    """Initialize Qdrant Cloud vector store."""
     embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
-    vectorstore = Chroma(
-    persist_directory=index_path,
-    embedding_function=embeddings,
-    collection_name=collection_name
+
+    qdrant_endpoint = os.getenv('QDRANT_ENDPOINT')
+    qdrant_api_key = os.getenv('QDRANT_API_KEY')
+
+    client = QdrantClient(
+        url=qdrant_endpoint,
+        api_key=qdrant_api_key
+    )
+
+    vectorstore = Qdrant(
+        client=client,
+        collection_name=collection_name,
+        embeddings=embeddings
     )
     return vectorstore
 
 def query_vector_store(
     query: str,
-    vectorstore: Chroma,  # Pass vectorstore as parameter instead of creating new one
+    vectorstore,  # Pass vectorstore as parameter (Qdrant)
     initial_k: int = 50,  # How many to retrieve initially
     final_k: int = 12,     # Number of top chunks to create windows around (increased from 8)
     use_reranking: bool = True,
@@ -653,18 +706,20 @@ def query_vector_store(
     generate_answer_flag: bool = True,  # Enable answer generation
     window_size_chars: int = 3500,  # Window size around chunks (increased from 2100 to ±3500 chars ≈4-5 chunks)
     max_total_chunks: int = 30,  # Maximum total chunks (increased from 25 to accommodate more windows)
-    conversation_history: Optional[List[Dict[str, str]]] = None  # Conversation history for enhancement and answer generation
+    conversation_history: Optional[List[Dict[str, str]]] = None,  # Conversation history for enhancement and answer generation
+    user_email: Optional[str] = None  # Filter by user email for multi-tenant queries
 ):
     """
     Universal RAG query with reranking and query enhancement.
-    
+
     Args:
         query: User's question
-        vectorstore: ChromaDB vectorstore instance to use for retrieval
+        vectorstore: Qdrant vectorstore instance to use for retrieval
         initial_k: Number of candidates to retrieve initially (default: 50)
         final_k: Final number of chunks after reranking (default: 8)
         use_reranking: Whether to use reranking (default: True)
         enhance_query_flag: Whether to enhance query with LLM (default: True)
+        user_email: Optional email to filter results for specific user
     """
     print("=" * 80)
     print("🚀 STARTING RAG QUERY WITH RERANKING")
@@ -697,19 +752,41 @@ def query_vector_store(
     else:
         print("(Query enhancement disabled)\n")
     
-    # Use provided vectorstore
-    doc_count = vectorstore._collection.count()
+    # Use provided vectorstore (Qdrant)
+    try:
+        client = vectorstore.client
+        collection_info = client.get_collection("video_insights")
+        doc_count = collection_info.points_count
+    except:
+        doc_count = "N/A"
     print(f"📊 Vector Store: {doc_count} documents loaded\n")
-    
+
     # ============================================================================
     # STEP 1: INITIAL RETRIEVAL (Broad Search)
     # ============================================================================
     print("-" * 80)
     print("STEP 1: INITIAL RETRIEVAL (Broad Similarity Search)")
     print("-" * 80)
-    print(f"🔍 Retrieving top {initial_k} candidates using similarity search...")
-    
-    candidates_with_scores = vectorstore.similarity_search_with_score(query, k=initial_k)
+
+    # Build filter for user_email if provided
+    if user_email:
+        print(f"🔐 Filtering by user: {user_email}")
+        from qdrant_client.models import Filter, FieldCondition, MatchValue
+        search_filter = Filter(
+            must=[
+                FieldCondition(
+                    key="metadata.user_email",
+                    match=MatchValue(value=user_email)
+                )
+            ]
+        )
+        print(f"🔍 Retrieving top {initial_k} candidates for user {user_email}...")
+        candidates_with_scores = vectorstore.similarity_search_with_score(
+            query, k=initial_k, filter=search_filter
+        )
+    else:
+        print(f"🔍 Retrieving top {initial_k} candidates (all users)...")
+        candidates_with_scores = vectorstore.similarity_search_with_score(query, k=initial_k)
     
     print(f"✅ Retrieved {len(candidates_with_scores)} candidates\n")
     print("Top 10 candidates (before reranking):")
@@ -875,11 +952,8 @@ class VideoRAGQuery:
     """Wrapper class for RAG query system compatible with router.py interface."""
     
     def __init__(self):
-        """Initialize the RAG system."""
-        self.vectorstore = vector_store(
-            index_path="chroma_index", 
-            collection_name="langchain_onprintshop_chroma"
-        )
+        """Initialize the RAG system with Qdrant Cloud."""
+        self.vectorstore = vector_store(collection_name="video_insights")
         self.video_filename_map = self._load_video_filename_map()
         self.reranker = reranker  # Expose reranker for stats endpoint
     
@@ -985,21 +1059,22 @@ class VideoRAGQuery:
         # This keeps retrieval focused but allows enhancement to add context
         return question
     
-    def query(self, question: str, return_sources: bool = True, conversation_history: Optional[List[Dict[str, str]]] = None) -> Dict:
+    def query(self, question: str, return_sources: bool = True, conversation_history: Optional[List[Dict[str, str]]] = None, user_email: Optional[str] = None) -> Dict:
         """
         Query the RAG system and return answer with sources.
-        
+
         Args:
             question: User's current question
             return_sources: Whether to return source references
             conversation_history: Optional conversation history for context (passed to LLM, not retrieval)
-        
+            user_email: Optional email to filter results for specific user
+
         Returns:
             Dictionary with 'answer', 'question', and optionally 'sources'
         """
         # Use ONLY the current question for retrieval (enhancement will use history to resolve references)
         clean_question = self._build_query_with_history(question, conversation_history)
-        
+
         # Query the vector store - pass history for both enhancement and answer generation
         results = query_vector_store(
             query=clean_question,  # Question for retrieval (enhancement will use history)
@@ -1009,6 +1084,7 @@ class VideoRAGQuery:
             use_reranking=True,
             enhance_query_flag=True,
             generate_answer_flag=True,
+            user_email=user_email,  # Filter by user email
             window_size_chars=3500,
             max_total_chunks=30,
             conversation_history=conversation_history  # Pass history for enhancement AND answer generation
@@ -1025,20 +1101,21 @@ class VideoRAGQuery:
             'sources': sources
         }
     
-    def query_stream(self, question: str, conversation_history: Optional[List[Dict[str, str]]] = None):
+    def query_stream(self, question: str, conversation_history: Optional[List[Dict[str, str]]] = None, user_email: Optional[str] = None):
         """
         Stream query response from the RAG system.
-        
+
         Args:
             question: User's current question
             conversation_history: Optional conversation history for context (passed to LLM, not retrieval)
-        
+            user_email: Optional email to filter results for specific user
+
         Yields:
             Dictionary chunks with 'type' field ('content', 'sources', 'done')
         """
         # Use ONLY the current question for retrieval (enhancement will use history to resolve references)
         clean_question = self._build_query_with_history(question, conversation_history)
-        
+
         # Query the vector store - pass history for both enhancement and answer generation
         results = query_vector_store(
             query=clean_question,  # Question for retrieval (enhancement will use history)
@@ -1050,7 +1127,8 @@ class VideoRAGQuery:
             generate_answer_flag=True,
             window_size_chars=3500,
             max_total_chunks=30,
-            conversation_history=conversation_history  # Pass history for enhancement AND answer generation
+            conversation_history=conversation_history,  # Pass history for enhancement AND answer generation
+            user_email=user_email  # Filter by user email
         )
         
         answer = results.get('answer', '')

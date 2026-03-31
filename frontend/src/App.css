@@ -4,7 +4,22 @@
   height: 100vh;
   max-width: 100%;
   margin: 0 auto;
-  background-color: var(--bg-secondary);
+  background: var(--gradient-bg);
+  position: relative;
+}
+
+/* Subtle ambient glow */
+.app::before {
+  content: '';
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle at 30% 20%, rgba(0, 212, 255, 0.05) 0%, transparent 40%),
+              radial-gradient(circle at 70% 80%, rgba(168, 85, 247, 0.05) 0%, transparent 40%);
+  pointer-events: none;
+  z-index: 0;
 }
 
 .chat-container {
@@ -13,6 +28,8 @@
   padding: 1rem;
   display: flex;
   flex-direction: column;
+  position: relative;
+  z-index: 1;
 }
 
 .welcome-screen {
@@ -32,48 +49,141 @@
   margin-bottom: 1.5rem;
   display: flex;
   justify-content: center;
+  position: relative;
+}
+
+.logo-large::after {
+  content: '';
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background: var(--gradient-primary);
+  filter: blur(40px);
+  opacity: 0.4;
+  border-radius: 50%;
+  z-index: -1;
 }
 
 .welcome-content h1 {
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-weight: 700;
-  background: linear-gradient(135deg, var(--primary-color), #8b5cf6);
+  background: var(--gradient-primary);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
   margin-bottom: 0.5rem;
+  text-shadow: 0 0 40px rgba(0, 212, 255, 0.3);
 }
 
-.welcome-content p {
-  font-size: 1.25rem;
+.welcome-content > p {
+  font-size: 1.1rem;
   color: var(--text-secondary);
-  margin-bottom: 2rem;
+  margin-bottom: 2.5rem;
 }
 
-.example-questions {
+/* Quick Actions */
+.quick-actions {
   display: flex;
   flex-direction: column;
   gap: 0.75rem;
-  margin-top: 2rem;
+  margin-bottom: 2.5rem;
 }
 
-.example-questions button {
-  padding: 0.75rem 1.5rem;
-  background: var(--bg-color);
+.action-btn {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.25rem 1.5rem;
+  background: var(--gradient-card);
+  backdrop-filter: blur(10px);
   border: 1px solid var(--border-color);
-  border-radius: 0.5rem;
+  border-radius: 16px;
   cursor: pointer;
-  transition: all 0.2s;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   text-align: left;
-  font-size: 0.95rem;
+  color: var(--text-primary);
+  position: relative;
+  overflow: hidden;
+}
+
+.action-btn::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: var(--gradient-primary);
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.action-btn:hover {
+  border-color: var(--primary-color);
+  transform: translateY(-3px);
+  box-shadow: var(--glow-primary);
+}
+
+.action-btn:hover::before {
+  opacity: 0.1;
+}
+
+.action-icon {
+  font-size: 1.75rem;
+  position: relative;
+  z-index: 1;
+}
+
+.action-text {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  z-index: 1;
+}
+
+.action-text strong {
+  font-size: 1rem;
+  font-weight: 600;
   color: var(--text-primary);
 }
 
+.action-text small {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+/* Example Questions */
+.example-questions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.examples-label {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-bottom: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.example-questions button {
+  padding: 0.875rem 1.25rem;
+  background: var(--bg-glass);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  text-align: left;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
 .example-questions button:hover {
-  background: var(--message-user-bg);
-  border-color: var(--primary-light);
-  transform: translateY(-1px);
-  box-shadow: var(--shadow);
+  background: var(--hover-color);
+  border-color: var(--primary-color);
+  color: var(--primary-color);
+  transform: translateX(8px);
+  box-shadow: var(--glow-primary);
 }
 
 .messages {
@@ -85,11 +195,15 @@
 
 @media (min-width: 768px) {
   .app {
-    max-width: 768px;
+    max-width: 900px;
   }
-  
+
   .chat-container {
     padding: 2rem;
+  }
+
+  .welcome-content h1 {
+    font-size: 3rem;
   }
 }
 
@@ -98,4 +212,3 @@
     max-width: 1024px;
   }
 }
-

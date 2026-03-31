@@ -22,3 +22,13 @@ fastapi>=0.104.0
 uvicorn[standard]>=0.24.0
 pydantic>=2.0.0
 
+# Google Drive Dependencies
+google-api-python-client>=2.0.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.1.0
+
+# Video Transcription
+faster-whisper>=1.0.0
+
+# Vector Database
+qdrant-client>=1.7.0

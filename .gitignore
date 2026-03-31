@@ -1,4 +1,8 @@
+# Environment
 .env.local
+.env
+
+# Python
 __pycache__/
 *.pyc
 *.pyo
@@ -24,36 +28,39 @@ frontend/node_modules/
 .idea/
 .vscode/
 
-# Data files - large binary files and generated data
+# Credentials (never commit)
+credentials/
+*.pickle
+token.pickle
+
+# Data files - downloads and temporary
+data/downloads/
 data/vector_db/
-# data/results/ - Keep in git so users can regenerate chroma_index locally
 data/batch_progress.json
 data/embedding_progress.json
 data/embedded_files.txt
-data/all_dropbox_files.json
-data/all_dropbox_files.txt
+data/all_dropbox_files.*
 data/missing_indexes.json
+data/results
 
-# Generated vector database - users will regenerate this from data/results/
+# Old vector databases (now using Qdrant Cloud)
 chroma_index/
 
 # Temporary files
 ~$*
 *.tmp
+*.log
 
-# Large media files - exclude videos and large documents
+# Large media files
 *.mp4
 *.avi
 *.mov
 *.mkv
 *.wmv
 *.flv
-*.docx
-*.doc
-*.xlsx
-*.xls
-*.pptx
-*.ppt
+*.webm
+*.m4v
 
-# Note: chroma_index/ is excluded - users should regenerate it from data/results/
-# Run: python src/processing/embedding_chroma.py
+# Note: data/results/ contains processed video insights JSON
+# These are kept in git for reference but can be regenerated
+# Embeddings are now stored in Qdrant Cloud (not local)
